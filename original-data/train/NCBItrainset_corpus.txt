@@ -3246,7 +3246,7 @@
 10923035	187	223	autosomal dominant epilepsy syndrome	DiseaseClass	D030342+D004827
 10923035	476	502	neurological abnormalities	DiseaseClass	D009461
 10923035	519	523	BFIC	SpecificDisease	D020936
-10923035	711	761	generalized epilepsy and febrile seizures   plus  	SpecificDisease	D004829+D003294
+10923035	711	761	generalized epilepsy and febrile seizures " plus "  	SpecificDisease	D004829+D003294
 10923035	857	861	BFIC	SpecificDisease	D020936
 10923035	947	951	BFIC	SpecificDisease	D020936
 10923035	1035	1039	BFIC	Modifier	D020936
