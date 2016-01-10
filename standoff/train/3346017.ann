@@ -1,0 +1,8 @@
+T1	SpecificDisease 22 49	Duchenne muscular dystrophy
+N1	Reference T1 MeSH:D020388
+T2	Modifier 72 99	Duchenne muscular dystrophy
+N2	Reference T2 MeSH:D020388
+T3	Modifier 101 104	DMD
+N3	Reference T3 MeSH:D020388
+T4	Modifier 184 187	DMD
+N4	Reference T4 MeSH:D020388

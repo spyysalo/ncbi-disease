@@ -1,0 +1,4 @@
+T1	Modifier 77 102	breast and ovarian cancer
+N1	Reference T1 MeSH:D061325
+T2	Modifier 463 481	deficient in BRCA1
+N2	Reference T2 OMIM:604370

@@ -1,0 +1,46 @@
+T1	SpecificDisease 94 130	phenylalanine hydroxylase deficiency
+N1	Reference T1 OMIM:261600
+T2	Modifier 148 172	Maternal Phenylketonuria
+N2	Reference T2 MeSH:D017042
+T3	SpecificDisease 332 356	maternal phenylketonuria
+N3	Reference T3 MeSH:D017042
+T4	SpecificDisease 358 361	PKU
+N4	Reference T4 MeSH:D010661
+T5	Modifier 417 438	hyperphenylalaninemic
+N5	Reference T5 MeSH:D010661
+T6	Modifier 463 475	Maternal PKU
+N6	Reference T6 MeSH:D017042
+T7	SpecificDisease 758 761	PKU
+N7	Reference T7 MeSH:D010661
+T8	SpecificDisease 772 775	PKU
+N8	Reference T8 MeSH:D010661
+T9	SpecificDisease 782 785	PKU
+N9	Reference T9 MeSH:D010661
+T10	SpecificDisease 791 817	mild hyperphenylalaninemia
+N10	Reference T10 MeSH:D010661
+T11	SpecificDisease 819 822	MHP
+N11	Reference T11 MeSH:D010661
+T12	Modifier 1374 1387	PAH-deficient
+N12	Reference T12 OMIM:261600
+T13	Modifier 1410 1413	PKU
+N13	Reference T13 MeSH:D010661
+T14	Modifier 1445 1448	MHP
+N14	Reference T14 MeSH:D010661
+T15	Modifier 1468 1471	PKU
+N15	Reference T15 MeSH:D010661
+T16	Modifier 1528 1531	PKU
+N16	Reference T16 MeSH:D010661
+T17	Modifier 1556 1559	PKU
+N17	Reference T17 MeSH:D010661
+T18	Modifier 1606 1609	PKU
+N18	Reference T18 MeSH:D010661
+T19	SpecificDisease 1669 1672	PKU
+N19	Reference T19 MeSH:D010661
+T20	SpecificDisease 1859 1862	PKU
+N20	Reference T20 MeSH:D010661
+T21	SpecificDisease 2011 2035	maternal phenylketonuria
+N21	Reference T21 MeSH:D017042
+T22	SpecificDisease 2191 2194	PKU
+N22	Reference T22 MeSH:D010661
+T23	SpecificDisease 2417 2420	PKU
+N23	Reference T23 MeSH:D010661

@@ -1,0 +1,8 @@
+T1	SpecificDisease 90 108	Myotonic dystrophy
+N1	Reference T1 MeSH:D009223
+T2	SpecificDisease 110 112	DM
+N2	Reference T2 MeSH:D009223
+T3	Modifier 223 225	DM
+N3	Reference T3 MeSH:D009223
+T4	Modifier 728 730	DM
+N4	Reference T4 MeSH:D009223

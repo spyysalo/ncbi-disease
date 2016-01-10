@@ -1,0 +1,28 @@
+T1	SpecificDisease 0 58	Hereditary deficiency of the third component of complement
+N1	Reference T1 OMIM:613779
+T2	DiseaseClass 75 80	fever
+N2	Reference T2 MeSH:D005334
+T3	DiseaseClass 82 91	skin rash
+N3	Reference T3 MeSH:D005076
+T4	DiseaseClass 97 108	arthralgias
+N4	Reference T4 MeSH:D018771
+T5	DiseaseClass 202 207	fever
+N5	Reference T5 MeSH:D005334
+T6	DiseaseClass 209 218	skin rash
+N6	Reference T6 MeSH:D005076
+T7	DiseaseClass 224 235	arthralgias
+N7	Reference T7 MeSH:D018771
+T8	DiseaseClass 1280 1289	skin rash
+N8	Reference T8 MeSH:D005076
+T9	DiseaseClass 1294 1305	arthralgias
+N9	Reference T9 MeSH:D018771
+T10	DiseaseClass 1618 1643	decreased synthesis of C3
+N10	Reference T10 OMIM:613779
+T11	SpecificDisease 1690 1713	inherited C3 deficiency
+N11	Reference T11 OMIM:613779
+T12	DiseaseClass 1780 1785	fever
+N12	Reference T12 MeSH:D005334
+T13	DiseaseClass 1787 1796	skin rash
+N13	Reference T13 MeSH:D005076
+T14	DiseaseClass 1802 1812	arthralgia
+N14	Reference T14 MeSH:D018771

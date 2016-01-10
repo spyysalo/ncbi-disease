@@ -1,0 +1,8 @@
+T1	SpecificDisease 24 37	C2 deficiency
+N1	Reference T1 OMIM:217000
+T2	Modifier 105 117	C2-deficient
+N2	Reference T2 OMIM:217000
+T3	SpecificDisease 292 305	C2 deficiency
+N3	Reference T3 OMIM:217000
+T4	Modifier 386 398	C2-deficient
+N4	Reference T4 OMIM:217000

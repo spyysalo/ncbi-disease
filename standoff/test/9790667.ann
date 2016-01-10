@@ -1,0 +1,6 @@
+T1	SpecificDisease 269 299	cerebrotendinous xanthomatosis
+N1	Reference T1 MeSH:D019294
+T2	SpecificDisease 301 304	CTX
+N2	Reference T2 MeSH:D019294
+T3	SpecificDisease 1364 1412	deficiency in the sterol 27-hydroxylase activity
+N3	Reference T3 MeSH:D019294

@@ -1,0 +1,28 @@
+T1	SpecificDisease 135 173	cholesterol acyltransferase deficiency
+N1	Reference T1 MeSH:D007863
+T2	SpecificDisease 178 194	fish-eye disease
+N2	Reference T2 MeSH:D007863
+T3	CompositeMention 196 270	Classic (complete) lecithin  cholesterol acyltransferase (LCAT) deficiency
+N3	Reference T3 MeSH:D007863
+T4	SpecificDisease 275 291	Fish-eye disease
+N4	Reference T4 MeSH:D007863
+T5	SpecificDisease 293 316	partial LCAT deficiency
+N5	Reference T5 MeSH:D007863
+T6	SpecificDisease 469 507	atherosclerotic cardiovascular disease
+N6	Reference T6 MeSH:D050197
+T7	SpecificDisease 625 640	LCAT deficiency
+N7	Reference T7 MeSH:D007863
+T8	SpecificDisease 651 674	classic LCAT deficiency
+N8	Reference T8 MeSH:D007863
+T9	SpecificDisease 689 705	Fish-eye disease
+N9	Reference T9 MeSH:D007863
+T10	CompositeMention 1585 1620	complete or partial LCAT deficiency
+N10	Reference T10 MeSH:D007863
+T11	SpecificDisease 1814 1829	atherosclerosis
+N11	Reference T11 MeSH:D050197
+T12	SpecificDisease 1940 1963	classic LCAT deficiency
+N12	Reference T12 MeSH:D007863
+T13	SpecificDisease 1968 1984	Fish-eye disease
+N13	Reference T13 MeSH:D007863
+T14	SpecificDisease 2025 2040	atherosclerosis
+N14	Reference T14 MeSH:D050197

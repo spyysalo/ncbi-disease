@@ -1,0 +1,18 @@
+T1	SpecificDisease 0 17	Emerin deficiency
+N1	Reference T1 MeSH:D020389
+T2	SpecificDisease 59 92	Emery-Dreifuss muscular dystrophy
+N2	Reference T2 MeSH:D020389
+T3	SpecificDisease 171 213	X-linked Emery-Dreifuss muscular dystrophy
+N3	Reference T3 MeSH:D020389
+T4	SpecificDisease 215 219	EDMD
+N4	Reference T4 MeSH:D020389
+T5	DiseaseClass 570 592	neuromuscular diseases
+N5	Reference T5 MeSH:D009468
+T6	SpecificDisease 604 608	EDMD
+N6	Reference T6 MeSH:D020389
+T7	Modifier 702 706	EDMD
+N7	Reference T7 MeSH:D020389
+T8	SpecificDisease 883 903	deficiency of emerin
+N8	Reference T8 MeSH:D020389
+T9	SpecificDisease 961 965	EDMD
+N9	Reference T9 MeSH:D020389

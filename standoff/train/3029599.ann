@@ -1,0 +1,15 @@
+T1	SpecificDisease 29 49	Lesch-Nyhan syndrome
+N1	Reference T1 MeSH:D007926
+T2	SpecificDisease 110 130	Lesch-Nyhan syndrome
+N2	Reference T2 MeSH:D007926
+T3	DiseaseClass 141 178	neurological and behavioural disorder
+N3	Reference T3 MeSH:D009422
+N4	Reference T3 MeSH:D001523
+T4	DiseaseClass 224 244	inherited deficiency
+N5	Reference T4 MeSH:D030342
+T5	Modifier 454 465	Lesch-Nyhan
+N6	Reference T5 MeSH:D007926
+T6	SpecificDisease 636 656	Lesch-Nyhan syndrome
+N7	Reference T6 MeSH:D007926
+T7	Modifier 1001 1012	Lesch-Nyhan
+N8	Reference T7 MeSH:D007926

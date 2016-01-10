@@ -1,0 +1,14 @@
+T1	SpecificDisease 0 57	Hypoxanthine-guanine phosphoribosyltransferase deficiency
+N1	Reference T1 OMIM:300323
+T2	SpecificDisease 146 166	Lesch-Nyhan syndrome
+N2	Reference T2 MeSH:D007926
+T3	DiseaseClass 179 212	X chromosome-linked human disease
+N3	Reference T3 MeSH:D040181
+T4	SpecificDisease 233 306	absence of hypoxanthine-guanine phosphoribosyltransferase (HPRT) activity
+N4	Reference T4 MeSH:D007926
+T5	SpecificDisease 374 389	gouty arthritis
+N5	Reference T5 MeSH:D015210
+T6	SpecificDisease 556 576	Lesch-Nyhan syndrome
+N6	Reference T6 MeSH:D007926
+T7	DiseaseClass 604 641	partial deficiencies of HPRT activity
+N7	Reference T7 OMIM:300323

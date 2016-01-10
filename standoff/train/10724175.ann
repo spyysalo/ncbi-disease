@@ -1,0 +1,6 @@
+T1	Modifier 107 113	tumour
+N1	Reference T1 MeSH:D009369
+T2	CompositeMention 175 211	inherited breast and ovarian cancers
+N2	Reference T2 MeSH:D061325
+T3	SpecificDisease 253 266	breast cancer
+N3	Reference T3 MeSH:D001943

@@ -1,0 +1,52 @@
+T1	SpecificDisease 0 31	Schwartz-Jampel syndrome type 2
+N1	Reference T1 MeSH:C537502
+T2	SpecificDisease 36 60	Stuve-Wiedemann syndrome
+N2	Reference T2 MeSH:C537502
+T3	SpecificDisease 180 204	Schwartz-Jampel syndrome
+N3	Reference T3 MeSH:D010009
+T4	SpecificDisease 206 209	SJS
+N4	Reference T4 MeSH:D010009
+T5	SpecificDisease 214 222	myotonia
+N5	Reference T5 MeSH:D009222
+T6	SpecificDisease 227 245	skeletal dysplasia
+N6	Reference T6 MESH:C535662
+T7	SpecificDisease 263 273	SJS type 2
+N7	Reference T7 MeSH:C537502
+T8	SpecificDisease 335 359	Stuve-Wiedemann syndrome
+N8	Reference T8 MeSH:C537502
+T9	SpecificDisease 361 364	SWS
+N9	Reference T9 MeSH:C537502
+T10	SpecificDisease 383 393	campomelia
+N10	Reference T10 MeSH:C537966
+T11	SpecificDisease 408 426	skeletal dysplasia
+N11	Reference T11 MESH:C535662
+T12	SpecificDisease 428 440	contractures
+N12	Reference T12 MeSH:D003286
+T13	SpecificDisease 446 457	early death
+N13	Reference T13 MeSH:D003643
+T14	SpecificDisease 621 631	SJS type 2
+N14	Reference T14 MeSH:C537502
+T15	SpecificDisease 665 668	SWS
+N15	Reference T15 MeSH:C537502
+T16	SpecificDisease 729 732	SJS
+N16	Reference T16 MeSH:D010009
+T17	SpecificDisease 736 739	SWS
+N17	Reference T17 MeSH:C537502
+T18	DiseaseClass 792 814	neuromuscular disorder
+N18	Reference T18 MeSH:D009468
+T19	SpecificDisease 821 850	congenital joint contractures
+N19	Reference T19 MeSH:D003286
+T20	SpecificDisease 902 914	hyperthermia
+N20	Reference T20 MeSH:D005334
+T21	SpecificDisease 963 1004	campomelic-metaphyseal skeletal dysplasia
+N21	Reference T21 MeSH:D055036
+T22	SpecificDisease 1206 1220	bone dysplasia
+N22	Reference T22 MeSH:D001848
+T23	SpecificDisease 1251 1261	SJS type 2
+N23	Reference T23 MeSH:C537502
+T24	SpecificDisease 1272 1275	SWS
+N24	Reference T24 MeSH:C537502
+T25	SpecificDisease 1365 1368	SWS
+N25	Reference T25 MeSH:C537502
+T26	SpecificDisease 1373 1383	SJS type 2
+N26	Reference T26 MeSH:C537502

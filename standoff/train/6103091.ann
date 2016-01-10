@@ -1,0 +1,24 @@
+T1	SpecificDisease 0 21	Complement deficiency
+N1	Reference T1 MeSH:D007153
+T2	SpecificDisease 26 35	nephritis
+N2	Reference T2 MeSH:D009393
+T3	SpecificDisease 120 136	deficiency of C3
+N3	Reference T3 OMIM:613779
+T4	SpecificDisease 254 267	C3 deficiency
+N4	Reference T4 OMIM:613779
+T5	SpecificDisease 308 326	glomerulonephritis
+N5	Reference T5 MeSH:D005921
+T6	SpecificDisease 328 339	proteinuria
+N6	Reference T6 MeSH:D011507
+T7	SpecificDisease 361 371	haematuria
+N7	Reference T7 MeSH:D006417
+T8	Modifier 408 420	C3-deficient
+N8	Reference T8 OMIM:613779
+T9	SpecificDisease 476 489	C3 deficiency
+N9	Reference T9 OMIM:613779
+T10	DiseaseClass 637 650	renal disease
+N10	Reference T10 MeSH:D007674
+T11	SpecificDisease 717 730	C3 deficiency
+N11	Reference T11 OMIM:613779
+T12	SpecificDisease 746 755	nephritis
+N12	Reference T12 MeSH:D009393

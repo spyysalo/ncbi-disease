@@ -1,0 +1,12 @@
+T1	SpecificDisease 0 20	Adrenoleukodystrophy
+N1	Reference T1 MeSH:D000326
+T2	Modifier 178 198	adrenoleukodystrophy
+N2	Reference T2 MeSH:D000326
+T3	Modifier 200 203	ALD
+N3	Reference T3 MeSH:D000326
+T4	Modifier 218 221	ALD
+N4	Reference T4 MeSH:D000326
+T5	Modifier 251 254	ALD
+N5	Reference T5 MeSH:D000326
+T6	Modifier 575 578	ALD
+N6	Reference T6 MeSH:D000326

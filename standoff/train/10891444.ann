@@ -1,0 +1,10 @@
+T1	SpecificDisease 77 103	congenital afibrinogenemia
+N1	Reference T1 MeSH:C531603
+T2	SpecificDisease 105 131	Congenital afibrinogenemia
+N2	Reference T2 MeSH:C531603
+T3	DiseaseClass 143 172	autosomal, recessive disorder
+N3	Reference T3 MeSH:D030342
+T4	Modifier 1271 1286	afibrinogenemia
+N4	Reference T4 MeSH:D000347
+T5	SpecificDisease 1437 1463	congenital afibrinogenemia
+N5	Reference T5 MeSH:C531603

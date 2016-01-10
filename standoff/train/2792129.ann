@@ -1,0 +1,10 @@
+T1	SpecificDisease 0 58	Familial deficiency of the seventh component of complement
+N1	Reference T1 OMIM:610102
+T2	SpecificDisease 85 109	meningococcal infections
+N2	Reference T2 MeSH:D008589
+T3	SpecificDisease 158 178	recurrent meningitis
+N3	Reference T3 MeSH:D008581+D012008
+T4	SpecificDisease 195 240	absence of the seventh component of complemen
+N4	Reference T4 OMIM:610102
+T5	SpecificDisease 628 641	C7 deficiency
+N5	Reference T5 OMIM:610102

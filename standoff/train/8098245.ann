@@ -1,0 +1,6 @@
+T1	SpecificDisease 115 130	phenylketonuria
+N1	Reference T1 MeSH:D010661
+T2	Modifier 282 303	hyperphenylalaninemic
+N2	Reference T2 MeSH:D010661
+T3	SpecificDisease 1076 1091	phenylketonuria
+N3	Reference T3 MeSH:D010661

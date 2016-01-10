@@ -1,0 +1,4 @@
+T1	SpecificDisease 977 995	Huntington disease
+N1	Reference T1 MeSH:D006816
+T2	SpecificDisease 997 999	HD
+N2	Reference T2 MeSH:D006816

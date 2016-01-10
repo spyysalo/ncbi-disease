@@ -1,0 +1,6 @@
+T1	DiseaseClass 179 200	hyperphenylalaninemia
+N1	Reference T1 MeSH:D010661
+T2	Modifier 683 686	PKU
+N2	Reference T2 MeSH:D010661
+T3	SpecificDisease 939 964	classical phenylketonuria
+N3	Reference T3 MeSH:D010661

@@ -1,0 +1,44 @@
+T1	SpecificDisease 56 81	von Hippel-Lindau disease
+N1	Reference T1 MeSH:D006623
+T2	SpecificDisease 90 127	sporadic cerebellar haemangioblastoma
+N2	Reference T2 MeSH:D018325
+T3	SpecificDisease 132 152	renal cell carcinoma
+N3	Reference T3 MeSH:D002292
+T4	CompositeMention 195 234	unilateral and bilateral retinoblastoma
+N4	Reference T4 MeSH:D012175
+T5	DiseaseClass 263 281	hereditary tumours
+N5	Reference T5 MeSH:D009386
+T6	DiseaseClass 314 330	sporadic tumours
+N6	Reference T6 MeSH:D009369
+T7	SpecificDisease 400 429	sporadic renal cell carcinoma
+N7	Reference T7 MeSH:D002292
+T8	SpecificDisease 528 548	renal cell carcinoma
+N8	Reference T8 MeSH:D002292
+T9	SpecificDisease 562 590	cerebellar haemangioblastoma
+N9	Reference T9 MeSH:D018325
+T10	SpecificDisease 621 652	von Hippel-Lindau (VHL) disease
+N10	Reference T10 MeSH:D006623
+T11	SpecificDisease 693 722	sporadic renal cell carcinoma
+N11	Reference T11 MeSH:D002292
+T12	SpecificDisease 744 781	sporadic cerebellar haemangioblastoma
+N12	Reference T12 MeSH:D018325
+T13	SpecificDisease 812 832	renal cell carcinoma
+N13	Reference T13 MeSH:D002292
+T14	SpecificDisease 837 865	cerebellar haemangioblastoma
+N14	Reference T14 MeSH:D018325
+T15	SpecificDisease 869 880	VHL disease
+N15	Reference T15 MeSH:D006623
+T16	SpecificDisease 964 993	sporadic renal cell carcinoma
+N16	Reference T16 MeSH:D002292
+T17	SpecificDisease 998 1026	cerebellar haemangioblastoma
+N17	Reference T17 MeSH:D018325
+T18	Modifier 1102 1105	VHL
+N18	Reference T18 MeSH:D006623
+T19	Modifier 1138 1144	tumour
+N19	Reference T19 MeSH:D009369
+T20	SpecificDisease 1162 1199	Sporadic cerebellar haemangioblastoma
+N20	Reference T20 MeSH:D018325
+T21	SpecificDisease 1209 1229	renal cell carcinoma
+N21	Reference T21 MeSH:D002292
+T22	Modifier 1296 1299	VHL
+N22	Reference T22 MeSH:D006623

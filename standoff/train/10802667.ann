@@ -1,0 +1,46 @@
+T1	SpecificDisease 5 22	deficient in Six5
+N1	Reference T1 MeSH:D030342
+T2	SpecificDisease 31 40	cataracts
+N2	Reference T2 MeSH:D002386
+T3	SpecificDisease 59 77	myotonic dystrophy
+N3	Reference T3 MeSH:D009223
+T4	SpecificDisease 190 208	myotonic dystrophy
+N4	Reference T4 MeSH:D009223
+T5	DiseaseClass 212 240	dominantly inherited disease
+N5	Reference T5 MeSH:D030342
+T6	SpecificDisease 267 283	muscle dystrophy
+N6	Reference T6 MeSH:D009136
+T7	DiseaseClass 288 296	myotonia
+N7	Reference T7 MeSH:D009222
+T8	SpecificDisease 298 307	cataracts
+N8	Reference T8 MeSH:D002386
+T9	DiseaseClass 312 338	cardiac conduction defects
+N9	Reference T9 OMIM:115080
+T10	DiseaseClass 429 437	myopathy
+N10	Reference T10 MeSH:D009135
+T11	DiseaseClass 442 474	cardiac conduction abnormalities
+N11	Reference T11 MeSH:D006327
+T12	SpecificDisease 506 524	myotonic dystrophy
+N12	Reference T12 MeSH:D009223
+T13	DiseaseClass 534 542	myotonia
+N13	Reference T13 MeSH:D009222
+T14	SpecificDisease 547 556	cataracts
+N14	Reference T14 MeSH:D002386
+T15	SpecificDisease 745 760	SIX5 deficiency
+N15	Reference T15 MeSH:D030342
+T16	Modifier 780 798	myotonic dystrophy
+N16	Reference T16 MeSH:D009223
+T17	DiseaseClass 1033 1074	abnormalities of skeletal muscle function
+N17	Reference T17 MeSH:D009139
+T18	SpecificDisease 1090 1110	lenticular opacities
+N18	Reference T18 MeSH:D002386
+T19	SpecificDisease 1168 1183	SIX5 deficiency
+N19	Reference T19 MeSH:D030342
+T20	Modifier 1203 1211	cataract
+N20	Reference T20 MeSH:D002386
+T21	SpecificDisease 1225 1243	myotonic dystrophy
+N21	Reference T21 MeSH:D009223
+T22	SpecificDisease 1254 1272	myotonic dystrophy
+N22	Reference T22 MeSH:D009223
+T23	DiseaseClass 1286 1305	multigenic disorder
+N23	Reference T23 MeSH:D030342

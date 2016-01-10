@@ -1,0 +1,14 @@
+T1	SpecificDisease 81 116	ataxia-telangiectasia-like disorder
+N1	Reference T1 OMIM:604391
+T2	SpecificDisease 223 258	ataxia-telangiectasia-like disorder
+N2	Reference T2 OMIM:604391
+T3	SpecificDisease 260 264	ATLD
+N3	Reference T3 OMIM:604391
+T4	SpecificDisease 356 359	A-T
+N4	Reference T4 MeSH:D001260
+T5	SpecificDisease 371 374	NBS
+N5	Reference T5 MeSH:D049932
+T6	SpecificDisease 387 425	hypersensitivity to ionizing radiation
+N6	Reference T6 MeSH:D004194
+T7	SpecificDisease 924 927	A-T
+N7	Reference T7 MeSH:D001260

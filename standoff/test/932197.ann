@@ -1,0 +1,28 @@
+T1	SpecificDisease 0 58	Hereditary deficiency of the fifth component of complement
+N1	Reference T1 OMIM:609536
+T2	SpecificDisease 156 214	hereditary deficiency of the fifth component of complement
+N2	Reference T2 OMIM:609536
+T3	SpecificDisease 279 307	systemic lupus erythematosus
+N3	Reference T3 MeSH:D008180
+T4	SpecificDisease 983 996	C5 deficiency
+N4	Reference T4 OMIM:609536
+T5	Modifier 1055 1067	C5-deficient
+N5	Reference T5 OMIM:609536
+T6	Modifier 1069 1072	C5D
+N6	Reference T6 OMIM:609536
+T7	Modifier 1257 1260	C5D
+N7	Reference T7 OMIM:609536
+T8	Modifier 1426 1429	C5D
+N8	Reference T8 OMIM:609536
+T9	SpecificDisease 1630 1648	glomerulonephritis
+N9	Reference T9 MeSH:D005921
+T10	SpecificDisease 1650 1660	vasculitis
+N10	Reference T10 MeSH:D014657
+T11	DiseaseClass 1666 1675	arthritis
+N11	Reference T11 MeSH:D001168
+T12	DiseaseClass 1769 1789	bacterial infections
+N12	Reference T12 MeSH:D001424
+T13	Modifier 1916 1919	C5D
+N13	Reference T13 OMIM:609536
+T14	DiseaseClass 2034 2052	pyogenic infection
+N14	Reference T14 MeSH:D007239

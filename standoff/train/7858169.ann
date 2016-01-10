@@ -1,0 +1,18 @@
+T1	SpecificDisease 15 43	metachromatic leukodystrophy
+N1	Reference T1 MeSH:D007966
+T2	SpecificDisease 55 83	Metachromatic Leukodystrophy
+N2	Reference T2 MeSH:D007966
+T3	SpecificDisease 85 88	MLD
+N3	Reference T3 MeSH:D007966
+T4	DiseaseClass 95 120	neurodegenerative disease
+N4	Reference T4 MeSH:D019636
+T5	SpecificDisease 378 381	MLD
+N5	Reference T5 MeSH:D007966
+T6	SpecificDisease 599 602	MLD
+N6	Reference T6 MeSH:D007966
+T7	SpecificDisease 928 931	MLD
+N7	Reference T7 MeSH:D007966
+T8	SpecificDisease 1129 1132	MLD
+N8	Reference T8 MeSH:D007966
+T9	SpecificDisease 1355 1358	MLD
+N9	Reference T9 MeSH:D007966

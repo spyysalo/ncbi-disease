@@ -1,0 +1,20 @@
+T1	Modifier 21 47	hereditary prostate cancer
+N1	Reference T1 MeSH:C537243
+T2	Modifier 85 111	hereditary prostate cancer
+N2	Reference T2 MeSH:C537243
+T3	Modifier 159 174	Prostate Cancer
+N3	Reference T3 MeSH:D011471
+T4	Modifier 234 249	prostate cancer
+N4	Reference T4 MeSH:D011471
+T5	Modifier 478 504	hereditary prostate cancer
+N5	Reference T5 MeSH:C537243
+T6	SpecificDisease 655 681	hereditary prostate cancer
+N6	Reference T6 MeSH:C537243
+T7	Modifier 749 764	Prostate Cancer
+N7	Reference T7 MeSH:D011471
+T8	Modifier 2109 2124	prostate cancer
+N8	Reference T8 MeSH:D011471
+T9	Modifier 2194 2209	prostate cancer
+N9	Reference T9 MeSH:D011471
+T10	SpecificDisease 2299 2325	hereditary prostate cancer
+N10	Reference T10 MeSH:C537243

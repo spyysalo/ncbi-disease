@@ -1,0 +1,10 @@
+T1	SpecificDisease 13 28	hemochromatosis
+N1	Reference T1 MeSH:D006432
+T2	SpecificDisease 48 62	HFE deficiency
+N2	Reference T2 MeSH:D006432
+T3	SpecificDisease 136 151	hemochromatosis
+N3	Reference T3 MeSH:D006432
+T4	Modifier 666 679	HFE-deficient
+N4	Reference T4 MeSH:D006432
+T5	SpecificDisease 789 804	hemochromatosis
+N5	Reference T5 MeSH:D006432

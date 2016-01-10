@@ -1,0 +1,10 @@
+T1	DiseaseClass 154 171	enzyme deficiency
+N1	Reference T1 MeSH:D008661
+T2	SpecificDisease 376 427	glucose-6-phosphate dehydrogenase (G6PD) deficiency
+N2	Reference T2 MeSH:D005955
+T3	SpecificDisease 572 611	chronic nonspherocytic hemolytic anemia
+N3	Reference T3 MeSH:D000746
+T4	SpecificDisease 677 692	G6PD deficiency
+N4	Reference T4 MeSH:D005955
+T5	SpecificDisease 1368 1383	G6PD deficiency
+N5	Reference T5 MeSH:D005955

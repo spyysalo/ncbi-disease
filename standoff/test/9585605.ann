@@ -1,0 +1,18 @@
+T1	Modifier 30 47	Angelman syndrome
+N1	Reference T1 MeSH:D017204
+T2	SpecificDisease 58 75	Angelman syndrome
+N2	Reference T2 MeSH:D017204
+T3	SpecificDisease 77 79	AS
+N3	Reference T3 MeSH:D017204
+T4	SpecificDisease 157 175	uniparental disomy
+N4	Reference T4 MeSH:D024182
+T5	SpecificDisease 177 180	UPD
+N5	Reference T5 MeSH:D024182
+T6	Modifier 402 404	AS
+N6	Reference T6 MeSH:D017204
+T7	Modifier 981 983	AS
+N7	Reference T7 MeSH:D017204
+T8	Modifier 1025 1027	AS
+N8	Reference T8 MeSH:D017204
+T9	Modifier 1067 1069	AS
+N9	Reference T9 MeSH:D017204

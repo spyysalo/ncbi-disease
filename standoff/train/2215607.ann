@@ -1,0 +1,16 @@
+T1	SpecificDisease 362 377	CETP deficiency
+N1	Reference T1 OMIM:143470
+T2	SpecificDisease 874 889	CETP deficiency
+N2	Reference T2 OMIM:143470
+T3	SpecificDisease 912 932	hypercholesterolemia
+N3	Reference T3 MeSH:D006937
+T4	SpecificDisease 1547 1562	CETP deficiency
+N4	Reference T4 OMIM:143470
+T5	SpecificDisease 1705 1720	CETP deficiency
+N5	Reference T5 OMIM:143470
+T6	SpecificDisease 2000 2025	premature atherosclerosis
+N6	Reference T6 MeSH:D050197
+T7	SpecificDisease 2047 2062	CETP deficiency
+N7	Reference T7 OMIM:143470
+T8	SpecificDisease 2113 2128	CETP deficiency
+N8	Reference T8 OMIM:143470

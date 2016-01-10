@@ -1,0 +1,10 @@
+T1	Modifier 47 61	retinoblastoma
+N1	Reference T1 MeSH:D012175
+T2	SpecificDisease 106 131	hereditary retinoblastoma
+N2	Reference T2 MeSH:D012175
+T3	Modifier 229 243	retinoblastoma
+N3	Reference T3 MeSH:D012175
+T4	SpecificDisease 433 458	hereditary retinoblastoma
+N4	Reference T4 MeSH:D012175
+T5	Modifier 605 619	retinoblastoma
+N5	Reference T5 MeSH:D012175

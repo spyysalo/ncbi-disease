@@ -1,0 +1,20 @@
+T1	SpecificDisease 20 34	Norrie disease
+N1	Reference T1 MeSH:C537849
+T2	SpecificDisease 36 38	ND
+N2	Reference T2 MeSH:C537849
+T3	Modifier 69 71	ND
+N3	Reference T3 MeSH:C537849
+T4	SpecificDisease 159 173	Norrie disease
+N4	Reference T4 MeSH:C537849
+T5	SpecificDisease 175 177	ND
+N5	Reference T5 MeSH:C537849
+T6	Modifier 231 233	ND
+N6	Reference T6 MeSH:C537849
+T7	Modifier 275 277	ND
+N7	Reference T7 MeSH:C537849
+T8	Modifier 585 587	ND
+N8	Reference T8 MeSH:C537849
+T9	Modifier 982 984	ND
+N9	Reference T9 MeSH:C537849
+T10	DiseaseClass 1101 1141	X-linked recessive neurological disorder
+N10	Reference T10 MeSH:D020271

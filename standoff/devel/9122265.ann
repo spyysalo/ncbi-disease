@@ -1,0 +1,6 @@
+T1	SpecificDisease 14 51	autosomal dominant myotonia congenita
+N1	Reference T1 OMIM:160800
+T2	SpecificDisease 108 145	Autosomal dominant myotonia congenita
+N2	Reference T2 OMIM:160800
+T3	DiseaseClass 152 189	inherited disorder of skeletal muscle
+N3	Reference T3 MeSH:D009135+D030342

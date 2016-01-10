@@ -1,0 +1,34 @@
+T1	Modifier 8 25	von Hippel-Lindau
+N1	Reference T1 MeSH:D006623
+T2	SpecificDisease 49 88	papillary cystadenoma of the epididymis
+N2	Reference T2 MeSH:D018292
+T3	SpecificDisease 90 129	Papillary cystadenoma of the epididymis
+N3	Reference T3 MeSH:D018292
+T4	SpecificDisease 212 243	von Hippel-Lindau (VHL) disease
+N4	Reference T4 MeSH:D006623
+T5	Modifier 319 322	VHL
+N5	Reference T5 MeSH:D006623
+T6	SpecificDisease 420 459	papillary cystadenoma of the epididymis
+N6	Reference T6 MeSH:D018292
+T7	SpecificDisease 504 535	metastatic renal cell carcinoma
+N7	Reference T7 MeSH:C538445
+T8	SpecificDisease 782 803	papillary cystadenoma
+N8	Reference T8 MeSH:D018292
+T9	SpecificDisease 818 838	renal cell carcinoma
+N9	Reference T9 MeSH:D002292
+T10	Modifier 899 924	von Hippel-Lindau disease
+N10	Reference T10 MeSH:D006623
+T11	Modifier 1003 1006	VHL
+N11	Reference T11 MeSH:D006623
+T12	Modifier 1023 1026	VHL
+N12	Reference T12 MeSH:D006623
+T13	DiseaseClass 1072 1078	tumors
+N13	Reference T13 MeSH:D009369
+T14	Modifier 1356 1359	VHL
+N14	Reference T14 MeSH:D006623
+T15	Modifier 1394 1399	tumor
+N15	Reference T15 MeSH:D009369
+T16	Modifier 1417 1420	VHL
+N16	Reference T16 MeSH:D006623
+T17	SpecificDisease 1499 1529	cystadenomas of the epididymis
+N17	Reference T17 MeSH:D003537

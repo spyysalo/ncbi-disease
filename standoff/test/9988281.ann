@@ -1,0 +1,23 @@
+T1	SpecificDisease 56 87	non-inherited breast carcinomas
+N1	Reference T1 MeSH:D001943
+T2	Modifier 125 131	tumour
+N2	Reference T2 MeSH:D009369
+T3	CompositeMention 152 188	hereditary breast and ovarian cancer
+N3	Reference T3 MeSH:D061325
+T4	DiseaseClass 235 255	non-familial cancers
+N4	Reference T4 MeSH:D009369
+T5	DiseaseClass 296 312	sporadic cancers
+N5	Reference T5 MeSH:D009369
+T6	CompositeMention 437 476	non-familial breast and ovarian cancers
+N6	Reference T6 MeSH:D001943
+N7	Reference T6 MeSH:D010051
+T7	SpecificDisease 996 1015	breast malignancies
+N8	Reference T7 MeSH:D001943
+T8	DiseaseClass 1123 1147	invasive lobular cancers
+N9	Reference T8 MeSH:D018275
+T9	SpecificDisease 1152 1179	low-grade ductal carcinomas
+N10	Reference T9 MeSH:D044584
+T10	SpecificDisease 1269 1286	ductal carcinomas
+N11	Reference T10 MeSH:D044584
+T11	SpecificDisease 1387 1410	sporadic breast cancers
+N12	Reference T11 MeSH:D001943

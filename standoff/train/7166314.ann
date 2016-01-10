@@ -1,0 +1,16 @@
+T1	SpecificDisease 78 105	congenital hemolytic anemia
+N1	Reference T1 MeSH:D000745
+T2	SpecificDisease 178 217	chronic nonspherocytic hemolytic anemia
+N2	Reference T2 MeSH:D000746
+T3	SpecificDisease 293 309	hemolytic anemia
+N3	Reference T3 MeSH:D000743
+T4	SpecificDisease 347 362	G6PD deficiency
+N4	Reference T4 MeSH:D005955
+T5	DiseaseClass 408 424	hemolytic crisis
+N5	Reference T5 MeSH:D006461
+T6	SpecificDisease 445 472	upper respiratory infection
+N6	Reference T6 MeSH:D012141
+T7	SpecificDisease 900 909	hemolysis
+N7	Reference T7 MeSH:D006461
+T8	SpecificDisease 914 938	chronic hemolytic anemia
+N8	Reference T8 MeSH:D000745

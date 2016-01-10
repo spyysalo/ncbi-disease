@@ -1,0 +1,34 @@
+T1	SpecificDisease 58 80	Van der Woude syndrome
+N1	Reference T1 MeSH:C536528
+T2	SpecificDisease 82 104	Van der Woude syndrome
+N2	Reference T2 MeSH:C536528
+T3	SpecificDisease 106 109	VWS
+N3	Reference T3 MeSH:C536528
+T4	DiseaseClass 117 144	autosomal dominant disorder
+N4	Reference T4 MeSH:D030342
+T5	SpecificDisease 156 165	cleft lip
+N5	Reference T5 MeSH:D002971
+T6	SpecificDisease 173 185	cleft palate
+N6	Reference T6 MeSH:D002972
+T7	SpecificDisease 190 198	lip pits
+N7	Reference T7 MeSH:C536528
+T8	CompositeMention 382 398	cleft lip/palate
+N8	Reference T8 MeSH:D002971
+N9	Reference T8 MeSH:D002972
+T9	SpecificDisease 403 411	lip pits
+N10	Reference T9 MeSH:C536528
+T10	DiseaseClass 440 460	developmental delays
+N11	Reference T10 MeSH:D006130
+T11	Modifier 555 558	VWS
+N12	Reference T11 MeSH:C536528
+T12	SpecificDisease 607 610	VWS
+N13	Reference T12 MeSH:C536528
+T13	SpecificDisease 933 936	VWS
+N14	Reference T13 MeSH:C536528
+T14	SpecificDisease 1129 1156	popliteal pterygia syndrome
+N15	Reference T14 OMIM:119500
+T15	CompositeMention 1176 1215	syndromic forms of cleft lip and palate
+N16	Reference T15 MeSH:D002971
+N17	Reference T15 MeSH:D002972
+T16	CompositeMention 1234 1267	nonsyndromic cleft lip and palate
+N18	Reference T16 OMIM:119530

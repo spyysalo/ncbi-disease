@@ -1,0 +1,18 @@
+T1	SpecificDisease 65 82	Friedreich ataxia
+N1	Reference T1 MeSH:D005621
+T2	SpecificDisease 132 149	Friedreich ataxia
+N2	Reference T2 MeSH:D005621
+T3	SpecificDisease 151 155	FRDA
+N3	Reference T3 MeSH:D005621
+T4	DiseaseClass 167 192	neurodegenerative disease
+N4	Reference T4 MeSH:D019636
+T5	Modifier 537 541	FRDA
+N5	Reference T5 MeSH:D005621
+T6	Modifier 647 651	FRDA
+N6	Reference T6 MeSH:D005621
+T7	SpecificDisease 974 978	FRDA
+N7	Reference T7 MeSH:D005621
+T8	Modifier 1030 1034	FRDA
+N8	Reference T8 MeSH:D005621
+T9	Modifier 1255 1259	FRDA
+N9	Reference T9 MeSH:D005621

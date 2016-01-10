@@ -1,0 +1,44 @@
+T1	SpecificDisease 11 25	Kaposi sarcoma
+N1	Reference T1 MeSH:D012514
+T2	SpecificDisease 30 45	T-cell lymphoma
+N2	Reference T2 MeSH:D016399
+T3	SpecificDisease 68 92	Wiskott-Aldrich syndrome
+N3	Reference T3 MeSH:D014923
+T4	DiseaseClass 131 137	eczema
+N4	Reference T4 MeSH:D004485
+T5	SpecificDisease 170 186	thrombocytopenia
+N5	Reference T5 MeSH:D013921
+T6	SpecificDisease 207 231	Wiskott-Aldrich syndrome
+N6	Reference T6 MeSH:D014923
+T7	SpecificDisease 233 236	WAS
+N7	Reference T7 MeSH:D014923
+T8	SpecificDisease 285 300	lymphadenopathy
+N8	Reference T8 MeSH:D008206
+T9	SpecificDisease 302 314	splenomegaly
+N9	Reference T9 MeSH:D013163
+T10	SpecificDisease 327 343	thrombocytopenia
+N10	Reference T10 MeSH:D013921
+T11	SpecificDisease 730 733	WAS
+N11	Reference T11 MeSH:D014923
+T12	SpecificDisease 795 809	Kaposi sarcoma
+N12	Reference T12 MeSH:D012514
+T13	SpecificDisease 914 940	T-cell large cell lymphoma
+N13	Reference T13 MeSH:D016399
+T14	SpecificDisease 989 1007	Epstein-Barr virus
+N14	Reference T14 MeSH:D020031
+T15	SpecificDisease 1012 1027	cytomegalovirus
+N15	Reference T15 MeSH:D003586
+T16	SpecificDisease 1134 1162	human immunodeficiency virus
+N16	Reference T16 MeSH:D015658
+T17	SpecificDisease 1164 1167	HIV
+N17	Reference T17 MeSH:D015658
+T18	SpecificDisease 1198 1212	Kaposi sarcoma
+N18	Reference T18 MeSH:D012514
+T19	DiseaseClass 1241 1277	congenital immunodeficiency syndrome
+N19	Reference T19 MeSH:D007153
+T20	SpecificDisease 1288 1302	Kaposi sarcoma
+N20	Reference T20 MeSH:D012514
+T21	SpecificDisease 1426 1429	HIV
+N21	Reference T21 MeSH:D015658
+T22	SpecificDisease 1540 1554	Kaposi sarcoma
+N22	Reference T22 MeSH:D012514

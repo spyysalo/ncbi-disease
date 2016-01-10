@@ -1,0 +1,31 @@
+T1	CompositeMention 28 64	hereditary breast and ovarian cancer
+N1	Reference T1 MeSH:D061325
+T2	Modifier 133 158	breast and ovarian cancer
+N2	Reference T2 MeSH:D061325
+T3	Modifier 1095 1116	breast-ovarian cancer
+N3	Reference T3 MeSH:D061325
+T4	Modifier 1162 1176	ovarian cancer
+N4	Reference T4 MeSH:D010051
+T5	Modifier 1266 1287	breast-ovarian cancer
+N5	Reference T5 MeSH:D061325
+T6	DiseaseClass 1393 1399	tumors
+N6	Reference T6 MeSH:D009369
+T7	Modifier 1407 1412	tumor
+N7	Reference T7 MeSH:D009369
+T8	CompositeMention 1471 1513	prostatic, pancreas, skin, and lung cancer
+N8	Reference T8 MeSH:D011471
+N9	Reference T8 MeSH:D010190
+N10	Reference T8 MeSH:D012878
+N11	Reference T8 MeSH:D008175
+T9	SpecificDisease 1517 1535	malignant melanoma
+N12	Reference T9 MeSH:D008545
+T10	SpecificDisease 1540 1557	oligodendroglioma
+N13	Reference T10 MeSH:D009837
+T11	SpecificDisease 1565 1579	carcinosarcoma
+N14	Reference T11 MeSH:D002296
+T12	SpecificDisease 1655 1669	ovarian cancer
+N15	Reference T12 MeSH:D010051
+T13	Modifier 1830 1854	hereditary breast cancer
+N16	Reference T13 MeSH:D001943
+T14	SpecificDisease 1887 1902	ovarian cancers
+N17	Reference T14 MeSH:D010051

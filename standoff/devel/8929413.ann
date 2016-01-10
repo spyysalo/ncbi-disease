@@ -1,0 +1,6 @@
+T1	DiseaseClass 15 37	anxiety-related traits
+N1	Reference T1 OMIM:607834
+T2	DiseaseClass 208 215	anxiety
+N2	Reference T2 MeSH:D001008
+T3	DiseaseClass 842 876	anxiety-related personality traits
+N3	Reference T3 OMIM:607834

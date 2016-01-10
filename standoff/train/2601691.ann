@@ -1,0 +1,10 @@
+T1	SpecificDisease 170 195	retinoblastoma (RB) tumor
+N1	Reference T1 MeSH:D012175
+T2	SpecificDisease 248 257	RB tumors
+N2	Reference T2 MeSH:D012175
+T3	SpecificDisease 409 418	RB tumors
+N3	Reference T3 MeSH:D012175
+T4	DiseaseClass 425 431	tumors
+N4	Reference T4 MeSH:D009369
+T5	SpecificDisease 924 933	RB tumors
+N5	Reference T5 MeSH:D012175

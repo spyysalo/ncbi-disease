@@ -1,0 +1,44 @@
+T1	SpecificDisease 0 25	Von Hippel-Lindau disease
+N1	Reference T1 MeSH:D006623
+T2	SpecificDisease 77 97	renal cell carcinoma
+N2	Reference T2 MeSH:D002292
+T3	SpecificDisease 99 124	Von Hippel-Lindau disease
+N3	Reference T3 MeSH:D006623
+T4	SpecificDisease 126 129	VHL
+N4	Reference T4 MeSH:D006623
+T5	DiseaseClass 137 164	autosomal dominant disorder
+N5	Reference T5 MeSH:D030342
+T6	DiseaseClass 215 221	cancer
+N6	Reference T6 MeSH:D009369
+T7	SpecificDisease 233 250	hemangioblastomas
+N7	Reference T7 MeSH:D018325
+T8	SpecificDisease 282 300	phaeochromocytomas
+N8	Reference T8 MeSH:D010673
+T9	SpecificDisease 302 325	pancreatic malignancies
+N9	Reference T9 OMIM:260350
+T10	SpecificDisease 331 352	renal cell carcinomas
+N10	Reference T10 MeSH:D002292
+T11	SpecificDisease 354 375	Renal cell carcinomas
+N11	Reference T11 MeSH:D002292
+T12	CompositeMention 457 489	bilateral and multifocal tumours
+N12	Reference T12 MeSH:D009369
+T13	Modifier 569 575	tumour
+N13	Reference T13 MeSH:D009369
+T14	Modifier 606 609	VHL
+N14	Reference T14 MeSH:D006623
+T15	Modifier 750 753	VHL
+N15	Reference T15 MeSH:D006623
+T16	Modifier 804 807	VHL
+N16	Reference T16 MeSH:D006623
+T17	Modifier 917 923	tumour
+N17	Reference T17 MeSH:D009369
+T18	Modifier 972 978	tumour
+N18	Reference T18 MeSH:D009369
+T19	CompositeMention 1028 1070	inherited and sporadic forms of the cancer
+N19	Reference T19 MeSH:D009369
+T20	SpecificDisease 1072 1102	Sporadic renal cell carcinomas
+N20	Reference T20 MeSH:D002292
+T21	SpecificDisease 1241 1261	renal cell carcinoma
+N21	Reference T21 MeSH:D002292
+T22	Modifier 1334 1340	tumour
+N22	Reference T22 MeSH:D009369

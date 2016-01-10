@@ -1,0 +1,18 @@
+T1	SpecificDisease 95 130	insulin-dependent diabetes mellitus
+N1	Reference T1 OMIM:125852
+T2	Modifier 246 281	insulin-dependent diabetes mellitus
+N2	Reference T2 OMIM:125852
+T3	SpecificDisease 422 426	IDDM
+N3	Reference T3 MeSH:D003922
+T4	SpecificDisease 465 469	IDDM
+N4	Reference T4 MeSH:D003922
+T5	SpecificDisease 610 614	IDDM
+N5	Reference T5 MeSH:D003922
+T6	SpecificDisease 651 655	IDDM
+N6	Reference T6 MeSH:D003922
+T7	SpecificDisease 720 724	IDDM
+N7	Reference T7 MeSH:D003922
+T8	SpecificDisease 944 948	IDDM
+N8	Reference T8 MeSH:D003922
+T9	SpecificDisease 1108 1112	IDDM
+N9	Reference T9 MeSH:D003922

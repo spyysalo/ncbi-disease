@@ -1,0 +1,22 @@
+T1	SpecificDisease 40 82	dihydropyrimidine dehydrogenase deficiency
+N1	Reference T1 MeSH:D054067
+T2	SpecificDisease 84 132	Dihydropyrimidine dehydrogenase (DPD) deficiency
+N2	Reference T2 MeSH:D054067
+T3	DiseaseClass 139 166	autosomal recessive disease
+N3	Reference T3 MeSH:D030342
+T4	SpecificDisease 356 370	DPD deficiency
+N4	Reference T4 MeSH:D054067
+T5	SpecificDisease 438 455	deficiency of DPD
+N5	Reference T5 MeSH:D054067
+T6	Modifier 745 748	DPD
+N6	Reference T6 MeSH:D054067
+T7	DiseaseClass 985 1005	convulsive disorders
+N7	Reference T7 MeSH:D004829
+T8	DiseaseClass 1007 1024	motor retardation
+N8	Reference T8 MeSH:D019957
+T9	DiseaseClass 1029 1047	mental retardation
+N9	Reference T9 MeSH:D008607
+T10	DiseaseClass 1252 1274	clinical abnormalities
+N10	Reference T10 MeSH:D013568
+T11	SpecificDisease 1304 1318	DPD deficiency
+N11	Reference T11 MeSH:D054067

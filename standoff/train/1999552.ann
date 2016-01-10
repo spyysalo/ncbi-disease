@@ -1,0 +1,14 @@
+T1	SpecificDisease 11 27	deficiency of C5
+N1	Reference T1 OMIM:609536
+T2	SpecificDisease 48 75	discoid lupus erythematosus
+N2	Reference T2 MeSH:D008179
+T3	SpecificDisease 102 129	discoid lupus erythematosus
+N3	Reference T3 MeSH:D008179
+T4	DiseaseClass 184 202	Hypocomplementemia
+N4	Reference T4 MeSH:D007153
+T5	SpecificDisease 224 240	deficiency of C5
+N5	Reference T5 OMIM:609536
+T6	SpecificDisease 359 386	discoid lupus erythematosus
+N6	Reference T6 MeSH:D008179
+T7	SpecificDisease 391 404	C5 deficiency
+N7	Reference T7 OMIM:609536

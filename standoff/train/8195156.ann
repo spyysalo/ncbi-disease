@@ -1,0 +1,10 @@
+T1	SpecificDisease 222 264	hereditary glucose/galactose malabsorption
+N1	Reference T1 OMIM:606824
+T2	SpecificDisease 301 309	diarrhea
+N2	Reference T2 MeSH:D003967
+T3	SpecificDisease 404 412	diarrhea
+N3	Reference T3 MeSH:D003967
+T4	SpecificDisease 1098 1129	glucose/galactose malabsorption
+N4	Reference T4 OMIM:606824
+T5	Modifier 1265 1296	glucose/galactose malabsorption
+N5	Reference T5 OMIM:606824

@@ -1,0 +1,20 @@
+T1	SpecificDisease 105 153	deficiency of the second component of complement
+N1	Reference T1 OMIM:217000
+T2	SpecificDisease 257 305	deficiency of the second component of complement
+N2	Reference T2 OMIM:217000
+T3	SpecificDisease 453 466	C2 deficiency
+N3	Reference T3 OMIM:217000
+T4	SpecificDisease 512 525	C2 deficiency
+N4	Reference T4 OMIM:217000
+T5	Modifier 603 616	C2 deficiency
+N5	Reference T5 OMIM:217000
+T6	SpecificDisease 734 747	C2 deficiency
+N6	Reference T6 OMIM:217000
+T7	SpecificDisease 1337 1350	C2 deficiency
+N7	Reference T7 OMIM:217000
+T8	SpecificDisease 1448 1461	C2 deficiency
+N8	Reference T8 OMIM:217000
+T9	SpecificDisease 1489 1502	C2 deficiency
+N9	Reference T9 OMIM:217000
+T10	Modifier 1666 1679	C2 deficiency
+N10	Reference T10 OMIM:217000

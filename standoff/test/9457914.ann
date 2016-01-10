@@ -1,0 +1,18 @@
+T1	SpecificDisease 74 111	atrophic benign epidermolysis bullosa
+N1	Reference T1 MeSH:D016109
+T2	SpecificDisease 185 222	atrophic benign epidermolysis bullosa
+N2	Reference T2 MeSH:D016109
+T3	SpecificDisease 252 284	junctional epidermolysis bullosa
+N3	Reference T3 MeSH:D016109
+T4	SpecificDisease 303 313	blistering
+N4	Reference T4 MeSH:D001768
+T5	SpecificDisease 315 329	nail dystrophy
+N5	Reference T5 MeSH:C538333
+T6	SpecificDisease 331 346	patchy alopecia
+N6	Reference T6 MeSH:C531609
+T7	DiseaseClass 352 372	dental abnormalities
+N7	Reference T7 MeSH:D014071
+T8	DiseaseClass 374 388	Skin fragility
+N8	Reference T8 MeSH:C536183
+T9	SpecificDisease 536 573	atrophic benign epidermolysis bullosa
+N9	Reference T9 MeSH:D016109

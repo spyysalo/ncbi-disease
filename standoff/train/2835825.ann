@@ -1,0 +1,8 @@
+T1	Modifier 31 42	Lesch-Nyhan
+N1	Reference T1 MeSH:D007926
+T2	SpecificDisease 130 150	Lesch-Nyhan syndrome
+N2	Reference T2 MeSH:D007926
+T3	Modifier 596 608	Epstein-Barr
+N3	Reference T3 MeSH:D020031
+T4	SpecificDisease 1034 1054	Lesch-Nyhan syndrome
+N4	Reference T4 MeSH:D007926

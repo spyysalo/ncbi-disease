@@ -1,0 +1,14 @@
+T1	Modifier 111 136	mucopolysaccharidosis IVA
+N1	Reference T1 OMIM:253000
+T2	SpecificDisease 149 174	Mucopolysaccharidosis IVA
+N2	Reference T2 OMIM:253000
+T3	SpecificDisease 176 183	MPS IVA
+N3	Reference T3 OMIM:253000
+T4	DiseaseClass 203 229	lysosomal storage disorder
+N4	Reference T4 MeSH:D016464
+T5	SpecificDisease 242 298	deficiency of N -acetylgalactosamine-6-sulfate sulfatase
+N5	Reference T5 OMIM:253000
+T6	Modifier 414 421	MPS IVA
+N6	Reference T6 OMIM:253000
+T7	SpecificDisease 1880 1887	MPS IVA
+N7	Reference T7 OMIM:253000

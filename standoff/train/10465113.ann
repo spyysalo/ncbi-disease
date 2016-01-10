@@ -1,0 +1,46 @@
+T1	SpecificDisease 22 51	multiple epiphyseal dysplasia
+N1	Reference T1 MeSH:D010009
+T2	SpecificDisease 73 82	club foot
+N2	Reference T2 MeSH:D003025
+T3	DiseaseClass 88 110	double layered patella
+N3	Reference T3 MeSH:C535504
+T4	Modifier 191 212	diastrophic dysplasia
+N4	Reference T4 MeSH:C536170
+T5	DiseaseClass 271 290	recessive disorders
+N5	Reference T5 MeSH:D030342
+T6	SpecificDisease 291 309	achondrogenesis 1B
+N6	Reference T6 MeSH:C536016
+T7	SpecificDisease 311 329	atelosteogenesis 2
+N7	Reference T7 MeSH:C535395
+T8	SpecificDisease 335 356	diastrophic dysplasia
+N8	Reference T8 MeSH:C536170
+T9	SpecificDisease 699 728	multiple epiphyseal dysplasia
+N9	Reference T9 MeSH:D010009
+T10	SpecificDisease 749 758	club foot
+N10	Reference T10 MeSH:D003025
+T11	SpecificDisease 763 776	hip dysplasia
+N11	Reference T11 MeSH:D006618
+T12	SpecificDisease 820 849	multiple epiphyseal dysplasia
+N12	Reference T12 MeSH:D010009
+T13	DiseaseClass 882 904	double layered patella
+N13	Reference T13 MeSH:C535504
+T14	SpecificDisease 940 952	Cleft palate
+N14	Reference T14 MeSH:D002972
+T15	DiseaseClass 954 979	swelling of the ear pinna
+N15	Reference T15 MeSH:D004427
+T16	DiseaseClass 985 1002	hitch hiker thumb
+N16	Reference T16 MeSH:C536903
+T17	SpecificDisease 1189 1204	DTDST disorders
+N17	Reference T17 MeSH:D030342
+T18	DiseaseClass 1234 1252	recessive disorder
+N18	Reference T18 MeSH:D030342
+T19	SpecificDisease 1323 1352	Multiple epiphyseal dysplasia
+N19	Reference T19 MeSH:D010009
+T20	SpecificDisease 1414 1418	EDM1
+N20	Reference T20 OMIM:132400
+T21	SpecificDisease 1455 1459	EDM2
+N21	Reference T21 OMIM:600204
+T22	SpecificDisease 1624 1627	MED
+N22	Reference T22 MeSH:D010009
+T23	SpecificDisease 1629 1633	EDM4
+N23	Reference T23 OMIM:226900

@@ -1,0 +1,4 @@
+T1	SpecificDisease 44 65	ataxia-telangiectasia
+N1	Reference T1 MeSH:D001260
+T2	SpecificDisease 205 226	ataxia-telangiectasia
+N2	Reference T2 MeSH:D001260

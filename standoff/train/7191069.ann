@@ -1,0 +1,14 @@
+T1	SpecificDisease 13 26	C2-deficiency
+N1	Reference T1 OMIM:217000
+T2	SpecificDisease 31 48	myasthenia gravis
+N2	Reference T2 MeSH:D009157
+T3	Modifier 50 71	Complement deficiency
+N3	Reference T3 MeSH:D007153
+T4	SpecificDisease 82 99	myasthenia gravis
+N4	Reference T4 MeSH:D009157
+T5	SpecificDisease 101 103	MG
+N5	Reference T5 MeSH:D009157
+T6	SpecificDisease 185 187	MG
+N6	Reference T6 MeSH:D009157
+T7	SpecificDisease 205 218	C2 deficiency
+N7	Reference T7 OMIM:217000

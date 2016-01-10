@@ -1,0 +1,10 @@
+T1	SpecificDisease 43 84	normotriglyceridemic abetalipoproteinemia
+N1	Reference T1 MeSH:D000012
+T2	SpecificDisease 143 184	Normotriglyceridemic abetalipoproteinemia
+N2	Reference T2 MeSH:D000012
+T3	DiseaseClass 195 212	familial disorder
+N3	Reference T3 MeSH:D009358
+T4	SpecificDisease 242 264	deficiency of apoB-100
+N4	Reference T4 OMIM:200100
+T5	DiseaseClass 380 401	genetic abnormalities
+N5	Reference T5 MeSH:D030342

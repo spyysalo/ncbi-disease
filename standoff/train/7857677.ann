@@ -1,0 +1,22 @@
+T1	Modifier 76 99	type II Gaucher disease
+N1	Reference T1 MeSH:D005776
+T2	SpecificDisease 163 178	Gaucher disease
+N2	Reference T2 MeSH:D005776
+T3	SpecificDisease 180 182	GD
+N3	Reference T3 MeSH:D005776
+T4	SpecificDisease 200 237	deficiency of beta-glucocerebrosidase
+N4	Reference T4 MeSH:D005776
+T5	SpecificDisease 276 285	type I GD
+N5	Reference T5 MeSH:D005776
+T6	SpecificDisease 342 352	type II GD
+N6	Reference T6 MeSH:D005776
+T7	SpecificDisease 434 445	type III GD
+N7	Reference T7 MeSH:D005776
+T8	SpecificDisease 575 585	type GD II
+N8	Reference T8 MeSH:D005776
+T9	Modifier 1290 1300	GD type II
+N9	Reference T9 MeSH:D005776
+T10	DiseaseClass 1445 1454	stillborn
+N10	Reference T10 MeSH:D005313
+T11	SpecificDisease 1492 1502	type II GD
+N11	Reference T11 MeSH:D005776

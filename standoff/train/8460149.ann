@@ -1,0 +1,30 @@
+T1	SpecificDisease 62 85	hypobetalipoproteinemia
+N1	Reference T1 MeSH:D006995
+T2	DiseaseClass 90 117	developmental abnormalities
+N2	Reference T2 MeSH:D006130
+T3	SpecificDisease 127 159	Familial hypobetalipoproteinemia
+N3	Reference T3 MeSH:D052476
+T4	DiseaseClass 166 195	autosomal codominant disorder
+N4	Reference T4 MeSH:D030342
+T5	SpecificDisease 341 364	hypobetalipoproteinemia
+N5	Reference T5 MeSH:D006995
+T6	DiseaseClass 423 448	coronary vascular disease
+N6	Reference T6 MeSH:D003323
+T7	SpecificDisease 590 613	hypobetalipoproteinemia
+N7	Reference T7 MeSH:D006995
+T8	SpecificDisease 858 881	hypobetalipoproteinemia
+N8	Reference T8 MeSH:D006995
+T9	SpecificDisease 945 960	chylomicronemia
+N9	Reference T9 OMIM:238600
+T10	SpecificDisease 1095 1107	exencephalus
+N10	Reference T10 MeSH:D009436
+T11	SpecificDisease 1112 1125	hydrocephalus
+N11	Reference T11 MeSH:D006849
+T12	SpecificDisease 1180 1203	hypobetalipoproteinemia
+N12	Reference T12 MeSH:D006995
+T13	DiseaseClass 1205 1218	atherogenesis
+N13	Reference T13 MeSH:D050197
+T14	SpecificDisease 1240 1252	exencephalus
+N14	Reference T14 MeSH:D009436
+T15	SpecificDisease 1257 1270	hydrocephalus
+N15	Reference T15 MeSH:D006849

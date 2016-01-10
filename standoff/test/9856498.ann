@@ -1,0 +1,10 @@
+T1	SpecificDisease 23 36	C6 deficiency
+N1	Reference T1 OMIM:612446
+T2	SpecificDisease 72 125	Deficiency of the sixth component of human complement
+N2	Reference T2 OMIM:612446
+T3	SpecificDisease 210 231	Meningococcal disease
+N3	Reference T3 MeSH:D008589
+T4	SpecificDisease 289 302	C6 deficiency
+N4	Reference T4 OMIM:612446
+T5	Modifier 1150 1162	C6-deficient
+N5	Reference T5 OMIM:612446

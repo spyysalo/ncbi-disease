@@ -1,0 +1,14 @@
+T1	SpecificDisease 26 41	McLeod syndrome
+N1	Reference T1 OMIM:300842
+T2	SpecificDisease 91 106	McLeod syndrome
+N2	Reference T2 OMIM:300842
+T3	DiseaseClass 113 142	X-linked multisystem disorder
+N3	Reference T3 MeSH:D040181
+T4	Modifier 287 293	McLeod
+N4	Reference T4 OMIM:300842
+T5	Modifier 554 560	McLeod
+N5	Reference T5 OMIM:300842
+T6	Modifier 744 750	McLeod
+N6	Reference T6 OMIM:300842
+T7	SpecificDisease 903 918	McLeod syndrome
+N7	Reference T7 OMIM:300842

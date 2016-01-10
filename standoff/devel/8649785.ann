@@ -1,0 +1,14 @@
+T1	SpecificDisease 93 113	Li-Fraumeni syndrome
+N1	Reference T1 MeSH:D016864
+T2	SpecificDisease 158 178	Li-Fraumeni syndrome
+N2	Reference T2 MeSH:D016864
+T3	Modifier 228 234	tumour
+N3	Reference T3 MeSH:D009369
+T4	DiseaseClass 535 551	sporadic tumours
+N4	Reference T4 MeSH:D009369
+T5	DiseaseClass 713 720	tumours
+N5	Reference T5 MeSH:D009369
+T6	SpecificDisease 769 783	leiomyosarcoma
+N6	Reference T6 MeSH:D007890
+T7	DiseaseClass 844 850	tumour
+N7	Reference T7 MeSH:D009369

@@ -1,0 +1,46 @@
+T1	CompositeMention 0 41	Overgrowth of oral mucosa and facial skin
+N1	Reference T1 MeSH:D006965
+T2	SpecificDisease 62 84	aspartylglucosaminuria
+N2	Reference T2 MeSH:D054880
+T3	SpecificDisease 86 108	Aspartylglucosaminuria
+N3	Reference T3 MeSH:D054880
+T4	SpecificDisease 110 113	AGU
+N4	Reference T4 MeSH:D054880
+T5	DiseaseClass 120 146	lysosomal storage disorder
+N5	Reference T5 MeSH:D016464
+T6	SpecificDisease 157 194	deficiency of aspartylglucosaminidase
+N6	Reference T6 MeSH:D054880
+T7	DiseaseClass 234 252	mental retardation
+N7	Reference T7 MeSH:D008607
+T8	Modifier 445 448	AGU
+N8	Reference T8 MeSH:D054880
+T9	DiseaseClass 617 631	facial lesions
+N9	Reference T9 MeSH:D013568
+T10	SpecificDisease 794 821	erythema of the facial skin
+N10	Reference T10 MeSH:D017445
+T11	SpecificDisease 882 902	facial angiofibromas
+N11	Reference T11 MeSH:D018322
+T12	DiseaseClass 904 911	tumours
+N12	Reference T12 MeSH:D009369
+T13	SpecificDisease 952 970	tuberous sclerosis
+N13	Reference T13 MeSH:D014402
+T14	SpecificDisease 972 993	Oedemic buccal mucosa
+N14	Reference T14 MeSH:D007967
+T15	SpecificDisease 995 1005	leucoedema
+N15	Reference T15 MeSH:D007967
+T16	SpecificDisease 1011 1031	gingival overgrowths
+N16	Reference T16 MeSH:D019214
+T17	Modifier 1054 1057	AGU
+N17	Reference T17 MeSH:D054880
+T18	SpecificDisease 1104 1124	oral mucosal lesions
+N18	Reference T18 MeSH:D009059
+T19	CompositeMention 1164 1206	fibroepithelial or epithelial hyperplasias
+N19	Reference T19 MeSH:D017573
+T20	Modifier 1327 1330	AGU
+N20	Reference T20 MeSH:D054880
+T21	SpecificDisease 1340 1355	mucosal lesions
+N21	Reference T21 MeSH:D009059
+T22	SpecificDisease 1459 1477	mucosal overgrowth
+N22	Reference T22 MeSH:D009059
+T23	Modifier 1481 1484	AGU
+N23	Reference T23 MeSH:D054880

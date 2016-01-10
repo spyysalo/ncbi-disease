@@ -1,0 +1,60 @@
+T1	SpecificDisease 0 18	Haim-Munk syndrome
+N1	Reference T1 MeSH:C537627
+T2	SpecificDisease 23 48	Papillon-Lefevre syndrome
+N2	Reference T2 MeSH:D010214
+T3	DiseaseClass 99 140	palmoplantar keratoderma (PPK) conditions
+N3	Reference T3 MeSH:D007645
+T4	SpecificDisease 147 172	Papillon-Lefevre syndrome
+N4	Reference T4 MeSH:D010214
+T5	SpecificDisease 174 177	PLS
+N5	Reference T5 MeSH:D010214
+T6	SpecificDisease 183 201	Haim-Munk syndrome
+N6	Reference T6 MeSH:C537627
+T7	SpecificDisease 203 206	HMS
+N7	Reference T7 MeSH:C537627
+T8	SpecificDisease 277 280	PLS
+N8	Reference T8 MeSH:D010214
+T9	SpecificDisease 285 288	HMS
+N9	Reference T9 MeSH:C537627
+T10	DiseaseClass 320 323	PPK
+N10	Reference T10 MeSH:D007645
+T11	SpecificDisease 335 348	periodontitis
+N11	Reference T11 MeSH:D010518
+T12	SpecificDisease 398 401	HMS
+N12	Reference T12 MeSH:C537627
+T13	SpecificDisease 412 426	arachnodactyly
+N13	Reference T13 MeSH:D054119
+T14	SpecificDisease 428 443	acro-osteolysis
+N14	Reference T14 MeSH:D030981
+T15	SpecificDisease 445 474	atrophic changes of the nails
+N15	Reference T15 MeSH:D009260
+T16	SpecificDisease 482 519	radiographic deformity of the fingers
+N16	Reference T16 MeSH:D006226
+T17	Modifier 527 530	PLS
+N17	Reference T17 MeSH:D010214
+T18	SpecificDisease 580 583	HMS
+N18	Reference T18 MeSH:C537627
+T19	SpecificDisease 802 805	PLS
+N19	Reference T19 MeSH:D010214
+T20	SpecificDisease 971 974	HMS
+N20	Reference T20 MeSH:C537627
+T21	DiseaseClass 1059 1073	genetic defect
+N21	Reference T21 MeSH:D030342
+T22	SpecificDisease 1077 1080	PLS
+N22	Reference T22 MeSH:D010214
+T23	SpecificDisease 1145 1148	HMS
+N23	Reference T23 MeSH:C537627
+T24	Modifier 1250 1253	PLS
+N24	Reference T24 MeSH:D010214
+T25	Modifier 1258 1261	HMS
+N25	Reference T25 MeSH:C537627
+T26	SpecificDisease 1463 1466	HMS
+N26	Reference T26 MeSH:C537627
+T27	SpecificDisease 1817 1820	HMS
+N27	Reference T27 MeSH:C537627
+T28	SpecificDisease 1945 1948	PLS
+N28	Reference T28 MeSH:D010214
+T29	SpecificDisease 1987 1990	PLS
+N29	Reference T29 MeSH:D010214
+T30	SpecificDisease 1995 1998	HMS
+N30	Reference T30 MeSH:C537627

@@ -1,0 +1,27 @@
+T1	CompositeMention 78 113	Prader-Willi and angelman syndromes
+N1	Reference T1 MeSH:D011218
+N2	Reference T1 MeSH:D017204
+T2	SpecificDisease 115 136	Prader-Willi syndrome
+N3	Reference T2 MeSH:D011218
+T3	SpecificDisease 138 141	PWS
+N4	Reference T3 MeSH:D011218
+T4	SpecificDisease 147 164	Angelman syndrome
+N5	Reference T4 MeSH:D017204
+T5	SpecificDisease 166 168	AS
+N6	Reference T5 MeSH:D017204
+T6	SpecificDisease 568 571	PWS
+N7	Reference T6 MeSH:D011218
+T7	SpecificDisease 576 578	AS
+N8	Reference T7 MeSH:D017204
+T8	Modifier 815 818	PWS
+N9	Reference T8 MeSH:D011218
+T9	Modifier 819 821	AS
+N10	Reference T9 MeSH:D017204
+T10	Modifier 988 991	PWS
+N11	Reference T10 MeSH:D011218
+T11	Modifier 996 998	AS
+N12	Reference T11 MeSH:D017204
+T12	Modifier 1073 1075	AS
+N13	Reference T12 MeSH:D017204
+T13	SpecificDisease 1368 1371	PWS
+N14	Reference T13 MeSH:D011218

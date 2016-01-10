@@ -1,0 +1,10 @@
+T1	Modifier 16 20	FRDA
+N1	Reference T1 MeSH:D005621
+T2	SpecificDisease 83 100	Friedreich ataxia
+N2	Reference T2 MeSH:D005621
+T3	SpecificDisease 102 106	FRDA
+N3	Reference T3 MeSH:D005621
+T4	DiseaseClass 127 143	inherited ataxia
+N4	Reference T4 MeSH:D013132
+T5	Modifier 525 529	FRDA
+N5	Reference T5 MeSH:D005621

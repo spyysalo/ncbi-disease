@@ -1,0 +1,16 @@
+T1	SpecificDisease 27 52	mucopolysaccharidosis IVA
+N1	Reference T1 OMIM:253000
+T2	SpecificDisease 173 198	Mucopolysaccharidosis IVA
+N2	Reference T2 OMIM:253000
+T3	SpecificDisease 200 207	MPS IVA
+N3	Reference T3 OMIM:253000
+T4	DiseaseClass 215 261	autosomal recessive lysosomal storage disorder
+N4	Reference T4 MeSH:D016464
+T5	DiseaseClass 274 288	genetic defect
+N5	Reference T5 MeSH:D030342
+T6	Modifier 476 483	MPS IVA
+N6	Reference T6 OMIM:253000
+T7	Modifier 593 600	MPS IVA
+N7	Reference T7 OMIM:253000
+T8	SpecificDisease 1889 1896	MPS IVA
+N8	Reference T8 OMIM:253000

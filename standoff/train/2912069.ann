@@ -1,0 +1,10 @@
+T1	SpecificDisease 218 233	G6PD deficiency
+N1	Reference T1 MeSH:D005955
+T2	SpecificDisease 636 651	G6PD deficiency
+N2	Reference T2 MeSH:D005955
+T3	SpecificDisease 699 726	G6PD Seattle-like phenotype
+N3	Reference T3 MeSH:D005955
+T4	SpecificDisease 745 760	G6PD deficiency
+N4	Reference T4 MeSH:D005955
+T5	SpecificDisease 825 840	G6PD deficiency
+N5	Reference T5 MeSH:D005955

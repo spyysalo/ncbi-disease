@@ -1,0 +1,8 @@
+T1	SpecificDisease 19 34	phenylketonuria
+N1	Reference T1 MeSH:D010661
+T2	DiseaseClass 47 69	hyperphenylalaninemias
+N2	Reference T2 MeSH:D010661
+T3	SpecificDisease 208 223	phenylketonuria
+N3	Reference T3 MeSH:D010661
+T4	DiseaseClass 227 248	hyperphenylalaninemia
+N4	Reference T4 MeSH:D010661

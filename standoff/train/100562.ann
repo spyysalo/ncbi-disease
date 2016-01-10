@@ -1,0 +1,24 @@
+T1	SpecificDisease 0 58	Familial deficiency of the seventh component of complement
+N1	Reference T1 OMIM:610102
+T2	DiseaseClass 85 123	bacteremic infections due to Neisseria
+N2	Reference T2 MeSH:D016870
+T3	SpecificDisease 183 216	disseminated gonococcal infection
+N3	Reference T3 MeSH:D004673
+T4	SpecificDisease 234 258	meningococcal meningitis
+N4	Reference T4 MeSH:D008585
+T5	DiseaseClass 263 272	arthritis
+N5	Reference T5 MeSH:D001168
+T6	Modifier 734 758	absence of functional C7
+N6	Reference T6 OMIM:610102
+T7	SpecificDisease 898 920	Complete absence of C7
+N7	Reference T7 OMIM:610102
+T8	SpecificDisease 984 1008	meningococcal meningitis
+N8	Reference T8 MeSH:D008585
+T9	DiseaseClass 1013 1022	arthritis
+N9	Reference T9 MeSH:D001168
+T10	SpecificDisease 1196 1209	C7 deficiency
+N10	Reference T10 OMIM:610102
+T11	SpecificDisease 1292 1305	C7 deficiency
+N11	Reference T11 OMIM:610102
+T12	SpecificDisease 1428 1459	bacteremic neisseria infections
+N12	Reference T12 MeSH:D016870

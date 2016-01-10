@@ -1,0 +1,4 @@
+T1	SpecificDisease 73 88	phenylketonuria
+N1	Reference T1 MeSH:D010661
+T2	SpecificDisease 482 497	phenylketonuria
+N2	Reference T2 MeSH:D010661

@@ -1,0 +1,16 @@
+T1	SpecificDisease 21 36	phenylketonuria
+N1	Reference T1 MeSH:D010661
+T2	SpecificDisease 48 63	Phenylketonuria
+N2	Reference T2 MeSH:D010661
+T3	SpecificDisease 65 68	PKU
+N3	Reference T3 MeSH:D010661
+T4	DiseaseClass 73 106	disorder of amino acid metabolism
+N4	Reference T4 MeSH:D000592
+T5	SpecificDisease 184 242	deficiency of the hepatic enzyme phenylalanine hydroxylase
+N5	Reference T5 OMIM:261600
+T6	SpecificDisease 250 253	PKU
+N6	Reference T6 MeSH:D010661
+T7	Modifier 710 713	PKU
+N7	Reference T7 MeSH:D010661
+T8	SpecificDisease 1388 1391	PKU
+N8	Reference T8 MeSH:D010661

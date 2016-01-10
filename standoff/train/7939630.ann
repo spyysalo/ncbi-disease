@@ -1,0 +1,26 @@
+T1	CompositeMention 27 56	breast and ovarian carcinomas
+N1	Reference T1 MeSH:D001943
+N2	Reference T1 MeSH:D010051
+T2	DiseaseClass 91 106	familial tumors
+N3	Reference T2 MeSH:D009386
+T3	CompositeMention 165 188	ovarian and early-onset
+N4	Reference T3 MeSH:D010051
+T4	CompositeMention 189 202	breast cancer
+N5	Reference T4 MeSH:D001943
+T5	Modifier 214 219	tumor
+N6	Reference T5 MeSH:D009369
+T6	SpecificDisease 284 319	sporadic breast and ovarian cancers
+N7	Reference T6 MeSH:D001943
+N8	Reference T6 MeSH:D010051
+T7	DiseaseClass 387 393	tumors
+N9	Reference T7 MeSH:D009369
+T8	CompositeMention 457 482	breast and ovarian tumors
+N10	Reference T8 MeSH:D001943
+N11	Reference T8 MeSH:D010051
+T9	SpecificDisease 579 597	ovarian carcinomas
+N12	Reference T9 MeSH:D010051
+T10	DiseaseClass 672 679	cancers
+N13	Reference T10 MeSH:D009369
+T11	CompositeMention 784 810	breast and ovarian cancers
+N14	Reference T11 MeSH:D001943
+N15	Reference T11 MeSH:D010051

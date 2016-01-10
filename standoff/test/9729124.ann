@@ -1,0 +1,18 @@
+T1	Modifier 31 59	congenital chloride diarrhea
+N1	Reference T1 MeSH:C536210
+T2	Modifier 61 64	CLD
+N2	Reference T2 MeSH:C536210
+T3	SpecificDisease 72 100	Congenital chloride diarrhea
+N3	Reference T3 MeSH:C536210
+T4	SpecificDisease 102 105	CLD
+N4	Reference T4 MeSH:C536210
+T5	Modifier 249 252	CLD
+N5	Reference T5 MeSH:C536210
+T6	Modifier 643 646	CLD
+N6	Reference T6 MeSH:C536210
+T7	Modifier 900 903	CLD
+N7	Reference T7 MeSH:C536210
+T8	Modifier 971 987	Pendred syndrome
+N8	Reference T8 MeSH:C536648
+T9	SpecificDisease 994 997	PDS
+N9	Reference T9 MeSH:C536648

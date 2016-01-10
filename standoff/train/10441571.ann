@@ -1,0 +1,22 @@
+T1	DiseaseClass 71 84	eye anomalies
+N1	Reference T1 MeSH:D005124
+T2	DiseaseClass 195 211	ocular anomalies
+N2	Reference T2 MeSH:D005124
+T3	SpecificDisease 223 231	aniridia
+N3	Reference T3 MeSH:D015783
+T4	SpecificDisease 233 247	Peters anomaly
+N4	Reference T4 MeSH:C537884
+T5	SpecificDisease 249 266	corneal dystrophy
+N5	Reference T5 MeSH:D003317
+T6	SpecificDisease 268 287	congenital cataract
+N6	Reference T6 MeSH:D002386
+T7	SpecificDisease 293 310	foveal hypoplasia
+N7	Reference T7 OMIM:136520
+T8	SpecificDisease 1050 1064	Peters anomaly
+N8	Reference T8 MeSH:C537884
+T9	SpecificDisease 1066 1085	congenital cataract
+N9	Reference T9 MeSH:D002386
+T10	SpecificDisease 1087 1104	Axenfeldt anomaly
+N10	Reference T10 MeSH:C535679
+T11	SpecificDisease 1113 1130	foveal hypoplasia
+N11	Reference T11 OMIM:136520

@@ -1,0 +1,50 @@
+T1	Modifier 32 35	APC
+N1	Reference T1 MeSH:D011125
+T2	SpecificDisease 111 152	attenuated familial adenomatous polyposis
+N2	Reference T2 MeSH:C538265
+T3	Modifier 180 218	adenomatous polyposis coli (APC) tumor
+N3	Reference T3 MeSH:D011125
+T4	SpecificDisease 245 275	familial adenomatous polyposis
+N4	Reference T4 MeSH:D011125
+T5	SpecificDisease 277 280	FAP
+N5	Reference T5 MeSH:D011125
+T6	SpecificDisease 297 300	FAP
+N6	Reference T6 MeSH:D011125
+T7	SpecificDisease 344 368	benign colorectal tumors
+N7	Reference T7 MeSH:D015179
+T8	SpecificDisease 385 402	colorectal cancer
+N8	Reference T8 MeSH:D015179
+T9	Modifier 425 428	APC
+N9	Reference T9 MeSH:D011125
+T10	Modifier 453 467	attenuated FAP
+N10	Reference T10 MeSH:C538265
+T11	Modifier 469 473	AFAP
+N11	Reference T11 MeSH:C538265
+T12	DiseaseClass 518 524	tumors
+N12	Reference T12 MeSH:D009369
+T13	Modifier 626 629	APC
+N13	Reference T13 MeSH:D011125
+T14	SpecificDisease 672 676	AFAP
+N14	Reference T14 MeSH:C538265
+T15	SpecificDisease 721 725	AFAP
+N15	Reference T15 MeSH:C538265
+T16	SpecificDisease 787 791	AFAP
+N16	Reference T16 MeSH:C538265
+T17	Modifier 822 825	APC
+N17	Reference T17 MeSH:D011125
+T18	Modifier 997 1002	tumor
+N18	Reference T18 MeSH:D009369
+T19	Modifier 1120 1123	APC
+N19	Reference T19 MeSH:D011125
+T20	SpecificDisease 1165 1182	colorectal tumors
+N20	Reference T20 MeSH:D015179
+T21	DiseaseClass 1294 1300	tumors
+N21	Reference T21 MeSH:D009369
+T22	SpecificDisease 1402 1419	colorectal tumors
+N22	Reference T22 MeSH:D015179
+T23	SpecificDisease 1450 1453	FAP
+N23	Reference T23 MeSH:D011125
+T24	Modifier 1491 1494	APC
+N24	Reference T24 MeSH:D011125
+T25	SpecificDisease 1578 1595	colorectal tumors
+N25	Reference T25 MeSH:D015179

@@ -1,0 +1,16 @@
+T1	SpecificDisease 0 18	Huntington disease
+N1	Reference T1 MeSH:D006816
+T2	SpecificDisease 39 56	Tourette syndrome
+N2	Reference T2 MeSH:D005879
+T3	SpecificDisease 97 114	Tourette syndrome
+N3	Reference T3 MeSH:D005879
+T4	SpecificDisease 116 118	TS
+N4	Reference T4 MeSH:D005879
+T5	SpecificDisease 130 148	Huntington disease
+N5	Reference T5 MeSH:D006816
+T6	SpecificDisease 150 152	HD
+N6	Reference T6 MeSH:D006816
+T7	SpecificDisease 220 222	TS
+N7	Reference T7 MeSH:D005879
+T8	SpecificDisease 240 242	HD
+N8	Reference T8 MeSH:D006816

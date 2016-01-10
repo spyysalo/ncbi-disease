@@ -1,0 +1,26 @@
+T1	Modifier 12 20	aniridia
+N1	Reference T1 MeSH:D015783
+T2	SpecificDisease 55 63	Aniridia
+N2	Reference T2 MeSH:D015783
+T3	SpecificDisease 65 80	iris hypoplasia
+N3	Reference T3 MeSH:D007499
+T4	DiseaseClass 88 137	autosomal dominant congenital disorder of the eye
+N4	Reference T4 MeSH:D005124
+T5	Modifier 162 170	aniridia
+N5	Reference T5 MeSH:D015783
+T6	SpecificDisease 352 360	aniridia
+N6	Reference T6 MeSH:D015783
+T7	SpecificDisease 667 676	cataracts
+N7	Reference T7 MeSH:D002386
+T8	Modifier 683 691	aniridia
+N8	Reference T8 MeSH:D015783
+T9	Modifier 757 765	aniridia
+N9	Reference T9 MeSH:D015783
+T10	SpecificDisease 779 786	anosmia
+N10	Reference T10 MeSH:D000857
+T11	Modifier 821 829	aniridia
+N11	Reference T11 MeSH:D015783
+T12	SpecificDisease 957 965	aniridia
+N12	Reference T12 MeSH:D015783
+T13	SpecificDisease 979 1005	haploinsufficiency of PAX6
+N13	Reference T13 OMIM:106210

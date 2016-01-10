@@ -1,0 +1,10 @@
+T1	Modifier 173 184	Lesch-Nyhan
+N1	Reference T1 MeSH:D007926
+T2	SpecificDisease 276 296	Lesch-Nyhan syndrome
+N2	Reference T2 MeSH:D007926
+T3	SpecificDisease 309 378	complete deficiency of hypoxanthine guanine phosphoribosyltransferase
+N3	Reference T3 MeSH:D007926
+T4	SpecificDisease 643 663	Lesch-Nyhan syndrome
+N4	Reference T4 MeSH:D007926
+T5	Modifier 1189 1203	HPRT deficient
+N5	Reference T5 MeSH:D007926

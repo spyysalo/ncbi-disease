@@ -1,0 +1,12 @@
+T1	SpecificDisease 49 64	phenylketonuria
+N1	Reference T1 MeSH:D010661
+T2	SpecificDisease 66 91	Classical phenylketonuria
+N2	Reference T2 MeSH:D010661
+T3	DiseaseClass 98 125	autosomal recessive disease
+N3	Reference T3 MeSH:D030342
+T4	SpecificDisease 138 185	deficiency of hepatic phenylalanine hydroxylase
+N4	Reference T4 OMIM:261600
+T5	SpecificDisease 606 609	PKU
+N5	Reference T5 MeSH:D010661
+T6	SpecificDisease 684 700	PAH deficiencies
+N6	Reference T6 OMIM:261600

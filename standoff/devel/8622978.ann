@@ -1,0 +1,10 @@
+T1	Modifier 26 40	von Willebrand
+N1	Reference T1 MeSH:D014842
+T2	SpecificDisease 88 119	type IID von Willebrand disease
+N2	Reference T2 MeSH:D056728
+T3	Modifier 180 194	von Willebrand
+N3	Reference T3 MeSH:D014842
+T4	SpecificDisease 260 291	type IID von Willebrand disease
+N4	Reference T4 MeSH:D056728
+T5	SpecificDisease 1405 1436	type IID von Willebrand disease
+N5	Reference T5 MeSH:D056728

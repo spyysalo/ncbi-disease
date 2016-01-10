@@ -1,0 +1,14 @@
+T1	SpecificDisease 425 433	aniridia
+N1	Reference T1 MeSH:D015783
+T2	SpecificDisease 435 449	Peters anomaly
+N2	Reference T2 MeSH:C537884
+T3	SpecificDisease 451 479	autosomal dominant keratitis
+N3	Reference T3 MeSH:C537022
+T4	SpecificDisease 485 510	familial foveal dysplasia
+N4	Reference T4 OMIM:136520
+T5	SpecificDisease 592 600	aniridia
+N5	Reference T5 MeSH:D015783
+T6	SpecificDisease 757 765	Aniridia
+N6	Reference T6 MeSH:D015783
+T7	SpecificDisease 1524 1532	aniridia
+N7	Reference T7 MeSH:D015783

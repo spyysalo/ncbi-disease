@@ -1,0 +1,14 @@
+T1	SpecificDisease 60 74	Wilson disease
+N1	Reference T1 MeSH:D006527
+T2	SpecificDisease 76 90	Wilson disease
+N2	Reference T2 MeSH:D006527
+T3	SpecificDisease 92 94	WD
+N3	Reference T3 MeSH:D006527
+T4	DiseaseClass 102 130	autosomal recessive disorder
+N4	Reference T4 MeSH:D030342
+T5	SpecificDisease 365 367	WD
+N5	Reference T5 MeSH:D006527
+T6	SpecificDisease 1275 1277	WD
+N6	Reference T6 MeSH:D006527
+T7	SpecificDisease 1338 1340	WD
+N7	Reference T7 MeSH:D006527

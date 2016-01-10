@@ -1,0 +1,8 @@
+T1	DiseaseClass 38 56	metabolic disorder
+N1	Reference T1 MeSH:D008659
+T2	SpecificDisease 57 98	normotriglyceridemic abetalipoproteinemia
+N2	Reference T2 MeSH:D000012
+T3	SpecificDisease 141 182	normotriglyceridemic abetalipoproteinemia
+N3	Reference T3 MeSH:D000012
+T4	SpecificDisease 754 788	homozygous hypobetalipoproteinemia
+N4	Reference T4 MeSH:D006995

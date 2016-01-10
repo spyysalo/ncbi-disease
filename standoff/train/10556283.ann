@@ -1,0 +1,40 @@
+T1	DiseaseClass 50 56	cancer
+N1	Reference T1 MeSH:D009369
+T2	Modifier 205 210	tumor
+N2	Reference T2 MeSH:D009369
+T3	DiseaseClass 296 321	malignant rhabdoid tumors
+N3	Reference T3 MeSH:D018335
+T4	DiseaseClass 372 378	tumors
+N4	Reference T4 MeSH:D009369
+T5	DiseaseClass 750 765	rhabdoid tumors
+N5	Reference T5 MeSH:D018335
+T6	DiseaseClass 854 860	tumors
+N6	Reference T6 MeSH:D009369
+T7	SpecificDisease 917 942	choroid plexus carcinomas
+N7	Reference T7 MeSH:D020288
+T8	DiseaseClass 980 1002	neuroectodermal tumors
+N8	Reference T8 MeSH:D017599
+T9	SpecificDisease 1016 1032	medulloblastomas
+N9	Reference T9 MeSH:D008527
+T10	SpecificDisease 1095 1109	breast cancers
+N10	Reference T10 MeSH:D001943
+T11	SpecificDisease 1111 1123	Wilms tumors
+N11	Reference T11 MeSH:D009396
+T12	SpecificDisease 1125 1132	gliomas
+N12	Reference T12 MeSH:D005910
+T13	SpecificDisease 1134 1145	ependymomas
+N13	Reference T13 MeSH:D004806
+T14	DiseaseClass 1147 1155	sarcomas
+N14	Reference T14 MeSH:D012509
+T15	Modifier 1166 1171	tumor
+N15	Reference T15 MeSH:D009369
+T16	DiseaseClass 1288 1303	rhabdoid tumors
+N16	Reference T16 MeSH:D018335
+T17	SpecificDisease 1305 1330	choroid plexus carcinomas
+N17	Reference T17 MeSH:D020288
+T18	SpecificDisease 1347 1363	medulloblastomas
+N18	Reference T18 MeSH:D008527
+T19	DiseaseClass 1536 1543	cancers
+N19	Reference T19 MeSH:D009369
+T20	Modifier 1624 1632	rhabdoid
+N20	Reference T20 MeSH:D018335

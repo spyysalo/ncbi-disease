@@ -1,0 +1,20 @@
+T1	SpecificDisease 67 88	Prader-Willi syndrome
+N1	Reference T1 MeSH:D011218
+T2	SpecificDisease 184 205	Prader-Willi syndrome
+N2	Reference T2 MeSH:D011218
+T3	SpecificDisease 207 210	PWS
+N3	Reference T3 MeSH:D011218
+T4	Modifier 250 253	PWS
+N4	Reference T4 MeSH:D011218
+T5	Modifier 270 302	neurodevelopmentally handicapped
+N5	Reference T5 MeSH:D009422
+T6	Modifier 408 411	PWS
+N6	Reference T6 MeSH:D011218
+T7	Modifier 615 618	PWS
+N7	Reference T7 MeSH:D011218
+T8	SpecificDisease 703 706	PWS
+N8	Reference T8 MeSH:D011218
+T9	Modifier 729 761	neurodevelopmentally handicapped
+N9	Reference T9 MeSH:D009422
+T10	DiseaseClass 844 870	hypothalamic abnormalities
+N10	Reference T10 MeSH:D007027

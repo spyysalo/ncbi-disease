@@ -1,0 +1,20 @@
+T1	SpecificDisease 0 11	Nephropathy
+N1	Reference T1 MeSH:D007674
+T2	SpecificDisease 19 43	Wiskott-Aldrich syndrome
+N2	Reference T2 MeSH:D014923
+T3	SpecificDisease 45 56	Nephropathy
+N3	Reference T3 MeSH:D007674
+T4	SpecificDisease 102 126	Wiskott-Aldrich syndrome
+N4	Reference T4 MeSH:D014923
+T5	SpecificDisease 211 222	nephropathy
+N5	Reference T5 MeSH:D007674
+T6	SpecificDisease 344 357	renal failure
+N6	Reference T6 MeSH:D051437
+T7	SpecificDisease 657 670	renal failure
+N7	Reference T7 MeSH:D051437
+T8	SpecificDisease 724 737	renal failure
+N8	Reference T8 MeSH:D051437
+T9	SpecificDisease 752 776	Wiskott-Aldrich syndrome
+N9	Reference T9 MeSH:D014923
+T10	SpecificDisease 883 896	renal disease
+N10	Reference T10 MeSH:D007674

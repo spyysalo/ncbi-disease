@@ -1,0 +1,10 @@
+T1	DiseaseClass 160 228	deficiency of glycosyl phosphatidylinositol (GPI) -anchored proteins
+N1	Reference T1 MeSH:C537277
+T2	SpecificDisease 263 298	paroxysmal nocturnal hemoglobinuria
+N2	Reference T2 MeSH:D006457
+T3	SpecificDisease 321 342	GPI-anchor deficiency
+N3	Reference T3 MeSH:C537277
+T4	SpecificDisease 427 446	embryonic lethality
+N4	Reference T4 MeSH:D020964
+T5	SpecificDisease 1394 1429	paroxysmal nocturnal hemoglobinuria
+N5	Reference T5 MeSH:D006457

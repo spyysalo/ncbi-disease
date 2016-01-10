@@ -1,0 +1,26 @@
+T1	SpecificDisease 0 14	Coats' disease
+N1	Reference T1 MeSH:D058456
+T2	SpecificDisease 30 63	unilateral retinal telangiectasis
+N2	Reference T2 MeSH:D058456
+T3	SpecificDisease 152 165	Coats disease
+N3	Reference T3 MeSH:D058456
+T4	DiseaseClass 186 223	abnormal retinal vascular development
+N4	Reference T4 MeSH:D058456
+T5	SpecificDisease 235 257	retinal telangiectasis
+N5	Reference T5 MeSH:D058456
+T6	CompositeMention 284 330	intraretinal and subretinal lipid accumulation
+N6	Reference T6 MeSH:D006949
+T7	DiseaseClass 332 360	exudative retinal detachment
+N7	Reference T7 MeSH:D012163
+T8	SpecificDisease 385 398	Coats disease
+N8	Reference T8 MeSH:D058456
+T9	SpecificDisease 498 511	Coats disease
+N9	Reference T9 MeSH:D058456
+T10	SpecificDisease 544 558	Norrie disease
+N10	Reference T10 MeSH:C537849
+T11	SpecificDisease 715 728	Coats disease
+N11	Reference T11 MeSH:D058456
+T12	SpecificDisease 849 869	Coats telangiectasis
+N12	Reference T12 MeSH:D058456
+T13	DiseaseClass 938 958	deficiency of norrin
+N13	Reference T13 MeSH:C537849

@@ -1,0 +1,12 @@
+T1	Modifier 19 41	X-linked retinoschisis
+N1	Reference T1 MeSH:D041441
+T2	SpecificDisease 137 159	X-linked retinoschisis
+N2	Reference T2 MeSH:D041441
+T3	DiseaseClass 283 303	visual deterioration
+N3	Reference T3 MeSH:C531604
+T4	Modifier 1376 1390	retinoblastoma
+N4	Reference T4 MeSH:D012175
+T5	SpecificDisease 1604 1626	X-linked retinoschisis
+N5	Reference T5 MeSH:D041441
+T6	DiseaseClass 1779 1796	retinal dystrophy
+N6	Reference T6 MeSH:D058499

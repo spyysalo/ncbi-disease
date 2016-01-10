@@ -1,0 +1,42 @@
+T1	SpecificDisease 0 45	Maternal uniparental disomy for chromosome 14
+N1	Reference T1 MeSH:D024182
+T2	SpecificDisease 106 151	maternal uniparental disomy for chromosome 14
+N2	Reference T2 MeSH:D024182
+T3	SpecificDisease 153 156	UPD
+N3	Reference T3 MeSH:D024182
+T4	SpecificDisease 248 269	Prader-Willi syndrome
+N4	Reference T4 MeSH:D011218
+T5	SpecificDisease 271 274	PWS
+N5	Reference T5 MeSH:D011218
+T6	DiseaseClass 287 300	short stature
+N6	Reference T6 MeSH:D006130
+T7	SpecificDisease 302 309	obesity
+N7	Reference T7 MeSH:D009765
+T8	DiseaseClass 316 335	developmental delay
+N8	Reference T8 MeSH:D002658
+T9	SpecificDisease 337 351	cryptorchidism
+N9	Reference T9 MeSH:D003456
+T10	DiseaseClass 367 386	dysmorphic features
+N10	Reference T10 MeSH:D000013
+T11	DiseaseClass 418 449	intrauterine growth retardation
+N11	Reference T11 MeSH:D005317
+T12	DiseaseClass 558 567	hypotonia
+N12	Reference T12 MeSH:D009123
+T13	Modifier 678 683	obese
+N13	Reference T13 MeSH:D009765
+T14	SpecificDisease 721 742	middle ear infections
+N14	Reference T14 MeSH:D010033
+T15	SpecificDisease 936 957	Prader-Willi syndrome
+N15	Reference T15 MeSH:D011218
+T16	Modifier 1061 1064	PWS
+N16	Reference T16 MeSH:D011218
+T17	SpecificDisease 1105 1108	UPD
+N17	Reference T17 MeSH:D024182
+T18	DiseaseClass 1180 1201	maternal heterodisomy
+N18	Reference T18 MeSH:D024182
+T19	SpecificDisease 1276 1279	UPD
+N19	Reference T19 MeSH:D024182
+T20	SpecificDisease 1439 1442	UPD
+N20	Reference T20 MeSH:D024182
+T21	Modifier 1580 1583	PWS
+N21	Reference T21 MeSH:D011218

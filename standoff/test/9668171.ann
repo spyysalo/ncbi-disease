@@ -1,0 +1,14 @@
+T1	Modifier 65 83	myotonic dystrophy
+N1	Reference T1 MeSH:D009223
+T2	SpecificDisease 324 342	myotonic dystrophy
+N2	Reference T2 MeSH:D009223
+T3	SpecificDisease 344 346	DM
+N3	Reference T3 MeSH:D009223
+T4	SpecificDisease 648 650	DM
+N4	Reference T4 MeSH:D009223
+T5	DiseaseClass 667 683	genetic diseases
+N5	Reference T5 MeSH:D030342
+T6	Modifier 879 881	DM
+N6	Reference T6 MeSH:D009223
+T7	Modifier 1165 1167	DM
+N7	Reference T7 MeSH:D009223

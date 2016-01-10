@@ -1,0 +1,8 @@
+T1	SpecificDisease 26 41	G6PD deficiency
+N1	Reference T1 MeSH:D005955
+T2	SpecificDisease 119 134	G6PD deficiency
+N2	Reference T2 MeSH:D005955
+T3	SpecificDisease 394 409	G6PD deficiency
+N3	Reference T3 MeSH:D005955
+T4	SpecificDisease 495 502	malaria
+N4	Reference T4 MeSH:D008288

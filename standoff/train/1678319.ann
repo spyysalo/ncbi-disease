@@ -1,0 +1,6 @@
+T1	Modifier 64 82	familial polyposis
+N1	Reference T1 MeSH:D011125
+T2	SpecificDisease 186 221	familial adenomatous polyposis coli
+N2	Reference T2 MeSH:D011125
+T3	SpecificDisease 223 226	APC
+N3	Reference T3 MeSH:D011125

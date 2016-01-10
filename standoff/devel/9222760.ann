@@ -1,0 +1,16 @@
+T1	CompositeMention 27 60	classical and Duarte galactosemia
+N1	Reference T1 MeSH:D005693
+T2	SpecificDisease 124 146	Classical galactosemia
+N2	Reference T2 MeSH:D005693
+T3	CompositeMention 530 563	classical and Duarte galactosemia
+N3	Reference T3 MeSH:D005693
+T4	SpecificDisease 616 638	classical galactosemia
+N4	Reference T4 MeSH:D005693
+T5	Modifier 809 821	galactosemia
+N5	Reference T5 MeSH:D005693
+T6	Modifier 920 932	galactosemia
+N6	Reference T6 MeSH:D005693
+T7	SpecificDisease 1132 1144	galactosemia
+N7	Reference T7 MeSH:D005693
+T8	Modifier 1204 1216	galactosemia
+N8	Reference T8 MeSH:D005693

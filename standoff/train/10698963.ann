@@ -1,0 +1,10 @@
+T1	SpecificDisease 339 354	G6PD deficiency
+N1	Reference T1 MeSH:D005955
+T2	SpecificDisease 381 406	episodic hemolytic anemia
+N2	Reference T2 MeSH:D000743
+T3	SpecificDisease 452 478	life-long hemolytic anemia
+N3	Reference T3 MeSH:D000745
+T4	SpecificDisease 791 806	G6PD deficiency
+N4	Reference T4 MeSH:D005955
+T5	SpecificDisease 1082 1097	G6PD deficiency
+N5	Reference T5 MeSH:D005955

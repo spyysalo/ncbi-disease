@@ -1,0 +1,30 @@
+T1	SpecificDisease 60 85	unilateral retinoblastoma
+N1	Reference T1 MeSH:D012175
+T2	SpecificDisease 118 143	unilateral retinoblastoma
+N2	Reference T2 MeSH:D012175
+T3	Modifier 145 150	tumor
+N3	Reference T3 MeSH:D009369
+T4	Modifier 278 292	retinoblastoma
+N4	Reference T4 MeSH:D012175
+T5	SpecificDisease 429 454	unilateral retinoblastoma
+N5	Reference T5 MeSH:D012175
+T6	Modifier 503 508	tumor
+N6	Reference T6 MeSH:D009369
+T7	DiseaseClass 533 539	tumors
+N7	Reference T7 MeSH:D009369
+T8	DiseaseClass 742 748	tumors
+N8	Reference T8 MeSH:D009369
+T9	DiseaseClass 894 900	tumors
+N9	Reference T9 MeSH:D009369
+T10	DiseaseClass 928 934	tumors
+N10	Reference T10 MeSH:D009369
+T11	DiseaseClass 997 1003	tumors
+N11	Reference T11 MeSH:D009369
+T12	DiseaseClass 1093 1099	tumors
+N12	Reference T12 MeSH:D009369
+T13	DiseaseClass 1792 1798	tumors
+N13	Reference T13 MeSH:D009369
+T14	SpecificDisease 1829 1853	bilateral retinoblastoma
+N14	Reference T14 MeSH:D012175
+T15	SpecificDisease 1939 1953	retinoblastoma
+N15	Reference T15 MeSH:D012175

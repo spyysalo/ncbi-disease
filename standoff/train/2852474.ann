@@ -1,0 +1,34 @@
+T1	SpecificDisease 0 34	Complex glycerol kinase deficiency
+N1	Reference T1 MeSH:C538138
+T2	SpecificDisease 149 183	complex glycerol kinase deficiency
+N2	Reference T2 MeSH:C538138
+T3	SpecificDisease 185 189	CGKD
+N3	Reference T3 MeSH:C538138
+T4	DiseaseClass 297 315	muscular dystrophy
+N4	Reference T4 MeSH:D009136
+T5	DiseaseClass 319 334	muscle weakness
+N5	Reference T5 MeSH:D018908
+T6	DiseaseClass 336 354	mental retardation
+N6	Reference T6 MeSH:D008607
+T7	SpecificDisease 356 385	congenital adrenal hypoplasia
+N7	Reference T7 MeSH:D000312
+T8	DiseaseClass 391 417	glycerol kinase deficiency
+N8	Reference T8 MeSH:C538138
+T9	Modifier 1222 1226	CGKD
+N9	Reference T9 MeSH:C538138
+T10	Modifier 1230 1257	Duchenne muscular dystrophy
+N10	Reference T10 MeSH:D020388
+T11	Modifier 1259 1262	DMD
+N11	Reference T11 MeSH:D020388
+T12	SpecificDisease 1348 1371	gonadotropin deficiency
+N12	Reference T12 MeSH:C535764
+T13	SpecificDisease 1373 1376	GTD
+N13	Reference T13 MeSH:C535764
+T14	SpecificDisease 1500 1503	DMD
+N14	Reference T14 MeSH:D020388
+T15	SpecificDisease 1547 1576	congenital adrenal hypoplasia
+N15	Reference T15 MeSH:D000312
+T16	SpecificDisease 1578 1581	AHC
+N16	Reference T16 MeSH:D000312
+T17	SpecificDisease 1587 1590	GTD
+N17	Reference T17 MeSH:C535764

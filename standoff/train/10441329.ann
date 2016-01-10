@@ -1,0 +1,31 @@
+T1	SpecificDisease 35 49	Wilson disease
+N1	Reference T1 MeSH:D006527
+T2	DiseaseClass 67 100	intracellular copper accumulation
+N2	Reference T2 MeSH:C535468
+T3	DiseaseClass 105 146	late-onset hepatic nodular transformation
+N3	Reference T3 MeSH:D020518
+T4	SpecificDisease 317 331	Wilson disease
+N4	Reference T4 MeSH:D006527
+T5	DiseaseClass 335 359	copper toxicity disorder
+N5	Reference T5 MeSH:C535468
+T6	CompositeMention 443 482	hepatic and neuro-logical abnormalities
+N6	Reference T6 MeSH:D008107
+N7	Reference T6 MeSH:D009422
+T7	Modifier 637 651	Wilson disease
+N8	Reference T7 MeSH:D006527
+T8	DiseaseClass 980 996	copper deficient
+N9	Reference T8 MeSH:C535468
+T9	DiseaseClass 998 1025	Morphological abnormalities
+N10	Reference T9 MeSH:D000013
+T10	SpecificDisease 1037 1046	cirrhosis
+N11	Reference T10 MeSH:D008103
+T11	DiseaseClass 1193 1219	neurological abnormalities
+N12	Reference T11 MeSH:D009461
+T12	DiseaseClass 1224 1242	growth retardation
+N13	Reference T12 MeSH:D006130
+T13	SpecificDisease 1261 1278	copper deficiency
+N14	Reference T13 MeSH:C535468
+T14	DiseaseClass 1451 1474	cirrhotic liver disease
+N15	Reference T14 MeSH:D008103
+T15	SpecificDisease 1490 1504	Wilson disease
+N16	Reference T15 MeSH:D006527

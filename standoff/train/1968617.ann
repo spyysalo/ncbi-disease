@@ -1,0 +1,16 @@
+T1	SpecificDisease 19 34	phenylketonuria
+N1	Reference T1 MeSH:D010661
+T2	SpecificDisease 53 68	Phenylketonuria
+N2	Reference T2 MeSH:D010661
+T3	SpecificDisease 70 73	PKU
+N3	Reference T3 MeSH:D010661
+T4	DiseaseClass 80 97	metabolic disease
+N4	Reference T4 MeSH:D008659
+T5	SpecificDisease 218 221	PKU
+N5	Reference T5 MeSH:D010661
+T6	Modifier 436 439	PKU
+N6	Reference T6 MeSH:D010661
+T7	Modifier 600 603	PKU
+N7	Reference T7 MeSH:D010661
+T8	DiseaseClass 1036 1050	genetic defect
+N8	Reference T8 MeSH:D030342

@@ -1,0 +1,6 @@
+T1	SpecificDisease 0 22	Classical galactosemia
+N1	Reference T1 MeSH:D005693
+T2	SpecificDisease 98 120	Classical galactosemia
+N2	Reference T2 MeSH:D005693
+T3	SpecificDisease 2094 2106	galactosemia
+N3	Reference T3 MeSH:D005693

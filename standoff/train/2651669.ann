@@ -1,0 +1,14 @@
+T1	SpecificDisease 28 51	Langer-Giedion syndrome
+N1	Reference T1 MeSH:D015826
+T2	SpecificDisease 270 293	Langer-Giedion syndrome
+N2	Reference T2 MeSH:D015826
+T3	SpecificDisease 295 298	LGS
+N3	Reference T3 MeSH:D015826
+T4	SpecificDisease 420 423	LGS
+N4	Reference T4 MeSH:D015826
+T5	SpecificDisease 479 482	LGS
+N5	Reference T5 MeSH:D015826
+T6	SpecificDisease 575 578	LGS
+N6	Reference T6 MeSH:D015826
+T7	SpecificDisease 701 704	LGS
+N7	Reference T7 MeSH:D015826

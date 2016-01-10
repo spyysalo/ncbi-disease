@@ -1,0 +1,10 @@
+T1	SpecificDisease 44 66	oromandibular dystonia
+N1	Reference T1 MeSH:D008538
+T2	SpecificDisease 146 168	oromandibular dystonia
+N2	Reference T2 MeSH:D008538
+T3	DiseaseClass 202 210	dystonia
+N3	Reference T3 MeSH:D004421
+T4	Modifier 359 367	dystonic
+N4	Reference T4 MeSH:D004421
+T5	SpecificDisease 392 416	dopa-responsive dystonia
+N5	Reference T5 MeSH:C538007

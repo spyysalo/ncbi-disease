@@ -1,0 +1,12 @@
+T1	SpecificDisease 37 55	fragile X syndrome
+N1	Reference T1 MeSH:D005600
+T2	SpecificDisease 57 75	Fragile X syndrome
+N2	Reference T2 MeSH:D005600
+T3	DiseaseClass 94 122	inherited mental retardation
+N3	Reference T3 MeSH:D038901
+T4	Modifier 229 257	fragile X mental retardation
+N4	Reference T4 OMIM:300624
+T5	SpecificDisease 290 308	fragile X syndrome
+N5	Reference T5 MeSH:D005600
+T6	DiseaseClass 478 496	mental retardation
+N6	Reference T6 MeSH:D008607

@@ -1,0 +1,23 @@
+T1	SpecificDisease 36 48	hemophilia A
+N1	Reference T1 MeSH:D006467
+T2	Modifier 58 72	von Willebrand
+N2	Reference T2 MeSH:D014842
+T3	DiseaseClass 124 150	genetic bleeding disorders
+N3	Reference T3 MeSH:D025861
+T4	SpecificDisease 152 164	hemophilia A
+N4	Reference T4 MeSH:D006467
+T5	SpecificDisease 169 191	von Willebrand disease
+N5	Reference T5 MeSH:D014842
+T6	Modifier 287 301	von Willebrand
+N6	Reference T6 MeSH:D014842
+T7	Modifier 369 381	hemophilia A
+N7	Reference T7 MeSH:D006467
+T8	Modifier 1336 1346	hemophilia
+N8	Reference T8 MeSH:D006467
+N9	Reference T8 MeSH:D002836
+T9	SpecificDisease 1502 1512	hemophilia
+N10	Reference T9 MeSH:D006467
+N11	Reference T9 MeSH:D002836
+T10	SpecificDisease 1582 1592	hemophilia
+N12	Reference T10 MeSH:D006467
+N13	Reference T10 MeSH:D002836

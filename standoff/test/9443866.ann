@@ -1,0 +1,10 @@
+T1	SpecificDisease 0 21	Ataxia-telangiectasia
+N1	Reference T1 MeSH:D001260
+T2	SpecificDisease 215 228	breast cancer
+N2	Reference T2 MeSH:D001943
+T3	Modifier 309 330	ataxia-telangiectasia
+N3	Reference T3 MeSH:D001260
+T4	Modifier 332 335	A-T
+N4	Reference T4 MeSH:D001260
+T5	Modifier 1236 1239	A-T
+N5	Reference T5 MeSH:D001260

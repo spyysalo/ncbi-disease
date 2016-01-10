@@ -1,0 +1,18 @@
+T1	SpecificDisease 24 46	von Willebrand disease
+N1	Reference T1 MeSH:D014842
+T2	SpecificDisease 74 84	thrombosis
+N2	Reference T2 MeSH:D013927
+T3	SpecificDisease 86 124	von Willebrand factor (vWf) deficiency
+N3	Reference T3 MeSH:C531844
+T4	SpecificDisease 139 161	von Willebrand disease
+N4	Reference T4 MeSH:D014842
+T5	Modifier 242 255	vWf-deficient
+N5	Reference T5 MeSH:C531844
+T6	Modifier 353 367	von Willebrand
+N6	Reference T6 MeSH:D014842
+T7	SpecificDisease 769 779	thrombosis
+N7	Reference T7 MeSH:D013927
+T8	SpecificDisease 835 850	vascular injury
+N8	Reference T8 MeSH:D057772
+T9	SpecificDisease 1085 1107	von Willebrand disease
+N9	Reference T9 MeSH:D014842

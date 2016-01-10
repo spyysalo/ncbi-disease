@@ -1,0 +1,30 @@
+T1	SpecificDisease 26 44	myotonic dystrophy
+N1	Reference T1 MeSH:D009223
+T2	SpecificDisease 46 64	Myotonic dystrophy
+N2	Reference T2 MeSH:D009223
+T3	SpecificDisease 66 68	DM
+N3	Reference T3 MeSH:D009223
+T4	DiseaseClass 76 102	autosomal dominant disease
+N4	Reference T4 MeSH:D030342
+T5	SpecificDisease 198 209	infertility
+N5	Reference T5 MeSH:D007246
+T6	SpecificDisease 214 243	congenital myotonic dystrophy
+N6	Reference T6 MeSH:D009223
+T7	SpecificDisease 245 248	CDM
+N7	Reference T7 MeSH:D009223
+T8	SpecificDisease 276 278	DM
+N8	Reference T8 MeSH:D009223
+T9	Modifier 405 407	DM
+N9	Reference T9 MeSH:D009223
+T10	SpecificDisease 476 478	DM
+N10	Reference T10 MeSH:D009223
+T11	SpecificDisease 513 515	DM
+N11	Reference T11 MeSH:D009223
+T12	Modifier 684 686	DM
+N12	Reference T12 MeSH:D009223
+T13	SpecificDisease 917 919	DM
+N13	Reference T13 MeSH:D009223
+T14	Modifier 982 984	DM
+N14	Reference T14 MeSH:D009223
+T15	Modifier 1071 1073	DM
+N15	Reference T15 MeSH:D009223

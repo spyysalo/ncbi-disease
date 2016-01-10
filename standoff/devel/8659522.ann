@@ -1,0 +1,20 @@
+T1	Modifier 73 91	Huntington disease
+N1	Reference T1 MeSH:D006816
+T2	Modifier 93 95	HD
+N2	Reference T2 MeSH:D006816
+T3	Modifier 110 112	HD
+N3	Reference T3 MeSH:D006816
+T4	SpecificDisease 259 277	Huntington disease
+N4	Reference T4 MeSH:D006816
+T5	SpecificDisease 279 281	HD
+N5	Reference T5 MeSH:D006816
+T6	Modifier 384 386	HD
+N6	Reference T6 MeSH:D006816
+T7	Modifier 1283 1285	HD
+N7	Reference T7 MeSH:D006816
+T8	SpecificDisease 1421 1423	HD
+N8	Reference T8 MeSH:D006816
+T9	SpecificDisease 1749 1751	HD
+N9	Reference T9 MeSH:D006816
+T10	Modifier 1855 1857	HD
+N10	Reference T10 MeSH:D006816

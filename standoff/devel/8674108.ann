@@ -1,0 +1,7 @@
+T1	Modifier 4 9	tumor
+N1	Reference T1 MeSH:D009369
+T2	CompositeMention 171 197	breast and ovarian cancers
+N2	Reference T2 MeSH:D001943
+N3	Reference T2 MeSH:D010051
+T3	DiseaseClass 264 270	tumors
+N4	Reference T3 MeSH:D009369

@@ -1,0 +1,22 @@
+T1	SpecificDisease 18 26	aniridia
+N1	Reference T1 MeSH:D015783
+T2	SpecificDisease 28 36	Aniridia
+N2	Reference T2 MeSH:D015783
+T3	DiseaseClass 42 76	congenital malformation of the eye
+N3	Reference T3 MeSH:D005124
+T4	SpecificDisease 103 118	iris hypoplasia
+N4	Reference T4 MeSH:D007499
+T5	SpecificDisease 136 145	blindness
+N5	Reference T5 MeSH:D001766
+T6	Modifier 189 197	aniridia
+N6	Reference T6 MeSH:D015783
+T7	Modifier 264 272	aniridia
+N7	Reference T7 MeSH:D015783
+T8	SpecificDisease 409 417	aniridia
+N8	Reference T8 MeSH:D015783
+T9	Modifier 433 441	aniridia
+N9	Reference T9 MeSH:D015783
+T10	Modifier 518 526	aniridia
+N10	Reference T10 MeSH:D015783
+T11	SpecificDisease 783 791	aniridia
+N11	Reference T11 MeSH:D015783

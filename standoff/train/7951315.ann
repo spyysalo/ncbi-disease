@@ -1,0 +1,23 @@
+T1	SpecificDisease 41 61	congenital cataracts
+N1	Reference T1 MeSH:D002386
+T2	SpecificDisease 63 71	aniridia
+N2	Reference T2 MeSH:D015783
+T3	SpecificDisease 73 85	anophthalmia
+N3	Reference T3 MeSH:D000853
+T4	DiseaseClass 90 120	central nervous system defects
+N4	Reference T4 MeSH:D009421
+T5	SpecificDisease 149 157	aniridia
+N5	Reference T5 MeSH:D015783
+T6	SpecificDisease 171 197	haploinsufficiency of PAX6
+N6	Reference T6 OMIM:106210
+T7	SpecificDisease 322 330	aniridia
+N7	Reference T7 MeSH:D015783
+T8	SpecificDisease 367 387	congenital cataracts
+N8	Reference T8 MeSH:D002386
+T9	SpecificDisease 403 420	corneal dystrophy
+N9	Reference T9 MeSH:D003317
+T10	CompositeMention 693 740	craniofacial and central nervous system defects
+N10	Reference T10 MeSH:D019465
+N11	Reference T10 MeSH:D009421
+T11	DiseaseClass 745 752	no eyes
+N12	Reference T11 MeSH:D000853

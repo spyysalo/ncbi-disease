@@ -1,0 +1,10 @@
+T1	SpecificDisease 56 91	autoimmune chronic active hepatitis
+N1	Reference T1 MeSH:D006521
+T2	SpecificDisease 113 148	autoimmune chronic active hepatitis
+N2	Reference T2 MeSH:D006521
+T3	SpecificDisease 150 153	CAH
+N3	Reference T3 MeSH:D006521
+T4	SpecificDisease 709 712	CAH
+N4	Reference T4 MeSH:D006521
+T5	SpecificDisease 997 1010	C4 deficiency
+N5	Reference T5 OMIM:614380+OMIM:614379

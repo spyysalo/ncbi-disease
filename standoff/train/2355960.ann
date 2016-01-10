@@ -1,0 +1,16 @@
+T1	SpecificDisease 26 43	Tay-Sachs disease
+N1	Reference T1 MeSH:D013661
+T2	SpecificDisease 158 175	Tay-Sachs disease
+N2	Reference T2 MeSH:D013661
+T3	SpecificDisease 177 203	GM2 gangliosidosis, type 1
+N3	Reference T3 MeSH:D013661
+T4	DiseaseClass 268 296	autosomal recessive disorder
+N4	Reference T4 MeSH:D030342
+T5	SpecificDisease 361 378	Tay-Sachs disease
+N5	Reference T5 MeSH:D013661
+T6	SpecificDisease 568 585	Tay-Sachs disease
+N6	Reference T6 MeSH:D013661
+T7	SpecificDisease 837 854	Tay-Sachs disease
+N7	Reference T7 MeSH:D013661
+T8	SpecificDisease 1876 1893	Tay-Sachs disease
+N8	Reference T8 MeSH:D013661

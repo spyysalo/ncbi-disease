@@ -1,0 +1,44 @@
+T1	SpecificDisease 41 64	atelosteogenesis type 2
+N1	Reference T1 MeSH:C535395
+T2	SpecificDisease 69 90	diastrophic dysplasia
+N2	Reference T2 MeSH:C536170
+T3	Modifier 109 130	diastrophic dysplasia
+N3	Reference T3 MeSH:C536170
+T4	DiseaseClass 200 217	chondrodysplasias
+N4	Reference T4 MeSH:D010009
+T5	SpecificDisease 267 288	diastrophic dysplasia
+N5	Reference T5 MeSH:C536170
+T6	SpecificDisease 290 293	DTD
+N6	Reference T6 MeSH:C536170
+T7	SpecificDisease 296 319	atelosteogenesis type 2
+N7	Reference T7 MeSH:C535395
+T8	SpecificDisease 321 324	AO2
+N8	Reference T8 MeSH:C535395
+T9	SpecificDisease 331 354	achondrogenesis type 1B
+N9	Reference T9 MeSH:C536016
+T10	SpecificDisease 356 361	ACG1B
+N10	Reference T10 MeSH:C536016
+T11	SpecificDisease 407 430	DTDST chondrodysplasias
+N11	Reference T11 OMIM:222600
+T12	SpecificDisease 537 541	AO-2
+N12	Reference T12 MeSH:C535395
+T13	SpecificDisease 552 555	DTD
+N13	Reference T13 MeSH:C536170
+T14	SpecificDisease 597 600	AO2
+N14	Reference T14 MeSH:C535395
+T15	SpecificDisease 601 604	DTD
+N15	Reference T15 MeSH:C536170
+T16	SpecificDisease 864 867	DTD
+N16	Reference T16 MeSH:C536170
+T17	SpecificDisease 872 875	AO2
+N17	Reference T17 MeSH:C535395
+T18	SpecificDisease 876 879	DTD
+N18	Reference T18 MeSH:C536170
+T19	SpecificDisease 1283 1286	AO2
+N19	Reference T19 MeSH:C535395
+T20	SpecificDisease 1661 1664	AO2
+N20	Reference T20 MeSH:C535395
+T21	SpecificDisease 1668 1671	DTD
+N21	Reference T21 MeSH:C536170
+T22	Modifier 1775 1780	ACG1B
+N22	Reference T22 MeSH:C536016

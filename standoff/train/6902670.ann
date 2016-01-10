@@ -1,0 +1,10 @@
+T1	SpecificDisease 0 36	Familial discoid lupus erythematosus
+N1	Reference T1 MeSH:D008179
+T2	SpecificDisease 66 79	C2 deficiency
+N2	Reference T2 OMIM:217000
+T3	SpecificDisease 99 134	chronic discoid lupus erythematosus
+N3	Reference T3 MeSH:D008179
+T4	SpecificDisease 191 204	C2 deficiency
+N4	Reference T4 OMIM:217000
+T5	Modifier 407 420	C2 deficiency
+N5	Reference T5 OMIM:217000

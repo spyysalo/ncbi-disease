@@ -1,0 +1,10 @@
+T1	Modifier 34 46	galactosemia
+N1	Reference T1 MeSH:D005693
+T2	Modifier 227 239	galactosemia
+N2	Reference T2 MeSH:D005693
+T3	Modifier 358 370	galactosemia
+N3	Reference T3 MeSH:D005693
+T4	SpecificDisease 878 890	galactosemia
+N4	Reference T4 MeSH:D005693
+T5	Modifier 908 920	galactosemia
+N5	Reference T5 MeSH:D005693

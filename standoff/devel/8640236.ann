@@ -1,0 +1,43 @@
+T1	SpecificDisease 36 52	breast carcinoma
+N1	Reference T1 MeSH:D001943
+T2	DiseaseClass 63 70	cancers
+N2	Reference T2 MeSH:D009369
+T3	Modifier 109 115	tumour
+N3	Reference T3 MeSH:D009369
+T4	DiseaseClass 179 185	cancer
+N4	Reference T4 MeSH:D009369
+T5	DiseaseClass 248 254	cancer
+N5	Reference T5 MeSH:D009369
+T6	Modifier 262 268	tumour
+N6	Reference T6 MeSH:D009369
+T7	DiseaseClass 323 339	sporadic cancers
+N7	Reference T7 MeSH:D009369
+T8	CompositeMention 456 490	familial breast and ovarian cancer
+N8	Reference T8 MeSH:D061325
+T9	CompositeMention 536 571	sporadic breast and ovarian cancers
+N9	Reference T9 MeSH:D001943
+N10	Reference T9 MeSH:D010051
+T10	SpecificDisease 665 681	breast carcinoma
+N11	Reference T10 MeSH:D001943
+T11	Modifier 713 735	familial breast cancer
+N12	Reference T11 MeSH:D001943
+T12	SpecificDisease 789 802	breast cancer
+N13	Reference T12 MeSH:D001943
+T13	Modifier 879 885	tumour
+N14	Reference T13 MeSH:D009369
+T14	SpecificDisease 971 984	breast cancer
+N15	Reference T14 MeSH:D001943
+T15	DiseaseClass 994 1001	tumours
+N16	Reference T15 MeSH:D009369
+T16	SpecificDisease 1195 1218	sporadic breast cancers
+N17	Reference T16 MeSH:D001943
+T17	Modifier 1274 1280	tumour
+N18	Reference T17 MeSH:D009369
+T18	DiseaseClass 1339 1346	cancers
+N19	Reference T18 MeSH:D009369
+T19	SpecificDisease 1357 1373	breast carcinoma
+N20	Reference T19 MeSH:D001943
+T20	Modifier 1418 1435	pancreatic tumour
+N21	Reference T20 MeSH:D010190
+T21	SpecificDisease 1493 1510	pancreatic cancer
+N22	Reference T21 MeSH:D010190

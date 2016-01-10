@@ -1,0 +1,10 @@
+T1	SpecificDisease 13 43	cerebrotendinous xanthomatosis
+N1	Reference T1 MeSH:D019294
+T2	SpecificDisease 329 359	cerebrotendinous xanthomatosis
+N2	Reference T2 MeSH:D019294
+T3	SpecificDisease 361 364	CTX
+N3	Reference T3 MeSH:D019294
+T4	SpecificDisease 1563 1566	CTX
+N4	Reference T4 MeSH:D019294
+T5	DiseaseClass 1835 1843	xanthoma
+N5	Reference T5 MeSH:D014973

@@ -1,0 +1,18 @@
+T1	SpecificDisease 109 137	familial mediterranean fever
+N1	Reference T1 MeSH:D010505
+T2	SpecificDisease 139 167	Familial Mediterranean fever
+N2	Reference T2 MeSH:D010505
+T3	SpecificDisease 169 172	FMF
+N3	Reference T3 MeSH:D010505
+T4	DiseaseClass 179 197	recessive disorder
+N4	Reference T4 MeSH:D030342
+T5	DiseaseClass 227 232	fever
+N5	Reference T5 MeSH:D005334
+T6	SpecificDisease 238 247	serositis
+N6	Reference T6 MeSH:D012700
+T7	SpecificDisease 251 260	synovitis
+N7	Reference T7 MeSH:D013585
+T8	Modifier 275 278	FMF
+N8	Reference T8 MeSH:D010505
+T9	Modifier 1162 1165	FMF
+N9	Reference T9 MeSH:D010505

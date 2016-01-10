@@ -1,0 +1,30 @@
+T1	SpecificDisease 27 49	Van der Woude syndrome
+N1	Reference T1 MeSH:C536528
+T2	SpecificDisease 168 190	Van der Woude syndrome
+N2	Reference T2 MeSH:C536528
+T3	SpecificDisease 192 195	VWS
+N3	Reference T3 MeSH:C536528
+T4	DiseaseClass 203 243	autosomal dominant craniofacial disorder
+N4	Reference T4 MeSH:D019465
+T5	SpecificDisease 348 357	cleft lip
+N5	Reference T5 MeSH:D002971
+T6	SpecificDisease 365 377	cleft palate
+N6	Reference T6 MeSH:D002972
+T7	SpecificDisease 379 387	lip pits
+N7	Reference T7 MeSH:C536528
+T8	SpecificDisease 392 402	hypodontia
+N8	Reference T8 MeSH:D000848
+T9	Modifier 408 411	VWS
+N9	Reference T9 MeSH:C536528
+T10	Modifier 597 600	VWS
+N10	Reference T10 MeSH:C536528
+T11	Modifier 679 682	VWS
+N11	Reference T11 MeSH:C536528
+T12	Modifier 812 815	VWS
+N12	Reference T12 MeSH:C536528
+T13	Modifier 1313 1316	VWS
+N13	Reference T13 MeSH:C536528
+T14	Modifier 1461 1464	VWS
+N14	Reference T14 MeSH:C536528
+T15	SpecificDisease 1634 1637	VWS
+N15	Reference T15 MeSH:C536528

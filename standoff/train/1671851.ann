@@ -1,0 +1,14 @@
+T1	SpecificDisease 20 49	X-linked adrenoleukodystrophy
+N1	Reference T1 MeSH:D000326
+T2	SpecificDisease 233 262	X-linked adrenoleukodystrophy
+N2	Reference T2 MeSH:D000326
+T3	SpecificDisease 264 267	ALD
+N3	Reference T3 MeSH:D000326
+T4	SpecificDisease 391 394	ALD
+N4	Reference T4 MeSH:D000326
+T5	SpecificDisease 552 555	ALD
+N5	Reference T5 MeSH:D000326
+T6	SpecificDisease 611 614	ALD
+N6	Reference T6 MeSH:D000326
+T7	DiseaseClass 713 756	abnormalities in the vision blindness genes
+N7	Reference T7 MeSH:D003117

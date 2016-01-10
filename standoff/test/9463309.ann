@@ -1,0 +1,16 @@
+T1	SpecificDisease 46 63	anhaptoglobinemia
+N1	Reference T1 MeSH:D000740
+T2	SpecificDisease 152 169	anhaptoglobinemia
+N2	Reference T2 MeSH:D000740
+T3	SpecificDisease 456 473	anhaptoglobinemia
+N3	Reference T3 MeSH:D000740
+T4	SpecificDisease 678 697	hypohaptoglobinemia
+N4	Reference T4 MeSH:D000740
+T5	Modifier 879 898	hypohaptoglobinemic
+N5	Reference T5 MeSH:D000740
+T6	Modifier 986 1005	hypohaptoglobinemic
+N6	Reference T6 MeSH:D000740
+T7	SpecificDisease 1746 1763	anhaptoglobinemia
+N7	Reference T7 MeSH:D000740
+T8	SpecificDisease 1871 1890	hypohaptoglobinemia
+N8	Reference T8 MeSH:D000740

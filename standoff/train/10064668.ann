@@ -1,0 +1,34 @@
+T1	DiseaseClass 23 29	cancer
+N1	Reference T1 MeSH:D009369
+T2	SpecificDisease 47 72	cartilage-hair hypoplasia
+N2	Reference T2 MeSH:C535916
+T3	DiseaseClass 138 144	cancer
+N3	Reference T3 MeSH:D009369
+T4	SpecificDisease 165 190	cartilage-hair hypoplasia
+N4	Reference T4 MeSH:C535916
+T5	SpecificDisease 192 195	CHH
+N5	Reference T5 MeSH:C535916
+T6	SpecificDisease 275 278	CHH
+N6	Reference T6 MeSH:C535916
+T7	SpecificDisease 364 367	CHH
+N7	Reference T7 MeSH:C535916
+T8	Modifier 580 586	cancer
+N8	Reference T8 MeSH:D009369
+T9	DiseaseClass 705 711	cancer
+N9	Reference T9 MeSH:D009369
+T10	SpecificDisease 745 748	CHH
+N10	Reference T10 MeSH:C535916
+T11	SpecificDisease 855 876	non-Hodgkins lymphoma
+N11	Reference T11 MeSH:D008228
+T12	SpecificDisease 990 1010	basal cell carcinoma
+N12	Reference T12 MeSH:D002280
+T13	Modifier 1096 1102	cancer
+N13	Reference T13 MeSH:D009369
+T14	Modifier 1179 1185	cancer
+N14	Reference T14 MeSH:D009369
+T15	DiseaseClass 1277 1283	cancer
+N15	Reference T15 MeSH:D009369
+T16	SpecificDisease 1296 1317	non-Hodgkins lymphoma
+N16	Reference T16 MeSH:D008228
+T17	SpecificDisease 1384 1387	CHH
+N17	Reference T17 MeSH:C535916

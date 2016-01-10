@@ -1,0 +1,30 @@
+T1	Modifier 17 38	ataxia-telangiectasia
+N1	Reference T1 MeSH:D001260
+T2	Modifier 72 75	A-T
+N2	Reference T2 MeSH:D001260
+T3	Modifier 103 124	ataxia-telangiectasia
+N3	Reference T3 MeSH:D001260
+T4	Modifier 126 129	A-T
+N4	Reference T4 MeSH:D001260
+T5	DiseaseClass 182 210	autosomal recessive syndrome
+N5	Reference T5 MeSH:D030342
+T6	DiseaseClass 258 264	cancer
+N6	Reference T6 MeSH:D009369
+T7	SpecificDisease 266 288	ischemic heart disease
+N7	Reference T7 MeSH:D017202
+T8	Modifier 465 468	A-T
+N8	Reference T8 MeSH:D001260
+T9	Modifier 541 544	A-T
+N9	Reference T9 MeSH:D001260
+T10	Modifier 784 787	A-T
+N10	Reference T10 MeSH:D001260
+T11	Modifier 970 973	A-T
+N11	Reference T11 MeSH:D001260
+T12	Modifier 1433 1436	A-T
+N12	Reference T12 MeSH:D001260
+T13	Modifier 1461 1464	A-T
+N13	Reference T13 MeSH:D001260
+T14	Modifier 1528 1531	A-T
+N14	Reference T14 MeSH:D001260
+T15	Modifier 1573 1576	A-T
+N15	Reference T15 MeSH:D001260

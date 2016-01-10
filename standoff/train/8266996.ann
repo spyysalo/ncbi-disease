@@ -1,0 +1,20 @@
+T1	SpecificDisease 104 121	Angelman syndrome
+N1	Reference T1 MeSH:D017204
+T2	SpecificDisease 126 147	Prader-Willi syndrome
+N2	Reference T2 MeSH:D011218
+T3	SpecificDisease 213 230	Angelman syndrome
+N3	Reference T3 MeSH:D017204
+T4	SpecificDisease 232 234	AS
+N4	Reference T4 MeSH:D017204
+T5	SpecificDisease 240 261	Prader-Willi syndrome
+N5	Reference T5 MeSH:D011218
+T6	SpecificDisease 263 266	PWS
+N6	Reference T6 MeSH:D011218
+T7	SpecificDisease 446 448	AS
+N7	Reference T7 MeSH:D017204
+T8	SpecificDisease 453 456	PWS
+N8	Reference T8 MeSH:D011218
+T9	SpecificDisease 539 541	AS
+N9	Reference T9 MeSH:D017204
+T10	SpecificDisease 546 549	PWS
+N10	Reference T10 MeSH:D011218

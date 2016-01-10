@@ -1,0 +1,22 @@
+T1	SpecificDisease 36 43	obesity
+N1	Reference T1 MeSH:D009765
+T2	Modifier 386 404	mesenchymal tumour
+N2	Reference T2 MeSH:D008637
+T3	DiseaseClass 427 443	fat-cell tumours
+N3	Reference T3 MeSH:D018205
+T4	DiseaseClass 445 452	lipomas
+N4	Reference T4 MeSH:D008067
+T5	SpecificDisease 552 559	obesity
+N5	Reference T5 MeSH:D009765
+T6	Modifier 622 627	obese
+N6	Reference T6 MeSH:D009765
+T7	CompositeMention 646 685	partial or complete deficiency of Hmgic
+N7	Reference T7 OMIM:600698
+T8	SpecificDisease 708 715	obesity
+N8	Reference T8 MeSH:D009765
+T9	SpecificDisease 763 770	obesity
+N9	Reference T9 MeSH:D009765
+T10	SpecificDisease 782 799	leptin deficiency
+N10	Reference T10 OMIM:164160
+T11	SpecificDisease 987 994	obesity
+N11	Reference T11 MeSH:D009765

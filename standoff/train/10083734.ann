@@ -1,0 +1,12 @@
+T1	Modifier 26 39	C9 deficiency
+N1	Reference T1 OMIM:613825
+T2	SpecificDisease 106 159	Deficiency of the ninth component of human complement
+N2	Reference T2 OMIM:613825
+T3	DiseaseClass 184 205	complement deficiency
+N3	Reference T3 MeSH:D007153
+T4	SpecificDisease 341 354	C9 deficiency
+N4	Reference T4 OMIM:613825
+T5	SpecificDisease 486 499	C9 deficiency
+N5	Reference T5 OMIM:613825
+T6	SpecificDisease 1184 1197	C9 deficiency
+N6	Reference T6 OMIM:613825

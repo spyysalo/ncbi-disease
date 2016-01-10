@@ -1,0 +1,20 @@
+T1	SpecificDisease 53 70	pancreatic cancer
+N1	Reference T1 MeSH:D010190
+T2	DiseaseClass 252 264	solid tumors
+N2	Reference T2 MeSH:D009369
+T3	SpecificDisease 282 299	pancreatic cancer
+N3	Reference T3 MeSH:D010190
+T4	DiseaseClass 423 434	tumor types
+N4	Reference T4 MeSH:D009369
+T5	SpecificDisease 547 564	pancreatic tumors
+N5	Reference T5 MeSH:D010190
+T6	SpecificDisease 624 641	pancreatic tumors
+N6	Reference T6 MeSH:D010190
+T7	DiseaseClass 667 673	tumors
+N7	Reference T7 MeSH:D009369
+T8	SpecificDisease 786 803	pancreatic tumors
+N8	Reference T8 MeSH:D010190
+T9	SpecificDisease 861 878	pancreatic cancer
+N9	Reference T9 MeSH:D010190
+T10	DiseaseClass 902 909	cancers
+N10	Reference T10 MeSH:D009369

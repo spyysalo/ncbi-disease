@@ -1,0 +1,32 @@
+T1	Modifier 46 67	breast-ovarian cancer
+N1	Reference T1 MeSH:D061325
+T2	Modifier 78 91	Breast Cancer
+N2	Reference T2 MeSH:D001943
+T3	SpecificDisease 116 151	breast-ovary cancer-family syndrome
+N3	Reference T3 MeSH:D061325
+T4	CompositeMention 184 216	cancer of the breast and ovaries
+N4	Reference T4 MeSH:D001943
+N5	Reference T4 MeSH:D010051
+T5	Modifier 301 320	breast-ovary cancer
+N6	Reference T5 MeSH:D061325
+T6	CompositeMention 466 491	breast and ovarian cancer
+N7	Reference T6 MeSH:D001943
+N8	Reference T6 MeSH:D010051
+T7	SpecificDisease 591 604	breast cancer
+N9	Reference T7 MeSH:D001943
+T8	SpecificDisease 608 622	ovarian cancer
+N10	Reference T8 MeSH:D010051
+T9	SpecificDisease 668 682	ovarian cancer
+N11	Reference T9 MeSH:D010051
+T10	SpecificDisease 799 817	male breast cancer
+N12	Reference T10 MeSH:D018567
+T11	SpecificDisease 924 942	male breast cancer
+N13	Reference T11 MeSH:D018567
+T12	SpecificDisease 964 979	ovarian cancers
+N14	Reference T12 MeSH:D010051
+T13	SpecificDisease 1029 1066	breast-ovarian cancer-family syndrome
+N15	Reference T13 MeSH:D061325
+T14	SpecificDisease 1154 1167	breast cancer
+N16	Reference T14 MeSH:D001943
+T15	SpecificDisease 1198 1212	ovarian cancer
+N17	Reference T15 MeSH:D010051

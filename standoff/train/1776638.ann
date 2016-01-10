@@ -1,0 +1,18 @@
+T1	SpecificDisease 0 16	Gardner syndrome
+N1	Reference T1 MeSH:D005736
+T2	SpecificDisease 122 138	Gardner syndrome
+N2	Reference T2 MeSH:D005736
+T3	SpecificDisease 140 142	GS
+N3	Reference T3 MeSH:D005736
+T4	DiseaseClass 145 163	mental retardation
+N4	Reference T4 MeSH:D008607
+T5	DiseaseClass 169 195	craniofacial abnormalities
+N5	Reference T5 MeSH:D019465
+T6	SpecificDisease 406 432	adenomatous polyposis coli
+N6	Reference T6 MeSH:D011125
+T7	SpecificDisease 471 473	GS
+N7	Reference T7 MeSH:D005736
+T8	SpecificDisease 477 500	familial polyposis coli
+N8	Reference T8 MeSH:D011125
+T9	SpecificDisease 502 505	FPC
+N9	Reference T9 MeSH:D011125

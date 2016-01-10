@@ -1,0 +1,25 @@
+T1	Modifier 59 73	ovarian cancer
+N1	Reference T1 MeSH:D010051
+T2	Modifier 161 174	breast cancer
+N2	Reference T2 MeSH:D001943
+T3	Modifier 233 247	ovarian cancer
+N3	Reference T3 MeSH:D010051
+T4	Modifier 371 385	ovarian cancer
+N4	Reference T4 MeSH:D010051
+T5	Modifier 428 442	ovarian cancer
+N5	Reference T5 MeSH:D010051
+T6	Modifier 564 578	ovarian cancer
+N6	Reference T6 MeSH:D010051
+T7	CompositeMention 796 820	breast or ovarian cancer
+N7	Reference T7 MeSH:D001943
+N8	Reference T7 MeSH:D010051
+T8	DiseaseClass 969 975	cancer
+N9	Reference T8 MeSH:D009369
+T9	Modifier 1063 1069	cancer
+N10	Reference T9 MeSH:D009369
+T10	SpecificDisease 1257 1271	ovarian cancer
+N11	Reference T10 MeSH:D010051
+T11	Modifier 1321 1335	ovarian cancer
+N12	Reference T11 MeSH:D010051
+T12	Modifier 1459 1473	ovarian cancer
+N13	Reference T12 MeSH:D010051

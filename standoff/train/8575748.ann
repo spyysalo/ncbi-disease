@@ -1,0 +1,4 @@
+T1	CompositeMention 134 176	hereditary human breast and ovarian cancer
+N1	Reference T1 MeSH:D061325
+T2	SpecificDisease 1036 1049	BRCA1 defects
+N2	Reference T2 OMIM:604370

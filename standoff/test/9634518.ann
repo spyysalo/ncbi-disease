@@ -1,0 +1,18 @@
+T1	SpecificDisease 32 68	phenylalanine hydroxylase deficiency
+N1	Reference T1 OMIM:261600
+T2	SpecificDisease 177 192	Phenylketonuria
+N2	Reference T2 MeSH:D010661
+T3	SpecificDisease 194 197	PKU
+N3	Reference T3 MeSH:D010661
+T4	SpecificDisease 203 229	mild hyperphenylalaninemia
+N4	Reference T4 MeSH:D010661
+T5	SpecificDisease 231 234	MHP
+N5	Reference T5 MeSH:D010661
+T6	DiseaseClass 240 257	allelic disorders
+N6	Reference T6 MeSH:D030342
+T7	SpecificDisease 413 427	PAH deficiency
+N7	Reference T7 OMIM:261600
+T8	SpecificDisease 1442 1456	PAH deficiency
+N8	Reference T8 OMIM:261600
+T9	SpecificDisease 1640 1661	hyperphenylalaninemia
+N9	Reference T9 MeSH:D010661

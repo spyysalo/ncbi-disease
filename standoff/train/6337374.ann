@@ -1,0 +1,20 @@
+T1	SpecificDisease 0 44	Glucose-6-phosphate dehydrogenase deficiency
+N1	Reference T1 MeSH:D005955
+T2	Modifier 96 163	Glucose-6-phosphate dehydrogenase (G6PD; EC 1. 1. 1. 49) -deficient
+N2	Reference T2 MeSH:D005955
+T3	Modifier 320 327	malaria
+N3	Reference T3 MeSH:D008288
+T4	SpecificDisease 458 473	G6PD deficiency
+N4	Reference T4 MeSH:D005955
+T5	SpecificDisease 563 578	G6PD deficiency
+N5	Reference T5 MeSH:D005955
+T6	Modifier 606 617	thalassemia
+N6	Reference T6 MeSH:D013789
+T7	SpecificDisease 662 677	G6PD deficiency
+N7	Reference T7 MeSH:D005955
+T8	Modifier 716 725	malarious
+N8	Reference T8 MeSH:D008288
+T9	SpecificDisease 811 818	malaria
+N9	Reference T9 MeSH:D008288
+T10	SpecificDisease 868 883	fatal hemolysis
+N10	Reference T10 MeSH:D006461

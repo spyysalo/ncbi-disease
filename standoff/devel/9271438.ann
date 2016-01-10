@@ -1,0 +1,20 @@
+T1	Modifier 4 27	von Hippel-Lindau tumor
+N1	Reference T1 MeSH:D006623
+T2	Modifier 140 163	von Hippel-Lindau tumor
+N2	Reference T2 MeSH:D006623
+T3	SpecificDisease 229 260	clear-cell renal cell carcinoma
+N3	Reference T3 MeSH:C538445
+T4	SpecificDisease 262 265	RCC
+N4	Reference T4 MeSH:D002292
+T5	CompositeMention 309 363	von Hippel-Lindau disease-associated and sporadic RCCs
+N5	Reference T5 MeSH:D006623
+T6	CompositeMention 458 510	RCC- and von Hippel-Lindau disease-associated tumors
+N6	Reference T6 MeSH:D006623
+T7	Modifier 756 759	RCC
+N7	Reference T7 MeSH:D002292
+T8	Modifier 1474 1477	RCC
+N8	Reference T8 MeSH:D002292
+T9	SpecificDisease 1831 1856	von Hippel-Lindau disease
+N9	Reference T9 MeSH:D006623
+T10	SpecificDisease 1861 1864	RCC
+N10	Reference T10 MeSH:D002292

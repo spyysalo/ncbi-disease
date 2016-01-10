@@ -1,0 +1,8 @@
+T1	SpecificDisease 69 78	fragile X
+N1	Reference T1 MeSH:D005600
+T2	DiseaseClass 227 245	mental retardation
+N2	Reference T2 MeSH:D008607
+T3	SpecificDisease 392 410	fragile X syndrome
+N3	Reference T3 MeSH:D005600
+T4	SpecificDisease 678 696	fragile X syndrome
+N4	Reference T4 MeSH:D005600

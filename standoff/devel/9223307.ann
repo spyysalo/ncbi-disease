@@ -1,0 +1,14 @@
+T1	Modifier 56 77	ataxia-telangiectasia
+N1	Reference T1 MeSH:D001260
+T2	DiseaseClass 126 142	genetic disorder
+N2	Reference T2 MeSH:D030342
+T3	SpecificDisease 143 164	ataxia-telangiectasia
+N3	Reference T3 MeSH:D001260
+T4	SpecificDisease 166 169	A-T
+N4	Reference T4 MeSH:D001260
+T5	Modifier 587 590	A-T
+N5	Reference T5 MeSH:D001260
+T6	Modifier 659 662	A-T
+N6	Reference T6 MeSH:D001260
+T7	Modifier 973 976	A-T
+N7	Reference T7 MeSH:D001260

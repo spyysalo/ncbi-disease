@@ -1,0 +1,10 @@
+T1	SpecificDisease 422 437	G6PD deficiency
+N1	Reference T1 MeSH:D005955
+T2	SpecificDisease 552 567	G6PD deficiency
+N2	Reference T2 MeSH:D005955
+T3	SpecificDisease 596 611	G6PD deficiency
+N3	Reference T3 MeSH:D005955
+T4	SpecificDisease 963 978	G6PD deficiency
+N4	Reference T4 MeSH:D005955
+T5	SpecificDisease 1428 1443	G6PD deficiency
+N5	Reference T5 MeSH:D005955

@@ -1,0 +1,8 @@
+T1	SpecificDisease 33 46	retinoschisis
+N1	Reference T1 MeSH:D041441
+T2	SpecificDisease 109 131	Juvenile retinoschisis
+N2	Reference T2 MeSH:D041441
+T3	DiseaseClass 138 164	X-linked recessive disease
+N3	Reference T3 MeSH:D040181
+T4	Modifier 344 357	Retinoschisis
+N4	Reference T4 MeSH:D041441

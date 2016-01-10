@@ -1,0 +1,14 @@
+T1	SpecificDisease 32 49	Tay-Sachs disease
+N1	Reference T1 MeSH:D013661
+T2	SpecificDisease 78 95	Tay-Sachs disease
+N2	Reference T2 MeSH:D013661
+T3	SpecificDisease 97 100	TSD
+N3	Reference T3 MeSH:D013661
+T4	DiseaseClass 108 144	autosomal recessive genetic disorder
+N4	Reference T4 MeSH:D030342
+T5	Modifier 303 312	Tay-Sachs
+N5	Reference T5 MeSH:D013661
+T6	Modifier 782 785	TSD
+N6	Reference T6 MeSH:D013661
+T7	Modifier 1548 1551	TSD
+N7	Reference T7 MeSH:D013661

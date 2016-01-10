@@ -1,0 +1,14 @@
+T1	SpecificDisease 0 15	Canavan disease
+N1	Reference T1 MeSH:D017825
+T2	SpecificDisease 134 149	Canavan disease
+N2	Reference T2 MeSH:D017825
+T3	SpecificDisease 154 186	spongy degeneration of the brain
+N3	Reference T3 MeSH:D017825
+T4	SpecificDisease 200 214	leukodystrophy
+N4	Reference T4 MeSH:D007966
+T5	SpecificDisease 229 257	deficiency of aspartoacylase
+N5	Reference T5 MeSH:D017825
+T6	SpecificDisease 360 375	Canavan disease
+N6	Reference T6 MeSH:D017825
+T7	SpecificDisease 1481 1496	Canavan disease
+N7	Reference T7 MeSH:D017825

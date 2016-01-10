@@ -1,0 +1,32 @@
+T1	Modifier 4 7	APC
+N1	Reference T1 MeSH:D011125
+T2	SpecificDisease 30 60	familial adenomatous polyposis
+N2	Reference T2 MeSH:D011125
+T3	SpecificDisease 82 96	gastric cancer
+N3	Reference T3 MeSH:D013274
+T4	SpecificDisease 107 121	gastric cancer
+N4	Reference T4 MeSH:D013274
+T5	DiseaseClass 141 147	cancer
+N5	Reference T5 MeSH:D009369
+T6	SpecificDisease 240 255	gastric cancers
+N6	Reference T6 MeSH:D013274
+T7	Modifier 338 364	adenomatous polyposis coli
+N7	Reference T7 MeSH:D011125
+T8	Modifier 366 369	APC
+N8	Reference T8 MeSH:D011125
+T9	SpecificDisease 406 437	adenomatous polyps in the colon
+N9	Reference T9 MeSH:D018256
+T10	SpecificDisease 476 490	gastric cancer
+N10	Reference T10 MeSH:D013274
+T11	SpecificDisease 531 546	gastric cancers
+N11	Reference T11 MeSH:D013274
+T12	Modifier 763 766	APC
+N12	Reference T12 MeSH:D011125
+T13	DiseaseClass 778 784	tumors
+N13	Reference T13 MeSH:D009369
+T14	DiseaseClass 827 833	tumors
+N14	Reference T14 MeSH:D009369
+T15	Modifier 1023 1026	APC
+N15	Reference T15 MeSH:D011125
+T16	SpecificDisease 1104 1119	gastric cancers
+N16	Reference T16 MeSH:D013274

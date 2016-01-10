@@ -1,0 +1,22 @@
+T1	DiseaseClass 0 20	Color vision defects
+N1	Reference T1 MeSH:D003117
+T2	SpecificDisease 24 45	adrenomyeloneuropathy
+N2	Reference T2 MeSH:D000326
+T3	DiseaseClass 72 93	abnormal color vision
+N3	Reference T3 MeSH:D003117
+T4	SpecificDisease 98 119	adrenomyeloneuropathy
+N4	Reference T4 MeSH:D000326
+T5	SpecificDisease 121 124	AMN
+N5	Reference T5 MeSH:D000326
+T6	Modifier 149 152	AMN
+N6	Reference T6 MeSH:D000326
+T7	Modifier 516 519	AMN
+N7	Reference T7 MeSH:D000326
+T8	DiseaseClass 602 623	abnormal color vision
+N8	Reference T8 MeSH:D003117
+T9	SpecificDisease 697 700	AMN
+N9	Reference T9 MeSH:D000326
+T10	DiseaseClass 721 741	adrenoleukodystrophy
+N10	Reference T10 MeSH:D000326
+T11	DiseaseClass 866 889	contiguous gene defects
+N11	Reference T11 MeSH:D025063

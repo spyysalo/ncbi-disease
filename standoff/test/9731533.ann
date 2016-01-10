@@ -1,0 +1,26 @@
+T1	Modifier 25 31	cancer
+N1	Reference T1 MeSH:D009369
+T2	SpecificDisease 132 162	familial adenomatous polyposis
+N2	Reference T2 MeSH:D011125
+T3	SpecificDisease 164 167	FAP
+N3	Reference T3 MeSH:D011125
+T4	DiseaseClass 189 216	autosomal dominant disorder
+N4	Reference T4 MeSH:D030342
+T5	DiseaseClass 254 260	polyps
+N5	Reference T5 MeSH:D011127
+T6	SpecificDisease 316 333	colorectal cancer
+N6	Reference T6 MeSH:D015179
+T7	SpecificDisease 335 338	CRC
+N7	Reference T7 MeSH:D015179
+T8	SpecificDisease 341 344	APC
+N8	Reference T8 MeSH:D011125
+T9	DiseaseClass 401 408	tumours
+N9	Reference T9 MeSH:D009369
+T10	SpecificDisease 741 744	CRC
+N10	Reference T10 MeSH:D015179
+T11	DiseaseClass 789 795	cancer
+N11	Reference T11 MeSH:D009369
+T12	CompositeMention 880 916	colorectal, breast and other cancers
+N12	Reference T12 MeSH:D001943
+N13	Reference T12 MeSH:D015179
+N14	Reference T12 MeSH:D009369

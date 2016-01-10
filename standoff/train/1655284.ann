@@ -1,0 +1,26 @@
+T1	Modifier 26 38	Wilms' tumor
+N1	Reference T1 MeSH:D009396
+T2	SpecificDisease 110 130	Denys-Drash syndrome
+N2	Reference T2 MeSH:D030321
+T3	SpecificDisease 132 152	Denys-Drash syndrome
+N3	Reference T3 MeSH:D030321
+T4	DiseaseClass 195 217	urogenital aberrations
+N4	Reference T4 MeSH:D014564
+T5	SpecificDisease 228 241	renal failure
+N5	Reference T5 MeSH:D051437
+T6	SpecificDisease 243 264	pseudohermaphroditism
+N6	Reference T6 MeSH:D012734
+T7	SpecificDisease 270 281	Wilms tumor
+N7	Reference T7 MeSH:D009396
+T8	SpecificDisease 283 297	nephroblastoma
+N8	Reference T8 MeSH:D009396
+T9	Modifier 375 386	Wilms tumor
+N9	Reference T9 MeSH:D009396
+T10	SpecificDisease 461 481	Denys-Drash syndrome
+N10	Reference T10 MeSH:D030321
+T11	SpecificDisease 807 819	Wilms tumors
+N11	Reference T11 MeSH:D009396
+T12	DiseaseClass 875 880	tumor
+N12	Reference T12 MeSH:D009369
+T13	SpecificDisease 1004 1024	Denys-Drash syndrome
+N13	Reference T13 MeSH:D030321

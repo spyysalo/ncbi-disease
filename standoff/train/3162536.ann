@@ -1,0 +1,17 @@
+T1	DiseaseClass 16 34	muscular dystrophy
+N1	Reference T1 MeSH:D009136
+T2	CompositeMention 146 183	Duchenne or Becker muscular dystrophy
+N2	Reference T2 MeSH:D020388
+N3	Reference T2 MeSH:C537666
+T3	SpecificDisease 185 188	DMD
+N4	Reference T3 MeSH:D020388
+T4	SpecificDisease 192 195	BMD
+N5	Reference T4 MeSH:C537666
+T5	Modifier 392 395	DMD
+N6	Reference T5 MeSH:D020388
+T6	Modifier 471 474	BMD
+N7	Reference T6 MeSH:C537666
+T7	Modifier 546 549	DMD
+N8	Reference T7 MeSH:D020388
+T8	SpecificDisease 664 667	DMD
+N9	Reference T8 MeSH:D020388

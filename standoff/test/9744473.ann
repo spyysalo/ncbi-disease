@@ -1,0 +1,14 @@
+T1	SpecificDisease 53 81	metachromatic leukodystrophy
+N1	Reference T1 MeSH:D007966
+T2	SpecificDisease 83 112	Deficiency of arylsulfatase A
+N2	Reference T2 MeSH:D007966
+T3	SpecificDisease 143 171	metachromatic leukodystrophy
+N3	Reference T3 MeSH:D007966
+T4	SpecificDisease 173 176	MLD
+N4	Reference T4 MeSH:D007966
+T5	SpecificDisease 227 230	MLD
+N5	Reference T5 MeSH:D007966
+T6	SpecificDisease 320 323	MLD
+N6	Reference T6 MeSH:D007966
+T7	SpecificDisease 750 753	MLD
+N7	Reference T7 MeSH:D007966

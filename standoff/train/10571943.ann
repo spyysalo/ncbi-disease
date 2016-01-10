@@ -1,0 +1,16 @@
+T1	SpecificDisease 100 116	Frasier syndrome
+N1	Reference T1 MeSH:D052159
+T2	SpecificDisease 255 271	Frasier syndrome
+N2	Reference T2 MeSH:D052159
+T3	SpecificDisease 273 275	FS
+N3	Reference T3 MeSH:D052159
+T4	SpecificDisease 483 503	Denys-Drash syndrome
+N4	Reference T4 MeSH:D030321
+T5	SpecificDisease 505 508	DDS
+N5	Reference T5 MeSH:D030321
+T6	SpecificDisease 642 662	WT1 gene abnormality
+N6	Reference T6 MeSH:D009396
+T7	SpecificDisease 771 773	FS
+N7	Reference T7 MeSH:D052159
+T8	SpecificDisease 816 819	DDS
+N8	Reference T8 MeSH:D030321

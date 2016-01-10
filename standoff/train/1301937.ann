@@ -1,0 +1,12 @@
+T1	SpecificDisease 19 46	hexosaminidase A deficiency
+N1	Reference T1 MeSH:D013661
+T2	SpecificDisease 148 165	Tay-Sachs disease
+N2	Reference T2 MeSH:D013661
+T3	SpecificDisease 167 170	TSD
+N3	Reference T3 MeSH:D013661
+T4	Modifier 231 234	TSD
+N4	Reference T4 MeSH:D013661
+T5	Modifier 324 327	TSD
+N5	Reference T5 MeSH:D013661
+T6	Modifier 673 676	TSD
+N6	Reference T6 MeSH:D013661

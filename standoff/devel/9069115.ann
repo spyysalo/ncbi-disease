@@ -1,0 +1,6 @@
+T1	SpecificDisease 69 81	alkaptonuria
+N1	Reference T1 MeSH:D000474
+T2	Modifier 1519 1531	alkaptonuria
+N2	Reference T2 MeSH:D000474
+T3	SpecificDisease 1679 1691	alkaptonuria
+N3	Reference T3 MeSH:D000474

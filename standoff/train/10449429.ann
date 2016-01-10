@@ -1,0 +1,12 @@
+T1	SpecificDisease 88 115	Duchenne muscular dystrophy
+N1	Reference T1 MeSH:D020388
+T2	SpecificDisease 117 120	DMD
+N2	Reference T2 MeSH:D020388
+T3	SpecificDisease 512 515	DMD
+N3	Reference T3 MeSH:D020388
+T4	DiseaseClass 1005 1020	muscular injury
+N4	Reference T4 MeSH:D014947
+T5	SpecificDisease 1245 1263	muscular dystrophy
+N5	Reference T5 MeSH:D009136
+T6	SpecificDisease 1392 1395	DMD
+N6	Reference T6 MeSH:D020388

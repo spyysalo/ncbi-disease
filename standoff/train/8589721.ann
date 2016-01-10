@@ -1,0 +1,25 @@
+T1	DiseaseClass 0 18	Growth retardation
+N1	Reference T1 MeSH:D006130
+T2	Modifier 23 29	tumour
+N2	Reference T2 MeSH:D009369
+T3	CompositeMention 94 119	breast and ovarian cancer
+N3	Reference T3 MeSH:D061325
+T4	CompositeMention 155 180	breast and ovarian cancer
+N4	Reference T4 MeSH:D001943
+N5	Reference T4 MeSH:D010051
+T5	Modifier 309 334	breast and ovarian cancer
+N6	Reference T5 MeSH:D001943
+N7	Reference T5 MeSH:D010051
+T6	Modifier 362 382	colon or lung cancer
+N8	Reference T6 MeSH:D003110
+N9	Reference T6 MeSH:D008175
+T7	Modifier 445 458	breast cancer
+N10	Reference T7 MeSH:D001943
+T8	Modifier 466 480	ovarian cancer
+N11	Reference T8 MeSH:D010051
+T9	DiseaseClass 612 625	MCF-7 tumours
+N12	Reference T9 MeSH:D009369
+T10	DiseaseClass 770 783	MCF-7 tumours
+N13	Reference T10 MeSH:D009369
+T11	Modifier 881 887	tumour
+N14	Reference T11 MeSH:D009369

@@ -1,0 +1,16 @@
+T1	SpecificDisease 0 22	Aspartylglucosaminuria
+N1	Reference T1 MeSH:D054880
+T2	SpecificDisease 48 70	Aspartylglucosaminuria
+N2	Reference T2 MeSH:D054880
+T3	SpecificDisease 72 75	AGU
+N3	Reference T3 MeSH:D054880
+T4	DiseaseClass 87 122	disorder of glycoprotein metabolism
+N4	Reference T4 MeSH:D008661
+T5	SpecificDisease 137 195	deficiency of the lysosomal enzyme aspartylglucosaminidase
+N5	Reference T5 MeSH:D054880
+T6	SpecificDisease 203 206	AGU
+N6	Reference T6 MeSH:D054880
+T7	SpecificDisease 354 357	AGU
+N7	Reference T7 MeSH:D054880
+T8	SpecificDisease 559 562	AGU
+N8	Reference T8 MeSH:D054880

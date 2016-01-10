@@ -1,0 +1,18 @@
+T1	Modifier 57 68	Lesch-Nyhan
+N1	Reference T1 MeSH:D007926
+T2	DiseaseClass 248 265	HPRT deficiencies
+N2	Reference T2 OMIM:300323
+T3	SpecificDisease 286 301	gouty arthritis
+N3	Reference T3 MeSH:D015210
+T4	SpecificDisease 340 360	Lesch-Nyhan syndrome
+N4	Reference T4 MeSH:D007926
+T5	SpecificDisease 362 365	L-N
+N5	Reference T5 MeSH:D007926
+T6	Modifier 368 371	L-N
+N6	Reference T6 MeSH:D007926
+T7	SpecificDisease 574 586	L-N syndrome
+N7	Reference T7 MeSH:D007926
+T8	DiseaseClass 728 743	genetic lesions
+N8	Reference T8 MeSH:D020022
+T9	Modifier 832 835	L-N
+N9	Reference T9 MeSH:D007926

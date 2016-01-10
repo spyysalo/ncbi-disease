@@ -1,0 +1,18 @@
+T1	SpecificDisease 77 94	neonatal jaundice
+N1	Reference T1 MeSH:D007567
+T2	SpecificDisease 137 155	lamellar cataracts
+N2	Reference T2 MeSH:C535342
+N3	Reference T2 OMIM:116800
+T3	SpecificDisease 326 343	neonatal jaundice
+N4	Reference T3 MeSH:D007567
+T4	SpecificDisease 745 773	bilateral lamellar cataracts
+N5	Reference T4 MeSH:C535342
+N6	Reference T4 OMIM:116800
+T5	SpecificDisease 815 829	G6PD deficient
+N7	Reference T5 MeSH:D005955
+T6	Modifier 912 920	cataract
+N8	Reference T6 MeSH:D002386
+T7	SpecificDisease 1230 1245	G6PD deficiency
+N9	Reference T7 MeSH:D005955
+T8	Modifier 1256 1264	cataract
+N10	Reference T8 MeSH:D002386

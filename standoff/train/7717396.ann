@@ -1,0 +1,38 @@
+T1	SpecificDisease 26 55	X-linked adrenoleukodystrophy
+N1	Reference T1 MeSH:D000326
+T2	DiseaseClass 143 163	peroxisomal disorder
+N2	Reference T2 MeSH:D018901
+T3	SpecificDisease 165 194	X-linked adrenoleukodystrophy
+N3	Reference T3 MeSH:D000326
+T4	SpecificDisease 196 201	X-ALD
+N4	Reference T4 MeSH:D000326
+T5	SpecificDisease 446 451	X-ALD
+N5	Reference T5 MeSH:D000326
+T6	SpecificDisease 534 537	ALD
+N6	Reference T6 MeSH:D000326
+T7	SpecificDisease 539 560	adrenomyeloneuropathy
+N7	Reference T7 MeSH:D000326
+T8	SpecificDisease 562 565	AMN
+N8	Reference T8 MeSH:D000326
+T9	Modifier 574 594	Addison disease only
+N9	Reference T9 MeSH:D000224
+T10	Modifier 598 601	ADO
+N10	Reference T10 MeSH:D000224
+T11	SpecificDisease 689 692	ALD
+N11	Reference T11 MeSH:D000326
+T12	Modifier 731 736	X-ALD
+N12	Reference T12 MeSH:D000326
+T13	Modifier 882 885	ALD
+N13	Reference T13 MeSH:D000326
+T14	SpecificDisease 966 969	AMN
+N14	Reference T14 MeSH:D000326
+T15	Modifier 1100 1103	ADO
+N15	Reference T15 MeSH:D000224
+T16	SpecificDisease 1349 1352	ALD
+N16	Reference T16 MeSH:D000326
+T17	SpecificDisease 1357 1360	AMN
+N17	Reference T17 MeSH:D000326
+T18	SpecificDisease 1475 1480	X-ALD
+N18	Reference T18 MeSH:D000326
+T19	Modifier 1527 1532	X-ALD
+N19	Reference T19 MeSH:D000326

@@ -1,0 +1,30 @@
+T1	SpecificDisease 33 50	colorectal cancer
+N1	Reference T1 MeSH:D015179
+T2	SpecificDisease 136 162	stage II colorectal cancer
+N2	Reference T2 MeSH:D015179
+T3	SpecificDisease 269 286	colorectal cancer
+N3	Reference T3 MeSH:D015179
+T4	Modifier 370 375	tumor
+N4	Reference T4 MeSH:D009369
+T5	SpecificDisease 408 428	colorectal carcinoma
+N5	Reference T5 MeSH:D015179
+T6	CompositeMention 569 607	stage II and III colorectal carcinomas
+N6	Reference T6 MeSH:D015179
+T7	Modifier 698 703	tumor
+N7	Reference T7 MeSH:D009369
+T8	Modifier 720 725	tumor
+N8	Reference T8 MeSH:D009369
+T9	CompositeMention 864 908	stage II and stage III colorectal carcinomas
+N9	Reference T9 MeSH:D015179
+T10	DiseaseClass 950 956	tumors
+N10	Reference T10 MeSH:D009369
+T11	SpecificDisease 1044 1063	DCC-negative tumors
+N11	Reference T11 MeSH:D009369
+T12	SpecificDisease 1132 1149	stage III disease
+N12	Reference T12 MeSH:D009369
+T13	CompositeMention 1288 1327	stage II or stage III colorectal cancer
+N13	Reference T13 MeSH:D015179
+T14	SpecificDisease 1332 1362	stage II colorectal carcinomas
+N14	Reference T14 MeSH:D015179
+T15	DiseaseClass 1447 1464	stage III cancers
+N15	Reference T15 MeSH:D009369

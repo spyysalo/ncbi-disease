@@ -1,0 +1,12 @@
+T1	SpecificDisease 18 39	Prader-Willi syndrome
+N1	Reference T1 MeSH:D011218
+T2	SpecificDisease 283 304	Prader-Willi syndrome
+N2	Reference T2 MeSH:D011218
+T3	SpecificDisease 306 309	PWS
+N3	Reference T3 MeSH:D011218
+T4	SpecificDisease 373 376	PWS
+N4	Reference T4 MeSH:D011218
+T5	SpecificDisease 546 549	PWS
+N5	Reference T5 MeSH:D011218
+T6	Modifier 754 757	PWS
+N6	Reference T6 MeSH:D011218

@@ -1,0 +1,16 @@
+T1	Modifier 47 59	alkaptonuria
+N1	Reference T1 MeSH:D000474
+T2	SpecificDisease 70 82	Alkaptonuria
+N2	Reference T2 MeSH:D000474
+T3	SpecificDisease 84 87	AKU
+N3	Reference T3 MeSH:D000474
+T4	DiseaseClass 105 131	inborn error of metabolism
+N4	Reference T4 MeSH:D008661
+T5	Modifier 297 300	AKU
+N5	Reference T5 MeSH:D000474
+T6	Modifier 413 416	AKU
+N6	Reference T6 MeSH:D000474
+T7	Modifier 516 519	AKU
+N7	Reference T7 MeSH:D000474
+T8	Modifier 547 550	AKU
+N8	Reference T8 MeSH:D000474

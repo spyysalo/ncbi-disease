@@ -1,0 +1,10 @@
+T1	SpecificDisease 19 27	aniridia
+N1	Reference T1 MeSH:D015783
+T2	SpecificDisease 157 165	aniridia
+N2	Reference T2 MeSH:D015783
+T3	Modifier 202 210	aniridia
+N3	Reference T3 MeSH:D015783
+T4	SpecificDisease 527 535	aniridia
+N4	Reference T4 MeSH:D015783
+T5	SpecificDisease 681 689	aniridia
+N5	Reference T5 MeSH:D015783

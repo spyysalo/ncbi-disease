@@ -1,0 +1,18 @@
+T1	SpecificDisease 81 101	adrenoleukodystrophy
+N1	Reference T1 MeSH:D000326
+T2	SpecificDisease 185 205	adrenoleukodystrophy
+N2	Reference T2 MeSH:D000326
+T3	SpecificDisease 207 210	ALD
+N3	Reference T3 MeSH:D000326
+T4	Modifier 277 280	ALD
+N4	Reference T4 MeSH:D000326
+T5	DiseaseClass 427 445	neurologic disease
+N5	Reference T5 MeSH:D009422
+T6	SpecificDisease 447 461	leukodystrophy
+N6	Reference T6 MeSH:D007966
+T7	SpecificDisease 465 480	myeloneuropathy
+N7	Reference T7 MeSH:D009422
+T8	DiseaseClass 516 544	adrenocortical insufficiency
+N8	Reference T8 MeSH:D000224
+T9	SpecificDisease 721 724	ALD
+N9	Reference T9 MeSH:D000326

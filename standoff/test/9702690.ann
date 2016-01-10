@@ -1,0 +1,28 @@
+T1	SpecificDisease 23 43	adrenoleukodystrophy
+N1	Reference T1 MeSH:D000326
+T2	SpecificDisease 163 183	adrenoleukodystrophy
+N2	Reference T2 MeSH:D000326
+T3	SpecificDisease 185 188	ALD
+N3	Reference T3 MeSH:D000326
+T4	Modifier 242 245	ALD
+N4	Reference T4 MeSH:D000326
+T5	Modifier 511 514	ALD
+N5	Reference T5 MeSH:D000326
+T6	SpecificDisease 703 721	Alzheimers disease
+N6	Reference T6 MeSH:D000544
+T7	SpecificDisease 723 725	AD
+N7	Reference T7 MeSH:D000544
+T8	DiseaseClass 776 829	abnormalities in the bilateral cerebellar hemispheres
+N8	Reference T8 MeSH:D002526
+T9	DiseaseClass 1079 1121	demyelination of the cerebral white matter
+N9	Reference T9 MeSH:D003711
+T10	SpecificDisease 1194 1197	ALD
+N10	Reference T10 MeSH:D000326
+T11	SpecificDisease 1407 1410	ALD
+N11	Reference T11 MeSH:D000326
+T12	DiseaseClass 1539 1555	insidious lesion
+N12	Reference T12 MeSH:D004194
+T13	DiseaseClass 1678 1699	neuronal degeneration
+N13	Reference T13 MeSH:D009410
+T14	SpecificDisease 1703 1706	ALD
+N14	Reference T14 MeSH:D000326

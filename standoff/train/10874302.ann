@@ -1,0 +1,6 @@
+T1	DiseaseClass 253 270	Mendelian disease
+N1	Reference T1 MeSH:D030342
+T2	DiseaseClass 301 324	multifactorial diseases
+N2	Reference T2 MeSH:D004194
+T3	Modifier 651 663	hemophilia B
+N3	Reference T3 MeSH:D002836

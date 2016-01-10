@@ -1,0 +1,14 @@
+T1	SpecificDisease 38 89	glucose-6-phosphate dehydrogenase (G6PD) deficiency
+N1	Reference T1 MeSH:D005955
+T2	SpecificDisease 151 157	favism
+N2	Reference T2 MeSH:D005236
+T3	SpecificDisease 519 535	hemolytic anemia
+N3	Reference T3 MeSH:D000743
+T4	Modifier 1197 1211	deficient G6PD
+N4	Reference T4 MeSH:D005955
+T5	SpecificDisease 1504 1519	G6PD deficiency
+N5	Reference T5 MeSH:D005955
+T6	SpecificDisease 1629 1635	Favism
+N6	Reference T6 MeSH:D005236
+T7	SpecificDisease 1840 1846	favism
+N7	Reference T7 MeSH:D005236

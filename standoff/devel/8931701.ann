@@ -1,0 +1,22 @@
+T1	SpecificDisease 111 135	Wiskott-Aldrich syndrome
+N1	Reference T1 MeSH:D014923
+T2	SpecificDisease 141 165	Wiskott-Aldrich syndrome
+N2	Reference T2 MeSH:D014923
+T3	SpecificDisease 167 170	WAS
+N3	Reference T3 MeSH:D014923
+T4	DiseaseClass 176 209	X-linked immunodeficiency disease
+N4	Reference T4 MeSH:D007153+D040181
+T5	Modifier 268 271	WAS
+N5	Reference T5 MeSH:D014923
+T6	Modifier 443 446	WAS
+N6	Reference T6 MeSH:D014923
+T7	Modifier 608 611	WAS
+N7	Reference T7 MeSH:D014923
+T8	SpecificDisease 662 665	WAS
+N8	Reference T8 MeSH:D014923
+T9	SpecificDisease 1291 1316	isolated thrombocytopenia
+N9	Reference T9 MeSH:D013921
+T10	Modifier 1381 1384	WAS
+N10	Reference T10 MeSH:D014923
+T11	SpecificDisease 1672 1675	WAS
+N11	Reference T11 MeSH:D014923

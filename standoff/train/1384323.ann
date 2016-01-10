@@ -1,0 +1,16 @@
+T1	Modifier 47 56	Tay-Sachs
+N1	Reference T1 MeSH:D013661
+T2	SpecificDisease 103 138	Deficiency of beta-hexosaminidase A
+N2	Reference T2 MeSH:D013661
+T3	SpecificDisease 177 194	Tay-Sachs disease
+N3	Reference T3 MeSH:D013661
+T4	SpecificDisease 234 252	deficient in Hex A
+N4	Reference T4 MeSH:D013661
+T5	Modifier 518 535	Tay-Sachs disease
+N5	Reference T5 MeSH:D013661
+T6	Modifier 717 734	Tay-Sachs disease
+N6	Reference T6 MeSH:D013661
+T7	Modifier 909 926	Tay-Sachs disease
+N7	Reference T7 MeSH:D013661
+T8	Modifier 1153 1170	Tay-Sachs disease
+N8	Reference T8 MeSH:D013661

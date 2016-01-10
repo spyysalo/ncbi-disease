@@ -1,0 +1,10 @@
+T1	SpecificDisease 112 123	argininemia
+N1	Reference T1 MeSH:D020162
+T2	SpecificDisease 125 136	Argininemia
+N2	Reference T2 MeSH:D020162
+T3	DiseaseClass 147 176	autossomal recessive disorder
+N3	Reference T3 MeSH:D030342
+T4	DiseaseClass 187 241	deficiency in the cytosolic liver-type arginase enzyme
+N4	Reference T4 MeSH:D020162
+T5	SpecificDisease 337 348	argininemia
+N5	Reference T5 MeSH:D020162

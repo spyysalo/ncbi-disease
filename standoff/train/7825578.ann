@@ -1,0 +1,6 @@
+T1	Modifier 13 37	spinal cerebellar ataxia
+N1	Reference T1 MeSH:D013132
+T2	Modifier 140 164	spinal cerebellar ataxia
+N2	Reference T2 MeSH:D013132
+T3	SpecificDisease 1211 1233	Machado-Joseph disease
+N3	Reference T3 MeSH:D017827

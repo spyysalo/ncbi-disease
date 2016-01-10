@@ -1,0 +1,16 @@
+T1	SpecificDisease 4 28	Wiskott-Aldrich syndrome
+N1	Reference T1 MeSH:D014923
+T2	SpecificDisease 137 161	Wiskott-Aldrich syndrome
+N2	Reference T2 MeSH:D014923
+T3	SpecificDisease 163 166	WAS
+N3	Reference T3 MeSH:D014923
+T4	Modifier 362 365	WAS
+N4	Reference T4 MeSH:D014923
+T5	SpecificDisease 467 470	WAS
+N5	Reference T5 MeSH:D014923
+T6	Modifier 557 560	WAS
+N6	Reference T6 MeSH:D014923
+T7	Modifier 601 604	WAS
+N7	Reference T7 MeSH:D014923
+T8	Modifier 686 689	WAS
+N8	Reference T8 MeSH:D014923

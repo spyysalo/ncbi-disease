@@ -1,0 +1,12 @@
+T1	SpecificDisease 47 83	familial hypertrophic cardiomyopathy
+N1	Reference T1 MeSH:D024741
+T2	SpecificDisease 188 224	familial hypertrophic cardiomyopathy
+N2	Reference T2 MeSH:D024741
+T3	SpecificDisease 226 229	FHC
+N3	Reference T3 MeSH:D024741
+T4	Modifier 286 289	FHC
+N4	Reference T4 MeSH:D024741
+T5	SpecificDisease 725 758	idiopathic dilated cardiomyopathy
+N5	Reference T5 MeSH:C536277
+T6	SpecificDisease 760 763	IDC
+N6	Reference T6 MeSH:C536277

@@ -1,0 +1,46 @@
+T1	SpecificDisease 35 72	attenuated adenomatous polyposis coli
+N1	Reference T1 MeSH:C538265
+T2	Modifier 101 106	tumor
+N2	Reference T2 MeSH:D009369
+T3	SpecificDisease 140 177	attenuated adenomatous polyposis coli
+N3	Reference T3 MeSH:C538265
+T4	SpecificDisease 179 183	AAPC
+N4	Reference T4 MeSH:C538265
+T5	SpecificDisease 199 229	familial adenomatous polyposis
+N5	Reference T5 MeSH:D011125
+T6	SpecificDisease 231 234	FAP
+N6	Reference T6 MeSH:D011125
+T7	SpecificDisease 237 241	AAPC
+N7	Reference T7 MeSH:C538265
+T8	SpecificDisease 283 299	colonic adenomas
+N8	Reference T8 MeSH:D018256
+T9	SpecificDisease 321 338	colorectal cancer
+N9	Reference T9 MeSH:D015179
+T10	Modifier 428 432	AAPC
+N10	Reference T10 MeSH:C538265
+T11	Modifier 515 518	APC
+N11	Reference T11 MeSH:D011125
+T12	Modifier 569 573	AAPC
+N12	Reference T12 MeSH:C538265
+T13	Modifier 653 656	APC
+N13	Reference T13 MeSH:D011125
+T14	Modifier 759 762	APC
+N14	Reference T14 MeSH:D011125
+T15	SpecificDisease 899 918	colorectal adenomas
+N15	Reference T15 MeSH:D018256
+T16	DiseaseClass 1132 1140	adenomas
+N16	Reference T16 MeSH:D000236
+T17	Modifier 1260 1264	AAPC
+N17	Reference T17 MeSH:C538265
+T18	SpecificDisease 1305 1324	colorectal adenomas
+N18	Reference T18 MeSH:D018256
+T19	Modifier 1329 1341	rectal polyp
+N19	Reference T19 MeSH:D011127
+T20	SpecificDisease 1367 1381	desmoid tumors
+N20	Reference T20 MeSH:D018222
+T21	Modifier 1438 1442	AAPC
+N21	Reference T21 MeSH:C538265
+T22	Modifier 1473 1476	APC
+N22	Reference T22 MeSH:D011125
+T23	Modifier 1631 1634	FAP
+N23	Reference T23 MeSH:D011125

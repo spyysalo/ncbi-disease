@@ -1,0 +1,4 @@
+T1	SpecificDisease 0 12	Histidinemia
+N1	Reference T1 MeSH:C538320
+T2	SpecificDisease 93 105	histidinemia
+N2	Reference T2 MeSH:C538320

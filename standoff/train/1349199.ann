@@ -1,0 +1,25 @@
+T1	SpecificDisease 23 40	DiGeorge syndrome
+N1	Reference T1 MeSH:D004062
+T2	SpecificDisease 92 109	DiGeorge syndrome
+N2	Reference T2 MeSH:D004062
+T3	SpecificDisease 111 114	DGS
+N3	Reference T3 MeSH:D004062
+T4	CompositeMention 210 268	aplasia or hypoplasia of the thymus and parathyroid glands
+N4	Reference T4 MeSH:C536288
+N5	Reference T4 MeSH:D007011
+T5	SpecificDisease 276 309	conotruncal cardiac malformations
+N6	Reference T5 MeSH:C535464
+T6	Modifier 357 360	DGS
+N7	Reference T6 MeSH:D004062
+T7	SpecificDisease 504 507	DGS
+N8	Reference T7 MeSH:D004062
+T8	Modifier 927 930	DGS
+N9	Reference T8 MeSH:D004062
+T9	Modifier 1360 1363	DGS
+N10	Reference T9 MeSH:D004062
+T10	SpecificDisease 1488 1491	DGS
+N11	Reference T10 MeSH:D004062
+T11	Modifier 1535 1538	DGS
+N12	Reference T11 MeSH:D004062
+T12	SpecificDisease 1609 1612	DGS
+N13	Reference T12 MeSH:D004062

@@ -1,0 +1,18 @@
+T1	Modifier 11 16	tumor
+N1	Reference T1 MeSH:D009369
+T2	SpecificDisease 98 111	breast cancer
+N2	Reference T2 MeSH:D001943
+T3	DiseaseClass 258 275	metastatic tumors
+N3	Reference T3 MeSH:D009362
+T4	Modifier 438 443	tumor
+N4	Reference T4 MeSH:D009369
+T5	SpecificDisease 503 516	breast cancer
+N5	Reference T5 MeSH:D001943
+T6	SpecificDisease 554 571	breast carcinomas
+N6	Reference T6 MeSH:D001943
+T7	DiseaseClass 749 756	cancers
+N7	Reference T7 MeSH:D009369
+T8	Modifier 828 841	breast cancer
+N8	Reference T8 MeSH:D001943
+T9	SpecificDisease 912 925	breast cancer
+N9	Reference T9 MeSH:D001943

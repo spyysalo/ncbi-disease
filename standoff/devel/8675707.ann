@@ -1,0 +1,22 @@
+T1	SpecificDisease 10 32	coronary heart disease
+N1	Reference T1 MeSH:D003327
+T2	SpecificDisease 275 297	coronary heart disease
+N2	Reference T2 MeSH:D003327
+T3	SpecificDisease 299 302	CHD
+N3	Reference T3 MeSH:D003327
+T4	SpecificDisease 842 845	CHD
+N4	Reference T4 MeSH:D003327
+T5	SpecificDisease 936 939	CHD
+N5	Reference T5 MeSH:D003327
+T6	Modifier 1004 1007	CHD
+N6	Reference T6 MeSH:D003327
+T7	SpecificDisease 1195 1198	CHD
+N7	Reference T7 MeSH:D003327
+T8	SpecificDisease 1333 1336	CHD
+N8	Reference T8 MeSH:D003327
+T9	SpecificDisease 1363 1378	CETP deficiency
+N9	Reference T9 OMIM:143470
+T10	SpecificDisease 1424 1427	CHD
+N10	Reference T10 MeSH:D003327
+T11	Modifier 1456 1459	CHD
+N11	Reference T11 MeSH:D003327

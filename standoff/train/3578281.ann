@@ -1,0 +1,32 @@
+T1	DiseaseClass 0 16	Hypopigmentation
+N1	Reference T1 MeSH:D017496
+T2	SpecificDisease 24 45	Prader-Willi syndrome
+N2	Reference T2 MeSH:D011218
+T3	CompositeMention 47 80	Cutaneous and ocular pigmentation
+N3	Reference T3 MeSH:D010859
+T4	SpecificDisease 123 144	Prader-Willi syndrome
+N4	Reference T4 MeSH:D011218
+T5	SpecificDisease 146 149	PWS
+N5	Reference T5 MeSH:D011218
+T6	DiseaseClass 165 181	hypopigmentation
+N6	Reference T6 MeSH:D017496
+T7	Modifier 368 371	PWS
+N7	Reference T7 MeSH:D011218
+T8	Modifier 389 402	hypopigmented
+N8	Reference T8 MeSH:D017496
+T9	DiseaseClass 420 436	hypopigmentation
+N9	Reference T9 MeSH:D017496
+T10	DiseaseClass 618 634	hypopigmentation
+N10	Reference T10 MeSH:D017496
+T11	Modifier 744 747	PWS
+N11	Reference T11 MeSH:D011218
+T12	DiseaseClass 777 793	hypopigmentation
+N12	Reference T12 MeSH:D017496
+T13	DiseaseClass 850 866	hypopigmentation
+N13	Reference T13 MeSH:D017496
+T14	SpecificDisease 924 927	PWS
+N14	Reference T14 MeSH:D011218
+T15	DiseaseClass 941 957	hypopigmentation
+N15	Reference T15 MeSH:D017496
+T16	DiseaseClass 1048 1064	hypopigmentation
+N16	Reference T16 MeSH:D017496

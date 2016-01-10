@@ -1,0 +1,11 @@
+T1	DiseaseClass 23 53	breast-ovarian cancer syndrome
+N1	Reference T1 MeSH:D061325
+T2	DiseaseClass 171 203	hereditary breast-ovarian cancer
+N2	Reference T2 MeSH:D061325
+T3	Modifier 471 503	breast and breast-ovarian cancer
+N3	Reference T3 MeSH:D001943
+N4	Reference T3 MeSH:D061325
+T4	Modifier 641 654	breast cancer
+N5	Reference T4 MeSH:D001943
+T5	DiseaseClass 1155 1196	hereditary breast-ovarian cancer syndrome
+N6	Reference T5 MeSH:D061325

@@ -1,0 +1,10 @@
+T1	SpecificDisease 24 40	bipolar disorder
+N1	Reference T1 MeSH:D001714
+T2	SpecificDisease 183 209	bipolar affective disorder
+N2	Reference T2 MeSH:D001714
+T3	SpecificDisease 211 215	BPAD
+N3	Reference T3 MeSH:D001714
+T4	Modifier 306 310	BPAD
+N4	Reference T4 MeSH:D001714
+T5	SpecificDisease 1345 1349	BPAD
+N5	Reference T5 MeSH:D001714

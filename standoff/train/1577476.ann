@@ -1,0 +1,22 @@
+T1	SpecificDisease 42 77	golden retriever muscular dystrophy
+N1	Reference T1 MeSH:D009136
+T2	SpecificDisease 102 129	Duchenne muscular dystrophy
+N2	Reference T2 MeSH:D020388
+T3	SpecificDisease 131 166	Golden retriever muscular dystrophy
+N3	Reference T3 MeSH:D009136
+T4	SpecificDisease 168 172	GRMD
+N4	Reference T4 MeSH:D009136
+T5	SpecificDisease 265 292	Duchenne muscular dystrophy
+N5	Reference T5 MeSH:D020388
+T6	SpecificDisease 294 297	DMD
+N6	Reference T6 MeSH:D020388
+T7	Modifier 314 317	DMD
+N7	Reference T7 MeSH:D020388
+T8	Modifier 429 432	DMD
+N8	Reference T8 MeSH:D020388
+T9	Modifier 512 516	GRMD
+N9	Reference T9 MeSH:D009136
+T10	SpecificDisease 631 635	GRMD
+N10	Reference T10 MeSH:D009136
+T11	SpecificDisease 883 904	dystrophin deficiency
+N11	Reference T11 OMIM:310200

@@ -1,0 +1,16 @@
+T1	SpecificDisease 0 56	Deficiency of the murine fifth complement component (C5)
+N1	Reference T1 OMIM:609536
+T2	SpecificDisease 156 169	C5 deficiency
+N2	Reference T2 OMIM:609536
+T3	SpecificDisease 330 346	deficient for C5
+N3	Reference T3 OMIM:609536
+T4	SpecificDisease 490 503	C5 deficiency
+N4	Reference T4 OMIM:609536
+T5	SpecificDisease 686 699	C5 deficiency
+N5	Reference T5 OMIM:609536
+T6	Modifier 1122 1134	C5-deficient
+N6	Reference T6 OMIM:609536
+T7	Modifier 1577 1589	C5-deficient
+N7	Reference T7 OMIM:609536
+T8	SpecificDisease 1708 1729	C5 protein deficiency
+N8	Reference T8 OMIM:609536

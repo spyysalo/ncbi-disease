@@ -1,0 +1,38 @@
+T1	Modifier 29 32	APC
+N1	Reference T1 MeSH:D011125
+T2	SpecificDisease 44 68	adrenocortical carcinoma
+N2	Reference T2 MeSH:D018268
+T3	SpecificDisease 89 119	familial adenomatous polyposis
+N3	Reference T3 MeSH:D011125
+T4	DiseaseClass 121 140	Endocrine neoplasms
+N4	Reference T4 MeSH:D004701
+T5	SpecificDisease 190 220	familial adenomatous polyposis
+N5	Reference T5 MeSH:D011125
+T6	SpecificDisease 222 225	FAP
+N6	Reference T6 MeSH:D011125
+T7	SpecificDisease 231 256	adrenocorotical carcinoma
+N7	Reference T7 MeSH:D018268
+T8	SpecificDisease 307 310	FAP
+N8	Reference T8 MeSH:D011125
+T9	Modifier 368 394	adenomatous polyposis coli
+N9	Reference T9 MeSH:D011125
+T10	Modifier 396 399	APC
+N10	Reference T10 MeSH:D011125
+T11	DiseaseClass 427 436	carcinoma
+N11	Reference T11 MeSH:D002277
+T12	Modifier 514 517	APC
+N12	Reference T12 MeSH:D011125
+T13	Modifier 570 573	APC
+N13	Reference T13 MeSH:D011125
+T14	SpecificDisease 583 604	adrenocortical tumors
+N14	Reference T14 MeSH:D018268
+T15	SpecificDisease 670 683	desmoid tumor
+N15	Reference T15 MeSH:C535944
+T16	Modifier 748 751	APC
+N16	Reference T16 MeSH:D011125
+T17	DiseaseClass 774 787	benign tumors
+N17	Reference T17 MeSH:D009369
+T18	DiseaseClass 851 857	tumors
+N18	Reference T18 MeSH:D009369
+T19	Modifier 927 930	FAP
+N19	Reference T19 MeSH:D011125

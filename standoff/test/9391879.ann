@@ -1,0 +1,10 @@
+T1	Modifier 55 76	breast/ovarian cancer
+N1	Reference T1 MeSH:D061325
+T2	Modifier 127 148	breast/ovarian cancer
+N2	Reference T2 MeSH:D061325
+T3	Modifier 247 260	breast cancer
+N3	Reference T3 MeSH:D001943
+T4	Modifier 281 302	breast-ovarian cancer
+N4	Reference T4 MeSH:D061325
+T5	Modifier 835 856	breast/ovarian cancer
+N5	Reference T5 MeSH:D061325

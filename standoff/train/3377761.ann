@@ -1,0 +1,6 @@
+T1	SpecificDisease 0 53	X-linked glucose-6-phosphate dehydrogenase deficiency
+N1	Reference T1 MeSH:D005955
+T2	SpecificDisease 84 144	X-linked glucose-6-phosphate dehydrogenase (G6PD) deficiency
+N2	Reference T2 MeSH:D005955
+T3	SpecificDisease 988 1012	X-linked G6PD deficiency
+N3	Reference T3 MeSH:D005955

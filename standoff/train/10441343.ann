@@ -1,0 +1,12 @@
+T1	Modifier 7 29	Machado-Joseph disease
+N1	Reference T1 MeSH:D017827
+T2	DiseaseClass 180 210	trinucleotide repeat disorders
+N2	Reference T2 MeSH:D030342
+T3	SpecificDisease 296 318	Machado-Joseph disease
+N3	Reference T3 MeSH:D017827
+T4	SpecificDisease 320 323	MJD
+N4	Reference T4 MeSH:D017827
+T5	Modifier 452 455	MJD
+N5	Reference T5 MeSH:D017827
+T6	Modifier 1588 1591	MJD
+N6	Reference T6 MeSH:D017827

@@ -1,0 +1,10 @@
+T1	SpecificDisease 35 57	Machado-Joseph disease
+N1	Reference T1 MeSH:D017827
+T2	SpecificDisease 196 218	Machado-Joseph disease
+N2	Reference T2 MeSH:D017827
+T3	SpecificDisease 220 223	MJD
+N3	Reference T3 MeSH:D017827
+T4	SpecificDisease 439 442	MJD
+N4	Reference T4 MeSH:D017827
+T5	SpecificDisease 698 701	MJD
+N5	Reference T5 MeSH:D017827

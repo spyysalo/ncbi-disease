@@ -1,0 +1,6 @@
+T1	SpecificDisease 8 44	defect in secretion of complement C5
+N1	Reference T1 OMIM:609536
+T2	SpecificDisease 64 119	deficiency of the fifth (C5) component of complement1-3
+N2	Reference T2 OMIM:609536
+T3	SpecificDisease 1187 1200	C5 deficiency
+N3	Reference T3 OMIM:609536

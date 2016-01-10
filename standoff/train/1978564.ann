@@ -1,0 +1,20 @@
+T1	SpecificDisease 71 101	familial adenomatous polyposis
+N1	Reference T1 MeSH:D011125
+T2	SpecificDisease 200 230	familial adenomatous polyposis
+N2	Reference T2 MeSH:D011125
+T3	SpecificDisease 232 235	FAP
+N3	Reference T3 MeSH:D011125
+T4	Modifier 312 315	FAP
+N4	Reference T4 MeSH:D011125
+T5	SpecificDisease 1005 1026	colorectal carcinomas
+N5	Reference T5 MeSH:D015179
+T6	SpecificDisease 1051 1054	FAP
+N6	Reference T6 MeSH:D011125
+T7	Modifier 1242 1245	APC
+N7	Reference T7 MeSH:D011125
+T8	SpecificDisease 1334 1337	FAP
+N8	Reference T8 MeSH:D011125
+T9	Modifier 1409 1412	APC
+N9	Reference T9 MeSH:D011125
+T10	SpecificDisease 1517 1534	colorectal cancer
+N10	Reference T10 MeSH:D015179

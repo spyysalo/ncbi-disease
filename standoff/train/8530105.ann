@@ -1,0 +1,16 @@
+T1	Modifier 39 62	Langer-Giedion syndrome
+N1	Reference T1 MeSH:D015826
+T2	SpecificDisease 134 164	trichorhinophalangeal syndrome
+N2	Reference T2 OMIM:190350
+T3	SpecificDisease 365 388	Langer-Giedion syndrome
+N3	Reference T3 MeSH:D015826
+T4	Modifier 612 635	Langer-Giedion syndrome
+N4	Reference T4 MeSH:D015826
+T5	SpecificDisease 886 916	trichorhinophalangeal syndrome
+N5	Reference T5 OMIM:190350
+T6	SpecificDisease 918 922	TRPS
+N6	Reference T6 OMIM:190350
+T7	Modifier 1121 1124	LGS
+N7	Reference T7 MeSH:D015826
+T8	SpecificDisease 1235 1258	Langer-Giedion syndrome
+N8	Reference T8 MeSH:D015826

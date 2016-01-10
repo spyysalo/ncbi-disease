@@ -1,0 +1,14 @@
+T1	DiseaseClass 138 145	lipomas
+N1	Reference T1 MeSH:D008067
+T2	DiseaseClass 183 190	lipomas
+N2	Reference T2 MeSH:D008067
+T3	DiseaseClass 421 428	lipomas
+N3	Reference T3 MeSH:D008067
+T4	SpecificDisease 721 748	adipose tissue inflammation
+N4	Reference T4 MeSH:D007249
+T5	DiseaseClass 791 798	lipomas
+N5	Reference T5 MeSH:D008067
+T6	DiseaseClass 972 979	lipomas
+N6	Reference T6 MeSH:D008067
+T7	DiseaseClass 1165 1178	benign tumors
+N7	Reference T7 MeSH:D009369

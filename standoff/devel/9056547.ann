@@ -1,0 +1,24 @@
+T1	SpecificDisease 102 130	Pelizaeus-Merzbacher disease
+N1	Reference T1 OMIM:312080
+T2	SpecificDisease 283 311	Pelizaeus-Merzbacher disease
+N2	Reference T2 OMIM:312080
+T3	SpecificDisease 313 316	PMD
+N3	Reference T3 OMIM:312080
+T4	SpecificDisease 466 493	X-linked spastic paraplegia
+N4	Reference T4 OMIM:312920
+T5	SpecificDisease 495 498	SPG
+N5	Reference T5 OMIM:312920
+T6	SpecificDisease 567 570	PMD
+N6	Reference T6 OMIM:312080
+T7	DiseaseClass 647 656	nystagmus
+N7	Reference T7 MeSH:D020417
+T8	DiseaseClass 668 675	tremors
+N8	Reference T8 MeSH:D014202
+T9	DiseaseClass 691 709	mental retardation
+N9	Reference T9 MeSH:D008607
+T10	DiseaseClass 744 752	dementia
+N10	Reference T10 MeSH:D003704
+T11	DiseaseClass 756 777	personality disorders
+N11	Reference T11 MeSH:D010554
+T12	DiseaseClass 1047 1069	PLP-associated disease
+N12	Reference T12 OMIM:312080+OMIM:312920

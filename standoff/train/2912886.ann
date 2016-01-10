@@ -1,0 +1,22 @@
+T1	SpecificDisease 0 39	Chronic nonspherocytic hemolytic anemia
+N1	Reference T1 MeSH:D000746
+T2	SpecificDisease 41 46	CNSHA
+N2	Reference T2 MeSH:D000746
+T3	SpecificDisease 52 103	glucose 6 phosphate dehydrogenase (G6PD) deficiency
+N3	Reference T3 MeSH:D005955
+T4	SpecificDisease 122 157	familial amyloidotic polyneuropathy
+N4	Reference T4 MeSH:D028227
+T5	SpecificDisease 159 162	FAP
+N5	Reference T5 MeSH:D028227
+T6	SpecificDisease 312 340	erythrocytic G6PD deficiency
+N6	Reference T6 MeSH:D005955
+T7	SpecificDisease 402 441	chronic nonspherocytic hemolytic anemia
+N7	Reference T7 MeSH:D000746
+T8	SpecificDisease 443 448	CNSHA
+N8	Reference T8 MeSH:D000746
+T9	SpecificDisease 454 489	familial amyloidotic polyneuropathy
+N9	Reference T9 MeSH:D028227
+T10	SpecificDisease 491 494	FAP
+N10	Reference T10 MeSH:D028227
+T11	SpecificDisease 497 514	Chronic hemolysis
+N11	Reference T11 MeSH:D006461

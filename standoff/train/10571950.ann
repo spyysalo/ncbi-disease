@@ -1,0 +1,34 @@
+T1	Modifier 28 31	PDS
+N1	Reference T1 MeSH:C536648
+T2	SpecificDisease 81 89	deafness
+N2	Reference T2 MeSH:D003638
+T3	SpecificDisease 93 109	Pendred syndrome
+N3	Reference T3 MeSH:C536648
+T4	SpecificDisease 111 127	Pendred syndrome
+N4	Reference T4 MeSH:C536648
+T5	DiseaseClass 133 161	recessive inherited disorder
+N5	Reference T5 MeSH:D030342
+T6	DiseaseClass 179 221	developmental abnormalities of the cochlea
+N6	Reference T6 MeSH:D015834
+T7	SpecificDisease 223 249	sensorineural hearing loss
+N7	Reference T7 MeSH:D006319
+T8	SpecificDisease 255 282	diffuse thyroid enlargement
+N8	Reference T8 MeSH:D013959
+T9	SpecificDisease 284 290	goiter
+N9	Reference T9 MeSH:D006042
+T10	SpecificDisease 345 364	hereditary deafness
+N10	Reference T10 MeSH:D030342+D003638
+T11	SpecificDisease 384 387	PDS
+N11	Reference T11 MeSH:C536648
+T12	Modifier 536 539	PDS
+N12	Reference T12 MeSH:C536648
+T13	Modifier 611 619	deafness
+N13	Reference T13 MeSH:D003638
+T14	SpecificDisease 687 695	deafness
+N14	Reference T14 MeSH:D003638
+T15	Modifier 765 768	PDS
+N15	Reference T15 MeSH:C536648
+T16	Modifier 1162 1165	PDS
+N16	Reference T16 MeSH:C536648
+T17	Modifier 1221 1229	deafness
+N17	Reference T17 MeSH:D003638

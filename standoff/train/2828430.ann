@@ -1,0 +1,18 @@
+T1	SpecificDisease 0 34	Homozygous hypobetalipoproteinemia
+N1	Reference T1 MeSH:D006995
+T2	SpecificDisease 60 83	abetalipoproproteinemia
+N2	Reference T2 MeSH:D000012
+T3	SpecificDisease 158 192	homozygous hypobetalipoproteinemia
+N3	Reference T3 MeSH:D006995
+T4	SpecificDisease 194 197	HBL
+N4	Reference T4 MeSH:D006995
+T5	Modifier 441 444	HBL
+N5	Reference T5 MeSH:D006995
+T6	Modifier 570 573	HBL
+N6	Reference T6 MeSH:D006995
+T7	Modifier 749 752	HBL
+N7	Reference T7 MeSH:D006995
+T8	Modifier 875 878	HBL
+N8	Reference T8 MeSH:D006995
+T9	SpecificDisease 1010 1030	abetalipoproteinemia
+N9	Reference T9 MeSH:D000012

@@ -1,0 +1,36 @@
+T1	SpecificDisease 79 121	X-linked Emery-Dreifuss muscular dystrophy
+N1	Reference T1 MeSH:D020389
+T2	SpecificDisease 123 156	Emery-Dreifuss muscular dystrophy
+N2	Reference T2 MeSH:D020389
+T3	SpecificDisease 158 162	EDMD
+N3	Reference T3 MeSH:D020389
+T4	DiseaseClass 170 207	X-linked recessive muscular dystrophy
+N4	Reference T4 MeSH:D040181+D009136
+T5	CompositeMention 231 285	contractures of the elbows, Achilles tendons and spine
+N5	Reference T5 MeSH:D003286
+T6	DiseaseClass 306 320	muscle wasting
+N6	Reference T6 MeSH:D009133
+T7	DiseaseClass 325 333	weakness
+N7	Reference T7 MeSH:D018908
+T8	SpecificDisease 339 353	cardiomyopathy
+N8	Reference T8 MeSH:D009202
+T9	SpecificDisease 370 396	cardiac conduction defects
+N9	Reference T9 OMIM:115080
+T10	SpecificDisease 679 683	EDMD
+N10	Reference T10 MeSH:D020389
+T11	Modifier 793 797	EDMD
+N11	Reference T11 MeSH:D020389
+T12	Modifier 1190 1194	EDMD
+N12	Reference T12 MeSH:D020389
+T13	SpecificDisease 1289 1307	elbow contractures
+N13	Reference T13 MeSH:D003286
+T14	SpecificDisease 1309 1327	ankle contractures
+N14	Reference T14 MeSH:D003286
+T15	SpecificDisease 1329 1348	upper limb weakness
+N15	Reference T15 MeSH:D018908
+T16	SpecificDisease 1353 1372	lower limb weakness
+N16	Reference T16 MeSH:D018908
+T17	DiseaseClass 1425 1444	cardiac involvement
+N17	Reference T17 MeSH:D006331
+T18	SpecificDisease 1564 1568	EDMD
+N18	Reference T18 MeSH:D020389

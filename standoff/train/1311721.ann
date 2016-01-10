@@ -1,0 +1,18 @@
+T1	DiseaseClass 233 239	tumors
+N1	Reference T1 MeSH:D009369
+T2	SpecificDisease 405 418	neuroblastoma
+N2	Reference T2 MeSH:D009447
+T3	Modifier 516 521	tumor
+N3	Reference T3 MeSH:D009369
+T4	DiseaseClass 576 582	tumors
+N4	Reference T4 MeSH:D009369
+T5	DiseaseClass 679 685	tumors
+N5	Reference T5 MeSH:D009369
+T6	Modifier 885 893	leukemia
+N6	Reference T6 MeSH:D007938
+T7	Modifier 1040 1048	leukemia
+N7	Reference T7 MeSH:D007938
+T8	SpecificDisease 1105 1119	acute leukemia
+N8	Reference T8 MeSH:D007938
+T9	Modifier 1344 1352	leukemia
+N9	Reference T9 MeSH:D007938

@@ -1,0 +1,46 @@
+T1	SpecificDisease 17 59	Schwartz-Jampel chondrodystrophic myotonia
+N1	Reference T1 OMIM:255800
+T2	SpecificDisease 65 89	Schwartz-Jampel syndrome
+N2	Reference T2 OMIM:255800
+T3	SpecificDisease 91 94	SJS
+N3	Reference T3 OMIM:255800
+T4	SpecificDisease 96 122	chondrodystrophic myotonia
+N4	Reference T4 OMIM:255800
+T5	DiseaseClass 143 174	recessively inherited condition
+N5	Reference T5 MeSH:D030342
+T6	DiseaseClass 186 194	myotonia
+N6	Reference T6 MeSH:D009222
+T7	DiseaseClass 196 209	short stature
+N7	Reference T7 MeSH:D006130
+T8	DiseaseClass 215 229	bone dysplasia
+N8	Reference T8 MeSH:D001848
+T9	SpecificDisease 255 258	SJS
+N9	Reference T9 OMIM:255800
+T10	Modifier 560 563	SJS
+N10	Reference T10 OMIM:255800
+T11	DiseaseClass 724 732	myotonia
+N11	Reference T11 MeSH:D009222
+T12	DiseaseClass 789 803	bone dysplasia
+N12	Reference T12 MeSH:D001848
+T13	DiseaseClass 809 817	myotonia
+N13	Reference T13 MeSH:D009222
+T14	SpecificDisease 985 997	SJS  type 1A
+N14	Reference T14 OMIM:255800
+T15	DiseaseClass 1046 1060	bone dysplasia
+N15	Reference T15 MeSH:D001848
+T16	DiseaseClass 1215 1229	bone dysplasia
+N16	Reference T16 MeSH:D001848
+T17	SpecificDisease 1241 1257	Kniest dysplasia
+N17	Reference T17 MeSH:C537207
+T18	DiseaseClass 1319 1333	bone dysplasia
+N18	Reference T18 MeSH:D001848
+T19	SpecificDisease 1345 1357	Pyle disease
+N19	Reference T19 MeSH:C536252
+T20	SpecificDisease 1416 1426	SJS type 2
+N20	Reference T20 MeSH:C537502
+T21	SpecificDisease 1495 1498	SJS
+N21	Reference T21 OMIM:255800
+T22	Modifier 1651 1654	SJS
+N22	Reference T22 OMIM:255800
+T23	Modifier 1706 1709	SJS
+N23	Reference T23 OMIM:255800

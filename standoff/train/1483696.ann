@@ -1,0 +1,12 @@
+T1	Modifier 52 69	Tay-Sachs disease
+N1	Reference T1 MeSH:D013661
+T2	SpecificDisease 155 172	Tay-Sachs disease
+N2	Reference T2 MeSH:D013661
+T3	SpecificDisease 174 177	TSD
+N3	Reference T3 MeSH:D013661
+T4	Modifier 278 281	TSD
+N4	Reference T4 MeSH:D013661
+T5	Modifier 699 702	TSD
+N5	Reference T5 MeSH:D013661
+T6	Modifier 1369 1372	TSD
+N6	Reference T6 MeSH:D013661

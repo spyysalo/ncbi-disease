@@ -1,0 +1,29 @@
+T1	Modifier 25 28	APC
+N1	Reference T1 MeSH:D011125
+T2	SpecificDisease 98 115	colorectal cancer
+N2	Reference T2 MeSH:D015179
+T3	Modifier 204 221	colorectal cancer
+N3	Reference T3 MeSH:D015179
+T4	Modifier 272 275	APC
+N4	Reference T4 MeSH:D011125
+T5	Modifier 348 365	colorectal cancer
+N5	Reference T5 MeSH:D015179
+T6	SpecificDisease 484 501	colorectal cancer
+N6	Reference T6 MeSH:D015179
+T7	DiseaseClass 636 645	neoplasia
+N7	Reference T7 MeSH:D009369
+T8	SpecificDisease 777 794	colorectal cancer
+N8	Reference T8 MeSH:D015179
+T9	DiseaseClass 947 953	cancer
+N9	Reference T9 MeSH:D009369
+T10	Modifier 1024 1030	cancer
+N10	Reference T10 MeSH:D009369
+T11	SpecificDisease 1037 1057	Colorectal neoplasia
+N11	Reference T11 MeSH:D015179
+T12	DiseaseClass 1198 1207	neoplasia
+N12	Reference T12 MeSH:D009369
+T13	CompositeMention 1285 1314	colorectal, or other, cancers
+N13	Reference T13 MeSH:D009369
+N14	Reference T13 MeSH:D015179
+T14	SpecificDisease 1381 1398	colorectal cancer
+N15	Reference T14 MeSH:D015179

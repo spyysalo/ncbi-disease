@@ -1,0 +1,24 @@
+T1	SpecificDisease 104 124	Lesch-Nyhan syndrome
+N1	Reference T1 MeSH:D007926
+T2	SpecificDisease 185 198	hyperuricemia
+N2	Reference T2 MeSH:D033461
+T3	DiseaseClass 203 234	central nervous system symptoms
+N3	Reference T3 MeSH:D002493
+T4	SpecificDisease 402 422	Lesch-Nyhan syndrome
+N4	Reference T4 MeSH:D007926
+T5	SpecificDisease 440 455	chroeoathetosis
+N5	Reference T5 MeSH:C537181
+T6	SpecificDisease 457 467	spasticity
+N6	Reference T6 MeSH:D009128
+T7	SpecificDisease 469 486	dysarthric speech
+N7	Reference T7 MeSH:D004401
+T8	SpecificDisease 492 505	hyperuricemia
+N8	Reference T8 MeSH:D033461
+T9	SpecificDisease 992 1012	Lesch-Nyhan syndrome
+N9	Reference T9 MeSH:D007926
+T10	Modifier 1437 1448	Lesch-Nyhan
+N10	Reference T10 MeSH:D007926
+T11	Modifier 1635 1646	Lesch-Nyhan
+N11	Reference T11 MeSH:D007926
+T12	SpecificDisease 1856 1876	Lesch-Nyhan syndrome
+N12	Reference T12 MeSH:D007926

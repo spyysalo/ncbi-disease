@@ -1,0 +1,32 @@
+T1	SpecificDisease 30 47	Friedreich ataxia
+N1	Reference T1 MeSH:D005621
+T2	SpecificDisease 77 94	Friedreich ataxia
+N2	Reference T2 MeSH:D005621
+T3	DiseaseClass 101 129	autosomal recessive disorder
+N3	Reference T3 MeSH:D030342
+T4	Modifier 157 161	FRDA
+N4	Reference T4 MeSH:D005621
+T5	DiseaseClass 779 788	scoliosis
+N5	Reference T5 MeSH:D012600
+T6	DiseaseClass 836 850	foot deformity
+N6	Reference T6 MeSH:D005530
+T7	SpecificDisease 932 946	cardiomyopathy
+N7	Reference T7 MeSH:D009202
+T8	SpecificDisease 948 965	diabetes mellitus
+N8	Reference T8 MeSH:D003920
+T9	DiseaseClass 967 989	loss of proprioception
+N9	Reference T9 MeSH:D020886
+T10	DiseaseClass 994 1010	bladder symptoms
+N10	Reference T10 MeSH:D001745
+T11	DiseaseClass 1051 1067	bladder symptoms
+N11	Reference T11 MeSH:D001745
+T12	DiseaseClass 1088 1102	foot deformity
+N12	Reference T12 MeSH:D005530
+T13	DiseaseClass 1182 1190	diabetes
+N13	Reference T13 MeSH:D003920
+T14	DiseaseClass 1192 1201	scoliosis
+N14	Reference T14 MeSH:D012600
+T15	DiseaseClass 1203 1219	bladder symptoms
+N15	Reference T15 MeSH:D001745
+T16	DiseaseClass 1224 1247	impaired proprioception
+N16	Reference T16 MeSH:D020886

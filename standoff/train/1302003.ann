@@ -1,0 +1,20 @@
+T1	Modifier 25 28	CHM
+N1	Reference T1 MeSH:D015794
+T2	SpecificDisease 60 73	choroideremia
+N2	Reference T2 MeSH:D015794
+T3	SpecificDisease 75 88	Choroideremia
+N3	Reference T3 MeSH:D015794
+T4	SpecificDisease 90 93	CHM
+N4	Reference T4 MeSH:D015794
+T5	DiseaseClass 101 160	X-linked progressive degeneration of the choroid and retina
+N5	Reference T5 MeSH:D015785
+T6	Modifier 233 236	CHM
+N6	Reference T6 MeSH:D015794
+T7	Modifier 286 289	CHM
+N7	Reference T7 MeSH:D015794
+T8	Modifier 384 387	CHM
+N8	Reference T8 MeSH:D015794
+T9	Modifier 812 815	CHM
+N9	Reference T9 MeSH:D015794
+T10	Modifier 890 893	CHM
+N10	Reference T10 MeSH:D015794

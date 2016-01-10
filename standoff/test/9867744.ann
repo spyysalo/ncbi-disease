@@ -1,0 +1,18 @@
+T1	SpecificDisease 13 28	hemochromatosis
+N1	Reference T1 MeSH:D006432
+T2	SpecificDisease 44 59	hemochromatosis
+N2	Reference T2 MeSH:D006432
+T3	SpecificDisease 90 101	early death
+N3	Reference T3 MeSH:D003643
+T4	SpecificDisease 452 465	iron overload
+N4	Reference T4 MeSH:D019190
+T5	SpecificDisease 533 542	cirrhosis
+N5	Reference T5 MeSH:D008103
+T6	SpecificDisease 682 697	hemochromatosis
+N6	Reference T6 MeSH:D006432
+T7	SpecificDisease 793 808	hemochromatosis
+N7	Reference T7 MeSH:D006432
+T8	SpecificDisease 904 919	hemochromatosis
+N8	Reference T8 MeSH:D006432
+T9	SpecificDisease 927 944	hepatic cirrhosis
+N9	Reference T9 MeSH:D008103

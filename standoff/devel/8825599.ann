@@ -1,0 +1,4 @@
+T1	SpecificDisease 21 65	glucose-6-phosphate dehydrogenase deficiency
+N1	Reference T1 MeSH:D005955
+T2	SpecificDisease 110 125	G6PD deficiency
+N2	Reference T2 MeSH:D005955

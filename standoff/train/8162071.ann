@@ -1,0 +1,20 @@
+T1	DiseaseClass 55 85	anterior segment malformations
+N1	Reference T1 MeSH:C537775
+T2	SpecificDisease 96 111	Peters' anomaly
+N2	Reference T2 MeSH:C537884
+T3	SpecificDisease 175 183	aniridia
+N3	Reference T3 MeSH:D015783
+T4	DiseaseClass 255 285	anterior segment malformations
+N4	Reference T4 MeSH:C537775
+T5	SpecificDisease 296 310	Peters anomaly
+N5	Reference T5 MeSH:C537884
+T6	SpecificDisease 332 346	Peters anomaly
+N6	Reference T6 MeSH:C537884
+T7	DiseaseClass 443 473	anterior segment malformations
+N7	Reference T7 MeSH:C537775
+T8	SpecificDisease 485 499	Peters anomaly
+N8	Reference T8 MeSH:C537884
+T9	SpecificDisease 696 710	Peters anomaly
+N9	Reference T9 MeSH:C537884
+T10	DiseaseClass 751 777	anterior segment anomalies
+N10	Reference T10 MeSH:C537775

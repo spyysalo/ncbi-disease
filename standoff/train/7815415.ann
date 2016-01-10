@@ -1,0 +1,18 @@
+T1	Modifier 45 63	myotonic dystrophy
+N1	Reference T1 MeSH:D009223
+T2	Modifier 144 162	myotonic dystrophy
+N2	Reference T2 MeSH:D009223
+T3	Modifier 164 166	DM
+N3	Reference T3 MeSH:D009223
+T4	SpecificDisease 265 267	DM
+N4	Reference T4 MeSH:D009223
+T5	DiseaseClass 537 555	congenital disease
+N5	Reference T5 MeSH:D030342
+T6	DiseaseClass 1135 1146	infertility
+N6	Reference T6 MeSH:D007246
+T7	DiseaseClass 1211 1228	mentally retarded
+N7	Reference T7 MeSH:D008607
+T8	Modifier 1556 1558	DM
+N8	Reference T8 MeSH:D009223
+T9	SpecificDisease 1658 1660	DM
+N9	Reference T9 MeSH:D009223

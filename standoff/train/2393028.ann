@@ -1,0 +1,6 @@
+T1	SpecificDisease 146 216	Glucose-6-phosphate dehydrogenase (G6PD; E. C. 1. 1. 1. 49) deficiency
+N1	Reference T1 MeSH:D005955
+T2	DiseaseClass 242 253	enzymopathy
+N2	Reference T2 MeSH:D008661
+T3	SpecificDisease 388 403	G6PD deficiency
+N3	Reference T3 MeSH:D005955

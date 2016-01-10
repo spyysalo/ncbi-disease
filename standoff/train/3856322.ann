@@ -1,0 +1,8 @@
+T1	SpecificDisease 65 80	Phenylketonuria
+N1	Reference T1 MeSH:D010661
+T2	SpecificDisease 82 85	PKU
+N2	Reference T2 MeSH:D010661
+T3	SpecificDisease 110 160	deficiency of the enzyme phenylalanine hydroxylase
+N3	Reference T3 OMIM:261600
+T4	SpecificDisease 878 881	PKU
+N4	Reference T4 MeSH:D010661

@@ -1,0 +1,4 @@
+T1	CompositeMention 188 222	familial breast and ovarian cancer
+N1	Reference T1 OMIM:613399
+T2	CompositeMention 929 950	breast/ovarian cancer
+N2	Reference T2 MeSH:D061325

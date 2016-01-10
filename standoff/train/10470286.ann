@@ -1,0 +1,33 @@
+T1	SpecificDisease 24 42	neurofibrosarcomas
+N1	Reference T1 MeSH:D018319
+T2	Modifier 129 134	tumor
+N2	Reference T2 MeSH:D009369
+T3	DiseaseClass 233 245	solid tumors
+N3	Reference T3 MeSH:D009369
+T4	SpecificDisease 268 283	gastric cancers
+N4	Reference T4 MeSH:D013274
+T5	SpecificDisease 287 305	esophageal cancers
+N5	Reference T5 MeSH:D004938
+T6	CompositeMention 310 337	bone and soft tissue tumors
+N6	Reference T6 MeSH:D001859
+N7	Reference T6 MeSH:D012983
+T7	SpecificDisease 368 386	neurofibrosarcomas
+N8	Reference T7 MeSH:D018319
+T8	Modifier 414 419	tumor
+N9	Reference T8 MeSH:D009369
+T9	SpecificDisease 448 466	esophageal cancers
+N10	Reference T9 MeSH:D004938
+T10	SpecificDisease 470 476	glioma
+N11	Reference T10 MeSH:D005910
+T11	SpecificDisease 477 490	glioblastomas
+N12	Reference T11 MeSH:D005909
+T12	Modifier 830 847	neurofibrosarcoma
+N13	Reference T12 MeSH:D018319
+T13	Modifier 965 982	neurofibrosarcoma
+N14	Reference T13 MeSH:D018319
+T14	Modifier 1125 1142	neurofibrosarcoma
+N15	Reference T14 MeSH:D018319
+T15	SpecificDisease 1324 1341	neurofibrosarcoma
+N16	Reference T15 MeSH:D018319
+T16	SpecificDisease 1449 1466	neurofibrosarcoma
+N17	Reference T16 MeSH:D018319

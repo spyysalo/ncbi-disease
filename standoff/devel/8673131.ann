@@ -1,0 +1,20 @@
+T1	Modifier 9 27	myotonic dystrophy
+N1	Reference T1 MeSH:D009223
+T2	DiseaseClass 68 76	myopathy
+N2	Reference T2 MeSH:D009135
+T3	SpecificDisease 86 104	Myotonic dystrophy
+N3	Reference T3 MeSH:D009223
+T4	SpecificDisease 106 108	DM
+N4	Reference T4 MeSH:D009223
+T5	SpecificDisease 619 646	hypertrophic cardiomyopathy
+N5	Reference T5 MeSH:D002312
+T6	Modifier 721 723	DM
+N6	Reference T6 MeSH:D009223
+T7	SpecificDisease 768 775	atrophy
+N7	Reference T7 MeSH:D001284
+T8	SpecificDisease 777 785	myotonia
+N8	Reference T8 MeSH:D009222
+T9	SpecificDisease 787 795	cataract
+N9	Reference T9 MeSH:D002386
+T10	SpecificDisease 800 816	male-infertility
+N10	Reference T10 MeSH:D007248

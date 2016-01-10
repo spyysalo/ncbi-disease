@@ -1,0 +1,6 @@
+T1	Modifier 63 68	tumor
+N1	Reference T1 MeSH:D009369
+T2	CompositeMention 180 208	breast and/or ovarian cancer
+N2	Reference T2 MeSH:D061325
+T3	CompositeMention 834 873	hereditary breast and/or ovarian cancer
+N3	Reference T3 MeSH:D061325

@@ -1,0 +1,8 @@
+T1	Modifier 4 30	hereditary hemochromatosis
+N1	Reference T1 MeSH:D006432
+T2	DiseaseClass 170 197	autosomal recessive disease
+N2	Reference T2 MeSH:D030342
+T3	SpecificDisease 198 224	hereditary hemochromatosis
+N3	Reference T3 MeSH:D006432
+T4	Modifier 2094 2120	hereditary hemochromatotic
+N4	Reference T4 MeSH:D006432

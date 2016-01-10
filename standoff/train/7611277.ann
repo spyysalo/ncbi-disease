@@ -1,0 +1,22 @@
+T1	Modifier 41 62	breast/ovarian cancer
+N1	Reference T1 MeSH:D061325
+T2	SpecificDisease 97 115	male breast cancer
+N2	Reference T2 MeSH:D018567
+T3	SpecificDisease 244 266	familial breast cancer
+N3	Reference T3 MeSH:D001943
+T4	CompositeMention 287 317	familial breast/ovarian cancer
+N4	Reference T4 MeSH:D061325
+T5	Modifier 445 451	cancer
+N5	Reference T5 MeSH:D009369
+T6	CompositeMention 586 610	ovarian or breast cancer
+N6	Reference T6 MeSH:D010051
+N7	Reference T6 MeSH:D001943
+T7	CompositeMention 960 986	breast and prostate cancer
+N8	Reference T7 MeSH:D001943
+N9	Reference T7 MeSH:D011471
+T8	DiseaseClass 1045 1075	intra-abdominal carcinomatosis
+N10	Reference T8 MeSH:D000008+D002277
+T9	CompositeMention 1261 1296	inherited breast and ovarian cancer
+N11	Reference T9 MeSH:D061325
+T10	SpecificDisease 1516 1534	male breast cancer
+N12	Reference T10 MeSH:D018567

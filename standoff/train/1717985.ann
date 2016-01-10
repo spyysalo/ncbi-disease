@@ -1,0 +1,12 @@
+T1	SpecificDisease 83 93	piebaldism
+N1	Reference T1 MeSH:D016116
+T2	SpecificDisease 95 105	Piebaldism
+N2	Reference T2 MeSH:D016116
+T3	DiseaseClass 112 147	autosomal dominant genetic disorder
+N3	Reference T3 MeSH:D030342
+T4	SpecificDisease 495 505	piebaldism
+N4	Reference T4 MeSH:D016116
+T5	Modifier 697 704	piebald
+N5	Reference T5 MeSH:D016116
+T6	SpecificDisease 739 749	Piebaldism
+N6	Reference T6 MeSH:D016116

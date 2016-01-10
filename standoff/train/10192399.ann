@@ -1,0 +1,20 @@
+T1	Modifier 4 20	Pendred syndrome
+N1	Reference T1 MeSH:C536648
+T2	SpecificDisease 71 87	Pendred syndrome
+N2	Reference T2 MeSH:C536648
+T3	DiseaseClass 115 133	syndromic deafness
+N3	Reference T3 MeSH:D003638
+T4	SpecificDisease 166 192	sensorineural hearing loss
+N4	Reference T4 MeSH:D006319
+T5	SpecificDisease 197 203	goitre
+N5	Reference T5 MeSH:D006042
+T6	SpecificDisease 267 283	Pendred syndrome
+N6	Reference T6 MeSH:C536648
+T7	SpecificDisease 285 288	PDS
+N7	Reference T7 MeSH:C536648
+T8	Modifier 587 608	diastrophic dysplasia
+N8	Reference T8 MeSH:C536170
+T9	DiseaseClass 702 709	adenoma
+N9	Reference T9 MeSH:D000236
+T10	SpecificDisease 1490 1506	Pendred syndrome
+N10	Reference T10 MeSH:C536648

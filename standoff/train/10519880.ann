@@ -1,0 +1,8 @@
+T1	SpecificDisease 131 161	cerebrotendinous xanthomatosis
+N1	Reference T1 MeSH:D019294
+T2	SpecificDisease 198 228	cerebrotendinous xanthomatosis
+N2	Reference T2 MeSH:D019294
+T3	SpecificDisease 230 233	CTX
+N3	Reference T3 MeSH:D019294
+T4	SpecificDisease 1438 1458	abnormality of CYP27
+N4	Reference T4 OMIM:213700

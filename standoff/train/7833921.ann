@@ -1,0 +1,14 @@
+T1	SpecificDisease 19 40	essential fructosuria
+N1	Reference T1 MeSH:C538068
+T2	SpecificDisease 124 145	Essential fructosuria
+N2	Reference T2 MeSH:C538068
+T3	DiseaseClass 173 200	inborn errors of metabolism
+N3	Reference T3 MeSH:D008661
+T4	SpecificDisease 260 294	deficiency of hepatic fructokinase
+N4	Reference T4 MeSH:C538068
+T5	SpecificDisease 566 587	essential fructosuria
+N5	Reference T5 MeSH:C538068
+T6	SpecificDisease 1021 1042	essential fructosuria
+N6	Reference T6 MeSH:C538068
+T7	DiseaseClass 1132 1143	fructosuria
+N7	Reference T7 MeSH:C538068

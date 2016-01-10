@@ -1,0 +1,14 @@
+T1	Modifier 46 59	Wilms' tumour
+N1	Reference T1 MeSH:D009396
+T2	SpecificDisease 105 125	Denys-Drash syndrome
+N2	Reference T2 MeSH:D030321
+T3	DiseaseClass 142 164	developmental disorder
+N3	Reference T3 MeSH:D002658
+T4	DiseaseClass 212 225	renal failure
+N4	Reference T4 MeSH:D051437
+T5	DiseaseClass 227 245	intersex disorders
+N5	Reference T5 MeSH:D012734
+T6	SpecificDisease 250 262	Wilms tumour
+N6	Reference T6 MeSH:D009396
+T7	Modifier 371 383	Wilms tumour
+N7	Reference T7 MeSH:D009396

@@ -1,0 +1,4 @@
+T1	DiseaseClass 159 178	recessive disorders
+N1	Reference T1 MeSH:D030342
+T2	SpecificDisease 427 442	phenylketonuria
+N2	Reference T2 MeSH:D010661

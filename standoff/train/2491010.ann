@@ -1,0 +1,24 @@
+T1	Modifier 100 127	Duchenne muscular dystrophy
+N1	Reference T1 MeSH:D020388
+T2	Modifier 129 132	DMD
+N2	Reference T2 MeSH:D020388
+T3	SpecificDisease 174 201	Duchenne muscular dystrophy
+N3	Reference T3 MeSH:D020388
+T4	SpecificDisease 203 206	DMD
+N4	Reference T4 MeSH:D020388
+T5	SpecificDisease 210 235	Becker muscular dystrophy
+N5	Reference T5 MeSH:C537666
+T6	SpecificDisease 237 240	BMD
+N6	Reference T6 MeSH:C537666
+T7	Modifier 312 315	DMD
+N7	Reference T7 MeSH:D020388
+T8	SpecificDisease 953 956	DMD
+N8	Reference T8 MeSH:D020388
+T9	SpecificDisease 958 961	BMD
+N9	Reference T9 MeSH:C537666
+T10	Modifier 1071 1074	BMD
+N10	Reference T10 MeSH:C537666
+T11	Modifier 1186 1189	DMD
+N11	Reference T11 MeSH:D020388
+T12	Modifier 1231 1234	BMD
+N12	Reference T12 MeSH:C537666

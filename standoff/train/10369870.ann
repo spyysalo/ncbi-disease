@@ -1,0 +1,12 @@
+T1	DiseaseClass 113 127	myelinopathies
+N1	Reference T1 MeSH:D011115
+T2	DiseaseClass 407 433	hypomyelination of the PNS
+N2	Reference T2 MeSH:D010523
+T3	DiseaseClass 573 606	inherited peripheral neuropathies
+N3	Reference T3 MeSH:C548028
+T4	SpecificDisease 607 633	Charcot-Marie-Tooth type 1
+N4	Reference T4 MeSH:D002607
+T5	SpecificDisease 635 659	Dejerine-Sottas syndrome
+N5	Reference T5 MeSH:C538392
+T6	SpecificDisease 664 701	congenital hypomyelinating neuropathy
+N6	Reference T6 OMIM:605253

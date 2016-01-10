@@ -1,0 +1,14 @@
+T1	SpecificDisease 20 40	adrenoleukodystrophy
+N1	Reference T1 MeSH:D000326
+T2	SpecificDisease 91 111	adrenoleukodystrophy
+N2	Reference T2 MeSH:D000326
+T3	SpecificDisease 113 116	ALD
+N3	Reference T3 MeSH:D000326
+T4	SpecificDisease 602 605	ALD
+N4	Reference T4 MeSH:D000326
+T5	SpecificDisease 607 618	Type II ALD
+N5	Reference T5 MeSH:D000326
+T6	DiseaseClass 666 685	leukoencephalopathy
+N6	Reference T6 MeSH:D056784
+T7	SpecificDisease 760 763	ALD
+N7	Reference T7 MeSH:D000326

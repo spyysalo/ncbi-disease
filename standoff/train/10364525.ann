@@ -1,0 +1,14 @@
+T1	SpecificDisease 25 51	hereditary prostate cancer
+N1	Reference T1 MeSH:C537243
+T2	SpecificDisease 144 159	prostate cancer
+N2	Reference T2 MeSH:D011471
+T3	SpecificDisease 161 176	Prostate cancer
+N3	Reference T3 MeSH:D011471
+T4	SpecificDisease 466 481	prostate cancer
+N4	Reference T4 MeSH:D011471
+T5	SpecificDisease 599 625	hereditary prostate cancer
+N5	Reference T5 MeSH:C537243
+T6	SpecificDisease 627 630	HPC
+N6	Reference T6 MeSH:C537243
+T7	SpecificDisease 1451 1466	prostate cancer
+N7	Reference T7 MeSH:D011471

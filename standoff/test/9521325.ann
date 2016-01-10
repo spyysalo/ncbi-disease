@@ -1,0 +1,20 @@
+T1	SpecificDisease 42 77	idiopathic ventricular fibrillation
+N1	Reference T1 MeSH:C537182
+T2	SpecificDisease 79 103	Ventricular fibrillation
+N2	Reference T2 MeSH:D014693
+T3	SpecificDisease 328 363	idiopathic ventricular fibrillation
+N3	Reference T3 MeSH:C537182
+T4	SpecificDisease 365 368	IVF
+N4	Reference T4 MeSH:C537182
+T5	Modifier 391 394	IVF
+N5	Reference T5 MeSH:C537182
+T6	SpecificDisease 552 564	sudden death
+N6	Reference T6 MeSH:D003645
+T7	SpecificDisease 604 607	IVF
+N7	Reference T7 MeSH:C537182
+T8	SpecificDisease 640 643	IVF
+N8	Reference T8 MeSH:C537182
+T9	Modifier 954 957	IVF
+N9	Reference T9 MeSH:C537182
+T10	SpecificDisease 1258 1261	IVF
+N10	Reference T10 MeSH:C537182

@@ -1,0 +1,10 @@
+T1	Modifier 60 80	retinal degeneration
+N1	Reference T1 MeSH:D012162
+T2	DiseaseClass 563 588	photoreceptor dystrophies
+N2	Reference T2 MeSH:D058499
+T3	SpecificDisease 600 639	autosomal dominant retinitis pigmentosa
+N3	Reference T3 MeSH:D012174
+T4	SpecificDisease 644 661	macular dystrophy
+N4	Reference T4 MeSH:D008268
+T5	Modifier 754 774	retinal degeneration
+N5	Reference T5 MeSH:D012162

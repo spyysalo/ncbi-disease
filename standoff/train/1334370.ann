@@ -1,0 +1,34 @@
+T1	Modifier 32 36	WAGR
+N1	Reference T1 MeSH:D017624
+T2	Modifier 241 245	WAGR
+N2	Reference T2 MeSH:D017624
+T3	Modifier 247 258	Wilms tumor
+N3	Reference T3 MeSH:D009396
+T4	Modifier 260 268	aniridia
+N4	Reference T4 MeSH:D015783
+T5	Modifier 270 297	genitourinary abnormalities
+N5	Reference T5 MeSH:D014564
+T6	Modifier 303 321	mental retardation
+N6	Reference T6 MeSH:D008607
+T7	SpecificDisease 405 413	aniridia
+N7	Reference T7 MeSH:D015783
+T8	SpecificDisease 446 457	Wilms tumor
+N8	Reference T8 MeSH:D009396
+T9	SpecificDisease 527 535	aniridia
+N9	Reference T9 MeSH:D015783
+T10	Modifier 591 599	aniridia
+N10	Reference T10 MeSH:D015783
+T11	Modifier 629 640	Wilms tumor
+N11	Reference T11 MeSH:D009396
+T12	Modifier 714 718	WAGR
+N12	Reference T12 MeSH:D017624
+T13	SpecificDisease 729 740	Wilms tumor
+N13	Reference T13 MeSH:D009396
+T14	Modifier 795 803	aniridia
+N14	Reference T14 MeSH:D015783
+T15	Modifier 861 869	aniridia
+N15	Reference T15 MeSH:D015783
+T16	Modifier 942 950	aniridia
+N16	Reference T16 MeSH:D015783
+T17	Modifier 1058 1066	aniridia
+N17	Reference T17 MeSH:D015783

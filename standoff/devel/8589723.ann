@@ -1,0 +1,22 @@
+T1	Modifier 0 14	Ovarian cancer
+N1	Reference T1 MeSH:D010051
+T2	SpecificDisease 198 211	breast cancer
+N2	Reference T2 MeSH:D001943
+T3	SpecificDisease 230 244	ovarian cancer
+N3	Reference T3 MeSH:D010051
+T4	Modifier 595 601	cancer
+N4	Reference T4 MeSH:D009369
+T5	DiseaseClass 703 710	cancers
+N5	Reference T5 MeSH:D009369
+T6	SpecificDisease 722 735	breast cancer
+N6	Reference T6 MeSH:D001943
+T7	CompositeMention 829 865	hereditary breast and ovarian cancer
+N7	Reference T7 MeSH:D061325
+T8	SpecificDisease 974 988	ovarian cancer
+N8	Reference T8 MeSH:D010051
+T9	SpecificDisease 1271 1296	hereditary ovarian cancer
+N9	Reference T9 MeSH:D061325
+T10	SpecificDisease 1320 1333	breast cancer
+N10	Reference T10 MeSH:D001943
+T11	DiseaseClass 1490 1515	inherited cancer syndrome
+N11	Reference T11 MeSH:D009386

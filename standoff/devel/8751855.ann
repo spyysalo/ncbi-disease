@@ -1,0 +1,23 @@
+T1	SpecificDisease 25 49	hereditary breast cancer
+N1	Reference T1 MeSH:D061325
+T2	SpecificDisease 107 120	breast cancer
+N2	Reference T2 MeSH:D001943
+T3	SpecificDisease 259 283	hereditary breast cancer
+N3	Reference T3 MeSH:D061325
+T4	SpecificDisease 401 425	hereditary breast cancer
+N4	Reference T4 MeSH:D061325
+T5	SpecificDisease 484 509	hereditary breast cancers
+N5	Reference T5 MeSH:D061325
+T6	Modifier 586 621	hereditary breast or ovarian cancer
+N6	Reference T6 MeSH:D061325
+T7	Modifier 688 701	breast cancer
+N7	Reference T7 MeSH:D001943
+T8	Modifier 786 810	breast or ovarian cancer
+N8	Reference T8 MeSH:D001943
+N9	Reference T8 MeSH:D010051
+T9	DiseaseClass 972 989	hereditary cancer
+N10	Reference T9 MeSH:D009386
+T10	SpecificDisease 1410 1434	hereditary breast cancer
+N11	Reference T10 MeSH:D061325
+T11	SpecificDisease 1568 1592	hereditary breast cancer
+N12	Reference T11 MeSH:D061325

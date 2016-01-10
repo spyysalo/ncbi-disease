@@ -1,0 +1,8 @@
+T1	SpecificDisease 81 105	severe neonatal jaundice
+N1	Reference T1 MeSH:D007567
+T2	SpecificDisease 125 140	G6PD deficiency
+N2	Reference T2 MeSH:D005955
+T3	DiseaseClass 253 272	hyperbilirubinaemia
+N3	Reference T3 MeSH:D006932
+T4	SpecificDisease 735 759	severe neonatal jaundice
+N4	Reference T4 MeSH:D007567

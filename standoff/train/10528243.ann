@@ -1,0 +1,32 @@
+T1	SpecificDisease 11 39	familial Mediterranean fever
+N1	Reference T1 MeSH:D010505
+T2	SpecificDisease 41 44	FMF
+N2	Reference T2 MeSH:D010505
+T3	SpecificDisease 224 252	familial Mediterranean fever
+N3	Reference T3 MeSH:D010505
+T4	SpecificDisease 254 257	FMF
+N4	Reference T4 MeSH:D010505
+T5	Modifier 312 315	FMF
+N5	Reference T5 MeSH:D010505
+T6	Modifier 402 405	FMF
+N6	Reference T6 MeSH:D010505
+T7	Modifier 506 509	FMF
+N7	Reference T7 MeSH:D010505
+T8	Modifier 539 542	FMF
+N8	Reference T8 MeSH:D010505
+T9	Modifier 791 794	FMF
+N9	Reference T9 MeSH:D010505
+T10	SpecificDisease 886 889	FMF
+N10	Reference T10 MeSH:D010505
+T11	SpecificDisease 1138 1141	FMF
+N11	Reference T11 MeSH:D010505
+T12	SpecificDisease 1156 1167	amyloidosis
+N12	Reference T12 MeSH:D000686
+T13	SpecificDisease 1169 1186	chronic arthritis
+N13	Reference T13 MeSH:D001168
+T14	SpecificDisease 1202 1209	myalgia
+N14	Reference T14 MeSH:D059352
+T15	Modifier 1464 1467	FMF
+N15	Reference T15 MeSH:D010505
+T16	SpecificDisease 1510 1513	FMF
+N16	Reference T16 MeSH:D010505

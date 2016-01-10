@@ -1,0 +1,12 @@
+T1	SpecificDisease 41 73	X-linked amelogenesis imperfecta
+N1	Reference T1 MeSH:C538243
+T2	DiseaseClass 245 268	amelogenesis imperfecta
+N2	Reference T2 MeSH:D000567
+T3	DiseaseClass 305 324	inherited disorders
+N3	Reference T3 MeSH:D030342
+T4	SpecificDisease 524 556	X-linked amelogenesis imperfecta
+N4	Reference T4 MeSH:C538243
+T5	SpecificDisease 558 562	AIH1
+N5	Reference T5 MeSH:C538243
+T6	SpecificDisease 610 614	AIH1
+N6	Reference T6 MeSH:C538243

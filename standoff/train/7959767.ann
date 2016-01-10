@@ -1,0 +1,8 @@
+T1	Modifier 29 47	Huntington disease
+N1	Reference T1 MeSH:D006816
+T2	SpecificDisease 186 204	Huntington disease
+N2	Reference T2 MeSH:D006816
+T3	SpecificDisease 206 208	HD
+N3	Reference T3 MeSH:D006816
+T4	DiseaseClass 222 267	autosomal dominant neurodegenerative disorder
+N4	Reference T4 MeSH:D019636

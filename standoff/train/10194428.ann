@@ -1,0 +1,26 @@
+T1	Modifier 30 45	hemochromatosis
+N1	Reference T1 MeSH:D016399
+T2	SpecificDisease 102 117	hemochromatosis
+N2	Reference T2 MeSH:D006432
+T3	SpecificDisease 119 145	Hereditary hemochromatosis
+N3	Reference T3 MeSH:D006432
+T4	SpecificDisease 147 149	HH
+N4	Reference T4 MeSH:D006432
+T5	DiseaseClass 163 199	autosomal recessive genetic disorder
+N5	Reference T5 MeSH:D030342
+T6	SpecificDisease 292 294	HH
+N6	Reference T6 MeSH:D006432
+T7	Modifier 399 401	HH
+N7	Reference T7 MeSH:D006432
+T8	Modifier 516 518	HH
+N8	Reference T8 MeSH:D006432
+T9	SpecificDisease 779 794	hemochromatosis
+N9	Reference T9 MeSH:D006432
+T10	Modifier 892 894	HH
+N10	Reference T10 MeSH:D006432
+T11	Modifier 1146 1148	HH
+N11	Reference T11 MeSH:D006432
+T12	Modifier 1225 1227	HH
+N12	Reference T12 MeSH:D006432
+T13	SpecificDisease 1312 1327	hemochromatosis
+N13	Reference T13 MeSH:D006432

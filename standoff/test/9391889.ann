@@ -1,0 +1,28 @@
+T1	SpecificDisease 25 54	congenital myotonic dystrophy
+N1	Reference T1 MeSH:D009223
+T2	SpecificDisease 104 133	congenital myotonic dystrophy
+N2	Reference T2 MeSH:D009223
+T3	SpecificDisease 135 137	DM
+N3	Reference T3 MeSH:D009223
+T4	Modifier 170 187	mentally retarded
+N4	Reference T4 MeSH:D008607
+T5	DiseaseClass 212 229	muscular weakness
+N5	Reference T5 MeSH:D018908
+T6	SpecificDisease 337 339	DM
+N6	Reference T6 MeSH:D009223
+T7	SpecificDisease 381 383	DM
+N7	Reference T7 MeSH:D009223
+T8	SpecificDisease 462 475	congenital DM
+N8	Reference T8 MeSH:D009223
+T9	SpecificDisease 558 571	congenital DM
+N9	Reference T9 MeSH:D009223
+T10	SpecificDisease 619 621	DM
+N10	Reference T10 MeSH:D009223
+T11	SpecificDisease 746 759	congenital DM
+N11	Reference T11 MeSH:D009223
+T12	SpecificDisease 946 959	congenital DM
+N12	Reference T12 MeSH:D009223
+T13	SpecificDisease 1003 1016	congenital DM
+N13	Reference T13 MeSH:D009223
+T14	SpecificDisease 1065 1067	DM
+N14	Reference T14 MeSH:D009223

@@ -1,0 +1,4 @@
+T1	SpecificDisease 39 64	alveolar rhabdomyosarcoma
+N1	Reference T1 MeSH:D018232
+T2	SpecificDisease 100 135	Pediatric alveolar rhabdomyosarcoma
+N2	Reference T2 MeSH:D018232

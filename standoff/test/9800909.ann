@@ -1,0 +1,24 @@
+T1	DiseaseClass 56 76	cognitive impairment
+N1	Reference T1 MeSH:D003072
+T2	SpecificDisease 80 107	Duchenne muscular dystrophy
+N2	Reference T2 MeSH:D020388
+T3	SpecificDisease 205 232	Duchenne muscular dystrophy
+N3	Reference T3 MeSH:D020388
+T4	SpecificDisease 234 237	DMD
+N4	Reference T4 MeSH:D020388
+T5	DiseaseClass 288 308	cognitive impairment
+N5	Reference T5 MeSH:D003072
+T6	Modifier 326 329	DMD
+N6	Reference T6 MeSH:D020388
+T7	Modifier 481 484	DMD
+N7	Reference T7 MeSH:D020388
+T8	DiseaseClass 912 932	cognitive impairment
+N8	Reference T8 MeSH:D003072
+T9	DiseaseClass 1039 1059	cerebral dysfunction
+N9	Reference T9 MeSH:D001927
+T10	Modifier 1168 1171	DMD
+N10	Reference T10 MeSH:D020388
+T11	DiseaseClass 1226 1246	cognitive impairment
+N11	Reference T11 MeSH:D003072
+T12	SpecificDisease 1263 1266	DMD
+N12	Reference T12 MeSH:D020388

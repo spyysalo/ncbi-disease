@@ -1,0 +1,34 @@
+T1	Modifier 9 38	X-linked adrenoleukodystrophy
+N1	Reference T1 MeSH:D000326
+T2	SpecificDisease 94 114	Adrenoleukodystrophy
+N2	Reference T2 MeSH:D000326
+T3	SpecificDisease 116 119	ALD
+N3	Reference T3 MeSH:D000326
+T4	DiseaseClass 127 143	X-linked disease
+N4	Reference T4 MeSH:D040181
+T5	SpecificDisease 180 192	cerebral ALD
+N5	Reference T5 MeSH:D000326
+T6	SpecificDisease 212 233	adrenomyeloneuropathy
+N6	Reference T6 MeSH:D000326
+T7	SpecificDisease 235 238	AMN
+N7	Reference T7 MeSH:D000326
+T8	SpecificDisease 261 264	ALD
+N8	Reference T8 MeSH:D000326
+T9	DiseaseClass 353 389	Central nervous system demyelination
+N9	Reference T9 MeSH:D003711
+T10	SpecificDisease 446 449	AMN
+N10	Reference T10 MeSH:D000326
+T11	DiseaseClass 546 567	Adrenal insufficiency
+N11	Reference T11 MeSH:D000309
+T12	SpecificDisease 569 585	Addisons disease
+N12	Reference T12 MeSH:D000224
+T13	SpecificDisease 633 636	ALD
+N13	Reference T13 MeSH:D000326
+T14	SpecificDisease 679 682	ALD
+N14	Reference T14 MeSH:D000326
+T15	SpecificDisease 941 944	ALD
+N15	Reference T15 MeSH:D000326
+T16	SpecificDisease 1051 1054	ALD
+N16	Reference T16 MeSH:D000326
+T17	Modifier 1204 1207	ALD
+N17	Reference T17 MeSH:D000326

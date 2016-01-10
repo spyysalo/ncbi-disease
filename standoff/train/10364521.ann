@@ -1,0 +1,18 @@
+T1	SpecificDisease 21 39	fragile X syndrome
+N1	Reference T1 MeSH:D005600
+T2	SpecificDisease 146 164	fragile X syndrome
+N2	Reference T2 MeSH:D005600
+T3	SpecificDisease 507 525	fragile X syndrome
+N3	Reference T3 MeSH:D005600
+T4	SpecificDisease 756 774	fragile X syndrome
+N4	Reference T4 MeSH:D005600
+T5	Modifier 986 995	fragile X
+N5	Reference T5 MeSH:D005600
+T6	Modifier 1113 1122	fragile X
+N6	Reference T6 MeSH:D005600
+T7	Modifier 1190 1207	Mentally retarded
+N7	Reference T7 MeSH:D008607
+T8	Modifier 1462 1479	mentally retarded
+N8	Reference T8 MeSH:D008607
+T9	Modifier 1674 1683	fragile X
+N9	Reference T9 MeSH:D005600

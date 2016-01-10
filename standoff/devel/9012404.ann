@@ -1,0 +1,22 @@
+T1	Modifier 42 60	male breast cancer
+N1	Reference T1 MeSH:D018567
+T2	Modifier 105 123	male breast cancer
+N2	Reference T2 MeSH:D018567
+T3	Modifier 200 231	inherited breast/ovarian cancer
+N3	Reference T3 MeSH:D061325
+T4	CompositeMention 307 335	breast and/or ovarian cancer
+N4	Reference T4 MeSH:D061325
+T5	CompositeMention 422 443	breast/ovarian cancer
+N5	Reference T5 MeSH:D061325
+T6	Modifier 562 580	male breast cancer
+N6	Reference T6 MeSH:D018567
+T7	Modifier 694 712	male breast cancer
+N7	Reference T7 MeSH:D018567
+T8	DiseaseClass 772 778	cancer
+N8	Reference T8 MeSH:D009369
+T9	SpecificDisease 797 811	ovarian cancer
+N9	Reference T9 MeSH:D010051
+T10	SpecificDisease 875 893	male breast cancer
+N10	Reference T10 MeSH:D018567
+T11	CompositeMention 919 940	breast/ovarian cancer
+N11	Reference T11 MeSH:D061325

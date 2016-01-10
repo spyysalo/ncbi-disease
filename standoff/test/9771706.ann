@@ -1,0 +1,20 @@
+T1	SpecificDisease 68 85	diabetes mellitus
+N1	Reference T1 MeSH:D003920
+T2	SpecificDisease 90 103	optic atrophy
+N2	Reference T2 MeSH:D009896
+T3	SpecificDisease 105 121	Wolfram syndrome
+N3	Reference T3 OMIM:222300
+T4	SpecificDisease 124 140	Wolfram syndrome
+N4	Reference T4 OMIM:222300
+T5	SpecificDisease 142 145	WFS
+N5	Reference T5 OMIM:222300
+T6	DiseaseClass 166 212	autosomal recessive neurodegenerative disorder
+N6	Reference T6 MeSH:D020271
+T7	SpecificDisease 247 282	insulin-dependent diabetes mellitus
+N7	Reference T7 MeSH:D003922
+T8	SpecificDisease 299 312	optic atrophy
+N8	Reference T8 MeSH:D009896
+T9	Modifier 458 461	WFS
+N9	Reference T9 OMIM:222300
+T10	Modifier 642 645	WFS
+N10	Reference T10 OMIM:222300

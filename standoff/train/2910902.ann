@@ -1,0 +1,8 @@
+T1	SpecificDisease 131 151	Lesch-Nyhan syndrome
+N1	Reference T1 MeSH:D007926
+T2	SpecificDisease 162 222	deficiency of hypoxanthine-guanine phosphoribosyltransferase
+N2	Reference T2 MeSH:D007926
+T3	SpecificDisease 241 261	Lesch-Nyhan syndrome
+N3	Reference T3 MeSH:D007926
+T4	SpecificDisease 349 369	Lesch-Nyhan syndrome
+N4	Reference T4 MeSH:D007926

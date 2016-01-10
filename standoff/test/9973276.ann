@@ -1,0 +1,30 @@
+T1	SpecificDisease 0 30	Inherited colorectal polyposis
+N1	Reference T1 MeSH:D011125
+T2	Modifier 35 41	cancer
+N2	Reference T2 MeSH:D009369
+T3	Modifier 129 132	APC
+N3	Reference T3 MeSH:D011125
+T4	Modifier 162 178	colorectal tumor
+N4	Reference T4 MeSH:D015179
+T5	SpecificDisease 192 231	familial adenomatous polyposis syndrome
+N5	Reference T5 MeSH:D011125
+T6	Modifier 364 367	APC
+N6	Reference T6 MeSH:D011125
+T7	Modifier 473 476	APC
+N7	Reference T7 MeSH:D011125
+T8	SpecificDisease 600 618	adenomatous polyps
+N8	Reference T8 MeSH:D018256
+T9	SpecificDisease 627 645	colorectal cancer,
+N9	Reference T9 MeSH:D015179
+T10	SpecificDisease 904 924	colorectal neoplasia
+N10	Reference T10 MeSH:D015179
+T11	DiseaseClass 1026 1034	adenomas
+N11	Reference T11 MeSH:D000236
+T12	SpecificDisease 1039 1057	colorectal cancers
+N12	Reference T12 MeSH:D015179
+T13	Modifier 1179 1186	adenoma
+N13	Reference T13 MeSH:D000236
+T14	SpecificDisease 1256 1273	colorectal cancer
+N14	Reference T14 MeSH:D015179
+T15	Modifier 1507 1524	colorectal cancer
+N15	Reference T15 MeSH:D015179

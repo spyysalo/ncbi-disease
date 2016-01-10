@@ -1,0 +1,26 @@
+T1	DiseaseClass 0 13	Brain disease
+N1	Reference T1 MeSH:D001927
+T2	SpecificDisease 40 58	myotonic dystrophy
+N2	Reference T2 MeSH:D009223
+T3	SpecificDisease 142 160	myotonic dystrophy
+N3	Reference T3 MeSH:D009223
+T4	SpecificDisease 162 164	DM
+N4	Reference T4 MeSH:D009223
+T5	SpecificDisease 394 396	DM
+N5	Reference T5 MeSH:D009223
+T6	DiseaseClass 460 473	brain disease
+N6	Reference T6 MeSH:D001927
+T7	DiseaseClass 582 602	white matter lesions
+N7	Reference T7 MeSH:D056784
+T8	SpecificDisease 618 634	cerebral atrophy
+N8	Reference T8 MeSH:D001284
+T9	DiseaseClass 960 980	white matter lesions
+N9	Reference T9 MeSH:D056784
+T10	SpecificDisease 1094 1096	DM
+N10	Reference T10 MeSH:D009223
+T11	DiseaseClass 1098 1119	cognitive dysfunction
+N11	Reference T11 MeSH:D003072
+T12	DiseaseClass 1139 1159	white matter lesions
+N12	Reference T12 MeSH:D056784
+T13	SpecificDisease 1164 1180	cerebral atrophy
+N13	Reference T13 MeSH:D001284

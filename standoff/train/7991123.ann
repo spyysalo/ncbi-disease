@@ -1,0 +1,44 @@
+T1	Modifier 20 41	adrenomyeloneuropathy
+N1	Reference T1 MeSH:D000326
+T2	SpecificDisease 55 84	X-linked adrenoleukodystrophy
+N2	Reference T2 MeSH:D000326
+T3	SpecificDisease 130 159	X-linked adrenoleukodystrophy
+N3	Reference T3 MeSH:D000326
+T4	SpecificDisease 161 166	X-ALD
+N4	Reference T4 MeSH:D000326
+T5	DiseaseClass 174 192	inherited disorder
+N5	Reference T5 MeSH:D030342
+T6	DiseaseClass 334 347	demyelination
+N6	Reference T6 MeSH:D003711
+T7	CompositeMention 355 401	impaired function of adrenal cortex and testes
+N7	Reference T7 MeSH:D000303
+T8	SpecificDisease 449 471	childhood cerebral ALD
+N8	Reference T8 MeSH:D000326
+T9	SpecificDisease 473 478	CCALD
+N9	Reference T9 MeSH:D000326
+T10	SpecificDisease 484 505	adrenomyeloneuropathy
+N10	Reference T10 MeSH:D000326
+T11	SpecificDisease 507 510	AMN
+N11	Reference T11 MeSH:D000326
+T12	Modifier 595 600	X-ALD
+N12	Reference T12 MeSH:D000326
+T13	Modifier 601 604	AMN
+N13	Reference T13 MeSH:D000326
+T14	SpecificDisease 663 666	AMN
+N14	Reference T14 MeSH:D000326
+T15	SpecificDisease 680 685	CCALD
+N15	Reference T15 MeSH:D000326
+T16	SpecificDisease 689 712	adolescent cerebral ALD
+N16	Reference T16 MeSH:D000326
+T17	SpecificDisease 714 722	AdolCALD
+N17	Reference T17 MeSH:D000326
+T18	SpecificDisease 832 835	AMN
+N18	Reference T18 MeSH:D000326
+T19	SpecificDisease 850 855	CCALD
+N19	Reference T19 MeSH:D000326
+T20	SpecificDisease 859 867	AdolCALD
+N20	Reference T20 MeSH:D000326
+T21	SpecificDisease 926 929	AMN
+N21	Reference T21 MeSH:D000326
+T22	SpecificDisease 968 973	X-ALD
+N22	Reference T22 MeSH:D000326

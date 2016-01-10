@@ -1,0 +1,10 @@
+T1	SpecificDisease 95 121	hereditary hemochromatosis
+N1	Reference T1 MeSH:D006432
+T2	SpecificDisease 123 125	HH
+N2	Reference T2 MeSH:D006432
+T3	SpecificDisease 798 800	HH
+N3	Reference T3 MeSH:D006432
+T4	SpecificDisease 945 947	HH
+N4	Reference T4 MeSH:D006432
+T5	DiseaseClass 1048 1054	cancer
+N5	Reference T5 MeSH:D009369

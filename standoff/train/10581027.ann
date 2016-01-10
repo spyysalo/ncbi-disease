@@ -1,0 +1,38 @@
+T1	SpecificDisease 61 80	periodontal disease
+N1	Reference T1 MeSH:D010510
+T2	DiseaseClass 85 107	palmoplantar keratosis
+N2	Reference T2 MeSH:D007645
+T3	SpecificDisease 109 134	Papillon-Lefevre syndrome
+N3	Reference T3 MeSH:D010214
+T4	DiseaseClass 139 163	keratosis palmoplantaris
+N4	Reference T4 MeSH:D007645
+T5	SpecificDisease 169 185	periodontopathia
+N5	Reference T5 MeSH:D010510
+T6	SpecificDisease 187 190	PLS
+N6	Reference T6 MeSH:D010214
+T7	DiseaseClass 211 239	autosomal recessive disorder
+N7	Reference T7 MeSH:D030342
+T8	SpecificDisease 301 314	periodontitis
+N8	Reference T8 MeSH:D010518
+T9	SpecificDisease 420 430	tooth loss
+N9	Reference T9 MeSH:D016388
+T10	DiseaseClass 432 454	Palmoplantar keratosis
+N10	Reference T10 MeSH:D007645
+T11	SpecificDisease 507 521	hyperkeratosis
+N11	Reference T11 MeSH:D017488
+T12	SpecificDisease 580 589	Keratosis
+N12	Reference T12 MeSH:D007642
+T13	Modifier 646 649	PLS
+N13	Reference T13 MeSH:D010214
+T14	SpecificDisease 672 685	periodontitis
+N14	Reference T14 MeSH:D010518
+T15	SpecificDisease 690 704	hyperkeratosis
+N15	Reference T15 MeSH:D017488
+T16	DiseaseClass 730 752	palmoplantar keratosis
+N16	Reference T16 MeSH:D007645
+T17	SpecificDisease 756 769	periodontitis
+N17	Reference T17 MeSH:D010518
+T18	SpecificDisease 799 812	periodontitis
+N18	Reference T18 MeSH:D010518
+T19	Modifier 1386 1389	PLS
+N19	Reference T19 MeSH:D010214

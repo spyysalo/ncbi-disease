@@ -1,0 +1,6 @@
+T1	SpecificDisease 105 130	Alveolar rhabdomyosarcoma
+N1	Reference T1 MeSH:D018232
+T2	SpecificDisease 148 183	pediatric cancer of striated muscle
+N2	Reference T2 MeSH:D019042
+T3	Modifier 1254 1279	alveolar rhabdomyosarcoma
+N3	Reference T3 MeSH:D018232

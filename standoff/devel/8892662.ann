@@ -1,0 +1,20 @@
+T1	SpecificDisease 23 47	complement C7 deficiency
+N1	Reference T1 OMIM:610102
+T2	SpecificDisease 49 73	Complement C7 deficiency
+N2	Reference T2 OMIM:610102
+T3	SpecificDisease 75 78	C7D
+N3	Reference T3 OMIM:610102
+T4	DiseaseClass 120 140	bacterial infections
+N4	Reference T4 MeSH:D001424
+T5	DiseaseClass 153 163	meningitis
+N5	Reference T5 MeSH:D008581
+T6	SpecificDisease 174 196	Neisseria meningitidis
+N6	Reference T6 MeSH:D008589
+T7	SpecificDisease 244 247	C7D
+N7	Reference T7 OMIM:610102
+T8	SpecificDisease 1030 1033	C7D
+N8	Reference T8 OMIM:610102
+T9	SpecificDisease 1091 1094	C7D
+N9	Reference T9 OMIM:610102
+T10	DiseaseClass 1135 1172	deficiencies of complement components
+N10	Reference T10 MeSH:D007153

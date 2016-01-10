@@ -1,0 +1,20 @@
+T1	SpecificDisease 14 29	hypomyelination
+N1	Reference T1 MeSH:D003711
+T2	SpecificDisease 34 50	glial cell death
+N2	Reference T2 MeSH:D004194
+T3	DiseaseClass 314 331	genetic disorders
+N3	Reference T3 MeSH:D030342
+T4	SpecificDisease 462 490	Pelizaeus-Merzbacher disease
+N4	Reference T4 OMIM:312080
+T5	CompositeMention 546 603	degeneration and premature cell death of oligodendrocytes
+N5	Reference T5 MeSH:D056784
+T6	SpecificDisease 620 635	hypomyelination
+N6	Reference T6 MeSH:D003711
+T7	SpecificDisease 831 847	myelin-deficient
+N7	Reference T7 MeSH:D003711
+T8	SpecificDisease 937 952	Hypomyelination
+N8	Reference T8 MeSH:D003711
+T9	SpecificDisease 1010 1038	oligodendrocyte degeneration
+N9	Reference T9 MeSH:D056784
+T10	SpecificDisease 1228 1256	Pelizaeus-Merzbacher disease
+N10	Reference T10 OMIM:312080

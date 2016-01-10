@@ -1,0 +1,6 @@
+T1	Modifier 101 106	tumor
+N1	Reference T1 MeSH:D009369
+T2	CompositeMention 137 172	familial breast and ovarian cancers
+N2	Reference T2 MeSH:D061325
+T3	Modifier 515 528	breast cancer
+N3	Reference T3 MeSH:D001943

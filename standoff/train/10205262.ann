@@ -1,0 +1,14 @@
+T1	Modifier 12 24	alkaptonuria
+N1	Reference T1 MeSH:D000474
+T2	Modifier 26 29	AKU
+N2	Reference T2 MeSH:D000474
+T3	SpecificDisease 193 205	alkaptonuria
+N3	Reference T3 MeSH:D000474
+T4	SpecificDisease 207 210	AKU
+N4	Reference T4 MeSH:D000474
+T5	Modifier 375 378	AKU
+N5	Reference T5 MeSH:D000474
+T6	Modifier 513 516	AKU
+N6	Reference T6 MeSH:D000474
+T7	SpecificDisease 653 656	AKU
+N7	Reference T7 MeSH:D000474

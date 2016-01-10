@@ -1,0 +1,10 @@
+T1	SpecificDisease 176 194	Huntington disease
+N1	Reference T1 MeSH:D006816
+T2	SpecificDisease 196 198	HD
+N2	Reference T2 MeSH:D006816
+T3	Modifier 430 432	HD
+N3	Reference T3 MeSH:D006816
+T4	SpecificDisease 709 711	HD
+N4	Reference T4 MeSH:D006816
+T5	DiseaseClass 723 758	disorder of inappropriate apoptosis
+N5	Reference T5 MeSH:D004194

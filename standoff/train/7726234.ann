@@ -1,0 +1,22 @@
+T1	SpecificDisease 0 27	Duchenne muscular dystrophy
+N1	Reference T1 MeSH:D020388
+T2	SpecificDisease 32 50	myotonic dystrophy
+N2	Reference T2 MeSH:D009223
+T3	SpecificDisease 119 137	myotonic dystrophy
+N3	Reference T3 MeSH:D009223
+T4	SpecificDisease 142 169	Duchenne muscular dystrophy
+N4	Reference T4 MeSH:D020388
+T5	SpecificDisease 171 174	DMD
+N5	Reference T5 MeSH:D020388
+T6	SpecificDisease 230 248	myotonic dystrophy
+N6	Reference T6 MeSH:D009223
+T7	SpecificDisease 521 548	Duchenne muscular dystrophy
+N7	Reference T7 MeSH:D020388
+T8	SpecificDisease 561 582	dystrophin deficiency
+N8	Reference T8 OMIM:310200
+T9	SpecificDisease 647 665	Myotonic dystrophy
+N9	Reference T9 MeSH:D009223
+T10	SpecificDisease 721 739	Duchenne dystrophy
+N10	Reference T10 MeSH:D020388
+T11	Modifier 910 913	DMD
+N11	Reference T11 MeSH:D020388

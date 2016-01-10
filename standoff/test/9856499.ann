@@ -1,0 +1,6 @@
+T1	SpecificDisease 0 24	Complement C7 deficiency
+N1	Reference T1 OMIM:610102
+T2	SpecificDisease 131 144	C7 deficiency
+N2	Reference T2 OMIM:610102
+T3	SpecificDisease 487 497	C7 defects
+N3	Reference T3 OMIM:610102

@@ -1,0 +1,12 @@
+T1	SpecificDisease 26 46	adrenoleukodystrophy
+N1	Reference T1 MeSH:D000326
+T2	SpecificDisease 193 213	adrenoleukodystrophy
+N2	Reference T2 MeSH:D000326
+T3	SpecificDisease 215 218	ALD
+N3	Reference T3 MeSH:D000326
+T4	DiseaseClass 296 320	neurologic deterioration
+N4	Reference T4 MeSH:D019636
+T5	SpecificDisease 355 375	adenovirus infection
+N5	Reference T5 MeSH:D000257
+T6	SpecificDisease 396 399	ALD
+N6	Reference T6 MeSH:D000326

@@ -1,0 +1,12 @@
+T1	SpecificDisease 20 33	C2 deficiency
+N1	Reference T1 OMIM:217000
+T2	SpecificDisease 150 163	C2 deficiency
+N2	Reference T2 OMIM:217000
+T3	Modifier 257 269	C2-deficient
+N3	Reference T3 OMIM:217000
+T4	SpecificDisease 313 329	Hodgkins disease
+N4	Reference T4 MeSH:D006689
+T5	SpecificDisease 479 492	C2 deficiency
+N5	Reference T5 OMIM:217000
+T6	SpecificDisease 621 634	C2 deficiency
+N6	Reference T6 OMIM:217000

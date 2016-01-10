@@ -1,0 +1,8 @@
+T1	Modifier 25 40	hemochromatosis
+N1	Reference T1 MeSH:D006432
+T2	SpecificDisease 173 194	iron-overload disease
+N2	Reference T2 MeSH:D019190
+T3	SpecificDisease 195 221	hereditary hemochromatosis
+N3	Reference T3 MeSH:D006432
+T4	Modifier 414 429	hemochromatosis
+N4	Reference T4 MeSH:D006432

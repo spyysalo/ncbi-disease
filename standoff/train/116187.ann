@@ -1,0 +1,6 @@
+T1	SpecificDisease 21 52	pyruvate carboxylase deficiency
+N1	Reference T1 MeSH:D015324
+T2	SpecificDisease 316 347	pyruvate carboxylase deficiency
+N2	Reference T2 MeSH:D015324
+T3	SpecificDisease 349 371	PC Portland deficiency
+N3	Reference T3 MeSH:D015324

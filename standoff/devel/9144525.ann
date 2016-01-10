@@ -1,0 +1,12 @@
+T1	SpecificDisease 337 381	Deficiency of terminal complement components
+N1	Reference T1 MeSH:D007153
+T2	SpecificDisease 421 441	neisseria infections
+N2	Reference T2 MeSH:D016870
+T3	SpecificDisease 495 518	inherited C9 deficiency
+N3	Reference T3 OMIM:613825
+T4	SpecificDisease 553 566	C9 deficiency
+N4	Reference T4 OMIM:613825
+T5	SpecificDisease 658 671	C9 deficiency
+N5	Reference T5 OMIM:613825
+T6	SpecificDisease 989 1002	C9 deficiency
+N6	Reference T6 OMIM:613825

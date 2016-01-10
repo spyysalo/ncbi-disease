@@ -1,0 +1,20 @@
+T1	SpecificDisease 68 97	familial expansile osteolysis
+N1	Reference T1 OMIM:174810
+T2	SpecificDisease 99 128	Familial expansile osteolysis
+N2	Reference T2 OMIM:174810
+T3	SpecificDisease 130 133	FEO
+N3	Reference T3 OMIM:174810
+T4	DiseaseClass 158 190	autosomal dominant bone disorder
+N4	Reference T4 MeSH:D001847
+T5	SpecificDisease 223 249	increased bone remodelling
+N5	Reference T5 MeSH:D001847
+T6	SpecificDisease 255 273	osteolytic lesions
+N6	Reference T6 MeSH:D030981
+T7	SpecificDisease 451 454	FEO
+N7	Reference T7 OMIM:174810
+T8	SpecificDisease 852 855	FEO
+N8	Reference T8 OMIM:174810
+T9	SpecificDisease 859 889	familial Paget disease of bone
+N9	Reference T9 MeSH:C538098
+T10	SpecificDisease 891 894	PDB
+N10	Reference T10 MeSH:C538098

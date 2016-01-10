@@ -1,0 +1,8 @@
+T1	SpecificDisease 43 68	hereditary retinoblastoma
+N1	Reference T1 MeSH:D012175
+T2	SpecificDisease 136 161	hereditary retinoblastoma
+N2	Reference T2 MeSH:D012175
+T3	Modifier 1345 1350	tumor
+N3	Reference T3 MeSH:D009369
+T4	DiseaseClass 1378 1394	nonocular tumors
+N4	Reference T4 MeSH:D009369

@@ -1,0 +1,28 @@
+T1	Modifier 28 48	adrenoleukodystrophy
+N1	Reference T1 MeSH:D000326
+T2	SpecificDisease 55 75	Adrenoleukodystrophy
+N2	Reference T2 MeSH:D000326
+T3	SpecificDisease 77 80	ALD
+N3	Reference T3 MeSH:D000326
+T4	DiseaseClass 101 121	peroxisomal disorder
+N4	Reference T4 MeSH:D018901
+T5	DiseaseClass 135 160	neurodegenerative disease
+N5	Reference T5 MeSH:D019636
+T6	DiseaseClass 180 236	impairment of very long chain fatty acids beta-oxidation
+N6	Reference T6 OMIM:300100
+T7	SpecificDisease 313 316	ALD
+N7	Reference T7 MeSH:D000326
+T8	Modifier 572 575	ALD
+N8	Reference T8 MeSH:D000326
+T9	Modifier 684 687	ALD
+N9	Reference T9 MeSH:D000326
+T10	Modifier 960 963	ALD
+N10	Reference T10 MeSH:D000326
+T11	SpecificDisease 1173 1194	adrenomyeloneuropathy
+N11	Reference T11 MeSH:D000326
+T12	SpecificDisease 1220 1223	ALD
+N12	Reference T12 MeSH:D000326
+T13	DiseaseClass 1251 1275	contiguous gene syndrome
+N13	Reference T13 MeSH:D025063
+T14	SpecificDisease 1309 1312	ALD
+N14	Reference T14 MeSH:D000326

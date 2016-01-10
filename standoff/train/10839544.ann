@@ -1,0 +1,24 @@
+T1	Modifier 24 45	ataxia-telangiectasia
+N1	Reference T1 MeSH:D001260
+T2	Modifier 50 76	Nijmegen breakage syndrome
+N2	Reference T2 MeSH:D049932
+T3	SpecificDisease 92 113	Ataxia-telangiectasia
+N3	Reference T3 MeSH:D001260
+T4	SpecificDisease 115 118	A-T
+N4	Reference T4 MeSH:D001260
+T5	SpecificDisease 124 150	Nijmegen breakage syndrome
+N5	Reference T5 MeSH:D049932
+T6	SpecificDisease 152 155	NBS
+N6	Reference T6 MeSH:D049932
+T7	DiseaseClass 161 188	recessive genetic disorders
+N7	Reference T7 MeSH:D030342
+T8	DiseaseClass 212 218	cancer
+N8	Reference T8 MeSH:D009369
+T9	SpecificDisease 300 303	A-T
+N9	Reference T9 MeSH:D001260
+T10	SpecificDisease 493 519	Nijmegen breakage syndrome
+N10	Reference T10 MeSH:D049932
+T11	DiseaseClass 1111 1149	hypersensitivity to ionizing radiation
+N11	Reference T11 MeSH:D004194
+T12	DiseaseClass 1283 1299	genetic diseases
+N12	Reference T12 MeSH:D030342

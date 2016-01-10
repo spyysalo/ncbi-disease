@@ -1,0 +1,24 @@
+T1	SpecificDisease 45 73	Familial Mediterranean fever
+N1	Reference T1 MeSH:D010505
+T2	SpecificDisease 195 223	Familial Mediterranean fever
+N2	Reference T2 MeSH:D010505
+T3	SpecificDisease 225 228	FMF
+N3	Reference T3 MeSH:D010505
+T4	DiseaseClass 235 265	recessively inherited disorder
+N4	Reference T4 MeSH:D030342
+T5	SpecificDisease 462 482	serosal inflammation
+N5	Reference T5 MeSH:D007249
+T6	SpecificDisease 525 542	Renal amyloidosis
+N6	Reference T6 MeSH:C538249
+T7	SpecificDisease 604 607	FMF
+N7	Reference T7 MeSH:D010505
+T8	Modifier 763 766	FMF
+N8	Reference T8 MeSH:D010505
+T9	Modifier 959 962	FMF
+N9	Reference T9 MeSH:D010505
+T10	Modifier 982 985	FMF
+N10	Reference T10 MeSH:D010505
+T11	SpecificDisease 1263 1280	renal amyloidosis
+N11	Reference T11 MeSH:C538249
+T12	SpecificDisease 1285 1294	arthritis
+N12	Reference T12 MeSH:D001168

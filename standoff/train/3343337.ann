@@ -1,0 +1,34 @@
+T1	SpecificDisease 0 24	Sjogren-Larsson syndrome
+N1	Reference T1 MeSH:D016111
+T2	DiseaseClass 254 272	inherited disorder
+N2	Reference T2 MeSH:D030342
+T3	SpecificDisease 274 298	Sjogren-Larsson syndrome
+N3	Reference T3 MeSH:D016111
+T4	SpecificDisease 300 303	SLS
+N4	Reference T4 MeSH:D016111
+T5	Modifier 313 316	SLS
+N5	Reference T5 MeSH:D016111
+T6	Modifier 548 551	SLS
+N6	Reference T6 MeSH:D016111
+T7	Modifier 778 781	SLS
+N7	Reference T7 MeSH:D016111
+T8	Modifier 859 862	SLS
+N8	Reference T8 MeSH:D016111
+T9	Modifier 1029 1032	SLS
+N9	Reference T9 MeSH:D016111
+T10	Modifier 1069 1072	SLS
+N10	Reference T10 MeSH:D016111
+T11	Modifier 1219 1222	SLS
+N11	Reference T11 MeSH:D016111
+T12	SpecificDisease 1328 1331	SLS
+N12	Reference T12 MeSH:D016111
+T13	SpecificDisease 1382 1385	SLS
+N13	Reference T13 MeSH:D016111
+T14	SpecificDisease 1389 1438	deficiency of fatty alcohol  NAD + oxidoreductase
+N14	Reference T14 MeSH:D016111
+T15	SpecificDisease 1440 1443	SLS
+N15	Reference T15 MeSH:D016111
+T16	DiseaseClass 1465 1483	inherited disorder
+N16	Reference T16 MeSH:D030342
+T17	DiseaseClass 1519 1558	abnormality in fatty alcohol metabolism
+N17	Reference T17 MeSH:D005235

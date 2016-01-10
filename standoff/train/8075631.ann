@@ -1,0 +1,14 @@
+T1	SpecificDisease 0 27	Familial male breast cancer
+N1	Reference T1 MeSH:D018567
+T2	SpecificDisease 80 93	Breast cancer
+N2	Reference T2 MeSH:D001943
+T3	SpecificDisease 260 278	male breast cancer
+N3	Reference T3 MeSH:D018567
+T4	Modifier 298 334	hereditary breast and ovarian cancer
+N4	Reference T4 MeSH:D061325
+T5	SpecificDisease 615 628	breast cancer
+N5	Reference T5 MeSH:D001943
+T6	SpecificDisease 673 691	male breast cancer
+N6	Reference T6 MeSH:D018567
+T7	SpecificDisease 754 772	male breast cancer
+N7	Reference T7 MeSH:D018567

@@ -1,0 +1,14 @@
+T1	Modifier 45 59	von Willebrand
+N1	Reference T1 MeSH:D014842
+T2	SpecificDisease 100 129	severe von Willebrand disease
+N2	Reference T2 MeSH:D056729
+T3	SpecificDisease 131 160	Severe von Willebrand disease
+N3	Reference T3 MeSH:D056729
+T4	Modifier 217 231	von Willebrand
+N4	Reference T4 MeSH:D014842
+T5	DiseaseClass 1152 1171	genetic abnormality
+N5	Reference T5 MeSH:D030342
+T6	DiseaseClass 1278 1299	genetic abnormalities
+N6	Reference T6 MeSH:D030342
+T7	SpecificDisease 1519 1548	severe von Willebrand disease
+N7	Reference T7 MeSH:D056729

@@ -1,0 +1,30 @@
+T1	DiseaseClass 0 15	Maternal disomy
+N1	Reference T1 MeSH:D024182
+T2	SpecificDisease 20 41	Prader-Willi syndrome
+N2	Reference T2 MeSH:D011218
+T3	SpecificDisease 137 188	Maternal uniparental disomy (UPD) for chromosome 15
+N3	Reference T3 MeSH:C538037
+T4	SpecificDisease 237 258	Prader-Willi syndrome
+N4	Reference T4 MeSH:D011218
+T5	SpecificDisease 260 263	PWS
+N5	Reference T5 MeSH:D011218
+T6	SpecificDisease 298 316	maternal disomy 15
+N6	Reference T6 MeSH:C538037
+T7	SpecificDisease 320 323	PWS
+N7	Reference T7 MeSH:D011218
+T8	SpecificDisease 534 537	PWS
+N8	Reference T8 MeSH:D011218
+T9	Modifier 864 867	PWS
+N9	Reference T9 MeSH:D011218
+T10	Modifier 961 964	PWS
+N10	Reference T10 MeSH:D011218
+T11	DiseaseClass 1203 1218	Maternal disomy
+N11	Reference T11 MeSH:D024182
+T12	DiseaseClass 1542 1560	Uniparental disomy
+N12	Reference T12 MeSH:D024182
+T13	SpecificDisease 1722 1725	PWS
+N13	Reference T13 MeSH:D011218
+T14	SpecificDisease 1818 1833	maternal UPD 15
+N14	Reference T14 MeSH:C538037
+T15	SpecificDisease 1838 1841	PWS
+N15	Reference T15 MeSH:D011218

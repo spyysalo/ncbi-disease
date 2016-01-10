@@ -1,0 +1,14 @@
+T1	Modifier 126 144	Huntington disease
+N1	Reference T1 MeSH:D006816
+T2	Modifier 166 186	retinal degeneration
+N2	Reference T2 MeSH:D012162
+T3	DiseaseClass 257 281	hereditary retinopathies
+N3	Reference T3 MeSH:D015785
+T4	Modifier 696 714	Huntington disease
+N4	Reference T4 MeSH:D006816
+T5	Modifier 716 718	HD
+N5	Reference T5 MeSH:D006816
+T6	Modifier 818 820	HD
+N6	Reference T6 MeSH:D006816
+T7	Modifier 1043 1045	HD
+N7	Reference T7 MeSH:D006816

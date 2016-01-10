@@ -1,0 +1,8 @@
+T1	Modifier 38 51	choroideremia
+N1	Reference T1 MeSH:D015794
+T2	Modifier 100 113	choroideremia
+N2	Reference T2 MeSH:D015794
+T3	Modifier 120 123	CHM
+N3	Reference T3 MeSH:D015794
+T4	SpecificDisease 170 173	CHM
+N4	Reference T4 MeSH:D015794

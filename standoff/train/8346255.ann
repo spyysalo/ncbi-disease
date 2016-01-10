@@ -1,0 +1,12 @@
+T1	DiseaseClass 47 53	tumors
+N1	Reference T1 MeSH:D009369
+T2	CompositeMention 73 112	bilateral and unilateral retinoblastoma
+N2	Reference T2 MeSH:D012175
+T3	SpecificDisease 141 162	retinoblastoma tumors
+N3	Reference T3 MeSH:D012175
+T4	DiseaseClass 282 288	tumors
+N4	Reference T4 MeSH:D009369
+T5	DiseaseClass 311 317	tumors
+N5	Reference T5 MeSH:D009369
+T6	DiseaseClass 480 486	tumors
+N6	Reference T6 MeSH:D009369

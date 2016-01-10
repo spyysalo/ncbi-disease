@@ -1,0 +1,6 @@
+T1	SpecificDisease 441 471	type IV Ehlers-Danlos syndrome
+N1	Reference T1 MeSH:D004535
+T2	SpecificDisease 494 508	aortic rupture
+N2	Reference T2 MeSH:D001019
+T3	SpecificDisease 1056 1086	type IV Ehlers-Danlos syndrome
+N3	Reference T3 MeSH:D004535

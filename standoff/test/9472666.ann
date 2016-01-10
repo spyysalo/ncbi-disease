@@ -1,0 +1,16 @@
+T1	SpecificDisease 35 69	complement component C6 deficiency
+N1	Reference T1 OMIM:612446
+T2	SpecificDisease 101 135	Complement component C6 deficiency
+N2	Reference T2 OMIM:612446
+T3	SpecificDisease 137 140	C6D
+N3	Reference T3 OMIM:612446
+T4	SpecificDisease 200 224	meningococcal meningitis
+N4	Reference T4 MeSH:D008585
+T5	SpecificDisease 272 275	C6D
+N5	Reference T5 OMIM:612446
+T6	SpecificDisease 300 310	meningitis
+N6	Reference T6 MeSH:D008581
+T7	SpecificDisease 320 340	neisserial infection
+N7	Reference T7 MeSH:D016870
+T8	SpecificDisease 720 723	C6D
+N8	Reference T8 OMIM:612446

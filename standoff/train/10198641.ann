@@ -1,0 +1,8 @@
+T1	Modifier 169 174	tumor
+N1	Reference T1 MeSH:D009369
+T2	CompositeMention 211 237	breast and ovarian cancers
+N2	Reference T2 MeSH:D061325
+T3	DiseaseClass 582 607	chromosomal abnormalities
+N3	Reference T3 MeSH:D002869
+T4	SpecificDisease 747 757	aneuploidy
+N4	Reference T4 MeSH:D000782

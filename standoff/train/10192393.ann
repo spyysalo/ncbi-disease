@@ -1,0 +1,29 @@
+T1	DiseaseClass 15 26	skin tumour
+N1	Reference T1 MeSH:D012878
+T2	DiseaseClass 443 449	cancer
+N2	Reference T2 MeSH:D009369
+T3	DiseaseClass 483 496	colon cancers
+N3	Reference T3 MeSH:D003110
+T4	SpecificDisease 539 565	adenomatous polyposis coli
+N4	Reference T4 MeSH:D011125
+T5	SpecificDisease 567 570	APC
+N5	Reference T5 MeSH:D011125
+T6	CompositeMention 670 698	colon and some other cancers
+N6	Reference T6 MeSH:D003110
+N7	Reference T6 MeSH:D009369
+T7	DiseaseClass 855 867	skin tumours
+N8	Reference T7 MeSH:D012878
+T8	SpecificDisease 879 893	pilomatricomas
+N9	Reference T8 MeSH:D018296
+T9	SpecificDisease 1021 1035	pilomatricomas
+N10	Reference T9 MeSH:D018296
+T10	DiseaseClass 1210 1221	skin tumour
+N11	Reference T10 MeSH:D012878
+T11	Modifier 1262 1268	tumour
+N12	Reference T11 MeSH:D009369
+T12	SpecificDisease 1312 1326	pilomatricomas
+N13	Reference T12 MeSH:D018296
+T13	DiseaseClass 1385 1392	tumours
+N14	Reference T13 MeSH:D009369
+T14	DiseaseClass 1615 1622	tumours
+N15	Reference T14 MeSH:D009369

@@ -1,0 +1,10 @@
+T1	SpecificDisease 37 50	C9 deficiency
+N1	Reference T1 OMIM:613825
+T2	Modifier 101 113	C9-deficient
+N2	Reference T2 OMIM:613825
+T3	Modifier 688 701	C9 deficiency
+N3	Reference T3 OMIM:613825
+T4	SpecificDisease 959 984	complete deficiency of C9
+N4	Reference T4 OMIM:613825
+T5	SpecificDisease 1064 1077	C9 deficiency
+N5	Reference T5 OMIM:613825

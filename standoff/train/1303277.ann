@@ -1,0 +1,14 @@
+T1	Modifier 80 101	Prader-Willi syndrome
+N1	Reference T1 MeSH:D011218
+T2	SpecificDisease 119 140	Prader-Willi syndrome
+N2	Reference T2 MeSH:D011218
+T3	SpecificDisease 142 145	PWS
+N3	Reference T3 MeSH:D011218
+T4	SpecificDisease 234 267	maternal disomy for chromosome 15
+N4	Reference T4 MeSH:C538037
+T5	Modifier 377 380	PWS
+N5	Reference T5 MeSH:D011218
+T6	SpecificDisease 659 662	PWS
+N6	Reference T6 MeSH:D011218
+T7	Modifier 813 816	PWS
+N7	Reference T7 MeSH:D011218

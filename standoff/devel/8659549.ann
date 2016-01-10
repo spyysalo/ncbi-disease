@@ -1,0 +1,16 @@
+T1	SpecificDisease 86 101	Canavan disease
+N1	Reference T1 MeSH:D017825
+T2	SpecificDisease 103 118	Canavan disease
+N2	Reference T2 MeSH:D017825
+T3	SpecificDisease 186 214	deficiency of aspartoacylase
+N3	Reference T3 MeSH:D017825
+T4	SpecificDisease 253 268	Canavan disease
+N4	Reference T4 MeSH:D017825
+T5	SpecificDisease 583 598	Canavan disease
+N5	Reference T5 MeSH:D017825
+T6	SpecificDisease 1251 1266	Canavan disease
+N6	Reference T6 MeSH:D017825
+T7	SpecificDisease 1742 1760	deficiency of ASPA
+N7	Reference T7 MeSH:D017825
+T8	SpecificDisease 1792 1807	Canavan disease
+N8	Reference T8 MeSH:D017825

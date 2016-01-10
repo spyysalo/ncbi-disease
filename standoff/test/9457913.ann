@@ -1,0 +1,6 @@
+T1	SpecificDisease 154 191	atrophic benign epidermolysis bullosa
+N1	Reference T1 MeSH:D016109
+T2	SpecificDisease 219 256	atrophic benign epidermolysis bullosa
+N2	Reference T2 MeSH:D016109
+T3	SpecificDisease 463 500	atrophic benign epidermolysis bullosa
+N3	Reference T3 MeSH:D016109

@@ -1,0 +1,6 @@
+T1	SpecificDisease 65 92	protein S deficiency type I
+N1	Reference T1 MeSH:D018455
+T2	SpecificDisease 145 172	type I protein S deficiency
+N2	Reference T2 MeSH:D018455
+T3	SpecificDisease 1304 1331	protein S deficiency type I
+N3	Reference T3 MeSH:D018455

@@ -1,0 +1,22 @@
+T1	Modifier 100 118	GM1-gangliosidosis
+N1	Reference T1 MeSH:D016537
+T2	SpecificDisease 133 152	cardiac involvement
+N2	Reference T2 MeSH:D006331
+T3	SpecificDisease 154 172	GM1-gangliosidosis
+N3	Reference T3 MeSH:D016537
+T4	DiseaseClass 178 204	lysosomal storage disorder
+N4	Reference T4 MeSH:D016464
+T5	SpecificDisease 215 252	deficiency of acid beta-galactosidase
+N5	Reference T5 MeSH:D016537
+T6	DiseaseClass 478 497	cardiac involvement
+N6	Reference T6 MeSH:D006331
+T7	SpecificDisease 532 550	GM1-gangliosidosis
+N7	Reference T7 MeSH:D016537
+T8	DiseaseClass 740 759	cardiac involvement
+N8	Reference T8 MeSH:D006331
+T9	DiseaseClass 1029 1050	cardiac abnormalities
+N9	Reference T9 MeSH:D018376
+T10	DiseaseClass 1065 1080	genetic lesions
+N10	Reference T10 MeSH:D020022
+T11	DiseaseClass 1124 1138	cardiomyopathy
+N11	Reference T11 MeSH:D009202

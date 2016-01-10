@@ -1,0 +1,8 @@
+T1	Modifier 118 132	Ovarian Cancer
+N1	Reference T1 MeSH:D010051
+T2	CompositeMention 276 304	breast and/or ovarian cancer
+N2	Reference T2 OMIM:604370
+T3	Modifier 734 755	breast/ovarian cancer
+N3	Reference T3 OMIM:604370
+T4	CompositeMention 845 873	breast and/or ovarian cancer
+N4	Reference T4 OMIM:604370

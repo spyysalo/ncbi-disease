@@ -1,0 +1,22 @@
+T1	Modifier 89 101	Prader-Willi
+N1	Reference T1 MeSH:D011218
+T2	SpecificDisease 110 131	Prader-Willi syndrome
+N2	Reference T2 MeSH:D011218
+T3	SpecificDisease 133 136	PWS
+N3	Reference T3 MeSH:D011218
+T4	DiseaseClass 151 172	neurogenetic disorder
+N4	Reference T4 MeSH:D020271
+T5	DiseaseClass 206 230	contiguous gene syndrome
+N5	Reference T5 MeSH:D025063
+T6	SpecificDisease 344 347	PWS
+N6	Reference T6 MeSH:D011218
+T7	SpecificDisease 496 499	PWS
+N7	Reference T7 MeSH:D011218
+T8	Modifier 575 578	PWS
+N8	Reference T8 MeSH:D011218
+T9	SpecificDisease 637 640	PWS
+N9	Reference T9 MeSH:D011218
+T10	SpecificDisease 764 767	PWS
+N10	Reference T10 MeSH:D011218
+T11	SpecificDisease 1471 1474	PWS
+N11	Reference T11 MeSH:D011218

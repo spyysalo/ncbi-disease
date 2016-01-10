@@ -1,0 +1,14 @@
+T1	SpecificDisease 68 101	Emery-Dreifuss muscular dystrophy
+N1	Reference T1 MeSH:D020389
+T2	SpecificDisease 173 206	Emery-Dreifuss muscular dystrophy
+N2	Reference T2 MeSH:D020389
+T3	SpecificDisease 208 212	EDMD
+N3	Reference T3 MeSH:D020389
+T4	DiseaseClass 1146 1161	cardiac defects
+N4	Reference T4 MeSH:D006330
+T5	SpecificDisease 1165 1169	EDMD
+N5	Reference T5 MeSH:D020389
+T6	SpecificDisease 1456 1460	EDMD
+N6	Reference T6 MeSH:D020389
+T7	SpecificDisease 1685 1689	EDMD
+N7	Reference T7 MeSH:D020389

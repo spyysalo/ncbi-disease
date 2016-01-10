@@ -1,0 +1,24 @@
+T1	SpecificDisease 11 60	deficiency of the seventh component of complement
+N1	Reference T1 OMIM:610102
+T2	SpecificDisease 75 98	meningococcal infection
+N2	Reference T2 MeSH:D008589
+T3	SpecificDisease 222 262	Terminal complement component deficiency
+N3	Reference T3 MeSH:D007153
+T4	SpecificDisease 278 301	meningococcal infection
+N4	Reference T4 MeSH:D008589
+T5	SpecificDisease 424 447	meningococcal infection
+N5	Reference T5 MeSH:D008589
+T6	SpecificDisease 501 531	terminal complement deficiency
+N6	Reference T6 MeSH:D007153
+T7	SpecificDisease 577 636	completely deficient in the seventh component of complement
+N7	Reference T7 OMIM:610102
+T8	Modifier 839 852	C7 deficiency
+N8	Reference T8 OMIM:610102
+T9	SpecificDisease 934 946	C7 deficient
+N9	Reference T9 OMIM:610102
+T10	SpecificDisease 1074 1097	meningococcal infection
+N10	Reference T10 MeSH:D008589
+T11	Modifier 1128 1141	meningococcal
+N11	Reference T11 MeSH:D008589
+T12	Modifier 1171 1191	complement deficient
+N12	Reference T12 MeSH:D007153

@@ -1,0 +1,30 @@
+T1	SpecificDisease 64 84	adrenoleukodystrophy
+N1	Reference T1 MeSH:D000326
+T2	SpecificDisease 85 106	adrenomyeloneuropathy
+N2	Reference T2 MeSH:D000326
+T3	SpecificDisease 108 128	Adrenoleukodystrophy
+N3	Reference T3 MeSH:D000326
+T4	SpecificDisease 130 133	ALD
+N4	Reference T4 MeSH:D000326
+T5	DiseaseClass 139 176	X-linked inherited metabolic disorder
+N5	Reference T5 MeSH:D008661
+T6	DiseaseClass 199 225	inborn peroxisomal disease
+N6	Reference T6 MeSH:D018901
+T7	DiseaseClass 239 297	demyelination in the central and peripheral nervous system
+N7	Reference T7 MeSH:D003711
+T8	Modifier 553 556	ALD
+N8	Reference T8 MeSH:D000326
+T9	SpecificDisease 655 675	adrenoleukodystrophy
+N9	Reference T9 MeSH:D000326
+T10	SpecificDisease 676 697	adrenomyeloneuropathy
+N10	Reference T10 MeSH:D000326
+T11	SpecificDisease 699 702	ALD
+N11	Reference T11 MeSH:D000326
+T12	SpecificDisease 703 706	AMN
+N12	Reference T12 MeSH:D000326
+T13	Modifier 746 749	ALD
+N13	Reference T13 MeSH:D000326
+T14	Modifier 915 918	ALD
+N14	Reference T14 MeSH:D000326
+T15	Modifier 1183 1186	ALD
+N15	Reference T15 MeSH:D000326

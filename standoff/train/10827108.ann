@@ -1,0 +1,12 @@
+T1	SpecificDisease 58 86	Pelizaeus-Merzbacher disease
+N1	Reference T1 OMIM:312080
+T2	SpecificDisease 275 303	Pelizaeus-Merzbacher disease
+N2	Reference T2 OMIM:312080
+T3	SpecificDisease 305 308	PMD
+N3	Reference T3 OMIM:312080
+T4	SpecificDisease 374 377	PMD
+N4	Reference T4 OMIM:312080
+T5	SpecificDisease 894 897	PMD
+N5	Reference T5 OMIM:312080
+T6	DiseaseClass 1449 1466	genetic disorders
+N6	Reference T6 MeSH:D030342

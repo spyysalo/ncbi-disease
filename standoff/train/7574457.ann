@@ -1,0 +1,12 @@
+T1	SpecificDisease 58 86	Pelizaeus-Merzbacher disease
+N1	Reference T1 OMIM:312080
+T2	SpecificDisease 88 116	Pelizaeus-Merzbacher disease
+N2	Reference T2 OMIM:312080
+T3	DiseaseClass 122 202	rare, sex-linked recessive, dysmyelinating disease of the central nervous system
+N3	Reference T3 MeSH:D020279+D035583
+T4	SpecificDisease 323 351	Pelizaeus-Merzbacher disease
+N4	Reference T4 OMIM:312080
+T5	SpecificDisease 775 803	Pelizaeus-Merzbacher disease
+N5	Reference T5 OMIM:312080
+T6	SpecificDisease 1202 1230	Pelizaeus-Merzbacher disease
+N6	Reference T6 OMIM:312080

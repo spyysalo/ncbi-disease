@@ -1,0 +1,28 @@
+T1	SpecificDisease 54 75	Prader-willi syndrome
+N1	Reference T1 MeSH:D011218
+T2	SpecificDisease 124 145	Prader-Willi syndrome
+N2	Reference T2 MeSH:D011218
+T3	SpecificDisease 147 150	PWS
+N3	Reference T3 MeSH:D011218
+T4	SpecificDisease 261 279	neonatal hypotonia
+N4	Reference T4 MeSH:D009123
+T5	DiseaseClass 281 300	developmental delay
+N5	Reference T5 MeSH:D002658
+T6	DiseaseClass 305 328	childhood-onset obesity
+N6	Reference T6 MeSH:D009765
+T7	Modifier 415 418	PWS
+N7	Reference T7 MeSH:D011218
+T8	Modifier 650 653	PWS
+N8	Reference T8 MeSH:D011218
+T9	SpecificDisease 746 749	PWS
+N9	Reference T9 MeSH:D011218
+T10	Modifier 998 1001	PWS
+N10	Reference T10 MeSH:D011218
+T11	SpecificDisease 1576 1579	PWS
+N11	Reference T11 MeSH:D011218
+T12	DiseaseClass 1615 1649	abnormalities in brain development
+N12	Reference T12 MeSH:D002658
+T13	DiseaseClass 1654 1673	dysmorphic features
+N13	Reference T13 MeSH:D057215
+T14	SpecificDisease 1694 1697	PWS
+N14	Reference T14 MeSH:D011218

@@ -1,0 +1,32 @@
+T1	Modifier 32 53	ataxia-telangiectasia
+N1	Reference T1 MeSH:D001260
+T2	SpecificDisease 126 134	leukemia
+N2	Reference T2 MeSH:D007938
+T3	SpecificDisease 136 144	lymphoma
+N3	Reference T3 MeSH:D008223
+T4	SpecificDisease 150 163	breast cancer
+N4	Reference T4 MeSH:D001943
+T5	Modifier 220 241	ataxia-telangiectasia
+N5	Reference T5 MeSH:D001260
+T6	Modifier 243 246	A-T
+N6	Reference T6 MeSH:D001260
+T7	SpecificDisease 455 478	cerebellar degeneration
+N7	Reference T7 MeSH:D013132
+T8	Modifier 520 523	A-T
+N8	Reference T8 MeSH:D001260
+T9	SpecificDisease 613 626	breast cancer
+N9	Reference T9 MeSH:D001943
+T10	Modifier 731 734	A-T
+N10	Reference T10 MeSH:D001260
+T11	SpecificDisease 771 794	cerebellar degeneration
+N11	Reference T11 MeSH:D013132
+T12	Modifier 965 968	A-T
+N12	Reference T12 MeSH:D001260
+T13	SpecificDisease 1009 1017	leukemia
+N13	Reference T13 MeSH:D007938
+T14	SpecificDisease 1019 1027	lymphoma
+N14	Reference T14 MeSH:D008223
+T15	SpecificDisease 1066 1082	Hodgkin lymphoma
+N15	Reference T15 MeSH:D006689
+T16	Modifier 1254 1257	A-T
+N16	Reference T16 MeSH:D001260

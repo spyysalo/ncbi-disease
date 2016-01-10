@@ -1,0 +1,12 @@
+T1	DiseaseClass 78 102	inherited human disorder
+N1	Reference T1 MeSH:D030342
+T2	SpecificDisease 104 120	fish-eye disease
+N2	Reference T2 MeSH:D007863
+T3	SpecificDisease 453 469	fish-eye disease
+N3	Reference T3 MeSH:D007863
+T4	SpecificDisease 471 474	FED
+N4	Reference T4 MeSH:D007863
+T5	Modifier 737 740	FED
+N5	Reference T5 MeSH:D007863
+T6	SpecificDisease 1168 1171	FED
+N6	Reference T6 MeSH:D007863

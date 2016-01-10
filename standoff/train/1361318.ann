@@ -1,0 +1,16 @@
+T1	SpecificDisease 0 30	Complement factor 2 deficiency
+N1	Reference T1 OMIM:217000
+T2	DiseaseClass 73 106	Inherited complement deficiencies
+N2	Reference T2 MeSH:D007153
+T3	SpecificDisease 182 225	inherited deficiency of complement factor 2
+N3	Reference T3 OMIM:217000
+T4	SpecificDisease 288 301	C2 deficiency
+N4	Reference T4 OMIM:217000
+T5	SpecificDisease 312 332	cutaneous vasculitis
+N5	Reference T5 MeSH:D018366
+T6	SpecificDisease 337 351	sicca syndrome
+N6	Reference T6 MeSH:D012859
+T7	SpecificDisease 395 408	C2 deficiency
+N7	Reference T7 OMIM:217000
+T8	SpecificDisease 483 516	seropositive rheumatoid arthritis
+N8	Reference T8 MeSH:D001172

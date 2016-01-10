@@ -1,0 +1,10 @@
+T1	Modifier 19 28	APC tumor
+N1	Reference T1 MeSH:D011125
+T2	SpecificDisease 137 154	colorectal cancer
+N2	Reference T2 MeSH:D015179
+T3	Modifier 253 256	APC
+N3	Reference T3 MeSH:D011125
+T4	SpecificDisease 313 316	APC
+N4	Reference T4 MeSH:D011125
+T5	Modifier 613 618	tumor
+N5	Reference T5 MeSH:D009369

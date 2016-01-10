@@ -1,0 +1,15 @@
+T1	Modifier 20 23	DMD
+N1	Reference T1 MeSH:D020388
+T2	Modifier 24 27	BMD
+N2	Reference T2 MeSH:C537666
+T3	CompositeMention 392 429	Duchenne or Becker muscular dystrophy
+N3	Reference T3 MeSH:D020388
+N4	Reference T3 MeSH:C537666
+T4	SpecificDisease 431 434	DMD
+N5	Reference T4 MeSH:D020388
+T5	SpecificDisease 436 439	BMD
+N6	Reference T5 MeSH:C537666
+T6	Modifier 776 779	DMD
+N7	Reference T6 MeSH:D020388
+T7	Modifier 780 783	BMD
+N8	Reference T7 MeSH:C537666

@@ -1,0 +1,8 @@
+T1	SpecificDisease 22 36	Wolman disease
+N1	Reference T1 MeSH:D015223
+T2	SpecificDisease 66 80	Wolman disease
+N2	Reference T2 MeSH:D015223
+T3	SpecificDisease 547 561	Wolman disease
+N3	Reference T3 MeSH:D015223
+T4	SpecificDisease 1115 1129	Wolman disease
+N4	Reference T4 MeSH:D015223

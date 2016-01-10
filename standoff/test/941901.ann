@@ -1,0 +1,16 @@
+T1	Modifier 202 210	melanoma
+N1	Reference T1 MeSH:D008545
+T2	SpecificDisease 273 292	deficiency of hex A
+N2	Reference T2 MeSH:D013661
+T3	SpecificDisease 347 364	Tay-Sachs disease
+N3	Reference T3 MeSH:D013661
+T4	SpecificDisease 366 369	TSD
+N4	Reference T4 MeSH:D013661
+T5	Modifier 738 741	TSD
+N5	Reference T5 MeSH:D013661
+T6	Modifier 972 975	TSD
+N6	Reference T6 MeSH:D013661
+T7	SpecificDisease 1114 1117	TSD
+N7	Reference T7 MeSH:D013661
+T8	SpecificDisease 1151 1167	hex A deficiency
+N8	Reference T8 MeSH:D013661

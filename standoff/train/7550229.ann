@@ -1,0 +1,12 @@
+T1	Modifier 30 42	galactosemia
+N1	Reference T1 MeSH:D005693
+T2	SpecificDisease 201 216	GALT deficiency
+N2	Reference T2 MeSH:D005693
+T3	SpecificDisease 843 858	GALT deficiency
+N3	Reference T3 MeSH:D005693
+T4	Modifier 1209 1229	classic galactosemia
+N4	Reference T4 MeSH:D005693
+T5	Modifier 1322 1334	galactosemia
+N5	Reference T5 MeSH:D005693
+T6	Modifier 1481 1501	classic galactosemia
+N6	Reference T6 MeSH:D005693

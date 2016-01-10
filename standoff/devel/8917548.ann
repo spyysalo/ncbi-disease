@@ -1,0 +1,8 @@
+T1	Modifier 23 44	ataxia-telangiectasia
+N1	Reference T1 MeSH:D001260
+T2	SpecificDisease 105 126	ataxia-telangiectasia
+N2	Reference T2 MeSH:D001260
+T3	SpecificDisease 351 359	thymomas
+N3	Reference T3 MeSH:D013945
+T4	Modifier 638 659	ataxia-telangiectasia
+N4	Reference T4 MeSH:D001260

@@ -1,0 +1,28 @@
+T1	SpecificDisease 0 10	Trisomy 15
+N1	Reference T1 MeSH:C538037
+T2	SpecificDisease 54 75	Prader-Willi syndrome
+N2	Reference T2 MeSH:D011218
+T3	SpecificDisease 83 98	maternal disomy
+N3	Reference T3 MeSH:D024182
+T4	SpecificDisease 100 118	Uniparental disomy
+N4	Reference T4 MeSH:D024182
+T5	SpecificDisease 184 205	Prader-Willi syndrome
+N5	Reference T5 MeSH:D011218
+T6	SpecificDisease 207 210	PWS
+N6	Reference T6 MeSH:D011218
+T7	SpecificDisease 323 341	uniparental disomy
+N7	Reference T7 MeSH:D024182
+T8	SpecificDisease 406 424	uniparental disomy
+N8	Reference T8 MeSH:D024182
+T9	SpecificDisease 508 518	trisomy 15
+N9	Reference T9 MeSH:C538037
+T10	SpecificDisease 691 700	hypotonic
+N10	Reference T10 MeSH:D009123
+T11	SpecificDisease 837 840	PWS
+N11	Reference T11 MeSH:D011218
+T12	SpecificDisease 873 876	PWS
+N12	Reference T12 MeSH:D011218
+T13	SpecificDisease 1142 1160	uniparental disomy
+N13	Reference T13 MeSH:D024182
+T14	SpecificDisease 1177 1180	PWS
+N14	Reference T14 MeSH:D011218

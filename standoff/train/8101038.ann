@@ -1,0 +1,10 @@
+T1	SpecificDisease 64 107	late-infantile metachromatic leukodystrophy
+N1	Reference T1 MeSH:D007966
+T2	SpecificDisease 148 191	late-infantile metachromatic leukodystrophy
+N2	Reference T2 MeSH:D007966
+T3	SpecificDisease 193 196	MLD
+N3	Reference T3 MeSH:D007966
+T4	Modifier 356 365	adult MLD
+N4	Reference T4 MeSH:D007966
+T5	SpecificDisease 958 984	late-infantile type of MLD
+N5	Reference T5 MeSH:D007966

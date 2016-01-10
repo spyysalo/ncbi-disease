@@ -1,0 +1,32 @@
+T1	Modifier 55 69	attenuated APC
+N1	Reference T1 MeSH:C538265
+T2	Modifier 155 158	APC
+N2	Reference T2 MeSH:D011125
+T3	CompositeMention 196 238	adenomatous polyps of the colon and rectum
+N3	Reference T3 MeSH:D011125
+T4	SpecificDisease 246 263	colorectal cancer
+N4	Reference T4 MeSH:D015179
+T5	Modifier 311 314	APC
+N5	Reference T5 MeSH:D011125
+T6	SpecificDisease 381 418	attenuated adenomatous polyposis coli
+N6	Reference T6 MeSH:C538265
+T7	SpecificDisease 420 424	AAPC
+N7	Reference T7 MeSH:C538265
+T8	SpecificDisease 449 453	AAPC
+N8	Reference T8 MeSH:C538265
+T9	SpecificDisease 477 494	colorectal polyps
+N9	Reference T9 MeSH:D003111
+T10	SpecificDisease 526 543	colorectal cancer
+N10	Reference T10 MeSH:D015179
+T11	Modifier 586 589	APC
+N11	Reference T11 MeSH:D011125
+T12	Modifier 639 643	AAPC
+N12	Reference T12 MeSH:C538265
+T13	Modifier 780 783	APC
+N13	Reference T13 MeSH:D011125
+T14	Modifier 870 873	APC
+N14	Reference T14 MeSH:D011125
+T15	Modifier 1076 1079	APC
+N15	Reference T15 MeSH:D011125
+T16	Modifier 1113 1133	attenuated polyposis
+N16	Reference T16 MeSH:C538265

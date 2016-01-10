@@ -1,0 +1,26 @@
+T1	SpecificDisease 109 113	EA-2
+N1	Reference T1 MeSH:C535506
+T2	SpecificDisease 118 121	FHM
+N2	Reference T2 MeSH:D020325
+T3	SpecificDisease 274 296	episodic ataxia type 2
+N3	Reference T3 MeSH:C535506
+T4	SpecificDisease 298 302	EA-2
+N4	Reference T4 MeSH:C535506
+T5	SpecificDisease 305 333	familial hemiplegic migraine
+N5	Reference T5 MeSH:D020325
+T6	SpecificDisease 335 338	FHM
+N6	Reference T6 MeSH:D020325
+T7	SpecificDisease 344 368	spinocerebellar ataxia 6
+N7	Reference T7 OMIM:183086
+T8	SpecificDisease 370 374	SCA6
+N8	Reference T8 OMIM:183086
+T9	SpecificDisease 398 402	EA-2
+N9	Reference T9 MeSH:C535506
+T10	SpecificDisease 567 570	FHM
+N10	Reference T10 MeSH:D020325
+T11	SpecificDisease 955 959	EA-2
+N11	Reference T11 MeSH:C535506
+T12	SpecificDisease 1272 1280	migraine
+N12	Reference T12 MeSH:D008881
+T13	SpecificDisease 1405 1408	FHM
+N13	Reference T13 MeSH:D020325

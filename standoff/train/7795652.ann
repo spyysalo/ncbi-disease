@@ -1,0 +1,18 @@
+T1	SpecificDisease 39 63	sporadic ovarian tumours
+N1	Reference T1 MeSH:D010051
+T2	DiseaseClass 122 149	autosomal dominant syndrome
+N2	Reference T2 MeSH:D030342
+T3	CompositeMention 181 206	breast and ovarian cancer
+N3	Reference T3 MeSH:D061325
+T4	DiseaseClass 235 242	tumours
+N4	Reference T4 MeSH:D009369
+T5	DiseaseClass 364 370	tumour
+N5	Reference T5 MeSH:D009369
+T6	SpecificDisease 398 413	ovarian cancers
+N6	Reference T6 MeSH:D010051
+T7	DiseaseClass 551 558	tumours
+N7	Reference T7 MeSH:D009369
+T8	Modifier 652 658	tumour
+N8	Reference T8 MeSH:D009369
+T9	SpecificDisease 783 798	ovarian cancers
+N9	Reference T9 MeSH:D010051

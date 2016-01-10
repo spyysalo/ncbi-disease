@@ -1,0 +1,16 @@
+T1	SpecificDisease 189 215	nonketotic hyperglycinemia
+N1	Reference T1 MeSH:D020158
+T2	SpecificDisease 274 300	nonketotic hyperglycinemia
+N2	Reference T2 MeSH:D020158
+T3	SpecificDisease 302 305	NKH
+N3	Reference T3 MeSH:D020158
+T4	DiseaseClass 311 338	in-born error of metabolism
+N4	Reference T4 MeSH:D008661
+T5	DiseaseClass 363 387	neurological disturbance
+N5	Reference T5 MeSH:D009461
+T6	SpecificDisease 519 522	NKH
+N6	Reference T6 MeSH:D020158
+T7	SpecificDisease 1245 1248	NKH
+N7	Reference T7 MeSH:D020158
+T8	SpecificDisease 1869 1872	NKH
+N8	Reference T8 MeSH:D020158

@@ -1,0 +1,24 @@
+T1	SpecificDisease 23 32	cataracts
+N1	Reference T1 MeSH:D002386
+T2	SpecificDisease 50 96	deficient in glucose-6-phosphate dehydrogenase
+N2	Reference T2 MeSH:D005955
+T3	SpecificDisease 98 149	Glucose-6-phosphate dehydrogenase (G6PD) deficiency
+N3	Reference T3 MeSH:D005955
+T4	Modifier 210 221	cataractous
+N4	Reference T4 MeSH:D002386
+T5	SpecificDisease 350 359	cataracts
+N5	Reference T5 MeSH:D002386
+T6	Modifier 368 382	G6PD-deficient
+N6	Reference T6 MeSH:D005955
+T7	CompositeMention 407 435	cortical and total cataracts
+N7	Reference T7 MeSH:D002386
+T8	SpecificDisease 645 660	G6PD deficiency
+N8	Reference T8 MeSH:D005955
+T9	Modifier 710 722	galactosemic
+N9	Reference T9 OMIM:230400
+T10	SpecificDisease 734 755	riboflavin deficiency
+N10	Reference T10 MeSH:D012257
+T11	SpecificDisease 763 772	cataracts
+N11	Reference T11 MeSH:D002386
+T12	DiseaseClass 808 831	metabolic abnormalities
+N12	Reference T12 MeSH:D008659

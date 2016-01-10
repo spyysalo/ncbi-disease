@@ -1,0 +1,20 @@
+T1	SpecificDisease 35 51	Pendred syndrome
+N1	Reference T1 MeSH:C536648
+T2	SpecificDisease 53 69	Pendred syndrome
+N2	Reference T2 MeSH:C536648
+T3	DiseaseClass 76 104	autosomal recessive disorder
+N3	Reference T3 MeSH:D030342
+T4	SpecificDisease 138 146	deafness
+N4	Reference T4 MeSH:D003638
+T5	SpecificDisease 151 157	goiter
+N5	Reference T5 MeSH:D006042
+T6	Modifier 386 389	PDS
+N6	Reference T6 MeSH:C536648
+T7	Modifier 415 422	Pendred
+N7	Reference T7 MeSH:C536648
+T8	Modifier 893 900	Pendred
+N8	Reference T8 MeSH:C536648
+T9	Modifier 1132 1135	PDS
+N9	Reference T9 MeSH:C536648
+T10	SpecificDisease 1189 1205	Pendred syndrome
+N10	Reference T10 MeSH:C536648

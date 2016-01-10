@@ -1,0 +1,8 @@
+T1	Modifier 196 221	breast and ovarian cancer
+N1	Reference T1 MeSH:D061325
+T2	Modifier 427 448	breast/ovarian cancer
+N2	Reference T2 MeSH:D061325
+T3	CompositeMention 688 713	breast and ovarian cancer
+N3	Reference T3 MeSH:D061325
+T4	SpecificDisease 839 853	ovarian cancer
+N4	Reference T4 MeSH:D010051

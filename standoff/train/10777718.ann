@@ -1,0 +1,8 @@
+T1	SpecificDisease 0 15	Gaucher disease
+N1	Reference T1 MeSH:D005776
+T2	SpecificDisease 108 123	Gaucher disease
+N2	Reference T2 MeSH:D005776
+T3	SpecificDisease 125 127	GD
+N3	Reference T3 MeSH:D005776
+T4	DiseaseClass 150 176	lysosomal storage disorder
+N4	Reference T4 MeSH:D016464

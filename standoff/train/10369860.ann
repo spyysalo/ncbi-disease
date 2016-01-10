@@ -1,0 +1,43 @@
+T1	DiseaseClass 29 52	rearrangement disorders
+N1	Reference T1 MeSH:D002869
+T2	DiseaseClass 160 188	congenital anomaly disorders
+N2	Reference T2 MeSH:D000013
+T3	DiseaseClass 193 209	malignant tumors
+N3	Reference T3 MeSH:D018198
+T4	DiseaseClass 217 245	congenital anomaly disorders
+N4	Reference T4 MeSH:D000013
+T5	SpecificDisease 247 263	cat-eye syndrome
+N5	Reference T5 MeSH:C535918
+N6	Reference T5 OMIM:115470
+T6	SpecificDisease 265 280	der () syndrome
+N7	Reference T6 MeSH:C535733
+T7	SpecificDisease 285 312	velo-cardio-facial syndrome
+N8	Reference T7 MeSH:D004062
+T8	SpecificDisease 313 330	DiGeorge syndrome
+N9	Reference T8 MeSH:D004062
+T9	SpecificDisease 332 336	VCFS
+N10	Reference T9 MeSH:D004062
+T10	SpecificDisease 337 340	DGS
+N11	Reference T10 MeSH:D004062
+T11	SpecificDisease 438 442	VCFS
+N12	Reference T11 MeSH:D004062
+T12	SpecificDisease 443 446	DGS
+N13	Reference T12 MeSH:D004062
+T13	Modifier 660 664	VCFS
+N14	Reference T13 MeSH:D004062
+T14	Modifier 665 668	DGS
+N15	Reference T14 MeSH:D004062
+T15	Modifier 719 723	VCFS
+N16	Reference T15 MeSH:D004062
+T16	Modifier 724 727	DGS
+N17	Reference T16 MeSH:D004062
+T17	Modifier 1204 1208	VCFS
+N18	Reference T17 MeSH:D004062
+T18	Modifier 1209 1212	DGS
+N19	Reference T18 MeSH:D004062
+T19	Modifier 1486 1490	VCFS
+N20	Reference T19 MeSH:D004062
+T20	Modifier 1491 1494	DGS
+N21	Reference T20 MeSH:D004062
+T21	DiseaseClass 1675 1703	congenital anomaly disorders
+N22	Reference T21 MeSH:D000013

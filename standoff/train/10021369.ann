@@ -1,0 +1,10 @@
+T1	Modifier 43 76	adenomatous polyposis coli tumour
+N1	Reference T1 MeSH:D011125
+T2	Modifier 93 132	adenomatous polyposis coli (APC) tumour
+N2	Reference T2 MeSH:D011125
+T3	Modifier 357 372	colon carcinoma
+N3	Reference T3 MeSH:D003110
+T4	Modifier 955 970	colon carcinoma
+N4	Reference T4 MeSH:D003110
+T5	SpecificDisease 1090 1096	cancer
+N5	Reference T5 MeSH:D009369

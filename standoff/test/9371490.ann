@@ -1,0 +1,20 @@
+T1	SpecificDisease 47 62	prostate cancer
+N1	Reference T1 MeSH:D011471
+T2	SpecificDisease 64 91	Sporadic prostate carcinoma
+N2	Reference T2 MeSH:D011471
+T3	DiseaseClass 111 122	male cancer
+N3	Reference T3 MeSH:D005834
+T4	DiseaseClass 230 236	cancer
+N4	Reference T4 MeSH:D009369
+T5	SpecificDisease 378 402	sporadic prostate cancer
+N5	Reference T5 MeSH:D011471
+T6	Modifier 526 531	tumor
+N6	Reference T6 MeSH:D009369
+T7	Modifier 667 682	prostate cancer
+N7	Reference T7 MeSH:D011471
+T8	SpecificDisease 710 725	prostate tumors
+N8	Reference T8 MeSH:D011471
+T9	DiseaseClass 1065 1071	tumors
+N9	Reference T9 MeSH:D009369
+T10	SpecificDisease 1140 1164	sporadic prostate cancer
+N10	Reference T10 MeSH:D011471

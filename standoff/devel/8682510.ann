@@ -1,0 +1,10 @@
+T1	SpecificDisease 0 24	Wiskott-Aldrich syndrome
+N1	Reference T1 MeSH:D014923
+T2	Modifier 162 186	Wiskott-Aldrich syndrome
+N2	Reference T2 MeSH:D014923
+T3	SpecificDisease 259 262	WAS
+N3	Reference T3 MeSH:D014923
+T4	SpecificDisease 287 312	X-linked thrombocytopenia
+N4	Reference T4 OMIM:313900
+T5	Modifier 951 954	WAS
+N5	Reference T5 MeSH:D014923

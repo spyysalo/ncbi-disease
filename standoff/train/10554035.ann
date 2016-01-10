@@ -1,0 +1,53 @@
+T1	Modifier 15 32	von Hippel-Lindau
+N1	Reference T1 MeSH:D006623
+T2	Modifier 34 37	VHL
+N2	Reference T2 MeSH:D006623
+T3	Modifier 66 69	VHL
+N3	Reference T3 MeSH:D006623
+T4	SpecificDisease 118 149	von Hippel-Lindau (VHL) disease
+N4	Reference T4 MeSH:D006623
+T5	DiseaseClass 156 202	autosomal dominantly inherited cancer syndrome
+N5	Reference T5 MeSH:D009386
+T6	Modifier 232 237	tumor
+N6	Reference T6 MeSH:D009369
+T7	DiseaseClass 265 282	hemangioblastomas
+N7	Reference T7 MeSH:D018325
+T8	DiseaseClass 284 301	hemangioblastomas
+N8	Reference T8 MeSH:D018325
+T9	SpecificDisease 333 354	renal cell carcinomas
+N9	Reference T9 MeSH:D002292
+T10	CompositeMention 356 383	pancreatic cysts and tumors
+N10	Reference T10 MeSH:D010181
+N11	Reference T10 MeSH:D010190
+T11	DiseaseClass 385 402	pheochromocytomas
+N12	Reference T11 MeSH:D010673
+T12	DiseaseClass 404 428	endolymphatic sac tumors
+N13	Reference T12 MeSH:D036821
+T13	DiseaseClass 434 457	epididymal cystadenomas
+N14	Reference T13 MeSH:D003537
+T14	Modifier 744 747	VHL
+N15	Reference T14 MeSH:D006623
+T15	Modifier 892 895	VHL
+N16	Reference T15 MeSH:D006623
+T16	Modifier 939 942	VHL
+N17	Reference T16 MeSH:D006623
+T17	Modifier 992 995	VHL
+N18	Reference T17 MeSH:D006623
+T18	Modifier 1584 1587	VHL
+N19	Reference T18 MeSH:D006623
+T19	Modifier 1633 1636	VHL
+N20	Reference T19 MeSH:D006623
+T20	Modifier 1754 1757	VHL
+N21	Reference T20 MeSH:D006623
+T21	Modifier 1811 1814	VHL
+N22	Reference T21 MeSH:D006623
+T22	Modifier 1880 1883	VHL
+N23	Reference T22 MeSH:D006623
+T23	Modifier 1961 1964	VHL
+N24	Reference T23 MeSH:D006623
+T24	Modifier 2090 2093	VHL
+N25	Reference T24 MeSH:D006623
+T25	Modifier 2197 2200	VHL
+N26	Reference T25 MeSH:D006623
+T26	SpecificDisease 2309 2329	VHL gene abnormality
+N27	Reference T26 MeSH:D006623

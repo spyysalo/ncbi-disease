@@ -1,0 +1,16 @@
+T1	SpecificDisease 64 86	Machado-Joseph disease
+N1	Reference T1 MeSH:D017827
+T2	SpecificDisease 88 91	MJD
+N2	Reference T2 MeSH:D017827
+T3	DiseaseClass 156 183	neurodegenerative disorders
+N3	Reference T3 MeSH:D019636
+T4	SpecificDisease 201 230	progressive cerebellar ataxia
+N4	Reference T4 MeSH:D002524
+T5	SpecificDisease 515 544	spinocerebellar ataxia type 3
+N5	Reference T5 MeSH:D017827
+T6	SpecificDisease 546 550	SCA3
+N6	Reference T6 MeSH:D017827
+T7	SpecificDisease 1552 1555	MJD
+N7	Reference T7 MeSH:D017827
+T8	DiseaseClass 1647 1682	degeneration of certain brain areas
+N8	Reference T8 MeSH:D001927

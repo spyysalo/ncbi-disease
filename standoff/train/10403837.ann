@@ -1,0 +1,16 @@
+T1	SpecificDisease 89 120	hereditary progressive dystonia
+N1	Reference T1 MeSH:D020821
+T2	SpecificDisease 154 185	Hereditary progressive dystonia
+N2	Reference T2 MeSH:D020821
+T3	SpecificDisease 219 222	HPD
+N3	Reference T3 MeSH:D020821
+T4	SpecificDisease 224 248	dopa-responsive dystonia
+N4	Reference T4 MeSH:C538007
+T5	SpecificDisease 250 253	DRD
+N5	Reference T5 MeSH:C538007
+T6	DiseaseClass 298 312	genetic defect
+N6	Reference T6 MeSH:D030342
+T7	Modifier 1014 1017	HPD
+N7	Reference T7 MeSH:D020821
+T8	Modifier 1018 1021	DRD
+N8	Reference T8 MeSH:C538007

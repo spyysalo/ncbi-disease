@@ -1,0 +1,12 @@
+T1	SpecificDisease 38 73	ectopic intracranial retinoblastoma
+N1	Reference T1 MeSH:D012175
+T2	SpecificDisease 130 165	ectopic intracranial retinoblastoma
+N2	Reference T2 MeSH:D012175
+T3	CompositeMention 199 225	pineal and retinal tumours
+N3	Reference T3 MeSH:D019572
+N4	Reference T3 MeSH:D010871
+T4	CompositeMention 350 380	retinal and the pineal tumours
+N5	Reference T4 MeSH:D019572
+N6	Reference T4 MeSH:D010871
+T5	SpecificDisease 753 767	retinoblastoma
+N7	Reference T5 MeSH:D012175

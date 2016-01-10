@@ -1,0 +1,28 @@
+T1	SpecificDisease 0 20	Adrenoleukodystrophy
+N1	Reference T1 MeSH:D000326
+T2	SpecificDisease 81 101	Adrenoleukodystrophy
+N2	Reference T2 MeSH:D000326
+T3	SpecificDisease 103 106	ALD
+N3	Reference T3 MeSH:D000326
+T4	DiseaseClass 161 194	progressive central demyelination
+N4	Reference T4 MeSH:D003711
+T5	DiseaseClass 199 229	adrenal cortical insufficiency
+N5	Reference T5 MeSH:D000309
+T6	SpecificDisease 509 512	ALD
+N6	Reference T6 MeSH:D000326
+T7	SpecificDisease 528 566	Zellwegers cerebrohepatorenal syndrome
+N7	Reference T7 MeSH:D015211
+T8	DiseaseClass 628 649	peroxisomal disorders
+N8	Reference T8 MeSH:D018901
+T9	SpecificDisease 783 786	ALD
+N9	Reference T9 MeSH:D000326
+T10	SpecificDisease 893 896	ALD
+N10	Reference T10 MeSH:D000326
+T11	SpecificDisease 905 926	adrenomyeloneuropathy
+N11	Reference T11 MeSH:D000326
+T12	SpecificDisease 986 998	Neonatal ALD
+N12	Reference T12 OMIM:202370
+T13	SpecificDisease 1084 1103	Zellwegers syndrome
+N13	Reference T13 MeSH:D015211
+T14	SpecificDisease 1189 1192	ALD
+N14	Reference T14 MeSH:D000326

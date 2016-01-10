@@ -1,0 +1,32 @@
+T1	SpecificDisease 0 16	Pendred syndrome
+N1	Reference T1 MeSH:C536648
+T2	Modifier 75 78	PDS
+N2	Reference T2 MeSH:C536648
+T3	SpecificDisease 98 114	Pendred syndrome
+N3	Reference T3 MeSH:C536648
+T4	SpecificDisease 125 162	congenital sensorineural hearing loss
+N4	Reference T4 MeSH:D006319
+T5	SpecificDisease 164 178	thyroid goiter
+N5	Reference T5 MeSH:D006042
+T6	DiseaseClass 236 264	autosomal recessive disorder
+N6	Reference T6 MeSH:D030342
+T7	Modifier 308 311	PDS
+N7	Reference T7 MeSH:C536648
+T8	Modifier 395 398	PDS
+N8	Reference T8 MeSH:C536648
+T9	SpecificDisease 537 556	congenital deafness
+N9	Reference T9 MeSH:D003638
+T10	SpecificDisease 639 666	widened vestibular aqueduct
+N10	Reference T10 OMIM:600791
+T11	SpecificDisease 780 786	goiter
+N11	Reference T11 MeSH:D006042
+T12	SpecificDisease 1014 1030	Pendred syndrome
+N12	Reference T12 MeSH:C536648
+T13	Modifier 1082 1085	PDS
+N13	Reference T13 MeSH:C536648
+T14	SpecificDisease 1148 1171	congenital hearing loss
+N14	Reference T14 MeSH:D003638
+T15	SpecificDisease 1188 1219	inner ear morphological anomaly
+N15	Reference T15 MeSH:D007759
+T16	SpecificDisease 1245 1259	thyroid goiter
+N16	Reference T16 MeSH:D006042

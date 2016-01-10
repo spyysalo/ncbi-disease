@@ -1,0 +1,32 @@
+T1	SpecificDisease 49 64	G6PD deficiency
+N1	Reference T1 MeSH:D005955
+T2	SpecificDisease 99 106	malaria
+N2	Reference T2 MeSH:D008288
+T3	SpecificDisease 108 159	Glucose-6-phosphate dehydrogenase (G6PD) deficiency
+N3	Reference T3 MeSH:D005955
+T4	DiseaseClass 177 188	enzymopathy
+N4	Reference T4 MeSH:D008661
+T5	SpecificDisease 316 323	malaria
+N5	Reference T5 MeSH:D008288
+T6	SpecificDisease 404 411	malaria
+N6	Reference T6 MeSH:D008288
+T7	SpecificDisease 447 462	G6PD deficiency
+N7	Reference T7 MeSH:D005955
+T8	SpecificDisease 504 511	malaria
+N8	Reference T8 MeSH:D008288
+T9	DiseaseClass 562 579	X-linked disorder
+N9	Reference T9 MeSH:D040181
+T10	SpecificDisease 883 898	G6PD deficiency
+N10	Reference T10 MeSH:D005955
+T11	SpecificDisease 900 907	G6PD A-
+N11	Reference T11 MeSH:D005955
+T12	SpecificDisease 965 972	malaria
+N12	Reference T12 MeSH:D008288
+T13	SpecificDisease 1101 1108	malaria
+N13	Reference T13 MeSH:D008288
+T14	DiseaseClass 1187 1204	enzyme deficiency
+N14	Reference T14 MeSH:D008661
+T15	Modifier 1244 1251	malaria
+N15	Reference T15 MeSH:D008288
+T16	SpecificDisease 1278 1293	G6PD deficiency
+N16	Reference T16 MeSH:D005955

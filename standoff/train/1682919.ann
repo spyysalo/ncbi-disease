@@ -1,0 +1,21 @@
+T1	DiseaseClass 60 80	centrocytic lymphoma
+N1	Reference T1 MeSH:D008223
+T2	DiseaseClass 194 214	centrocytic lymphoma
+N2	Reference T2 MeSH:D008223
+T3	SpecificDisease 255 271	B-cell neoplasms
+N3	Reference T3 MeSH:D016393
+T4	DiseaseClass 591 611	parathyroid adenomas
+N4	Reference T4 MeSH:D010282
+T5	CompositeMention 742 776	breast and squamous cell neoplasms
+N5	Reference T5 MeSH:D001943
+N6	Reference T5 MeSH:D018307
+T6	DiseaseClass 967 988	centrocytic lymphomas
+N7	Reference T6 MeSH:D008223
+T7	DiseaseClass 1050 1074	noncentrocytic lymphomas
+N8	Reference T7 MeSH:D008223
+T8	DiseaseClass 1095 1116	centrocytic lymphomas
+N9	Reference T8 MeSH:D008223
+T9	SpecificDisease 1408 1424	B-cell neoplasms
+N10	Reference T9 MeSH:D016393
+T10	DiseaseClass 1464 1484	centrocytic lymphoma
+N11	Reference T10 MeSH:D008223

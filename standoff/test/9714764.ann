@@ -1,0 +1,6 @@
+T1	Modifier 171 206	insulin-dependent diabetes mellitus
+N1	Reference T1 MeSH:D003922
+T2	Modifier 208 212	IDDM
+N2	Reference T2 MeSH:D003922
+T3	DiseaseClass 340 348	diabetes
+N3	Reference T3 MeSH:D003920

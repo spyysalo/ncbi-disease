@@ -1,0 +1,44 @@
+T1	SpecificDisease 64 73	cataracts
+N1	Reference T1 MeSH:D002386
+T2	SpecificDisease 75 93	Myotonic dystrophy
+N2	Reference T2 MeSH:D009223
+T3	SpecificDisease 95 97	DM
+N3	Reference T3 MeSH:D009223
+T4	DiseaseClass 105 131	autosomal dominant disorde
+N4	Reference T4 MeSH:D030342
+T5	SpecificDisease 159 173	muscle wasting
+N5	Reference T5 MeSH:D009133
+T6	DiseaseClass 175 183	myotonia
+N6	Reference T6 MeSH:D009222
+T7	DiseaseClass 185 203	cardiac arrhythmia
+N7	Reference T7 MeSH:D001145
+T8	SpecificDisease 205 222	hyperinsulinaemia
+N8	Reference T8 MeSH:D006946
+T9	DiseaseClass 224 242	mental retardation
+N9	Reference T9 MeSH:D008607
+T10	SpecificDisease 254 263	cataracts
+N10	Reference T10 MeSH:D002386
+T11	DiseaseClass 269 283	genetic defect
+N11	Reference T11 MeSH:D030342
+T12	SpecificDisease 287 289	DM
+N12	Reference T12 MeSH:D009223
+T13	SpecificDisease 496 498	DM
+N13	Reference T13 MeSH:D009223
+T14	Modifier 998 1000	DM
+N14	Reference T14 MeSH:D009223
+T15	DiseaseClass 1079 1107	cardiac conduction disorders
+N15	Reference T15 MeSH:D001145
+T16	SpecificDisease 1142 1144	DM
+N16	Reference T16 MeSH:D009223
+T17	Modifier 1261 1269	cataract
+N17	Reference T17 MeSH:D002386
+T18	Modifier 1544 1552	cataract
+N18	Reference T18 MeSH:D002386
+T19	SpecificDisease 1574 1583	cataracts
+N19	Reference T19 MeSH:D002386
+T20	SpecificDisease 1616 1618	DM
+N20	Reference T20 MeSH:D009223
+T21	SpecificDisease 1713 1715	DM
+N21	Reference T21 MeSH:D009223
+T22	SpecificDisease 1754 1756	DM
+N22	Reference T22 MeSH:D009223

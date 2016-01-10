@@ -1,0 +1,8 @@
+T1	SpecificDisease 61 80	factor X deficiency
+N1	Reference T1 MeSH:D005171
+T2	SpecificDisease 82 101	Factor X deficiency
+N2	Reference T2 MeSH:D005171
+T3	DiseaseClass 112 134	haemorrhagic condition
+N3	Reference T3 MeSH:D006474
+T4	SpecificDisease 333 352	factor X deficiency
+N4	Reference T4 MeSH:D005171

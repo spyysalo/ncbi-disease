@@ -1,0 +1,14 @@
+T1	Modifier 34 46	galactosemia
+N1	Reference T1 MeSH:D005693
+T2	SpecificDisease 158 170	Galactosemia
+N2	Reference T2 MeSH:D005693
+T3	DiseaseClass 177 235	autosomal recessive disorder of human galactose metabolism
+N3	Reference T3 MeSH:D005693
+T4	SpecificDisease 246 311	deficiency of the enzyme galactose-1-phosphate uridyl transferase
+N4	Reference T4 MeSH:D005693
+T5	Modifier 916 928	galactosemia
+N5	Reference T5 MeSH:D005693
+T6	Modifier 995 1007	galactosemia
+N6	Reference T6 MeSH:D005693
+T7	SpecificDisease 1531 1543	galactosemia
+N7	Reference T7 MeSH:D005693

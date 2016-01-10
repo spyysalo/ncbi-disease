@@ -1,0 +1,8 @@
+T1	Modifier 0 8	Aniridia
+N1	Reference T1 MeSH:D015783
+T2	SpecificDisease 141 149	aniridia
+N2	Reference T2 MeSH:D015783
+T3	SpecificDisease 151 166	absence of iris
+N3	Reference T3 MeSH:D015783
+T4	Modifier 296 304	aniridia
+N4	Reference T4 MeSH:D015783

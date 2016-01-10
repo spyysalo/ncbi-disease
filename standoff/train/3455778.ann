@@ -1,0 +1,14 @@
+T1	Modifier 86 94	hepatoma
+N1	Reference T1 MeSH:D006528
+T2	SpecificDisease 102 117	Phenylketonuria
+N2	Reference T2 MeSH:D010661
+T3	SpecificDisease 119 122	PKU
+N3	Reference T3 MeSH:D010661
+T4	SpecificDisease 137 195	deficiency of the hepatic enzyme phenylalanine hydroxylase
+N4	Reference T4 OMIM:261600
+T5	Modifier 870 878	hepatoma
+N5	Reference T5 MeSH:D006528
+T6	Modifier 1037 1045	hepatoma
+N6	Reference T6 MeSH:D006528
+T7	SpecificDisease 1322 1325	PKU
+N7	Reference T7 MeSH:D010661

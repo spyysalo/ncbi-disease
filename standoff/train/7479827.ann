@@ -1,0 +1,28 @@
+T1	SpecificDisease 39 88	very-long-chain acyl-CoA dehydrogenase deficiency
+N1	Reference T1 MeSH:C536353
+T2	SpecificDisease 97 111	cardiomyopathy
+N2	Reference T2 MeSH:D009202
+T3	SpecificDisease 116 128	sudden death
+N3	Reference T3 MeSH:D003645
+T4	SpecificDisease 289 314	sudden, unexplained death
+N4	Reference T4 MeSH:D003645
+T5	SpecificDisease 335 357	hepatic encephalopathy
+N5	Reference T5 MeSH:D006501
+T6	SpecificDisease 361 374	liver failure
+N6	Reference T6 MeSH:D017093
+T7	SpecificDisease 376 393	skeletal myopathy
+N7	Reference T7 MeSH:D009135
+T8	SpecificDisease 399 413	cardiomyopathy
+N8	Reference T8 MeSH:D009202
+T9	SpecificDisease 806 822	VLCAD deficiency
+N9	Reference T9 MeSH:C536353
+T10	SpecificDisease 854 868	cardiac arrest
+N10	Reference T10 MeSH:D006323
+T11	SpecificDisease 873 887	cardiomyopathy
+N11	Reference T11 MeSH:D009202
+T12	SpecificDisease 1356 1372	VLCAD deficiency
+N12	Reference T12 MeSH:C536353
+T13	SpecificDisease 1463 1477	cardiomyopathy
+N13	Reference T13 MeSH:D009202
+T14	SpecificDisease 1482 1494	sudden death
+N14	Reference T14 MeSH:D003645

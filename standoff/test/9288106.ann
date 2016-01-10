@@ -1,0 +1,58 @@
+T1	Modifier 40 61	ataxia-telangiectasia
+N1	Reference T1 MeSH:D001260
+T2	SpecificDisease 72 97	sporadic T-cell leukaemia
+N2	Reference T2 MeSH:D015458
+T3	SpecificDisease 99 120	Ataxia-telangiectasia
+N3	Reference T3 MeSH:D001260
+T4	SpecificDisease 122 125	A-T
+N4	Reference T4 MeSH:D001260
+T5	DiseaseClass 132 163	recessive multi-system disorder
+N5	Reference T5 MeSH:D030342
+T6	DiseaseClass 235 241	cancer
+N6	Reference T6 MeSH:D009369
+T7	DiseaseClass 254 273	lymphoid neoplasias
+N7	Reference T7 MeSH:D008223
+T8	Modifier 304 307	A-T
+N8	Reference T8 MeSH:D001260
+T9	Modifier 389 395	tumour
+N9	Reference T9 MeSH:D009369
+T10	SpecificDisease 419 459	sporadic T-cell prolymphocytic leukaemia
+N10	Reference T10 MeSH:D015461
+T11	SpecificDisease 461 466	T-PLL
+N11	Reference T11 MeSH:D015461
+T12	DiseaseClass 476 493	clonal malignancy
+N12	Reference T12 MeSH:D007945
+T13	SpecificDisease 517 540	mature T-cell leukaemia
+N13	Reference T13 MeSH:D015458
+T14	SpecificDisease 549 552	A-T
+N14	Reference T14 MeSH:D001260
+T15	SpecificDisease 606 611	T-PLL
+N15	Reference T15 MeSH:D015461
+T16	SpecificDisease 663 666	A-T
+N16	Reference T16 MeSH:D001260
+T17	DiseaseClass 713 722	leukaemia
+N17	Reference T17 MeSH:D007938
+T18	SpecificDisease 1030 1035	T-PLL
+N18	Reference T18 MeSH:D015461
+T19	Modifier 1070 1073	A-T
+N19	Reference T19 MeSH:D001260
+T20	Modifier 1160 1166	tumour
+N20	Reference T20 MeSH:D009369
+T21	DiseaseClass 1212 1221	leukaemia
+N21	Reference T21 MeSH:D007938
+T22	Modifier 1279 1285	tumour
+N22	Reference T22 MeSH:D009369
+T23	SpecificDisease 1309 1338	B-cell non-Hodgkins lymphomas
+N23	Reference T23 MeSH:D016393
+T24	SpecificDisease 1340 1345	B-NHL
+N24	Reference T24 MeSH:D016393
+T25	Modifier 1353 1358	B-NHL
+N25	Reference T25 MeSH:D016393
+T26	DiseaseClass 1517 1524	tumours
+N26	Reference T26 MeSH:D009369
+T27	SpecificDisease 1594 1608	sporadic T-PLL
+N27	Reference T27 MeSH:D015461
+T28	Modifier 1641 1647	tumour
+N28	Reference T28 MeSH:D009369
+T29	SpecificDisease 1741 1746	T-PLL
+N29	Reference T29 MeSH:D015461

@@ -1,0 +1,55 @@
+T1	SpecificDisease 34 56	van der Woude syndrome
+N1	Reference T1 MeSH:C536528
+T2	SpecificDisease 281 303	van der Woude syndrome
+N2	Reference T2 MeSH:C536528
+T3	SpecificDisease 305 308	VWS
+N3	Reference T3 MeSH:C536528
+T4	SpecificDisease 325 335	oral cleft
+N4	Reference T4 MeSH:D002971
+N5	Reference T4 MeSH:D002972
+T5	SpecificDisease 337 349	cleft palate
+N6	Reference T5 MeSH:D002972
+T6	SpecificDisease 351 353	CP
+N7	Reference T6 MeSH:D002972
+T7	SpecificDisease 359 368	cleft lip
+N8	Reference T7 MeSH:D002971
+T8	SpecificDisease 385 387	CP
+N9	Reference T8 MeSH:D002972
+T9	SpecificDisease 389 392	CLP
+N10	Reference T9 MeSH:D002971
+T10	SpecificDisease 443 451	lip pits
+N11	Reference T10 MeSH:C536528
+T11	SpecificDisease 455 463	fistulae
+N12	Reference T11 MeSH:D005402
+T12	SpecificDisease 582 585	CLP
+N13	Reference T12 MeSH:D002971
+T13	SpecificDisease 590 592	CP
+N14	Reference T13 MeSH:D002972
+T14	SpecificDisease 603 606	VWS
+N15	Reference T14 MeSH:C536528
+T15	SpecificDisease 724 727	CLP
+N16	Reference T15 MeSH:D002971
+T16	SpecificDisease 736 738	CP
+N17	Reference T16 MeSH:D002972
+T17	SpecificDisease 818 820	CP
+N18	Reference T17 MeSH:D002972
+T18	SpecificDisease 846 849	CLP
+N19	Reference T18 MeSH:D002971
+T19	SpecificDisease 854 857	VWS
+N20	Reference T19 MeSH:C536528
+T20	SpecificDisease 896 904	Lip pits
+N21	Reference T20 MeSH:C536528
+T21	SpecificDisease 1011 1014	VWS
+N22	Reference T21 MeSH:C536528
+T22	SpecificDisease 1223 1226	VWS
+N23	Reference T22 MeSH:C536528
+T23	Modifier 1380 1383	VWS
+N24	Reference T23 MeSH:C536528
+T24	SpecificDisease 1478 1486	lip pits
+N25	Reference T24 MeSH:C536528
+T25	SpecificDisease 1518 1526	lip pits
+N26	Reference T25 MeSH:C536528
+T26	SpecificDisease 1642 1645	VWS
+N27	Reference T26 MeSH:C536528
+T27	Modifier 1748 1751	VWS
+N28	Reference T27 MeSH:C536528

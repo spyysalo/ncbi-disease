@@ -1,0 +1,30 @@
+T1	DiseaseClass 38 50	microcephaly
+N1	Reference T1 MeSH:D008831
+T2	DiseaseClass 52 70	mental retardation
+N2	Reference T2 MeSH:D008607
+T3	DiseaseClass 76 89	short stature
+N3	Reference T3 MeSH:D006130
+T4	Modifier 95 109	Cohen syndrome
+N4	Reference T4 MeSH:C536438
+T5	DiseaseClass 179 191	microcephaly
+N5	Reference T5 MeSH:D008831
+T6	DiseaseClass 205 232	postnatal growth deficiency
+N6	Reference T6 MeSH:D006130
+T7	DiseaseClass 238 256	mental retardation
+N7	Reference T7 MeSH:D008607
+T8	DiseaseClass 363 372	Hypotonia
+N8	Reference T8 MeSH:D009123
+T9	DiseaseClass 374 397	chorioretinal dystrophy
+N9	Reference T9 MeSH:D015862+D058499
+T10	DiseaseClass 403 409	myopia
+N10	Reference T10 MeSH:D009216
+T11	DiseaseClass 574 592	mental retardation
+N11	Reference T11 MeSH:D008607
+T12	DiseaseClass 598 611	short stature
+N12	Reference T12 MeSH:D006130
+T13	SpecificDisease 660 674	Cohen syndrome
+N13	Reference T13 MeSH:C536438
+T14	SpecificDisease 1075 1089	Cohen syndrome
+N14	Reference T14 MeSH:C536438
+T15	SpecificDisease 1245 1259	Cohen syndrome
+N15	Reference T15 MeSH:C536438

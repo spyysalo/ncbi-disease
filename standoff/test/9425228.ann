@@ -1,0 +1,12 @@
+T1	Modifier 52 60	melanoma
+N1	Reference T1 MeSH:D008545
+T2	Modifier 98 115	Familial Melanoma
+N2	Reference T2 MeSH:D008545
+T3	Modifier 208 216	melanoma
+N3	Reference T3 MeSH:D008545
+T4	Modifier 321 329	melanoma
+N4	Reference T4 MeSH:D008545
+T5	SpecificDisease 949 966	familial melanoma
+N5	Reference T5 MeSH:D008545
+T6	Modifier 1010 1018	melanoma
+N6	Reference T6 MeSH:D008545

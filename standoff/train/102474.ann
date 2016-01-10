@@ -1,0 +1,8 @@
+T1	CompositeMention 0 40	Combined genetic deficiency of C6 and C7
+N1	Reference T1 OMIM:610102
+N2	Reference T1 OMIM:612446
+T2	CompositeMention 117 150	sub-total deficiency of C6 and C7
+N3	Reference T2 OMIM:610102
+N4	Reference T2 OMIM:612446
+T3	SpecificDisease 298 311	C6 deficiency
+N5	Reference T3 OMIM:612446

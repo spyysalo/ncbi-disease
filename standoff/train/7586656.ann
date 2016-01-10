@@ -1,0 +1,6 @@
+T1	SpecificDisease 113 133	Lesch-Nyhan syndrome
+N1	Reference T1 MeSH:D007926
+T2	SpecificDisease 274 296	HPRT enzyme deficiency
+N2	Reference T2 MeSH:D007926
+T3	SpecificDisease 307 327	Lesch-Nyhan syndrome
+N3	Reference T3 MeSH:D007926

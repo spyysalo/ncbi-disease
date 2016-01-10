@@ -1,0 +1,16 @@
+T1	SpecificDisease 77 94	Friedreich ataxia
+N1	Reference T1 MeSH:D005621
+T2	SpecificDisease 96 115	Frataxin deficiency
+N2	Reference T2 MeSH:D005621
+T3	SpecificDisease 140 157	Friedreich ataxia
+N3	Reference T3 MeSH:D005621
+T4	SpecificDisease 159 163	FRDA
+N4	Reference T4 MeSH:D005621
+T5	DiseaseClass 169 237	autosomal recessive cardiodegenerative and neurodegenerative disease
+N5	Reference T5 MeSH:D030342+D019636
+T6	SpecificDisease 406 437	mitochondrial iron accumulation
+N6	Reference T6 MeSH:D028361
+T7	SpecificDisease 442 478	hypersensitivity to oxidative stress
+N7	Reference T7 MeSH:D004194
+T8	SpecificDisease 625 629	FRDA
+N8	Reference T8 MeSH:D005621

@@ -1,0 +1,29 @@
+T1	SpecificDisease 0 26	Non-syndromic hearing loss
+N1	Reference T1 MeSH:C537845
+T2	SpecificDisease 43 71	enlarged vestibular aqueduct
+N2	Reference T2 OMIM:600791
+T3	Modifier 85 88	PDS
+N3	Reference T3 MeSH:C536648
+T4	SpecificDisease 100 128	Enlarged vestibular aqueduct
+N4	Reference T4 OMIM:600791
+T5	SpecificDisease 130 133	EVA
+N5	Reference T5 OMIM:600791
+T6	DiseaseClass 169 190	inner ear abnormality
+N6	Reference T6 MeSH:D007759
+T7	SpecificDisease 312 352	non-syndromic sensorineural hearing loss
+N7	Reference T7 MeSH:C537845
+T8	SpecificDisease 358 361	EVA
+N8	Reference T8 OMIM:600791
+T9	Modifier 423 439	Pendred syndrome
+N9	Reference T9 MeSH:C536648
+T10	Modifier 492 495	PDS
+N10	Reference T10 MeSH:C536648
+T11	SpecificDisease 533 549	Pendred syndrome
+N11	Reference T11 MeSH:C536648
+T12	SpecificDisease 582 622	non-syndromic sensorineural hearing loss
+N12	Reference T12 MeSH:C537845
+T13	SpecificDisease 628 631	EVA
+N13	Reference T13 OMIM:600791
+T14	CompositeMention 843 883	syndromic and non-syndromic hearing loss
+N14	Reference T14 MeSH:D034381
+N15	Reference T14 MeSH:C537845

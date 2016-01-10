@@ -1,0 +1,10 @@
+T1	SpecificDisease 116 141	alveolar rhabdomyosarcoma
+N1	Reference T1 MeSH:D018232
+T2	CompositeMention 184 214	hematopoietic and solid tumors
+N2	Reference T2 MeSH:D019337
+T3	DiseaseClass 344 355	solid tumor
+N3	Reference T3 MeSH:D009369
+T4	SpecificDisease 356 381	alveolar rhabdomyosarcoma
+N4	Reference T4 MeSH:D018232
+T5	SpecificDisease 1026 1051	alveolar rhabdomyosarcoma
+N5	Reference T5 MeSH:D018232

@@ -1,0 +1,18 @@
+T1	SpecificDisease 0 20	Spinal xanthomatosis
+N1	Reference T1 MeSH:D014973
+T2	DiseaseClass 35 65	cerebrotendinous xanthomatosis
+N2	Reference T2 MeSH:D019294
+T3	SpecificDisease 152 172	spinal cord syndrome
+N3	Reference T3 MeSH:D013118
+T4	SpecificDisease 225 255	cerebrotendinous xanthomatosis
+N4	Reference T4 MeSH:D019294
+T5	SpecificDisease 257 260	CTX
+N5	Reference T5 MeSH:D019294
+T6	DiseaseClass 280 306	white matter abnormalities
+N6	Reference T6 MeSH:D002493
+T7	SpecificDisease 523 543	spinal xanthomatosis
+N7	Reference T7 MeSH:D014973
+T8	SpecificDisease 594 597	CTX
+N8	Reference T8 MeSH:D019294
+T9	DiseaseClass 655 673	chronic myelopathy
+N9	Reference T9 MeSH:D002908+D013118

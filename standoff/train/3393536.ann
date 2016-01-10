@@ -1,0 +1,18 @@
+T1	DiseaseClass 82 99	enzyme deficiency
+N1	Reference T1 MeSH:D008661
+T2	SpecificDisease 119 135	hemolytic anemia
+N2	Reference T2 MeSH:D000743
+T3	SpecificDisease 137 204	Glucose-6-phosphate dehydrogenase (G6PD; EC 1. 1. 1. 49) deficiency
+N3	Reference T3 MeSH:D005955
+T4	DiseaseClass 217 236	genetic abnormality
+N4	Reference T4 MeSH:D030342
+T5	DiseaseClass 743 760	enzyme deficiency
+N5	Reference T5 MeSH:D008661
+T6	DiseaseClass 832 838	favism
+N6	Reference T6 MeSH:D005236
+T7	DiseaseClass 1239 1256	neonatal jaundice
+N7	Reference T7 MeSH:D007567
+T8	SpecificDisease 1497 1513	hemolytic anemia
+N8	Reference T8 MeSH:D000743
+T9	SpecificDisease 1726 1741	G6PD deficiency
+N9	Reference T9 MeSH:D005955

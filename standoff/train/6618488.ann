@@ -1,0 +1,14 @@
+T1	SpecificDisease 0 21	Prader-Willi syndrome
+N1	Reference T1 MeSH:D011218
+T2	SpecificDisease 78 99	chromosome 15 anomaly
+N2	Reference T2 MeSH:D002869
+T3	SpecificDisease 182 203	Prader-Willi syndrome
+N3	Reference T3 MeSH:D011218
+T4	SpecificDisease 205 208	PWS
+N4	Reference T4 MeSH:D011218
+T5	SpecificDisease 322 325	PWS
+N5	Reference T5 MeSH:D011218
+T6	SpecificDisease 479 482	PWS
+N6	Reference T6 MeSH:D011218
+T7	SpecificDisease 513 516	PWS
+N7	Reference T7 MeSH:D011218

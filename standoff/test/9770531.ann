@@ -1,0 +1,20 @@
+T1	Modifier 56 76	renal cell carcinoma
+N1	Reference T1 MeSH:D002292
+T2	Modifier 101 118	von Hippel-Lindau
+N2	Reference T2 MeSH:D006623
+T3	Modifier 161 178	von Hippel-Lindau
+N3	Reference T3 MeSH:D006623
+T4	Modifier 180 183	VHL
+N4	Reference T4 MeSH:D006623
+T5	Modifier 219 239	renal cell carcinoma
+N5	Reference T5 MeSH:D002292
+T6	SpecificDisease 675 678	VHL
+N6	Reference T6 MeSH:D006623
+T7	Modifier 750 770	renal cell carcinoma
+N7	Reference T7 MeSH:D002292
+T8	Modifier 919 922	VHL
+N8	Reference T8 MeSH:D006623
+T9	DiseaseClass 1178 1185	cancers
+N9	Reference T9 MeSH:D009369
+T10	Modifier 1358 1364	cancer
+N10	Reference T10 MeSH:D009369

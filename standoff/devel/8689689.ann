@@ -1,0 +1,14 @@
+T1	DiseaseClass 75 92	eye abnormalities
+N1	Reference T1 MeSH:D005124
+T2	SpecificDisease 94 102	Aniridia
+N2	Reference T2 MeSH:D015783
+T3	DiseaseClass 136 172	semidominant developmental disorders
+N3	Reference T3 MeSH:D002658
+T4	SpecificDisease 260 275	iris hypoplasia
+N4	Reference T4 MeSH:D007499
+T5	DiseaseClass 334 353	brain abnormalities
+N5	Reference T5 MeSH:D001927
+T6	DiseaseClass 673 711	developmental abnormalities of the eye
+N6	Reference T6 MeSH:D005124
+T7	DiseaseClass 961 982	developmental defects
+N7	Reference T7 MeSH:D002658

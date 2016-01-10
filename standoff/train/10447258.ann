@@ -1,0 +1,20 @@
+T1	SpecificDisease 44 62	Zellweger syndrome
+N1	Reference T1 MeSH:D015211
+T2	DiseaseClass 68 97	Zellweger spectrum of disease
+N2	Reference T2 MeSH:D015211
+T3	SpecificDisease 112 130	Zellweger syndrome
+N3	Reference T3 MeSH:D015211
+T4	SpecificDisease 174 203	neonatal adrenoleukodystrophy
+N4	Reference T4 OMIM:202370
+T5	SpecificDisease 208 232	infantile Refsum disease
+N5	Reference T5 MeSH:D052919
+T6	Modifier 697 715	Zellweger syndrome
+N6	Reference T6 MeSH:D015211
+T7	Modifier 799 817	Zellweger syndrome
+N7	Reference T7 MeSH:D015211
+T8	Modifier 999 1017	Zellweger syndrome
+N8	Reference T8 MeSH:D015211
+T9	Modifier 1408 1426	Zellweger syndrome
+N9	Reference T9 MeSH:D015211
+T10	SpecificDisease 1539 1557	Zellweger syndrome
+N10	Reference T10 MeSH:D015211

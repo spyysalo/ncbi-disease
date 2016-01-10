@@ -1,0 +1,28 @@
+T1	SpecificDisease 39 67	familial Mediterranean fever
+N1	Reference T1 MeSH:D010505
+T2	SpecificDisease 166 194	familial Mediterranean fever
+N2	Reference T2 MeSH:D010505
+T3	SpecificDisease 196 199	MEF
+N3	Reference T3 MeSH:D010505
+T4	SpecificDisease 238 241	MEF
+N4	Reference T4 MeSH:D010505
+T5	SpecificDisease 246 261	MEF-amyloidosis
+N5	Reference T5 MeSH:D000686
+N6	Reference T5 MeSH:D010505
+T6	Modifier 341 344	MEF
+N7	Reference T6 MeSH:D010505
+T7	DiseaseClass 359 370	amyloidosis
+N8	Reference T7 MeSH:D000686
+T8	Modifier 424 427	MEF
+N9	Reference T8 MeSH:D010505
+T9	Modifier 499 502	MEF
+N10	Reference T9 MeSH:D010505
+T10	SpecificDisease 592 595	MEF
+N11	Reference T10 MeSH:D010505
+T11	Modifier 704 719	MEF-amyloidosis
+N12	Reference T11 MeSH:D000686
+N13	Reference T11 MeSH:D010505
+T12	Modifier 765 768	MEF
+N14	Reference T12 MeSH:D010505
+T13	DiseaseClass 786 797	amyloidosis
+N15	Reference T13 MeSH:D000686

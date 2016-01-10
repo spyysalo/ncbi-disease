@@ -1,0 +1,14 @@
+T1	SpecificDisease 142 189	Deficiency of glucose-6-phosphate dehydrogenase
+N1	Reference T1 MeSH:D005955
+T2	SpecificDisease 262 269	malaria
+N2	Reference T2 MeSH:D008288
+T3	SpecificDisease 323 338	G6PD deficiency
+N3	Reference T3 MeSH:D005955
+T4	SpecificDisease 606 621	G6PD deficiency
+N4	Reference T4 MeSH:D005955
+T5	SpecificDisease 693 708	G6PD deficiency
+N5	Reference T5 MeSH:D005955
+T6	SpecificDisease 889 904	G6PD deficiency
+N6	Reference T6 MeSH:D005955
+T7	SpecificDisease 991 1006	G6PD deficiency
+N7	Reference T7 MeSH:D005955

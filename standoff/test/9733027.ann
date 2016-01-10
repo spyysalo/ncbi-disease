@@ -1,0 +1,8 @@
+T1	Modifier 24 41	Friedreich ataxia
+N1	Reference T1 MeSH:D005621
+T2	Modifier 113 117	FRDA
+N2	Reference T2 MeSH:D005621
+T3	SpecificDisease 124 141	Friedreich ataxia
+N3	Reference T3 MeSH:D005621
+T4	Modifier 225 229	FRDA
+N4	Reference T4 MeSH:D005621

@@ -1,0 +1,16 @@
+T1	SpecificDisease 15 57	X-linked Emery-Dreifuss muscular dystrophy
+N1	Reference T1 MeSH:D020389
+T2	DiseaseClass 110 146	contractures of the Achilles tendons
+N2	Reference T2 MeSH:D003286
+T3	DiseaseClass 219 245	contractures of the elbows
+N3	Reference T3 MeSH:D003286
+T4	DiseaseClass 250 269	cardiac abnormality
+N4	Reference T4 MeSH:D018376
+T5	SpecificDisease 608 650	X-linked Emery-Dreifuss muscular dystrophy
+N5	Reference T5 MeSH:D020389
+T6	SpecificDisease 652 656	EDMD
+N6	Reference T6 MeSH:D020389
+T7	SpecificDisease 783 787	EDMD
+N7	Reference T7 MeSH:D020389
+T8	SpecificDisease 840 860	sudden cardiac death
+N8	Reference T8 MeSH:D016757

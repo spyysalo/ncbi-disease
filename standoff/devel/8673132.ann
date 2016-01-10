@@ -1,0 +1,24 @@
+T1	Modifier 17 35	myotonic dystrophy
+N1	Reference T1 MeSH:D009223
+T2	SpecificDisease 84 92	myopathy
+N2	Reference T2 MeSH:D009135
+T3	SpecificDisease 94 112	Myotonic dystrophy
+N3	Reference T3 MeSH:D009223
+T4	SpecificDisease 114 116	DM
+N4	Reference T4 MeSH:D009223
+T5	DiseaseClass 124 151	autosomal dominant disorder
+N5	Reference T5 MeSH:D030342
+T6	Modifier 296 298	DM
+N6	Reference T6 MeSH:D009223
+T7	SpecificDisease 330 344	Dmpk deficient
+N7	Reference T7 OMIM:160900
+T8	SpecificDisease 395 424	progressive skeletal myopathy
+N8	Reference T8 MeSH:D009135
+T9	SpecificDisease 469 471	DM
+N9	Reference T9 MeSH:D009223
+T10	SpecificDisease 538 556	fibre degeneration
+N10	Reference T10 MeSH:D020966
+T11	SpecificDisease 561 569	fibrosis
+N11	Reference T11 MeSH:D005355
+T12	Modifier 862 864	DM
+N12	Reference T12 MeSH:D009223

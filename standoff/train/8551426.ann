@@ -1,0 +1,14 @@
+T1	SpecificDisease 25 37	galactosemia
+N1	Reference T1 MeSH:D005693
+T2	SpecificDisease 103 115	galactosemia
+N2	Reference T2 MeSH:D005693
+T3	SpecificDisease 861 881	classic galactosemia
+N3	Reference T3 MeSH:D005693
+T4	SpecificDisease 948 960	galactosemia
+N4	Reference T4 MeSH:D005693
+T5	SpecificDisease 1025 1037	galactosemia
+N5	Reference T5 MeSH:D005693
+T6	SpecificDisease 1079 1091	galactosemia
+N6	Reference T6 MeSH:D005693
+T7	SpecificDisease 1328 1340	galactosemia
+N7	Reference T7 MeSH:D005693

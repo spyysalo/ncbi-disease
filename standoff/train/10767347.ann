@@ -1,0 +1,16 @@
+T1	Modifier 20 37	Friedreich ataxia
+N1	Reference T1 MeSH:D005621
+T2	SpecificDisease 64 83	embryonic lethality
+N2	Reference T2 MeSH:D020964
+T3	SpecificDisease 111 128	Friedreich ataxia
+N3	Reference T3 MeSH:D005621
+T4	SpecificDisease 130 134	FRDA
+N4	Reference T4 MeSH:D005621
+T5	DiseaseClass 153 179	autosomal recessive ataxia
+N5	Reference T5 MeSH:D013132
+T6	SpecificDisease 535 565	iron-sulfur protein deficiency
+N6	Reference T6 OMIM:255125
+T7	Modifier 838 842	Frda
+N7	Reference T7 MeSH:D005621
+T8	SpecificDisease 897 916	embryonic lethality
+N8	Reference T8 MeSH:D020964

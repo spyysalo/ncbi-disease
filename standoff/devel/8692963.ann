@@ -1,0 +1,6 @@
+T1	DiseaseClass 431 459	inherited metabolic disorder
+N1	Reference T1 MeSH:D008659
+T2	SpecificDisease 460 472	galactosemia
+N2	Reference T2 MeSH:D005693
+T3	SpecificDisease 1578 1590	galactosemia
+N3	Reference T3 MeSH:D005693

@@ -1,0 +1,16 @@
+T1	SpecificDisease 25 57	X-linked amelogenesis imperfecta
+N1	Reference T1 MeSH:C538243
+T2	DiseaseClass 198 226	inherited dental abnormality
+N2	Reference T2 MeSH:D014071
+T3	SpecificDisease 227 259	X-linked amelogenesis imperfecta
+N3	Reference T3 MeSH:C538243
+T4	SpecificDisease 261 264	XAI
+N4	Reference T4 MeSH:C538243
+T5	SpecificDisease 287 290	XAI
+N5	Reference T5 MeSH:C538243
+T6	SpecificDisease 442 445	XAI
+N6	Reference T6 MeSH:C538243
+T7	SpecificDisease 629 640	XAI disease
+N7	Reference T7 MeSH:C538243
+T8	SpecificDisease 1193 1196	XAI
+N8	Reference T8 MeSH:C538243

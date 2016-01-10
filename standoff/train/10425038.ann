@@ -1,0 +1,4 @@
+T1	SpecificDisease 112 133	ataxia-telangiectasia
+N1	Reference T1 MeSH:D001260
+T2	Modifier 332 335	A-T
+N2	Reference T2 MeSH:D001260

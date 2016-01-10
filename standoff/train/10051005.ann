@@ -1,0 +1,36 @@
+T1	Modifier 53 58	HNPCC
+N1	Reference T1 MeSH:D003123
+T2	SpecificDisease 132 149	colorectal cancer
+N2	Reference T2 MeSH:D015179
+T3	SpecificDisease 278 318	hereditary non-polyposis cancer syndrome
+N3	Reference T3 MeSH:D003123
+T4	SpecificDisease 320 325	HNPCC
+N4	Reference T4 MeSH:D003123
+T5	Modifier 594 611	colorectal cancer
+N5	Reference T5 MeSH:D015179
+T6	Modifier 729 734	HNPCC
+N6	Reference T6 MeSH:D003123
+T7	Modifier 840 850	colorectal
+N7	Reference T7 MeSH:D015179
+T8	Modifier 925 942	colorectal cancer
+N8	Reference T8 MeSH:D015179
+T9	Modifier 1507 1512	HNPCC
+N9	Reference T9 MeSH:D003123
+T10	CompositeMention 1563 1607	colorectal, endometrial, and ovarian cancers
+N10	Reference T10 MeSH:D010051
+N11	Reference T10 MeSH:D016889
+N12	Reference T10 MeSH:D015179
+T11	DiseaseClass 1777 1784	cancers
+N13	Reference T11 MeSH:D009369
+T12	SpecificDisease 1794 1811	colorectal cancer
+N14	Reference T12 MeSH:D015179
+T13	SpecificDisease 1860 1877	colorectal cancer
+N15	Reference T13 MeSH:D015179
+T14	SpecificDisease 2047 2065	endometrial cancer
+N16	Reference T14 MeSH:D016889
+T15	SpecificDisease 2093 2121	premenopausal ovarian cancer
+N17	Reference T15 MeSH:D010051
+T16	Modifier 2172 2189	colorectal cancer
+N18	Reference T16 MeSH:D015179
+T17	Modifier 2268 2285	colorectal cancer
+N19	Reference T17 MeSH:D015179

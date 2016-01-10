@@ -1,0 +1,24 @@
+T1	SpecificDisease 0 13	Fabry disease
+N1	Reference T1 MeSH:D000795
+T2	SpecificDisease 158 171	Fabry disease
+N2	Reference T2 MeSH:D000795
+T3	SpecificDisease 173 175	FD
+N3	Reference T3 MeSH:D000795
+T4	SpecificDisease 178 209	angiokeratoma corporis diffusum
+N4	Reference T4 MeSH:D000795
+T5	DiseaseClass 217 270	X-linked inborn error of glycosphingolipid metabolism
+N5	Reference T5 MeSH:D008052
+T6	SpecificDisease 510 523	angiokeratoma
+N6	Reference T6 MeSH:D000794
+T7	SpecificDisease 525 547	severe acroparesthesia
+N7	Reference T7 MeSH:D010292
+T8	SpecificDisease 549 562	renal failure
+N8	Reference T8 MeSH:D051437
+T9	CompositeMention 568 603	vasculopathy of the heart and brain
+N9	Reference T9 MeSH:D014652
+T10	SpecificDisease 628 658	alpha-galactosidase deficiency
+N10	Reference T10 MeSH:D000795
+T11	SpecificDisease 1030 1052	alpha-Gal A deficiency
+N11	Reference T11 MeSH:D000795
+T12	SpecificDisease 1104 1106	FD
+N12	Reference T12 MeSH:D000795

@@ -1,0 +1,16 @@
+T1	Modifier 100 115	hemochromatosis
+N1	Reference T1 MeSH:D006432
+T2	Modifier 131 146	hemochromatosis
+N2	Reference T2 MeSH:D006432
+T3	Modifier 374 389	hemochromatosis
+N3	Reference T3 MeSH:D006432
+T4	Modifier 864 879	hemochromatosis
+N4	Reference T4 MeSH:D006432
+T5	Modifier 902 917	hemochromatosis
+N5	Reference T5 MeSH:D006432
+T6	Modifier 1909 1924	hemochromatosis
+N6	Reference T6 MeSH:D006432
+T7	Modifier 2154 2169	hemochromatosis
+N7	Reference T7 MeSH:D006432
+T8	SpecificDisease 2399 2409	HFE defect
+N8	Reference T8 MeSH:D006432

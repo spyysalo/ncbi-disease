@@ -1,0 +1,14 @@
+T1	Modifier 20 49	X-linked adrenoleukodystrophy
+N1	Reference T1 MeSH:D000326
+T2	SpecificDisease 100 129	X-linked Adrenoleukodystrophy
+N2	Reference T2 MeSH:D000326
+T3	SpecificDisease 131 136	X-ALD
+N3	Reference T3 MeSH:D000326
+T4	DiseaseClass 159 178	peroxisomal disease
+N4	Reference T4 MeSH:D018901
+T5	Modifier 978 983	X-ALD
+N5	Reference T5 MeSH:D000326
+T6	Modifier 1107 1112	X-ALD
+N6	Reference T6 MeSH:D000326
+T7	Modifier 1268 1273	X-ALD
+N7	Reference T7 MeSH:D000326

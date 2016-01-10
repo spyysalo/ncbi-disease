@@ -1,0 +1,26 @@
+T1	Modifier 37 67	familial adenomatous polyposis
+N1	Reference T1 MeSH:D011125
+T2	Modifier 207 233	adenomatous polyposis coli
+N2	Reference T2 MeSH:D011125
+T3	Modifier 235 238	APC
+N3	Reference T3 MeSH:D011125
+T4	Modifier 255 285	familial adenomatous polyposis
+N4	Reference T4 MeSH:D011125
+T5	Modifier 287 290	FAP
+N5	Reference T5 MeSH:D011125
+T6	Modifier 401 404	APC
+N6	Reference T6 MeSH:D011125
+T7	Modifier 579 582	APC
+N7	Reference T7 MeSH:D011125
+T8	Modifier 614 617	FAP
+N8	Reference T8 MeSH:D011125
+T9	Modifier 781 784	APC
+N9	Reference T9 MeSH:D011125
+T10	Modifier 993 996	FAP
+N10	Reference T10 MeSH:D011125
+T11	Modifier 1053 1056	APC
+N11	Reference T11 MeSH:D011125
+T12	Modifier 1222 1225	APC
+N12	Reference T12 MeSH:D011125
+T13	Modifier 1298 1301	FAP
+N13	Reference T13 MeSH:D011125

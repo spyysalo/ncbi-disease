@@ -1,0 +1,22 @@
+T1	SpecificDisease 53 80	Duchenne muscular dystrophy
+N1	Reference T1 MeSH:D020388
+T2	DiseaseClass 120 138	muscular dystrophy
+N2	Reference T2 MeSH:D009136
+T3	SpecificDisease 232 259	Duchenne muscular dystrophy
+N3	Reference T3 MeSH:D020388
+T4	SpecificDisease 261 264	DMD
+N4	Reference T4 MeSH:D020388
+T5	SpecificDisease 323 353	limb-girdle muscular dystrophy
+N5	Reference T5 MeSH:D049288
+T6	Modifier 379 382	DMD
+N6	Reference T6 MeSH:D020388
+T7	Modifier 1096 1099	DMD
+N7	Reference T7 MeSH:D020388
+T8	DiseaseClass 1110 1118	myopathy
+N8	Reference T8 MeSH:D009135
+T9	Modifier 1281 1284	DMD
+N9	Reference T9 MeSH:D020388
+T10	SpecificDisease 1439 1457	uniparental disomy
+N10	Reference T10 MeSH:D024182
+T11	Modifier 1477 1480	DMD
+N11	Reference T11 MeSH:D020388

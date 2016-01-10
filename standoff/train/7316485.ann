@@ -1,0 +1,6 @@
+T1	DiseaseClass 212 229	enzyme deficiency
+N1	Reference T1 MeSH:D008661
+T2	SpecificDisease 258 268	haemolysis
+N2	Reference T2 MeSH:D006461
+T3	SpecificDisease 425 440	G6PD deficiency
+N3	Reference T3 MeSH:D005955

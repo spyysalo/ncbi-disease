@@ -1,0 +1,28 @@
+T1	SpecificDisease 54 79	Papillon-Lefevre syndrome
+N1	Reference T1 MeSH:D010214
+T2	SpecificDisease 81 106	Papillon-Lefevre syndrome
+N2	Reference T2 MeSH:D010214
+T3	SpecificDisease 108 111	PLS
+N3	Reference T3 MeSH:D010214
+T4	DiseaseClass 119 147	autosomal recessive disorder
+N4	Reference T4 MeSH:D030342
+T5	SpecificDisease 165 192	palmoplantar hyperkeratosis
+N5	Reference T5 MeSH:D007645
+T6	SpecificDisease 216 229	periodontitis
+N6	Reference T6 MeSH:D010518
+T7	SpecificDisease 329 332	PLS
+N7	Reference T7 MeSH:D010214
+T8	SpecificDisease 801 804	PLS
+N8	Reference T8 MeSH:D010214
+T9	SpecificDisease 970 973	PLS
+N9	Reference T9 MeSH:D010214
+T10	Modifier 1506 1509	PLS
+N10	Reference T10 MeSH:D010214
+T11	SpecificDisease 1674 1701	palmoplantar hyperkeratosis
+N11	Reference T11 MeSH:D007645
+T12	SpecificDisease 1724 1737	periodontitis
+N12	Reference T12 MeSH:D010518
+T13	SpecificDisease 1756 1759	PLS
+N13	Reference T13 MeSH:D010214
+T14	Modifier 1927 1946	periodontal disease
+N14	Reference T14 MeSH:D010510

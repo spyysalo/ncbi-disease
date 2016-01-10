@@ -1,0 +1,18 @@
+T1	SpecificDisease 19 31	alkaptonuria
+N1	Reference T1 MeSH:D000474
+T2	SpecificDisease 33 36	AKU
+N2	Reference T2 MeSH:D000474
+T3	SpecificDisease 61 73	Alkaptonuria
+N3	Reference T3 MeSH:D000474
+T4	SpecificDisease 75 78	AKU
+N4	Reference T4 MeSH:D000474
+T5	DiseaseClass 111 139	autosomal recessive disorder
+N5	Reference T5 MeSH:D030342
+T6	SpecificDisease 353 363	Ochronosis
+N6	Reference T6 MeSH:D009794
+T7	SpecificDisease 431 453	ochronotic arthropathy
+N7	Reference T7 MeSH:D009794+D007592
+T8	SpecificDisease 544 556	alkaptonuria
+N8	Reference T8 MeSH:D000474
+T9	Modifier 689 701	alkaptonuria
+N9	Reference T9 MeSH:D000474

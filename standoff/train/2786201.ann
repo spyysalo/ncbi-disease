@@ -1,0 +1,18 @@
+T1	SpecificDisease 25 47	von Willebrand disease
+N1	Reference T1 MeSH:D014842
+T2	Modifier 70 84	von Willebrand
+N2	Reference T2 MeSH:D014842
+T3	SpecificDisease 98 120	von Willebrand disease
+N3	Reference T3 MeSH:D014842
+T4	SpecificDisease 122 125	vWD
+N4	Reference T4 MeSH:D014842
+T5	DiseaseClass 144 171	inherited bleeding disorder
+N5	Reference T5 MeSH:D025861
+T6	Modifier 275 289	von Willebrand
+N6	Reference T6 MeSH:D014842
+T7	SpecificDisease 325 328	vWD
+N7	Reference T7 MeSH:D014842
+T8	Modifier 677 689	type IIA vWD
+N8	Reference T8 MeSH:D056728
+T9	Modifier 989 1001	type IIA vWD
+N9	Reference T9 MeSH:D056728

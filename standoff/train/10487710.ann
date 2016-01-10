@@ -1,0 +1,12 @@
+T1	SpecificDisease 22 66	familial neurohypophyseal diabetes insipidus
+N1	Reference T1 OMIM:125700
+T2	SpecificDisease 112 156	Familial neurohypophyseal diabetes insipidus
+N2	Reference T2 OMIM:125700
+T3	SpecificDisease 158 162	FNDI
+N3	Reference T3 OMIM:125700
+T4	DiseaseClass 180 226	deficiency of the hormone arginine vasopressin
+N4	Reference T4 OMIM:125700
+T5	SpecificDisease 1292 1296	FNDI
+N5	Reference T5 OMIM:125700
+T6	SpecificDisease 1348 1352	FNDI
+N6	Reference T6 OMIM:125700

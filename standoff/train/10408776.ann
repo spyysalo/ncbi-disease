@@ -1,0 +1,40 @@
+T1	Modifier 17 20	VHL
+N1	Reference T1 MeSH:D006623
+T2	SpecificDisease 29 58	sporadic renal cell carcinoma
+N2	Reference T2 MeSH:D002292
+T3	Modifier 92 95	VHL
+N3	Reference T3 MeSH:D006623
+T4	SpecificDisease 119 122	RCC
+N4	Reference T4 MeSH:D002292
+T5	Modifier 161 178	von Hippel-Lindau
+N5	Reference T5 MeSH:D006623
+T6	Modifier 180 183	VHL
+N6	Reference T6 MeSH:D006623
+T7	SpecificDisease 235 256	renal cell carcinomas
+N7	Reference T7 MeSH:D002292
+T8	Modifier 278 287	VHL tumor
+N8	Reference T8 MeSH:D006623
+T9	Modifier 663 666	VHL
+N9	Reference T9 MeSH:D006623
+T10	Modifier 700 733	nonpapillary renal cell carcinoma
+N10	Reference T10 MeSH:D002292
+T11	Modifier 735 738	RCC
+N11	Reference T11 MeSH:D002292
+T12	Modifier 828 831	VHL
+N12	Reference T12 MeSH:D006623
+T13	Modifier 1147 1150	VHL
+N13	Reference T13 MeSH:D006623
+T14	SpecificDisease 1180 1192	sporadic RCC
+N14	Reference T14 MeSH:D002292
+T15	SpecificDisease 1342 1345	RCC
+N15	Reference T15 MeSH:D002292
+T16	Modifier 1349 1352	VHL
+N16	Reference T16 MeSH:D006623
+T17	SpecificDisease 1409 1412	RCC
+N17	Reference T17 MeSH:D002292
+T18	Modifier 1443 1446	VHL
+N18	Reference T18 MeSH:D006623
+T19	SpecificDisease 1651 1654	RCC
+N19	Reference T19 MeSH:D002292
+T20	Modifier 1658 1661	VHL
+N20	Reference T20 MeSH:D006623

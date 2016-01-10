@@ -1,0 +1,8 @@
+T1	Modifier 64 67	DMD
+N1	Reference T1 MeSH:D020388
+T2	Modifier 178 181	DMD
+N2	Reference T2 MeSH:D020388
+T3	SpecificDisease 204 229	Becker muscular dystrophy
+N3	Reference T3 MeSH:C537666
+T4	SpecificDisease 399 424	Becker muscular dystrophy
+N4	Reference T4 MeSH:C537666

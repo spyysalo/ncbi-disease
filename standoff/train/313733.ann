@@ -1,0 +1,14 @@
+T1	SpecificDisease 0 24	Hereditary C2 deficiency
+N1	Reference T1 OMIM:217000
+T2	DiseaseClass 57 73	immunodeficiency
+N2	Reference T2 MeSH:D007153
+T3	SpecificDisease 86 99	C2 deficiency
+N3	Reference T3 OMIM:217000
+T4	DiseaseClass 150 166	immunodeficiency
+N4	Reference T4 MeSH:D007153
+T5	DiseaseClass 188 210	hypoimmunoglobulinemia
+N5	Reference T5 MeSH:D007153
+T6	DiseaseClass 353 378	chromosomal abnormalities
+N6	Reference T6 MeSH:D002869
+T7	SpecificDisease 498 511	C2 deficiency
+N7	Reference T7 OMIM:217000

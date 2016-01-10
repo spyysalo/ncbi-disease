@@ -1,0 +1,22 @@
+T1	SpecificDisease 0 58	Hereditary deficiency of the fifth component of complement
+N1	Reference T1 OMIM:609536
+T2	Modifier 96 108	C5-deficient
+N2	Reference T2 OMIM:609536
+T3	SpecificDisease 157 215	hereditary deficiency of the fifth component of complement
+N3	Reference T3 OMIM:609536
+T4	Modifier 317 329	C5-deficient
+N4	Reference T4 OMIM:609536
+T5	Modifier 331 334	C5D
+N5	Reference T5 OMIM:609536
+T6	Modifier 385 388	C5D
+N6	Reference T6 OMIM:609536
+T7	SpecificDisease 432 460	systemic lupus erythematosus
+N7	Reference T7 MeSH:D008180
+T8	SpecificDisease 986 999	C5 deficiency
+N8	Reference T8 OMIM:609536
+T9	Modifier 1047 1050	C5D
+N9	Reference T9 OMIM:609536
+T10	Modifier 1201 1204	C5D
+N10	Reference T10 OMIM:609536
+T11	SpecificDisease 1396 1431	paroxysmal nocturnal hemoglobinuria
+N11	Reference T11 MeSH:D006457

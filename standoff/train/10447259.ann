@@ -1,0 +1,18 @@
+T1	Modifier 23 47	Wiskott-Aldrich syndrome
+N1	Reference T1 MeSH:D014923
+T2	SpecificDisease 139 163	Wiskott-Aldrich syndrome
+N2	Reference T2 MeSH:D014923
+T3	SpecificDisease 165 168	WAS
+N3	Reference T3 MeSH:D014923
+T4	DiseaseClass 176 211	X-linked recessive immunodeficiency
+N4	Reference T4 MeSH:D053632
+T5	DiseaseClass 229 245	thrombocytopenia
+N5	Reference T5 MeSH:D013921
+T6	DiseaseClass 247 253	eczema
+N6	Reference T6 MeSH:D004485
+T7	Modifier 312 315	WAS
+N7	Reference T7 MeSH:D014923
+T8	SpecificDisease 1488 1491	WAS
+N8	Reference T8 MeSH:D014923
+T9	SpecificDisease 1589 1592	XLT
+N9	Reference T9 OMIM:313900

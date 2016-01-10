@@ -1,0 +1,41 @@
+T1	Modifier 18 50	von Hippel-Lindau disease tumour
+N1	Reference T1 MeSH:D006623
+T2	Modifier 99 130	von Hippel-Lindau (VHL) disease
+N2	Reference T2 MeSH:D006623
+T3	Modifier 251 254	VHL
+N3	Reference T3 MeSH:D006623
+T4	CompositeMention 303 352	retinal, cerebellar and spinal haemangioblastomas
+N4	Reference T4 MeSH:D012175
+N5	Reference T4 MeSH:D018325
+T5	SpecificDisease 354 374	renal cell carcinoma
+N6	Reference T5 MeSH:D002292
+T6	SpecificDisease 379 396	phaeochromocytoma
+N7	Reference T6 MeSH:D010673
+T7	Modifier 439 442	VHL
+N8	Reference T7 MeSH:D006623
+T8	SpecificDisease 463 492	sporadic renal cell carcinoma
+N9	Reference T8 MeSH:D002292
+T9	SpecificDisease 497 514	haemangioblastoma
+N10	Reference T9 MeSH:D018325
+T10	Modifier 614 617	VHL
+N11	Reference T10 MeSH:D006623
+T11	Modifier 764 767	VHL
+N12	Reference T11 MeSH:D006623
+T12	Modifier 880 883	VHL
+N13	Reference T12 MeSH:D006623
+T13	Modifier 1033 1036	VHL
+N14	Reference T13 MeSH:D006623
+T14	Modifier 1112 1115	VHL
+N15	Reference T14 MeSH:D006623
+T15	Modifier 1203 1206	VHL
+N16	Reference T15 MeSH:D006623
+T16	Modifier 1408 1411	VHL
+N17	Reference T16 MeSH:D006623
+T17	Modifier 1520 1523	VHL
+N18	Reference T17 MeSH:D006623
+T18	Modifier 1620 1623	VHL
+N19	Reference T18 MeSH:D006623
+T19	Modifier 1698 1701	VHL
+N20	Reference T19 MeSH:D006623
+T20	Modifier 1798 1801	VHL
+N21	Reference T20 MeSH:D006623

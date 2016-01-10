@@ -1,0 +1,26 @@
+T1	SpecificDisease 87 103	Kniest dysplasia
+N1	Reference T1 MeSH:C537207
+T2	SpecificDisease 105 121	Kniest dysplasia
+N2	Reference T2 MeSH:C537207
+T3	Modifier 145 161	chondrodysplasia
+N3	Reference T3 MeSH:D010009
+T4	SpecificDisease 284 311	short trunk and extremities
+N4	Reference T4 MeSH:D006130
+T5	DiseaseClass 313 332	mid-face hypoplasia
+N5	Reference T5 MeSH:D019767
+T6	SpecificDisease 334 346	cleft palate
+N6	Reference T6 MeSH:D002972
+T7	DiseaseClass 348 354	myopia
+N7	Reference T7 MeSH:D009216
+T8	SpecificDisease 356 374	retinal detachment
+N8	Reference T8 MeSH:D012163
+T9	DiseaseClass 380 392	hearing loss
+N9	Reference T9 MeSH:D034381
+T10	SpecificDisease 481 497	Kniest dysplasia
+N10	Reference T10 MeSH:C537207
+T11	Modifier 587 603	Kniest dysplasia
+N11	Reference T11 MeSH:C537207
+T12	SpecificDisease 720 736	Kniest dysplasia
+N12	Reference T12 MeSH:C537207
+T13	SpecificDisease 1251 1267	Kniest dysplasia
+N13	Reference T13 MeSH:C537207

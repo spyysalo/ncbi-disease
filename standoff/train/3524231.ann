@@ -1,0 +1,14 @@
+T1	SpecificDisease 13 40	Duchenne muscular dystrophy
+N1	Reference T1 MeSH:D020388
+T2	SpecificDisease 236 263	Duchenne muscular dystrophy
+N2	Reference T2 MeSH:D020388
+T3	SpecificDisease 265 268	DMD
+N3	Reference T3 MeSH:D020388
+T4	SpecificDisease 374 377	DMD
+N4	Reference T4 MeSH:D020388
+T5	SpecificDisease 382 412	growth hormone (GH) deficiency
+N5	Reference T5 OMIM:262400
+T6	DiseaseClass 452 470	dystrophic process
+N6	Reference T6 MeSH:D009136
+T7	Modifier 1052 1055	DMD
+N7	Reference T7 MeSH:D020388

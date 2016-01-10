@@ -1,0 +1,6 @@
+T1	Modifier 92 128	hereditary breast and ovarian cancer
+N1	Reference T1 MeSH:D061325
+T2	Modifier 714 727	breast cancer
+N2	Reference T2 MeSH:D001943
+T3	Modifier 795 801	tumour
+N3	Reference T3 MeSH:D009369

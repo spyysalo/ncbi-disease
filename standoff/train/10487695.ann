@@ -1,0 +1,14 @@
+T1	DiseaseClass 80 103	iodide transport defect
+N1	Reference T1 OMIM:274400
+T2	SpecificDisease 180 205	congenital hypothyroidism
+N2	Reference T2 MeSH:D003409
+T3	DiseaseClass 216 239	iodide transport defect
+N3	Reference T3 OMIM:274400
+T4	SpecificDisease 368 393	congenital hypothyroidism
+N4	Reference T4 MeSH:D003409
+T5	DiseaseClass 1149 1172	iodide transport defect
+N5	Reference T5 OMIM:274400
+T6	SpecificDisease 1507 1532	congenital hypothyroidism
+N6	Reference T6 MeSH:D003409
+T7	DiseaseClass 1543 1566	iodide transport defect
+N7	Reference T7 OMIM:274400

@@ -1,0 +1,26 @@
+T1	SpecificDisease 77 123	benign familial infantile convulsions syndrome
+N1	Reference T1 MeSH:D020936
+T2	SpecificDisease 125 129	BFIC
+N2	Reference T2 MeSH:D020936
+T3	SpecificDisease 132 169	Benign familial infantile convulsions
+N3	Reference T3 MeSH:D020936
+T4	SpecificDisease 171 175	BFIC
+N4	Reference T4 MeSH:D020936
+T5	DiseaseClass 187 223	autosomal dominant epilepsy syndrome
+N5	Reference T5 MeSH:D030342+D004827
+T6	DiseaseClass 476 502	neurological abnormalities
+N6	Reference T6 MeSH:D009461
+T7	SpecificDisease 519 523	BFIC
+N7	Reference T7 MeSH:D020936
+T8	SpecificDisease 711 761	generalized epilepsy and febrile seizures " plus "
+N8	Reference T8 MeSH:D004829+D003294
+T9	SpecificDisease 857 861	BFIC
+N9	Reference T9 MeSH:D020936
+T10	SpecificDisease 947 951	BFIC
+N10	Reference T10 MeSH:D020936
+T11	Modifier 1035 1039	BFIC
+N11	Reference T11 MeSH:D020936
+T12	SpecificDisease 1179 1183	BFIC
+N12	Reference T12 MeSH:D020936
+T13	Modifier 1353 1357	BFIC
+N13	Reference T13 MeSH:D020936

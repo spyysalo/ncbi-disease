@@ -1,0 +1,10 @@
+T1	SpecificDisease 0 30	Mucopolysaccharidosis type IVA
+N1	Reference T1 OMIM:253000
+T2	SpecificDisease 110 135	Mucopolysaccharidosis IVA
+N2	Reference T2 OMIM:253000
+T3	SpecificDisease 137 144	MPS IVA
+N3	Reference T3 OMIM:253000
+T4	DiseaseClass 152 180	autosomal recessive disorder
+N4	Reference T4 MeSH:D030342
+T5	SpecificDisease 193 240	deficiency in N-acetylgalactosamine-6-sulfatase
+N5	Reference T5 MeSH:D009085

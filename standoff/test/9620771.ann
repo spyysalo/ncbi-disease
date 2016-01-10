@@ -1,0 +1,24 @@
+T1	SpecificDisease 19 26	obesity
+N1	Reference T1 MeSH:D009765
+T2	DiseaseClass 28 49	adrenal insufficiency
+N2	Reference T2 MeSH:D000309
+T3	SpecificDisease 398 413	ACTH deficiency
+N3	Reference T3 OMIM:201400
+N4	Reference T3 MeSH:C535668
+T4	SpecificDisease 702 709	obesity
+N5	Reference T4 MeSH:D009765
+T5	SpecificDisease 821 828	obesity
+N6	Reference T5 MeSH:D009765
+T6	SpecificDisease 1001 1008	obesity
+N7	Reference T6 MeSH:D009765
+T7	SpecificDisease 1041 1056	ACTH deficiency
+N8	Reference T7 OMIM:201400
+N9	Reference T7 MeSH:C535668
+T8	DiseaseClass 1476 1490	genetic defect
+N10	Reference T8 MeSH:D030342
+T9	DiseaseClass 1529 1557	monogenic endocrine disorder
+N11	Reference T9 MeSH:D004700
+T10	SpecificDisease 1583 1590	obesity
+N12	Reference T10 MeSH:D009765
+T11	DiseaseClass 1592 1613	adrenal insufficiency
+N13	Reference T11 MeSH:D000309

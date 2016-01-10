@@ -1,0 +1,12 @@
+T1	Modifier 22 43	ataxia-telangiectasia
+N1	Reference T1 MeSH:D001260
+T2	Modifier 114 135	ataxia-telangiectasia
+N2	Reference T2 MeSH:D001260
+T3	Modifier 346 348	AT
+N3	Reference T3 MeSH:D001260
+T4	Modifier 653 655	AT
+N4	Reference T4 MeSH:D001260
+T5	Modifier 740 742	AT
+N5	Reference T5 MeSH:D001260
+T6	Modifier 851 853	AT
+N6	Reference T6 MeSH:D001260

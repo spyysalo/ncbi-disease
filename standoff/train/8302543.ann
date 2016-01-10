@@ -1,0 +1,22 @@
+T1	SpecificDisease 0 17	Macular dystrophy
+N1	Reference T1 MeSH:D008268
+T2	Modifier 70 90	retinal degeneration
+N2	Reference T2 MeSH:D012162
+T3	Modifier 141 161	retinal degeneration
+N3	Reference T3 MeSH:D012162
+T4	SpecificDisease 244 283	autosomal dominant retinitis pigmentosa
+N4	Reference T4 MeSH:D012174
+T5	SpecificDisease 584 601	macular dystrophy
+N5	Reference T5 MeSH:D008268
+T6	SpecificDisease 892 903	visual loss
+N6	Reference T6 MeSH:C531604
+T7	SpecificDisease 967 982	central scotoma
+N7	Reference T7 MeSH:D012607
+T8	SpecificDisease 1003 1044	atrophy of the retinal pigment epithelium
+N8	Reference T8 MeSH:C536309
+T9	SpecificDisease 1049 1079	choriocapillaris of the macula
+N9	Reference T9 MeSH:D008268
+T10	SpecificDisease 1712 1729	macular dystrophy
+N10	Reference T10 MeSH:D008268
+T11	DiseaseClass 1756 1772	cone dysfunction
+N11	Reference T11 OMIM:180020

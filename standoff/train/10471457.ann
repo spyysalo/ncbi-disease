@@ -1,0 +1,28 @@
+T1	Modifier 59 74	hemochromatosis
+N1	Reference T1 MeSH:D006432
+T2	SpecificDisease 105 131	Hereditary hemochromatosis
+N2	Reference T2 MeSH:D006432
+T3	Modifier 194 209	hemochromatosis
+N3	Reference T3 MeSH:D006432
+T4	DiseaseClass 281 301	excess iron deposits
+N4	Reference T4 MeSH:D019190
+T5	SpecificDisease 1357 1372	hemochromatosis
+N5	Reference T5 MeSH:D006432
+T6	DiseaseClass 1724 1740	hepatic fibrosis
+N6	Reference T6 MeSH:D008103
+T7	SpecificDisease 1770 1799	excessive alcohol consumption
+N7	Reference T7 MeSH:D000435
+T8	DiseaseClass 1805 1814	cirrhosis
+N8	Reference T8 MeSH:D008103
+T9	SpecificDisease 1824 1848	microvesicular steatosis
+N9	Reference T9 MeSH:D005234
+T10	SpecificDisease 1950 1976	hereditary hemochromatosis
+N10	Reference T10 MeSH:D006432
+T11	DiseaseClass 1986 1998	hepatomegaly
+N11	Reference T11 MeSH:D006529
+T12	DiseaseClass 2000 2017	skin pigmentation
+N12	Reference T12 MeSH:D010859
+T13	DiseaseClass 2023 2032	arthritis
+N13	Reference T13 MeSH:D001168
+T14	SpecificDisease 2252 2267	hemochromatosis
+N14	Reference T14 MeSH:D006432

@@ -1,0 +1,36 @@
+T1	Modifier 71 91	Li-Fraumeni syndrome
+N1	Reference T1 MeSH:D016864
+T2	SpecificDisease 100 120	Li-Fraumeni syndrome
+N2	Reference T2 MeSH:D016864
+T3	DiseaseClass 127 154	autosomal dominant disorder
+N3	Reference T3 MeSH:D030342
+T4	DiseaseClass 197 203	cancer
+N4	Reference T4 MeSH:D009369
+T5	DiseaseClass 300 307	cancers
+N5	Reference T5 MeSH:D009369
+T6	SpecificDisease 344 364	Li-Fraumeni syndrome
+N6	Reference T6 MeSH:D016864
+T7	DiseaseClass 519 525	cancer
+N7	Reference T7 MeSH:D009369
+T8	SpecificDisease 569 589	Li-Fraumeni syndrome
+N8	Reference T8 MeSH:D016864
+T9	Modifier 789 794	tumor
+N9	Reference T9 MeSH:D009369
+T10	SpecificDisease 825 833	seminoma
+N10	Reference T10 MeSH:D018239
+T11	SpecificDisease 850 865	medulloblastoma
+N11	Reference T11 MeSH:D008527
+T12	SpecificDisease 1049 1057	seminoma
+N12	Reference T12 MeSH:D018239
+T13	Modifier 1127 1132	tumor
+N13	Reference T13 MeSH:D009369
+T14	SpecificDisease 1371 1391	Li-Fraumeni syndrome
+N14	Reference T14 MeSH:D016864
+T15	SpecificDisease 1598 1606	seminoma
+N15	Reference T15 MeSH:D018239
+T16	SpecificDisease 1607 1622	medulloblastoma
+N16	Reference T16 MeSH:D008527
+T17	DiseaseClass 1675 1688	tumorogenesis
+N17	Reference T17 MeSH:D002471
+T18	Modifier 1753 1758	tumor
+N18	Reference T18 MeSH:D009369

@@ -1,0 +1,12 @@
+T1	Modifier 77 99	sporadic breast cancer
+N1	Reference T1 MeSH:D001943
+T2	Modifier 153 187	familial breast and ovarian cancer
+N2	Reference T2 MeSH:D061325
+T3	SpecificDisease 213 252	non-hereditary (sporadic) breast cancer
+N3	Reference T3 MeSH:D001943
+T4	DiseaseClass 433 450	carcinoma in situ
+N4	Reference T4 MeSH:D002278
+T5	DiseaseClass 454 469	invasive cancer
+N5	Reference T5 MeSH:D009362
+T6	SpecificDisease 808 821	breast cancer
+N6	Reference T6 MeSH:D001943

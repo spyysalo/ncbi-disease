@@ -1,0 +1,32 @@
+T1	SpecificDisease 34 54	adrenoleukodystrophy
+N1	Reference T1 MeSH:D000326
+T2	SpecificDisease 59 80	adrenomyeloneuropathy
+N2	Reference T2 MeSH:D000326
+T3	SpecificDisease 176 196	adrenoleukodystrophy
+N3	Reference T3 MeSH:D000326
+T4	SpecificDisease 198 201	ALD
+N4	Reference T4 MeSH:D000326
+T5	SpecificDisease 206 227	adrenomyeloneuropathy
+N5	Reference T5 MeSH:D000326
+T6	SpecificDisease 229 232	AMN
+N6	Reference T6 MeSH:D000326
+T7	SpecificDisease 326 329	ALD
+N7	Reference T7 MeSH:D000326
+T8	SpecificDisease 330 333	AMN
+N8	Reference T8 MeSH:D000326
+T9	SpecificDisease 399 402	ALD
+N9	Reference T9 MeSH:D000326
+T10	SpecificDisease 407 410	AMN
+N10	Reference T10 MeSH:D000326
+T11	SpecificDisease 472 475	ALD
+N11	Reference T11 MeSH:D000326
+T12	SpecificDisease 480 483	AMN
+N12	Reference T12 MeSH:D000326
+T13	SpecificDisease 595 598	ALD
+N13	Reference T13 MeSH:D000326
+T14	SpecificDisease 603 606	AMN
+N14	Reference T14 MeSH:D000326
+T15	Modifier 758 761	ALD
+N15	Reference T15 MeSH:D000326
+T16	Modifier 762 765	AMN
+N16	Reference T16 MeSH:D000326

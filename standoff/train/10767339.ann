@@ -1,0 +1,16 @@
+T1	SpecificDisease 20 35	FMR1 deficiency
+N1	Reference T1 OMIM:300624
+T2	SpecificDisease 92 110	Fragile X syndrome
+N2	Reference T2 MeSH:D005600
+T3	DiseaseClass 132 150	mental retardation
+N3	Reference T3 MeSH:D008607
+T4	SpecificDisease 375 389	macroorchidism
+N4	Reference T4 MeSH:D005600
+T5	SpecificDisease 541 559	fragile X syndrome
+N5	Reference T5 MeSH:D005600
+T6	Modifier 1203 1212	fragile X
+N6	Reference T6 MeSH:D005600
+T7	Modifier 1489 1496	anxiety
+N7	Reference T7 MeSH:D001008
+T8	SpecificDisease 1772 1790	fragile X syndrome
+N8	Reference T8 MeSH:D005600

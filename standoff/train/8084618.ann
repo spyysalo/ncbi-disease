@@ -1,0 +1,20 @@
+T1	DiseaseClass 26 48	Ewing family of tumors
+N1	Reference T1 MeSH:D012512
+T2	DiseaseClass 50 82	malignant melanoma of soft parts
+N2	Reference T2 MeSH:D008545
+T3	SpecificDisease 87 123	desmoplastic small round cell tumors
+N3	Reference T3 MeSH:D058405
+T4	DiseaseClass 289 301	solid tumors
+N4	Reference T4 MeSH:D009369
+T5	SpecificDisease 312 325	Ewing sarcoma
+N5	Reference T5 MeSH:D012512
+T6	DiseaseClass 345 367	neuroectodermal tumors
+N6	Reference T6 MeSH:D017599
+T7	DiseaseClass 369 401	malignant melanoma of soft parts
+N7	Reference T7 MeSH:D008545
+T8	DiseaseClass 406 442	desmoplastic small round cell tumors
+N8	Reference T8 MeSH:D058405
+T9	DiseaseClass 453 459	tumors
+N9	Reference T9 MeSH:D009369
+T10	Modifier 1362 1376	Ewings sarcoma
+N10	Reference T10 MeSH:D012512

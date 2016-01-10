@@ -1,0 +1,22 @@
+T1	SpecificDisease 0 37	Type I human complement C2 deficiency
+N1	Reference T1 OMIM:217000
+T2	SpecificDisease 141 176	deficiency of complement protein C2
+N2	Reference T2 OMIM:217000
+T3	SpecificDisease 356 376	Type I C2 deficiency
+N3	Reference T3 OMIM:217000
+T4	Modifier 596 608	C2-deficient
+N4	Reference T4 OMIM:217000
+T5	SpecificDisease 688 708	type I C2 deficiency
+N5	Reference T5 OMIM:217000
+T6	Modifier 768 787	type I C2-deficient
+N6	Reference T6 OMIM:217000
+T7	Modifier 1283 1303	type II C2-deficient
+N7	Reference T7 OMIM:217000
+T8	SpecificDisease 1343 1380	type I human complement C2 deficiency
+N8	Reference T8 OMIM:217000
+T9	Modifier 1705 1717	C2-deficient
+N9	Reference T9 OMIM:217000
+T10	SpecificDisease 1815 1836	type II C2 deficiency
+N10	Reference T10 OMIM:217000
+T11	DiseaseClass 1897 1911	genetic defect
+N11	Reference T11 MeSH:D030342

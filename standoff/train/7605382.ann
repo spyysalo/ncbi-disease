@@ -1,0 +1,20 @@
+T1	Modifier 94 119	hyperalphalipoproteinemic
+N1	Reference T1 OMIM:143470
+T2	SpecificDisease 283 308	hyperalphalipoproteinemia
+N2	Reference T2 OMIM:143470
+T3	SpecificDisease 319 334	CETP deficiency
+N3	Reference T3 OMIM:143470
+T4	Modifier 795 820	hyperalphalipoproteinemic
+N4	Reference T4 OMIM:143470
+T5	Modifier 1032 1057	hyperalphalipoproteinemic
+N5	Reference T5 OMIM:143470
+T6	SpecificDisease 1436 1461	hyperalphalipoproteinemia
+N6	Reference T6 OMIM:143470
+T7	SpecificDisease 1467 1482	corneal opacity
+N7	Reference T7 MeSH:D003318
+T8	SpecificDisease 1487 1509	coronary heart disease
+N8	Reference T8 MeSH:D003327
+T9	SpecificDisease 1566 1581	CETP deficiency
+N9	Reference T9 OMIM:143470
+T10	DiseaseClass 1604 1628	atherosclerotic symptoms
+N10	Reference T10 MeSH:D050197

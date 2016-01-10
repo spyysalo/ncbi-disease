@@ -1,0 +1,10 @@
+T1	SpecificDisease 59 101	hereditary non-polyposis colorectal cancer
+N1	Reference T1 MeSH:D003123
+T2	Modifier 133 175	hereditary non-polyposis colorectal cancer
+N2	Reference T2 MeSH:D003123
+T3	Modifier 177 182	HNPCC
+N3	Reference T3 MeSH:D003123
+T4	SpecificDisease 325 342	colorectal cancer
+N4	Reference T4 MeSH:D015179
+T5	DiseaseClass 622 628	cancer
+N5	Reference T5 MeSH:D009369

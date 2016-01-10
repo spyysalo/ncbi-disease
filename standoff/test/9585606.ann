@@ -1,0 +1,14 @@
+T1	Modifier 4 19	hemochromatosis
+N1	Reference T1 MeSH:D006432
+T2	SpecificDisease 96 111	Hemochromatosis
+N2	Reference T2 MeSH:D006432
+T3	DiseaseClass 117 154	inherited disorder of iron metabolism
+N3	Reference T3 MeSH:D019189
+T4	SpecificDisease 192 205	iron overload
+N4	Reference T4 MeSH:D019190
+T5	SpecificDisease 210 225	premature death
+N5	Reference T5 MeSH:D003643
+T6	Modifier 231 246	hemochromatosis
+N6	Reference T6 MeSH:D006432
+T7	SpecificDisease 473 488	hemochromatosis
+N7	Reference T7 MeSH:D006432

@@ -1,0 +1,22 @@
+T1	SpecificDisease 39 54	phenylketonuria
+N1	Reference T1 MeSH:D010661
+T2	SpecificDisease 106 121	Phenylketonuria
+N2	Reference T2 MeSH:D010661
+T3	SpecificDisease 123 126	PKU
+N3	Reference T3 MeSH:D010661
+T4	DiseaseClass 134 176	autosomal recessive human genetic disorder
+N4	Reference T4 MeSH:D030342
+T5	SpecificDisease 189 236	deficiency of hepatic phenylalanine hydroxylase
+N5	Reference T5 OMIM:261600
+T6	SpecificDisease 292 295	PKU
+N6	Reference T6 MeSH:D010661
+T7	DiseaseClass 308 345	inborn error of amino-acid metabolism
+N7	Reference T7 MeSH:D000592
+T8	Modifier 427 430	PKU
+N8	Reference T8 MeSH:D010661
+T9	SpecificDisease 472 475	PKU
+N9	Reference T9 MeSH:D010661
+T10	Modifier 642 645	PKU
+N10	Reference T10 MeSH:D010661
+T11	DiseaseClass 888 904	molecular lesion
+N11	Reference T11 MeSH:D030342

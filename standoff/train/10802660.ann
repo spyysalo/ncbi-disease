@@ -1,0 +1,26 @@
+T1	SpecificDisease 116 137	Prader-Willi syndrome
+N1	Reference T1 MeSH:D011218
+T2	SpecificDisease 139 142	PWS
+N2	Reference T2 MeSH:D011218
+T3	DiseaseClass 149 169	neurogenetic disease
+N3	Reference T3 MeSH:D020271
+T4	SpecificDisease 187 206	infantile hypotonia
+N4	Reference T4 MeSH:D009123
+T5	SpecificDisease 208 226	gonadal hypoplasia
+N5	Reference T5 MeSH:D006058
+T6	SpecificDisease 294 305	hyperphagia
+N6	Reference T6 MeSH:D006963
+T7	SpecificDisease 327 334	obesity
+N7	Reference T7 MeSH:D009765
+T8	SpecificDisease 336 339	PWS
+N8	Reference T8 MeSH:D011218
+T9	Modifier 466 469	PWS
+N9	Reference T9 MeSH:D011218
+T10	Modifier 799 802	PWS
+N10	Reference T10 MeSH:D011218
+T11	SpecificDisease 910 913	PWS
+N11	Reference T11 MeSH:D011218
+T12	Modifier 932 935	PWS
+N12	Reference T12 MeSH:D011218
+T13	Modifier 1286 1289	PWS
+N13	Reference T13 MeSH:D011218

@@ -1,0 +1,8 @@
+T1	Modifier 38 52	Wilson disease
+N1	Reference T1 MeSH:D006527
+T2	Modifier 108 122	Wilson disease
+N2	Reference T2 MeSH:D006527
+T3	Modifier 124 126	WD
+N3	Reference T3 MeSH:D006527
+T4	SpecificDisease 911 913	WD
+N4	Reference T4 MeSH:D006527

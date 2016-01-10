@@ -1,0 +1,24 @@
+T1	SpecificDisease 50 58	aniridia
+N1	Reference T1 MeSH:D015783
+T2	SpecificDisease 153 161	aniridia
+N2	Reference T2 MeSH:D015783
+T3	SpecificDisease 190 198	aniridia
+N3	Reference T3 MeSH:D015783
+T4	SpecificDisease 232 240	aniridia
+N4	Reference T4 MeSH:D015783
+T5	SpecificDisease 248 277	WAGR contiguous gene syndrome
+N5	Reference T5 MeSH:D017624
+T6	SpecificDisease 362 370	aniridia
+N6	Reference T6 MeSH:D015783
+T7	SpecificDisease 546 554	aniridia
+N7	Reference T7 MeSH:D015783
+T8	SpecificDisease 776 784	aniridia
+N8	Reference T8 MeSH:D015783
+T9	Modifier 878 886	aniridia
+N9	Reference T9 MeSH:D015783
+T10	SpecificDisease 1315 1323	aniridia
+N10	Reference T10 MeSH:D015783
+T11	Modifier 1401 1409	aniridia
+N11	Reference T11 MeSH:D015783
+T12	Modifier 1439 1447	aniridia
+N12	Reference T12 MeSH:D015783

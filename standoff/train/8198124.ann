@@ -1,0 +1,14 @@
+T1	SpecificDisease 32 52	prolidase deficiency
+N1	Reference T1 MeSH:D056732
+T2	SpecificDisease 88 108	prolidase deficiency
+N2	Reference T2 MeSH:D056732
+T3	DiseaseClass 135 163	autosomal recessive disorder
+N3	Reference T3 MeSH:D030342
+T4	SpecificDisease 181 198	iminodipeptiduria
+N4	Reference T4 MeSH:D000592
+T5	SpecificDisease 200 211	skin ulcers
+N5	Reference T5 MeSH:D012883
+T6	DiseaseClass 213 231	mental retardation
+N6	Reference T6 MeSH:D008607
+T7	SpecificDisease 1369 1389	prolidase deficiency
+N7	Reference T7 MeSH:D056732

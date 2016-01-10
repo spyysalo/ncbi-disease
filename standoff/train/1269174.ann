@@ -1,0 +1,22 @@
+T1	SpecificDisease 0 13	Analbuminemia
+N1	Reference T1 OMIM:103600
+T2	SpecificDisease 42 55	Analbuminemia
+N2	Reference T2 OMIM:103600
+T3	SpecificDisease 138 155	atopic dermatitis
+N3	Reference T3 MeSH:D003876
+T4	SpecificDisease 162 178	bronchial asthma
+N4	Reference T4 MeSH:D001249
+T5	SpecificDisease 187 203	seizure disorder
+N5	Reference T5 MeSH:D004827
+T6	SpecificDisease 209 229	hyperlipoproteinemia
+N6	Reference T6 MeSH:D006951
+T7	SpecificDisease 237 250	corneal arcus
+N7	Reference T7 MeSH:D001112
+T8	SpecificDisease 482 495	analbuminemia
+N8	Reference T8 OMIM:103600
+T9	SpecificDisease 764 777	analbuminemia
+N9	Reference T9 OMIM:103600
+T10	SpecificDisease 854 867	analbuminemia
+N10	Reference T10 OMIM:103600
+T11	Modifier 912 923	thalassemia
+N11	Reference T11 MeSH:D013789

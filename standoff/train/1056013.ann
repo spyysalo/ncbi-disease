@@ -1,0 +1,24 @@
+T1	SpecificDisease 61 82	Ataxia-telangiectasia
+N1	Reference T1 MeSH:D001260
+T2	DiseaseClass 93 109	genetic disorder
+N2	Reference T2 MeSH:D030342
+T3	DiseaseClass 126 143	immune deficiency
+N3	Reference T3 MeSH:D007153
+T4	DiseaseClass 145 167	chromosome instability
+N4	Reference T4 MeSH:D043171
+T5	SpecificDisease 193 212	lymphoid malignancy
+N5	Reference T5 MeSH:D008223
+T6	SpecificDisease 685 706	ataxia-telangiectasia
+N6	Reference T6 MeSH:D001260
+T7	SpecificDisease 934 962	chronic lymphocytic leukemia
+N7	Reference T7 MeSH:D015451
+T8	DiseaseClass 971 979	leukemia
+N8	Reference T8 MeSH:D007938
+T9	Modifier 1101 1109	leukemic
+N9	Reference T9 MeSH:D007938
+T10	SpecificDisease 1275 1296	lymphoid malignancies
+N10	Reference T10 MeSH:D008223
+T11	SpecificDisease 1392 1409	Burkitts lymphoma
+N11	Reference T11 MeSH:D002051
+T12	DiseaseClass 1420 1438	lymphoid neoplasms
+N12	Reference T12 MeSH:D008223

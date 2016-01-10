@@ -1,0 +1,36 @@
+T1	Modifier 4 27	von Hippel-Lindau tumor
+N1	Reference T1 MeSH:D006623
+T2	Modifier 123 152	von Hippel-Lindau (VHL) tumor
+N2	Reference T2 MeSH:D006623
+T3	SpecificDisease 215 234	VHL cancer syndrome
+N3	Reference T3 MeSH:D006623
+T4	SpecificDisease 258 288	sporadic renal cell carcinomas
+N4	Reference T4 MeSH:D002292
+T5	SpecificDisease 290 293	RCC
+N5	Reference T5 MeSH:D002292
+T6	SpecificDisease 299 322	brain hemangioblastomas
+N6	Reference T6 MeSH:D018325
+T7	Modifier 343 346	RCC
+N7	Reference T7 MeSH:D002292
+T8	SpecificDisease 427 430	VHL
+N8	Reference T8 MeSH:D006623
+T9	Modifier 571 577	cancer
+N9	Reference T9 MeSH:D009369
+T10	Modifier 692 695	VHL
+N10	Reference T10 MeSH:D006623
+T11	Modifier 738 748	RCC cancer
+N11	Reference T11 MeSH:D002292
+T12	Modifier 851 854	RCC
+N12	Reference T12 MeSH:D002292
+T13	SpecificDisease 1007 1010	VHL
+N13	Reference T13 MeSH:D006623
+T14	Modifier 1099 1102	VHL
+N14	Reference T14 MeSH:D006623
+T15	Modifier 1200 1205	tumor
+N15	Reference T15 MeSH:D009369
+T16	SpecificDisease 1270 1273	VHL
+N16	Reference T16 MeSH:D006623
+T17	SpecificDisease 1287 1290	VHL
+N17	Reference T17 MeSH:D006623
+T18	Modifier 1304 1309	tumor
+N18	Reference T18 MeSH:D009369

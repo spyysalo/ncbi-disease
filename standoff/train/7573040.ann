@@ -1,0 +1,26 @@
+T1	Modifier 90 137	spinocerebellar ataxia 3/Machado-Joseph disease
+N1	Reference T1 MeSH:D017827
+T2	Modifier 149 173	spinocerebellar ataxia 3
+N2	Reference T2 MeSH:D017827
+T3	SpecificDisease 181 185	SCA3
+N3	Reference T3 MeSH:D017827
+T4	SpecificDisease 191 234	type I autosomal dominant cerebellar ataxia
+N4	Reference T4 OMIM:109150
+T5	SpecificDisease 236 247	ADCA type I
+N5	Reference T5 OMIM:109150
+T6	DiseaseClass 302 329	neurodegenerative disorders
+N6	Reference T6 MeSH:D019636
+T7	Modifier 373 384	ADCA type I
+N7	Reference T7 OMIM:109150
+T8	SpecificDisease 420 424	SCA3
+N8	Reference T8 MeSH:D017827
+T9	SpecificDisease 475 497	Machado-Joseph disease
+N9	Reference T9 MeSH:D017827
+T10	SpecificDisease 499 502	MJD
+N10	Reference T10 MeSH:D017827
+T11	Modifier 619 630	ADCA type I
+N11	Reference T11 OMIM:109150
+T12	SpecificDisease 731 765	dentatorubropallidoluysian atrophy
+N12	Reference T12 OMIM:125370
+T13	SpecificDisease 844 847	MJD
+N13	Reference T13 MeSH:D017827

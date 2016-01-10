@@ -1,0 +1,8 @@
+T1	SpecificDisease 142 164	Aspartylglucosaminuria
+N1	Reference T1 MeSH:D054880
+T2	SpecificDisease 166 169	AGU
+N2	Reference T2 MeSH:D054880
+T3	DiseaseClass 208 234	lysosomal storage disorder
+N3	Reference T3 MeSH:D016464
+T4	SpecificDisease 242 290	deficiency of the enzyme aspartylglucosaminidase
+N4	Reference T4 MeSH:D054880

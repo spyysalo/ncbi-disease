@@ -1,0 +1,14 @@
+T1	SpecificDisease 0 64	Autosomal recessive familial neurohypophyseal diabetes insipidus
+N1	Reference T1 OMIM:125700
+T2	SpecificDisease 127 171	Familial neurohypophyseal diabetes insipidus
+N2	Reference T2 OMIM:125700
+T3	DiseaseClass 178 205	autosomal dominant disorder
+N3	Reference T3 MeSH:D030342
+T4	SpecificDisease 249 286	arginine vasopressin (AVP) deficiency
+N4	Reference T4 OMIM:125700
+T5	DiseaseClass 488 503	neuronal damage
+N5	Reference T5 MeSH:D009410
+T6	SpecificDisease 627 662	neurohypophyseal diabetes insipidus
+N6	Reference T6 MeSH:D020790
+T7	DiseaseClass 1376 1400	deficiency of active AVP
+N7	Reference T7 OMIM:125700

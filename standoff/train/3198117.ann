@@ -1,0 +1,4 @@
+T1	DiseaseClass 218 235	enzyme deficiency
+N1	Reference T1 MeSH:D008661
+T2	SpecificDisease 687 702	G6PD deficiency
+N2	Reference T2 MeSH:D005955

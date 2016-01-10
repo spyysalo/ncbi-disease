@@ -1,0 +1,8 @@
+T1	SpecificDisease 252 288	benign familial neonatal convulsions
+N1	Reference T1 MeSH:D020936
+T2	SpecificDisease 290 340	autosomal dominant nocturnal frontal lobe epilepsy
+N2	Reference T2 MeSH:D017034
+T3	SpecificDisease 461 511	autosomal dominant nocturnal frontal lobe epilepsy
+N3	Reference T3 MeSH:D017034
+T4	DiseaseClass 1016 1037	idiopathic epilepsies
+N4	Reference T4 MeSH:D004827

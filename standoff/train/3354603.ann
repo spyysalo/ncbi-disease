@@ -1,0 +1,48 @@
+T1	SpecificDisease 0 14	Hepatoblastoma
+N1	Reference T1 MeSH:D018197
+T2	DiseaseClass 16 47	pigmented ocular fundus lesions
+N2	Reference T2 MeSH:D015821
+T3	DiseaseClass 52 63	jaw lesions
+N3	Reference T3 MeSH:D007571
+T4	SpecificDisease 67 83	Gardner syndrome
+N4	Reference T4 MeSH:D005736
+T5	SpecificDisease 85 99	Hepatoblastoma
+N5	Reference T5 MeSH:D018197
+T6	DiseaseClass 110 118	neoplasm
+N6	Reference T6 MeSH:D009369
+T7	SpecificDisease 188 233	hereditary adenomatous polyposis of the colon
+N7	Reference T7 MeSH:D011125
+T8	SpecificDisease 288 302	hepatoblastoma
+N8	Reference T8 MeSH:D018197
+T9	SpecificDisease 337 353	Gardner syndrome
+N9	Reference T9 MeSH:D005736
+T10	SpecificDisease 355 357	GS
+N10	Reference T10 MeSH:D005736
+T11	SpecificDisease 421 435	hepatoblastoma
+N11	Reference T11 MeSH:D018197
+T12	SpecificDisease 478 480	GS
+N12	Reference T12 MeSH:D005736
+T13	SpecificDisease 503 511	odontoma
+N13	Reference T13 MeSH:D009810
+T14	DiseaseClass 516 547	pigmented ocular fundus lesions
+N14	Reference T14 MeSH:D015821
+T15	SpecificDisease 605 607	GS
+N15	Reference T15 MeSH:D005736
+T16	Modifier 640 642	GS
+N16	Reference T16 MeSH:D005736
+T17	DiseaseClass 685 708	osteomatous jaw lesions
+N17	Reference T17 MeSH:D007571
+T18	DiseaseClass 713 744	pigmented ocular fundus lesions
+N18	Reference T18 MeSH:D015821
+T19	DiseaseClass 759 773	colonic polyps
+N19	Reference T19 MeSH:D003111
+T20	SpecificDisease 830 844	hepatoblastoma
+N20	Reference T20 MeSH:D018197
+T21	DiseaseClass 927 941	colonic polyps
+N21	Reference T21 MeSH:D003111
+T22	DiseaseClass 958 969	jaw lesions
+N22	Reference T22 MeSH:D007571
+T23	DiseaseClass 977 1008	pigmented ocular fundus lesions
+N23	Reference T23 MeSH:D015821
+T24	Modifier 1078 1080	GS
+N24	Reference T24 MeSH:D005736

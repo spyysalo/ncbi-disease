@@ -1,0 +1,11 @@
+T1	Modifier 20 45	Becker muscular dystrophy
+N1	Reference T1 MeSH:C537666
+T2	SpecificDisease 146 171	Becker muscular dystrophy
+N2	Reference T2 MeSH:C537666
+T3	SpecificDisease 173 176	BMD
+N3	Reference T3 MeSH:C537666
+T4	Modifier 329 332	BMD
+N4	Reference T4 MeSH:C537666
+T5	CompositeMention 420 451	Becker and Duchenne dystrophies
+N5	Reference T5 MeSH:D020388
+N6	Reference T5 MeSH:C537666

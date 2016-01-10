@@ -1,0 +1,6 @@
+T1	Modifier 4 19	hemochromatosis
+N1	Reference T1 MeSH:D006432
+T2	SpecificDisease 185 211	hereditary hemochromatosis
+N2	Reference T2 MeSH:D006432
+T3	SpecificDisease 1984 2010	hereditary hemochromatosis
+N3	Reference T3 MeSH:D006432

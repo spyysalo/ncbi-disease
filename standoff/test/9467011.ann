@@ -1,0 +1,59 @@
+T1	SpecificDisease 53 67	Cowden disease
+N1	Reference T1 MeSH:D006223
+T2	SpecificDisease 72 96	Bannayan-Zonana syndrome
+N2	Reference T2 MeSH:D006223
+T3	DiseaseClass 102 121	hamartoma syndromes
+N3	Reference T3 MeSH:D006223
+T4	Modifier 155 161	tumour
+N4	Reference T4 MeSH:D009369
+T5	DiseaseClass 354 364	malignancy
+N5	Reference T5 MeSH:D009369
+T6	Modifier 420 470	sporadic breast, brain, prostate and kidney cancer
+N6	Reference T6 MeSH:D001943
+N7	Reference T6 MeSH:D001932
+N8	Reference T6 MeSH:D011471
+N9	Reference T6 MeSH:D007680
+T7	DiseaseClass 505 512	tumours
+N10	Reference T7 MeSH:D009369
+T8	SpecificDisease 521 543	endometrial carcinomas
+N11	Reference T8 MeSH:D016889
+T9	SpecificDisease 545 563	malignant melanoma
+N12	Reference T9 MeSH:D008545
+T10	SpecificDisease 568 583	thyroid tumours
+N13	Reference T10 MeSH:D013964
+T11	DiseaseClass 653 672	hamartoma syndromes
+N14	Reference T11 MeSH:D006223
+T12	SpecificDisease 674 688	Cowden disease
+N15	Reference T12 MeSH:D006223
+T13	SpecificDisease 690 692	CD
+N16	Reference T13 MeSH:D006223
+T14	CompositeMention 710 765	Bannayan-Zonana (BZS) or Ruvalcaba-Riley-Smith syndrome
+N17	Reference T14 MeSH:D006223
+T15	Modifier 805 807	CD
+N18	Reference T15 MeSH:D006223
+T16	Modifier 827 830	BZS
+N19	Reference T16 MeSH:D006223
+T17	Modifier 931 933	CD
+N20	Reference T17 MeSH:D006223
+T18	SpecificDisease 1215 1217	CD
+N21	Reference T18 MeSH:D006223
+T19	Modifier 1300 1302	CD
+N22	Reference T19 MeSH:D006223
+T20	Modifier 1575 1578	BZS
+N23	Reference T20 MeSH:D006223
+T21	Modifier 1799 1801	CD
+N24	Reference T21 MeSH:D006223
+T22	Modifier 1819 1822	BZS
+N25	Reference T22 MeSH:D006223
+T23	Modifier 1900 1903	BZS
+N26	Reference T23 MeSH:D006223
+T24	Modifier 1966 1968	CD
+N27	Reference T24 MeSH:D006223
+T25	Modifier 2109 2111	CD
+N28	Reference T25 MeSH:D006223
+T26	DiseaseClass 2126 2140	breast disease
+N29	Reference T26 MeSH:D001941
+T27	DiseaseClass 2406 2430	malignant breast disease
+N30	Reference T27 MeSH:D001941
+T28	Modifier 2825 2827	CD
+N31	Reference T28 MeSH:D006223

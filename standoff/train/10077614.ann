@@ -1,0 +1,54 @@
+T1	DiseaseClass 69 93	urogenital abnormalities
+N1	Reference T1 MeSH:D014564
+T2	SpecificDisease 97 117	Denys-Drash syndrome
+N2	Reference T2 MeSH:D030321
+T3	Modifier 124 135	Wilms tumor
+N3	Reference T3 MeSH:D009396
+T4	SpecificDisease 207 222	WT1 dysfunction
+N4	Reference T4 MeSH:D030342
+T5	Modifier 245 255	neoplastic
+N5	Reference T5 MeSH:D009369
+T6	SpecificDisease 257 268	Wilms tumor
+N6	Reference T6 MeSH:D009396
+T7	SpecificDisease 270 282	mesothelioma
+N7	Reference T7 MeSH:D008654
+T8	SpecificDisease 284 293	leukemias
+N8	Reference T8 MeSH:D007938
+T9	SpecificDisease 299 312	breast cancer
+N9	Reference T9 MeSH:D001943
+T10	Modifier 318 331	nonneoplastic
+N10	Reference T10 MeSH:D004194
+T11	SpecificDisease 333 351	glomerulosclerosis
+N11	Reference T11 MeSH:D005921
+T12	SpecificDisease 435 455	Denys-Drash syndrome
+N12	Reference T12 MeSH:D030321
+T13	SpecificDisease 457 460	DDS
+N13	Reference T13 MeSH:D030321
+T14	SpecificDisease 547 550	DDS
+N14	Reference T14 MeSH:D030321
+T15	SpecificDisease 598 609	nephropathy
+N15	Reference T15 MeSH:D007674
+T16	SpecificDisease 620 639	mesangial sclerosis
+N16	Reference T16 MeSH:C537346
+T17	SpecificDisease 644 665	pseudohermaphroditism
+N17	Reference T17 MeSH:D012734
+T18	SpecificDisease 674 685	Wilms tumor
+N18	Reference T18 MeSH:D009396
+T19	SpecificDisease 687 689	WT
+N19	Reference T19 MeSH:D009396
+T20	Modifier 692 695	DDS
+N20	Reference T20 MeSH:D030321
+T21	SpecificDisease 999 1018	mesangial sclerosis
+N21	Reference T21 MeSH:C537346
+T22	SpecificDisease 1037 1040	DDS
+N22	Reference T22 MeSH:D030321
+T23	DiseaseClass 1082 1102	Male genital defects
+N23	Reference T23 MeSH:D005832
+T24	SpecificDisease 1152 1163	Wilms tumor
+N24	Reference T24 MeSH:D009396
+T25	SpecificDisease 1278 1293	Wt1 dysfunction
+N25	Reference T25 MeSH:D030342
+T26	SpecificDisease 1298 1317	Wilms tumorigenesis
+N26	Reference T26 MeSH:D009396
+T27	SpecificDisease 1447 1449	WT
+N27	Reference T27 MeSH:D009396

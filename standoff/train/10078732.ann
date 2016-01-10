@@ -1,0 +1,18 @@
+T1	SpecificDisease 73 93	adrenoleukodystrophy
+N1	Reference T1 MeSH:D000326
+T2	SpecificDisease 165 185	adrenoleukodystrophy
+N2	Reference T2 MeSH:D000326
+T3	SpecificDisease 187 190	ALD
+N3	Reference T3 MeSH:D000326
+T4	SpecificDisease 376 397	dying-back axonopathy
+N4	Reference T4 MeSH:D016472
+T5	SpecificDisease 429 432	ALD
+N5	Reference T5 MeSH:D000326
+T6	SpecificDisease 475 478	ALD
+N6	Reference T6 MeSH:D000326
+T7	DiseaseClass 713 737	spinal SEP abnormalities
+N7	Reference T7 MeSH:D016472
+T8	DiseaseClass 905 925	spinal abnormalities
+N8	Reference T8 MeSH:D016472
+T9	DiseaseClass 1316 1342	inflammatory brain lesions
+N9	Reference T9 MeSH:D004660

@@ -1,0 +1,28 @@
+T1	Modifier 0 19	HPRT-APRT-deficient
+N1	Reference T1 OMIM:300322+OMIM:102600
+T2	SpecificDisease 45 65	lesch-nyhan syndrome
+N2	Reference T2 MeSH:D007926
+T3	SpecificDisease 67 141	Complete hypoxanthine-guanine phosphoribosyl-transferase (HPRT) deficiency
+N3	Reference T3 MeSH:D007926
+T4	SpecificDisease 167 187	Lesch-Nyhan syndrome
+N4	Reference T4 MeSH:D007926
+T5	Modifier 273 287	HPRT-deficient
+N5	Reference T5 MeSH:D007926
+T6	SpecificDisease 396 416	Lesch-Nyhan syndrome
+N6	Reference T6 MeSH:D007926
+T7	Modifier 499 513	HPRT-deficient
+N7	Reference T7 MeSH:D007926
+T8	SpecificDisease 552 570	deficiency of APRT
+N8	Reference T8 OMIM:102600
+T9	SpecificDisease 591 606	HPRT-deficiency
+N9	Reference T9 MeSH:D007926
+T10	Modifier 747 766	HPRT-APRT-deficient
+N10	Reference T10 OMIM:300322+OMIM:102600
+T11	SpecificDisease 921 936	APRT deficiency
+N11	Reference T11 OMIM:102600
+T12	Modifier 1019 1038	APRT-HPRT-deficient
+N12	Reference T12 OMIM:300322+OMIM:102600
+T13	DiseaseClass 1146 1170	behavioral abnormalities
+N13	Reference T13 MeSH:D001523
+T14	SpecificDisease 1191 1211	Lesch-Nyhan syndrome
+N14	Reference T14 MeSH:D007926

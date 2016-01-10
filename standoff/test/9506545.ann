@@ -1,0 +1,43 @@
+T1	DiseaseClass 0 26	Eye movement abnormalities
+N1	Reference T1 MeSH:D005124
+T2	DiseaseClass 73 97	cerebellar ataxia type I
+N2	Reference T2 MeSH:D020754
+T3	DiseaseClass 278 303	cerebellar ataxias type I
+N3	Reference T3 MeSH:D020754
+T4	CompositeMention 304 335	spinocerebellar ataxias 1 and 2
+N4	Reference T4 OMIM:164400
+N5	Reference T4 OMIM:183090
+T5	SpecificDisease 337 341	SCA1
+N6	Reference T5 OMIM:164400
+T6	SpecificDisease 351 355	SCA2
+N7	Reference T6 OMIM:183090
+T7	SpecificDisease 369 373	SCA3
+N8	Reference T7 MeSH:D017827
+T8	SpecificDisease 374 396	Machado-Joseph disease
+N9	Reference T8 MeSH:D017827
+T9	SpecificDisease 398 401	MJD
+N10	Reference T9 MeSH:D017827
+T10	SpecificDisease 416 420	SCA1
+N11	Reference T10 OMIM:164400
+T11	SpecificDisease 482 493	hypermetria
+N12	Reference T11 MeSH:D002524
+T12	SpecificDisease 537 541	SCA2
+N13	Reference T12 OMIM:183090
+T13	SpecificDisease 816 820	SCA3
+N14	Reference T13 MeSH:D017827
+T14	SpecificDisease 822 843	gaze-evoked nystagmus
+N15	Reference T14 MeSH:D009759
+T15	SpecificDisease 1011 1032	gaze-evoked nystagmus
+N16	Reference T15 MeSH:D009759
+T16	SpecificDisease 1081 1085	SCA1
+N17	Reference T16 OMIM:164400
+T17	SpecificDisease 1098 1102	SCA2
+N18	Reference T17 OMIM:183090
+T18	SpecificDisease 1133 1137	SCA3
+N19	Reference T18 MeSH:D017827
+T19	SpecificDisease 1228 1232	SCA1
+N20	Reference T19 OMIM:164400
+T20	SpecificDisease 1234 1238	SCA2
+N21	Reference T20 OMIM:183090
+T21	SpecificDisease 1244 1248	SCA3
+N22	Reference T21 MeSH:D017827

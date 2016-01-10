@@ -1,0 +1,6 @@
+T1	CompositeMention 20 63	Duarte and Los Angeles variant galactosemia
+N1	Reference T1 MeSH:D005693
+T2	SpecificDisease 112 149	Duarte enzyme variant of galactosemia
+N2	Reference T2 MeSH:D005693
+T3	SpecificDisease 1723 1749	LA variant of galactosemia
+N3	Reference T3 MeSH:D005693

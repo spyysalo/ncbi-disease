@@ -1,0 +1,40 @@
+T1	CompositeMention 30 69	BRCA-linked and sporadic ovarian cancer
+N1	Reference T1 OMIM:604370
+N2	Reference T1 OMIM:612555
+N3	Reference T1 OMIM:613399
+N4	Reference T1 MeSH:D010051
+T2	SpecificDisease 85 111	hereditary ovarian cancers
+N5	Reference T2 MeSH:D061325
+T3	SpecificDisease 242 256	ovarian cancer
+N6	Reference T3 MeSH:D010051
+T4	SpecificDisease 355 381	hereditary ovarian cancers
+N7	Reference T4 MeSH:D061325
+T5	SpecificDisease 445 485	sporadic (nonhereditary) ovarian cancers
+N8	Reference T5 MeSH:D010051
+T6	SpecificDisease 565 580	ovarian cancers
+N9	Reference T6 MeSH:D010051
+T7	Modifier 648 654	cancer
+N10	Reference T7 MeSH:D009369
+T8	Modifier 692 698	Cancer
+N11	Reference T8 MeSH:D009369
+T9	SpecificDisease 1223 1237	ovarian cancer
+N12	Reference T9 MeSH:D010051
+T10	DiseaseClass 1517 1535	Hereditary cancers
+N13	Reference T10 MeSH:D009369
+T11	DiseaseClass 2069 2087	hereditary cancers
+N14	Reference T11 MeSH:D009369
+T12	DiseaseClass 2164 2181	stage III cancers
+N15	Reference T12 MeSH:D009369
+T13	SpecificDisease 2276 2318	BRCA-associated hereditary ovarian cancers
+N16	Reference T13 OMIM:604370
+N17	Reference T13 OMIM:612555
+N18	Reference T13 OMIM:613399
+T14	DiseaseClass 2405 2421	sporadic cancers
+N19	Reference T14 MeSH:D009369
+T15	Modifier 2423 2455	advanced-stage hereditary cancer
+N20	Reference T15 MeSH:D009386
+T16	Modifier 2485 2505	nonhereditary cancer
+N21	Reference T16 MeSH:D009369
+T17	CompositeMention 2546 2588	BRCA1-linked than for BRCA2-linked cancers
+N22	Reference T17 OMIM:604370
+N23	Reference T17 OMIM:612555

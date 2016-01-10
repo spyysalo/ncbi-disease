@@ -1,0 +1,18 @@
+T1	Modifier 31 56	breast and ovarian cancer
+N1	Reference T1 MeSH:D061325
+T2	CompositeMention 149 177	breast and/or ovarian cancer
+N2	Reference T2 MeSH:D061325
+T3	Modifier 182 188	tumour
+N3	Reference T3 MeSH:D009369
+T4	SpecificDisease 201 218	breast carcinomas
+N4	Reference T4 MeSH:D001943
+T5	DiseaseClass 329 335	cancer
+N5	Reference T5 MeSH:D009369
+T6	DiseaseClass 630 636	cancer
+N6	Reference T6 MeSH:D009369
+T7	SpecificDisease 681 694	breast cancer
+N7	Reference T7 MeSH:D001943
+T8	DiseaseClass 914 921	tumours
+N8	Reference T8 MeSH:D009369
+T9	SpecificDisease 1067 1111	estrogen receptor-positive breast carcinomas
+N9	Reference T9 MeSH:D001943

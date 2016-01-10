@@ -1,0 +1,9 @@
+T1	SpecificDisease 90 103	breast cancer
+N1	Reference T1 MeSH:D001943
+T2	Modifier 131 136	tumor
+N2	Reference T2 MeSH:D009369
+T3	CompositeMention 187 213	breast and ovarian cancers
+N3	Reference T3 MeSH:D010051
+N4	Reference T3 MeSH:D001943
+T4	DiseaseClass 783 789	cancer
+N5	Reference T4 MeSH:D009369

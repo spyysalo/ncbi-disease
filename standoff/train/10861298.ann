@@ -1,0 +1,42 @@
+T1	Modifier 30 33	PDS
+N1	Reference T1 MeSH:C536648
+T2	SpecificDisease 105 121	Pendred syndrome
+N2	Reference T2 MeSH:C536648
+T3	SpecificDisease 126 152	non-syndromic hearing loss
+N3	Reference T3 MeSH:C537845
+T4	SpecificDisease 154 159	DFNB4
+N4	Reference T4 OMIM:600791
+T5	Modifier 166 169	PDS
+N5	Reference T5 MeSH:C536648
+T6	SpecificDisease 326 342	Pendred syndrome
+N6	Reference T6 MeSH:C536648
+T7	SpecificDisease 347 393	autosomal recessive non-syndromic hearing loss
+N7	Reference T7 OMIM:600791
+T8	Modifier 401 406	DFNB4
+N8	Reference T8 OMIM:600791
+T9	SpecificDisease 489 515	non-syndromic hearing loss
+N9	Reference T9 MeSH:C537845
+T10	Modifier 584 587	PDS
+N10	Reference T10 MeSH:C536648
+T11	Modifier 620 623	PDS
+N11	Reference T11 MeSH:C536648
+T12	SpecificDisease 654 670	Pendred syndrome
+N12	Reference T12 MeSH:C536648
+T13	Modifier 696 699	PDS
+N13	Reference T13 MeSH:C536648
+T14	SpecificDisease 730 756	non-syndromic hearing loss
+N14	Reference T14 MeSH:C537845
+T15	Modifier 783 799	Pendred syndrome
+N15	Reference T15 MeSH:C536648
+T16	Modifier 853 856	PDS
+N16	Reference T16 MeSH:C536648
+T17	SpecificDisease 901 927	non-syndromic hearing loss
+N17	Reference T17 MeSH:C537845
+T18	SpecificDisease 990 1006	Pendred syndrome
+N18	Reference T18 MeSH:C536648
+T19	SpecificDisease 1112 1117	DFNB4
+N19	Reference T19 OMIM:600791
+T20	DiseaseClass 1330 1336	goiter
+N20	Reference T20 MeSH:D006042
+T21	SpecificDisease 1357 1362	DFNB4
+N21	Reference T21 OMIM:600791

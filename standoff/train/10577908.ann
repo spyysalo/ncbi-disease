@@ -1,0 +1,28 @@
+T1	SpecificDisease 23 47	Sjogren-Larsson syndrome
+N1	Reference T1 MeSH:D016111
+T2	SpecificDisease 109 133	Sjogren-Larsson syndrome
+N2	Reference T2 MeSH:D016111
+T3	SpecificDisease 135 138	SLS
+N3	Reference T3 MeSH:D016111
+T4	DiseaseClass 146 174	autosomal recessive disorder
+N4	Reference T4 MeSH:D030342
+T5	DiseaseClass 192 202	ichthyosis
+N5	Reference T5 MeSH:D007057
+T6	DiseaseClass 204 222	mental retardation
+N6	Reference T6 MeSH:D008607
+T7	DiseaseClass 224 234	spasticity
+N7	Reference T7 MeSH:D009128
+T8	SpecificDisease 240 290	deficient activity of fatty aldehyde dehydrogenase
+N8	Reference T8 MeSH:D016111
+T9	SpecificDisease 340 343	SLS
+N9	Reference T9 MeSH:D016111
+T10	SpecificDisease 428 431	SLS
+N10	Reference T10 MeSH:D016111
+T11	SpecificDisease 651 654	SLS
+N11	Reference T11 MeSH:D016111
+T12	Modifier 1445 1448	SLS
+N12	Reference T12 MeSH:D016111
+T13	SpecificDisease 1529 1532	SLS
+N13	Reference T13 MeSH:D016111
+T14	SpecificDisease 1673 1676	SLS
+N14	Reference T14 MeSH:D016111

@@ -1,0 +1,26 @@
+T1	Modifier 63 66	APC
+N1	Reference T1 MeSH:D011125
+T2	Modifier 80 106	adenomatous polyposis coli
+N2	Reference T2 MeSH:D011125
+T3	Modifier 146 151	tumor
+N3	Reference T3 MeSH:D009369
+T4	Modifier 169 172	APC
+N4	Reference T4 MeSH:D011125
+T5	SpecificDisease 181 207	adenomatous polyposis coli
+N5	Reference T5 MeSH:D011125
+T6	SpecificDisease 247 264	colorectal cancer
+N6	Reference T6 MeSH:D015179
+T7	SpecificDisease 331 387	congenital hypertrophy of the retinal pigment epithelium
+N7	Reference T7 MeSH:D012164
+T8	SpecificDisease 389 394	CHRPE
+N8	Reference T8 MeSH:D012164
+T9	SpecificDisease 450 455	CHRPE
+N9	Reference T9 MeSH:D012164
+T10	Modifier 508 511	APC
+N10	Reference T10 MeSH:D011125
+T11	SpecificDisease 669 674	CHRPE
+N11	Reference T11 MeSH:D012164
+T12	Modifier 760 765	CHRPE
+N12	Reference T12 MeSH:D012164
+T13	Modifier 1032 1035	APC
+N13	Reference T13 MeSH:D011125

@@ -1,0 +1,10 @@
+T1	Modifier 45 59	retinoblastoma
+N1	Reference T1 MeSH:D012175
+T2	Modifier 105 110	tumor
+N2	Reference T2 MeSH:D009369
+T3	Modifier 282 296	retinoblastoma
+N3	Reference T3 MeSH:D012175
+T4	DiseaseClass 354 371	unilateral tumors
+N4	Reference T4 MeSH:D009369
+T5	DiseaseClass 800 806	tumors
+N5	Reference T5 MeSH:D009369

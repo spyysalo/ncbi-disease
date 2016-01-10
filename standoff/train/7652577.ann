@@ -1,0 +1,16 @@
+T1	SpecificDisease 82 90	melanoma
+N1	Reference T1 MeSH:D008545
+T2	Modifier 155 160	tumor
+N2	Reference T2 MeSH:D009369
+T3	SpecificDisease 266 274	melanoma
+N3	Reference T3 MeSH:D008545
+T4	Modifier 335 343	melanoma
+N4	Reference T4 MeSH:D008545
+T5	SpecificDisease 650 658	melanoma
+N5	Reference T5 MeSH:D008545
+T6	SpecificDisease 668 677	melanomas
+N6	Reference T6 MeSH:D008545
+T7	Modifier 745 750	tumor
+N7	Reference T7 MeSH:D009369
+T8	Modifier 825 830	tumor
+N8	Reference T8 MeSH:D009369

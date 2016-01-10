@@ -1,0 +1,10 @@
+T1	SpecificDisease 97 118	diastrophic dysplasia
+N1	Reference T1 MeSH:C536170
+T2	DiseaseClass 160 177	chondrodysplasias
+N2	Reference T2 MeSH:D010009
+T3	SpecificDisease 262 283	diastrophic dysplasia
+N3	Reference T3 MeSH:C536170
+T4	DiseaseClass 340 353	platyspondyly
+N4	Reference T4 MeSH:D013122
+T5	SpecificDisease 431 451	metatropic dysplasia
+N5	Reference T5 MeSH:C537356

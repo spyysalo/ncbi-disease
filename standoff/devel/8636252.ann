@@ -1,0 +1,48 @@
+T1	SpecificDisease 0 29	X-linked adrenoleukodystrophy
+N1	Reference T1 MeSH:D000326
+T2	SpecificDisease 64 81	Addison's disease
+N2	Reference T2 MeSH:D000224
+T3	SpecificDisease 112 141	X-Linked adrenoleukodystrophy
+N3	Reference T3 MeSH:D000326
+T4	SpecificDisease 143 146	ALD
+N4	Reference T4 MeSH:D000326
+T5	DiseaseClass 153 168	genetic disease
+N5	Reference T5 MeSH:D030342
+T6	DiseaseClass 185 228	demyelination of the central nervous system
+N6	Reference T6 MeSH:D020279
+T7	DiseaseClass 230 251	adrenal insufficiency
+N7	Reference T7 MeSH:D000309
+T8	SpecificDisease 328 331	ALD
+N8	Reference T8 MeSH:D000326
+T9	SpecificDisease 474 477	ALD
+N9	Reference T9 MeSH:D000326
+T10	SpecificDisease 544 565	Adrenomyeloneuropathy
+N10	Reference T10 MeSH:D000326
+T11	SpecificDisease 567 570	AMN
+N11	Reference T11 MeSH:D000326
+T12	DiseaseClass 642 663	Adrenal insufficiency
+N12	Reference T12 MeSH:D000309
+T13	SpecificDisease 665 681	Addisons disease
+N13	Reference T13 MeSH:D000224
+T14	SpecificDisease 713 716	AMN
+N14	Reference T14 MeSH:D000326
+T15	SpecificDisease 720 732	cerebral ALD
+N15	Reference T15 MeSH:D000326
+T16	SpecificDisease 780 783	ALD
+N16	Reference T16 MeSH:D000326
+T17	SpecificDisease 817 820	ALD
+N17	Reference T17 MeSH:D000326
+T18	SpecificDisease 839 855	Addisons disease
+N18	Reference T18 MeSH:D000224
+T19	DiseaseClass 1078 1106	adrenocortical insufficiency
+N19	Reference T19 MeSH:D000224
+T20	SpecificDisease 1367 1379	cerebral ALD
+N20	Reference T20 MeSH:D000326
+T21	SpecificDisease 1389 1410	adrenomyeloneuropathy
+N21	Reference T21 MeSH:D000326
+T22	SpecificDisease 1462 1465	AMN
+N22	Reference T22 MeSH:D000326
+T23	SpecificDisease 1504 1507	ALD
+N23	Reference T23 MeSH:D000326
+T24	SpecificDisease 1542 1558	Addisons disease
+N24	Reference T24 MeSH:D000224

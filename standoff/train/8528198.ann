@@ -1,0 +1,46 @@
+T1	SpecificDisease 50 74	Wiskott-Aldrich syndrome
+N1	Reference T1 MeSH:D014923
+T2	SpecificDisease 79 104	isolated thrombocytopenia
+N2	Reference T2 OMIM:313900
+T3	Modifier 142 145	WAS
+N3	Reference T3 MeSH:D014923
+T4	DiseaseClass 249 263	genetic defect
+N4	Reference T4 MeSH:D030342
+T5	SpecificDisease 284 317	X-linked Wiskott-Aldrich syndrome
+N5	Reference T5 MeSH:D014923
+T6	SpecificDisease 319 322	WAS
+N6	Reference T6 MeSH:D014923
+T7	DiseaseClass 335 359	immunodeficiency disease
+N7	Reference T7 MeSH:D007153
+T8	SpecificDisease 467 470	WAS
+N8	Reference T8 MeSH:D014923
+T9	SpecificDisease 598 601	WAS
+N9	Reference T9 MeSH:D014923
+T10	SpecificDisease 605 630	isolated thrombocytopenia
+N10	Reference T10 OMIM:313900
+T11	Modifier 880 883	WAS
+N11	Reference T11 MeSH:D014923
+T12	SpecificDisease 934 937	WAS
+N12	Reference T12 MeSH:D014923
+T13	SpecificDisease 976 992	thrombocytopenia
+N13	Reference T13 MeSH:D013921
+T14	Modifier 1039 1064	isolated thrombocytopenia
+N14	Reference T14 OMIM:313900
+T15	SpecificDisease 1184 1187	WAS
+N15	Reference T15 MeSH:D014923
+T16	SpecificDisease 1322 1325	WAS
+N16	Reference T16 MeSH:D014923
+T17	SpecificDisease 1396 1423	congenital thrombocytopenia
+N17	Reference T17 OMIM:313900
+T18	SpecificDisease 1478 1503	isolated thrombocytopenia
+N18	Reference T18 OMIM:313900
+T19	SpecificDisease 1536 1539	WAS
+N19	Reference T19 MeSH:D014923
+T20	SpecificDisease 1594 1597	WAS
+N20	Reference T20 MeSH:D014923
+T21	Modifier 1715 1718	WAS
+N21	Reference T21 MeSH:D014923
+T22	SpecificDisease 1757 1782	isolated thrombocytopenia
+N22	Reference T22 OMIM:313900
+T23	SpecificDisease 1811 1814	WAS
+N23	Reference T23 MeSH:D014923

@@ -1,0 +1,22 @@
+T1	SpecificDisease 0 26	Heterozygous C2 deficiency
+N1	Reference T1 OMIM:217000
+T2	SpecificDisease 43 53	angioedema
+N2	Reference T2 MeSH:D000799
+T3	SpecificDisease 55 72	myasthenia gravis
+N3	Reference T3 MeSH:D009157
+T4	SpecificDisease 78 106	systemic lupus erythematosus
+N4	Reference T4 MeSH:D008180
+T5	SpecificDisease 135 152	myasthenia gravis
+N5	Reference T5 MeSH:D009157
+T6	SpecificDisease 154 182	systemic lupus erythematosus
+N6	Reference T6 MeSH:D008180
+T7	SpecificDisease 188 198	angioedema
+N7	Reference T7 MeSH:D000799
+T8	SpecificDisease 228 263	complement factor 2 (C2) deficiency
+N8	Reference T8 OMIM:217000
+T9	SpecificDisease 346 359	C2 deficiency
+N9	Reference T9 OMIM:217000
+T10	SpecificDisease 511 524	C2 deficiency
+N10	Reference T10 OMIM:217000
+T11	DiseaseClass 565 585	autoimmune disorders
+N11	Reference T11 MeSH:D001327

@@ -1,0 +1,12 @@
+T1	SpecificDisease 147 164	familial aniridia
+N1	Reference T1 MeSH:D015783
+T2	Modifier 272 276	WAGR
+N2	Reference T2 MeSH:D017624
+T3	SpecificDisease 286 297	Wilms tumor
+N3	Reference T3 MeSH:D009396
+T4	SpecificDisease 299 307	aniridia
+N4	Reference T4 MeSH:D015783
+T5	DiseaseClass 309 336	genitourinary abnormalities
+N5	Reference T5 MeSH:D014564
+T6	DiseaseClass 342 360	mental retardation
+N6	Reference T6 MeSH:D008607

@@ -1,0 +1,16 @@
+T1	SpecificDisease 133 153	G(M2) gangliosidosis
+N1	Reference T1 MeSH:D020143
+T2	SpecificDisease 285 302	Tay-Sachs disease
+N2	Reference T2 MeSH:D013661
+T3	SpecificDisease 304 307	TSD
+N3	Reference T3 MeSH:D013661
+T4	SpecificDisease 320 367	infantile form of G (M2) gangliosidosis, Type 1
+N4	Reference T4 MeSH:D020143
+T5	SpecificDisease 737 758	G (M2) gangliosidosis
+N5	Reference T5 MeSH:D020143
+T6	SpecificDisease 1470 1473	TSD
+N6	Reference T6 MeSH:D013661
+T7	SpecificDisease 1678 1701	Hex A enzyme deficiency
+N7	Reference T7 MeSH:D013661
+T8	SpecificDisease 1916 1932	Hex A deficiency
+N8	Reference T8 MeSH:D013661

@@ -1,0 +1,38 @@
+T1	SpecificDisease 18 38	Bechterew's syndrome
+N1	Reference T1 MeSH:D013167
+T2	SpecificDisease 40 62	ankylosing spondylitis
+N2	Reference T2 MeSH:D013167
+T3	SpecificDisease 152 174	ankylosing spondylitis
+N3	Reference T3 MeSH:D013167
+T4	SpecificDisease 424 446	ankylosing spondylitis
+N4	Reference T4 MeSH:D013167
+T5	SpecificDisease 595 616	psoriatic arthropathy
+N5	Reference T5 MeSH:D015535
+T6	SpecificDisease 639 657	entero-arthropathy
+N6	Reference T6 MeSH:C538273+D001168
+T7	SpecificDisease 674 687	sacro-iliitis
+N7	Reference T7 MeSH:D058566
+T8	SpecificDisease 794 803	psoriasis
+N8	Reference T8 MeSH:D011565
+T9	SpecificDisease 842 851	psoriasis
+N9	Reference T9 MeSH:D011565
+T10	SpecificDisease 1184 1197	sacro-iliitis
+N10	Reference T10 MeSH:D058566
+T11	SpecificDisease 1199 1208	psoriasis
+N11	Reference T11 MeSH:D011565
+T12	SpecificDisease 1210 1232	acute anterior uveitis
+N12	Reference T12 MeSH:D014606
+T13	SpecificDisease 1245 1256	arthropathy
+N13	Reference T13 MeSH:D007592
+T14	SpecificDisease 1261 1287	inflammatory bowel disease
+N14	Reference T14 MeSH:D015212
+T15	SpecificDisease 1321 1365	HEREDITARY MULTIFOCAL RELAPSING INFLAMMATION
+N15	Reference T15 MeSH:D007249+D030342
+T16	SpecificDisease 1367 1372	HEMRI
+N16	Reference T16 MeSH:D007249+D030342
+T17	SpecificDisease 1393 1415	Ankylosing spondylitis
+N17	Reference T17 MeSH:D013167
+T18	SpecificDisease 1417 1438	psoriatic arthropathy
+N18	Reference T18 MeSH:D015535
+T19	SpecificDisease 1443 1461	entero-arthropathy
+N19	Reference T19 MeSH:C538273+D007592

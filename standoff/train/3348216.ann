@@ -1,0 +1,18 @@
+T1	SpecificDisease 0 44	Glucose 6-phosphate dehydrogenase deficiency
+N1	Reference T1 MeSH:D005955
+T2	DiseaseClass 62 84	hematologic malignancy
+N2	Reference T2 MeSH:D019337
+T3	SpecificDisease 153 204	glucose 6-phosphate dehydrogenase (G6PD) deficiency
+N3	Reference T3 MeSH:D005955
+T4	DiseaseClass 209 215	cancer
+N4	Reference T4 MeSH:D009369
+T5	DiseaseClass 256 282	hematological malignancies
+N5	Reference T5 MeSH:D019337
+T6	SpecificDisease 301 316	G6PD deficiency
+N6	Reference T6 MeSH:D005955
+T7	DiseaseClass 539 558	hematologic disease
+N7	Reference T7 MeSH:D006402
+T8	SpecificDisease 655 670	G6PD deficiency
+N8	Reference T8 MeSH:D005955
+T9	DiseaseClass 718 739	hematologic neoplasms
+N9	Reference T9 MeSH:D019337

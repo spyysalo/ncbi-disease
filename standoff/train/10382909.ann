@@ -1,0 +1,12 @@
+T1	SpecificDisease 31 73	X-linked Emery-Dreifuss muscular dystrophy
+N1	Reference T1 MeSH:D020389
+T2	SpecificDisease 209 242	Emery-Dreifuss muscular dystrophy
+N2	Reference T2 MeSH:D020389
+T3	SpecificDisease 244 247	EMD
+N3	Reference T3 MeSH:D020389
+T4	SpecificDisease 365 377	X-linked EMD
+N4	Reference T4 MeSH:D020389
+T5	DiseaseClass 960 978	ankle contractures
+N5	Reference T5 MeSH:D003286
+T6	DiseaseClass 983 998	muscle weakness
+N6	Reference T6 MeSH:D018908

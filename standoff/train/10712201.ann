@@ -1,0 +1,18 @@
+T1	Modifier 53 74	Prader-Willi syndrome
+N1	Reference T1 MeSH:D011218
+T2	Modifier 79 96	Angelman syndrome
+N2	Reference T2 MeSH:D017204
+T3	SpecificDisease 277 298	Prader-Willi syndrome
+N3	Reference T3 MeSH:D011218
+T4	SpecificDisease 300 303	PWS
+N4	Reference T4 MeSH:D011218
+T5	SpecificDisease 309 326	Angelman syndrome
+N5	Reference T5 MeSH:D017204
+T6	SpecificDisease 328 330	AS
+N6	Reference T6 MeSH:D017204
+T7	SpecificDisease 416 419	PWS
+N7	Reference T7 MeSH:D011218
+T8	SpecificDisease 479 482	PWS
+N8	Reference T8 MeSH:D011218
+T9	Modifier 688 691	PWS
+N9	Reference T9 MeSH:D011218

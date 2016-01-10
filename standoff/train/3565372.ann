@@ -1,0 +1,12 @@
+T1	SpecificDisease 70 113	hereditary non-spherocytic hemolytic anemia
+N1	Reference T1 MeSH:D000746
+T2	SpecificDisease 221 263	hereditary nonspherocytic hemolytic anemia
+N2	Reference T2 MeSH:D000746
+T3	SpecificDisease 265 270	HNSHA
+N3	Reference T3 MeSH:D000746
+T4	SpecificDisease 570 585	G6PD deficiency
+N4	Reference T4 MeSH:D005955
+T5	SpecificDisease 696 701	HNSHA
+N5	Reference T5 MeSH:D000746
+T6	SpecificDisease 756 771	G6PD deficiency
+N6	Reference T6 MeSH:D005955

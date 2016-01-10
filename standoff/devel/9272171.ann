@@ -1,0 +1,22 @@
+T1	SpecificDisease 0 39	Adult onset globoid cell leukodystrophy
+N1	Reference T1 MeSH:D007965
+T2	SpecificDisease 41 55	Krabbe disease
+N2	Reference T2 OMIM:245200
+T3	SpecificDisease 201 240	adult onset globoid cell leukodystrophy
+N3	Reference T3 MeSH:D007965
+T4	SpecificDisease 242 256	Krabbe disease
+N4	Reference T4 OMIM:245200
+T5	SpecificDisease 258 264	AO-GLD
+N5	Reference T5 MeSH:D007965
+T6	DiseaseClass 495 513	spastic paraplegia
+N6	Reference T6 MeSH:D010264
+T7	DiseaseClass 573 597	diminished GALC activity
+N7	Reference T7 MeSH:C538554
+T8	DiseaseClass 1105 1129	diminished GALC activity
+N8	Reference T8 MeSH:C538554
+T9	Modifier 1476 1482	AO-GLD
+N9	Reference T9 MeSH:D007965
+T10	SpecificDisease 1674 1680	IF-GLD
+N10	Reference T10 MeSH:D007965
+T11	SpecificDisease 1779 1782	GLD
+N11	Reference T11 MeSH:D007965

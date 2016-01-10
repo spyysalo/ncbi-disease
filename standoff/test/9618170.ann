@@ -1,0 +1,24 @@
+T1	Modifier 57 60	DMD
+N1	Reference T1 MeSH:D020388
+T2	SpecificDisease 77 108	X-linked dilated cardiomyopathy
+N2	Reference T2 MeSH:D002311
+T3	SpecificDisease 110 141	X-linked dilated cardiomyopathy
+N3	Reference T3 MeSH:D002311
+T4	SpecificDisease 143 148	XLDCM
+N4	Reference T4 MeSH:D002311
+T5	DiseaseClass 177 193	dystrophinopathy
+N5	Reference T5 MeSH:D009136
+T6	DiseaseClass 233 255	myocardial involvement
+N6	Reference T6 MeSH:D009202
+T7	SpecificDisease 292 309	skeletal myopathy
+N7	Reference T7 MeSH:D009135
+T8	Modifier 345 372	Duchenne muscular dystrophy
+N8	Reference T8 MeSH:D020388
+T9	SpecificDisease 422 427	XLDCM
+N9	Reference T9 MeSH:D002311
+T10	Modifier 508 513	XLDCM
+N10	Reference T10 MeSH:D002311
+T11	Modifier 659 664	XLDCM
+N11	Reference T11 MeSH:D002311
+T12	SpecificDisease 1151 1156	XLDCM
+N12	Reference T12 MeSH:D002311

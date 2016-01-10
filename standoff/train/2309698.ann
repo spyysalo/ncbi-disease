@@ -1,0 +1,44 @@
+T1	SpecificDisease 44 64	adrenoleukodystrophy
+N1	Reference T1 MeSH:D000326
+T2	SpecificDisease 173 202	X-linked adrenoleukodystrophy
+N2	Reference T2 MeSH:D000326
+T3	SpecificDisease 204 207	ALD
+N3	Reference T3 MeSH:D000326
+T4	Modifier 214 217	ALD
+N4	Reference T4 MeSH:D000326
+T5	Modifier 250 253	ALD
+N5	Reference T5 MeSH:D000326
+T6	DiseaseClass 329 350	Abnormal color vision
+N6	Reference T6 MeSH:D003117
+T7	SpecificDisease 395 416	adrenomyeloneuropathy
+N7	Reference T7 MeSH:D000326
+T8	SpecificDisease 418 421	AMN
+N8	Reference T8 MeSH:D000326
+T9	SpecificDisease 441 444	ALD
+N9	Reference T9 MeSH:D000326
+T10	Modifier 535 538	ALD
+N10	Reference T10 MeSH:D000326
+T11	SpecificDisease 624 627	ALD
+N11	Reference T11 MeSH:D000326
+T12	SpecificDisease 632 653	abnormal color vision
+N12	Reference T12 MeSH:D003117
+T13	Modifier 692 695	ALD
+N13	Reference T13 MeSH:D000326
+T14	SpecificDisease 1076 1107	phenotypic color vision defects
+N14	Reference T14 MeSH:D003117
+T15	Modifier 1434 1437	ALD
+N15	Reference T15 MeSH:D000326
+T16	Modifier 1656 1659	ALD
+N16	Reference T16 MeSH:D000326
+T17	SpecificDisease 1872 1875	AMN
+N17	Reference T17 MeSH:D000326
+T18	Modifier 1897 1900	ALD
+N18	Reference T18 MeSH:D000326
+T19	Modifier 1901 1904	AMN
+N19	Reference T19 MeSH:D000326
+T20	DiseaseClass 1974 1996	color vision anomalies
+N20	Reference T20 MeSH:D003117
+T21	DiseaseClass 2119 2141	color vision anomalies
+N21	Reference T21 MeSH:D003117
+T22	SpecificDisease 2145 2148	AMN
+N22	Reference T22 MeSH:D000326

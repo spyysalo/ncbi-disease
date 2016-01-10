@@ -1,0 +1,12 @@
+T1	SpecificDisease 55 65	piebaldism
+N1	Reference T1 MeSH:D016116
+T2	SpecificDisease 103 113	piebaldism
+N2	Reference T2 MeSH:D016116
+T3	SpecificDisease 289 299	piebaldism
+N3	Reference T3 MeSH:D016116
+T4	DiseaseClass 301 319	mental retardation
+N4	Reference T4 MeSH:D008607
+T5	DiseaseClass 325 354	multiple congenital anomalies
+N5	Reference T5 MeSH:D000013
+T6	Modifier 786 793	piebald
+N6	Reference T6 MeSH:D016116

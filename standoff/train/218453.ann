@@ -1,0 +1,38 @@
+T1	SpecificDisease 0 20	Adrenoleukodystrophy
+N1	Reference T1 MeSH:D000326
+T2	SpecificDisease 25 46	adrenomyeloneuropathy
+N2	Reference T2 MeSH:D000326
+T3	DiseaseClass 71 92	adrenal insufficiency
+N3	Reference T3 MeSH:D000309
+T4	SpecificDisease 142 162	adrenoleukodystrophy
+N4	Reference T4 MeSH:D000326
+T5	SpecificDisease 164 167	ALD
+N5	Reference T5 MeSH:D000326
+T6	SpecificDisease 185 206	adrenomyeloneuropathy
+N6	Reference T6 MeSH:D000326
+T7	SpecificDisease 208 211	AMN
+N7	Reference T7 MeSH:D000326
+T8	SpecificDisease 283 286	AMN
+N8	Reference T8 MeSH:D000326
+T9	SpecificDisease 312 315	ALD
+N9	Reference T9 MeSH:D000326
+T10	SpecificDisease 461 464	ALD
+N10	Reference T10 MeSH:D000326
+T11	SpecificDisease 465 468	AMN
+N11	Reference T11 MeSH:D000326
+T12	DiseaseClass 473 502	pituitary-adrenal abnormality
+N12	Reference T12 MeSH:D010900+D000307
+T13	SpecificDisease 647 650	ALD
+N13	Reference T13 MeSH:D000326
+T14	SpecificDisease 655 658	AMN
+N14	Reference T14 MeSH:D000326
+T15	DiseaseClass 712 733	adrenal insufficiency
+N15	Reference T15 MeSH:D000309
+T16	SpecificDisease 979 982	ALD
+N16	Reference T16 MeSH:D000326
+T17	SpecificDisease 987 990	AMN
+N17	Reference T17 MeSH:D000326
+T18	DiseaseClass 1020 1048	adrenocrotical insufficiency
+N18	Reference T18 MeSH:D000224
+T19	DiseaseClass 1059 1085	endocrinologic dysfunction
+N19	Reference T19 MeSH:D004700

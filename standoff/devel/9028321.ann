@@ -1,0 +1,14 @@
+T1	SpecificDisease 48 87	autoimmune lymphoproliferative syndrome
+N1	Reference T1 MeSH:D056735
+T2	SpecificDisease 444 483	autoimmune lymphoproliferative syndrome
+N2	Reference T2 MeSH:D056735
+T3	SpecificDisease 485 489	ALPS
+N3	Reference T3 MeSH:D056735
+T4	SpecificDisease 586 590	ALPS
+N4	Reference T4 MeSH:D056735
+T5	DiseaseClass 785 797	splenomegaly
+N5	Reference T5 MeSH:D013163
+T6	DiseaseClass 802 817	lymphadenopathy
+N6	Reference T6 MeSH:D008206
+T7	DiseaseClass 849 874	autoimmune manifestations
+N7	Reference T7 MeSH:D001327

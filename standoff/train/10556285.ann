@@ -1,0 +1,22 @@
+T1	SpecificDisease 115 144	Spinocerebellar ataxia type-3
+N1	Reference T1 MeSH:D017827
+T2	SpecificDisease 148 170	Machado-Joseph disease
+N2	Reference T2 MeSH:D017827
+T3	SpecificDisease 172 176	SCA3
+N3	Reference T3 MeSH:D017827
+T4	SpecificDisease 177 180	MJD
+N4	Reference T4 MeSH:D017827
+T5	DiseaseClass 201 233	CAG/polyglutamine repeat disease
+N5	Reference T5 MeSH:D030342
+T6	DiseaseClass 435 456	polyglutamine disease
+N6	Reference T6 MeSH:D030342
+T7	DiseaseClass 576 596	neuronal dysfunction
+N7	Reference T7 MeSH:D009461
+T8	SpecificDisease 672 676	SCA3
+N8	Reference T8 MeSH:D017827
+T9	SpecificDisease 677 680	MJD
+N9	Reference T9 MeSH:D017827
+T10	SpecificDisease 1648 1652	SCA3
+N10	Reference T10 MeSH:D017827
+T11	SpecificDisease 1653 1656	MJD
+N11	Reference T11 MeSH:D017827

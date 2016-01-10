@@ -1,0 +1,18 @@
+T1	SpecificDisease 36 61	hereditary ovarian cancer
+N1	Reference T1 MeSH:D061325
+T2	Modifier 63 88	Hereditary Ovarian Cancer
+N2	Reference T2 MeSH:D061325
+T3	SpecificDisease 211 225	ovarian cancer
+N3	Reference T3 MeSH:D010051
+T4	SpecificDisease 263 277	ovarian cancer
+N4	Reference T4 MeSH:D010051
+T5	SpecificDisease 344 378	hereditary forms of ovarian cancer
+N5	Reference T5 MeSH:D061325
+T6	SpecificDisease 416 441	hereditary ovarian cancer
+N6	Reference T6 MeSH:D061325
+T7	SpecificDisease 925 939	ovarian cancer
+N7	Reference T7 MeSH:D010051
+T8	SpecificDisease 1244 1258	ovarian cancer
+N8	Reference T8 MeSH:D010051
+T9	SpecificDisease 1528 1542	ovarian cancer
+N9	Reference T9 MeSH:D010051

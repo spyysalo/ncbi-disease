@@ -1,0 +1,18 @@
+T1	SpecificDisease 0 16	Alstrom syndrome
+N1	Reference T1 MeSH:D056769
+T2	SpecificDisease 73 89	Alstrom syndrome
+N2	Reference T2 MeSH:D056769
+T3	DiseaseClass 100 128	autosomal recessive disorder
+N3	Reference T3 MeSH:D030342
+T4	SpecificDisease 146 166	retinal degeneration
+N4	Reference T4 MeSH:D012162
+T5	SpecificDisease 168 194	sensorineural hearing loss
+N5	Reference T5 MeSH:D006319
+T6	SpecificDisease 208 215	obesity
+N6	Reference T6 MeSH:D009765
+T7	SpecificDisease 221 260	non-insulin-dependent diabetes mellitus
+N7	Reference T7 MeSH:D003924
+T8	SpecificDisease 275 291	Alstrom syndrome
+N8	Reference T8 MeSH:D056769
+T9	SpecificDisease 674 690	Alstrom syndrome
+N9	Reference T9 MeSH:D056769

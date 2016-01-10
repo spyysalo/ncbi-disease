@@ -1,0 +1,12 @@
+T1	SpecificDisease 6 53	deficiency of the sixth component of complement
+N1	Reference T1 OMIM:612446
+T2	SpecificDisease 72 96	meningococcal meningitis
+N2	Reference T2 MeSH:D008585
+T3	DiseaseClass 104 127	haemostasis abnormality
+N3	Reference T3 MeSH:D020141
+T4	SpecificDisease 154 167	C6 deficiency
+N4	Reference T4 OMIM:612446
+T5	SpecificDisease 271 295	meningococcal meningitis
+N5	Reference T5 MeSH:D008585
+T6	DiseaseClass 451 475	hemostatic abnormalities
+N6	Reference T6 MeSH:D020141

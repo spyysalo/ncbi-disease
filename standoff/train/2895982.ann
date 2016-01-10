@@ -1,0 +1,22 @@
+T1	SpecificDisease 40 71	Lowe oculocerebrorenal syndrome
+N1	Reference T1 MeSH:D009800
+T2	SpecificDisease 117 148	Lowe oculocerebrorenal syndrome
+N2	Reference T2 MeSH:D009800
+T3	SpecificDisease 150 154	OCRL
+N3	Reference T3 MeSH:D009800
+T4	SpecificDisease 187 195	cataract
+N4	Reference T4 MeSH:D002386
+T5	DiseaseClass 197 215	mental retardation
+N5	Reference T5 MeSH:D008607
+T6	DiseaseClass 221 253	defective renal tubular function
+N6	Reference T6 MeSH:D015499
+T7	SpecificDisease 275 279	OCRL
+N7	Reference T7 MeSH:D009800
+T8	Modifier 639 643	OCRL
+N8	Reference T8 MeSH:D009800
+T9	SpecificDisease 821 834	Lowe syndrome
+N9	Reference T9 MeSH:D009800
+T10	SpecificDisease 1284 1288	OCRL
+N10	Reference T10 MeSH:D009800
+T11	Modifier 1441 1445	OCRL
+N11	Reference T11 MeSH:D009800

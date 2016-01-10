@@ -1,0 +1,22 @@
+T1	SpecificDisease 0 17	Knobloch syndrome
+N1	Reference T1 MeSH:C537209
+T2	DiseaseClass 28 70	midline scalp defect of the frontal region
+N2	Reference T2 MeSH:C538225
+T3	SpecificDisease 107 124	Knobloch syndrome
+N3	Reference T3 MeSH:C537209
+T4	SpecificDisease 133 159	vitreoretinal degeneration
+N4	Reference T4 MeSH:D012162
+T5	SpecificDisease 161 172	high myopia
+N5	Reference T5 MeSH:D009216
+T6	SpecificDisease 174 182	cataract
+N6	Reference T6 MeSH:D002386
+T7	SpecificDisease 184 195	telecanthus
+N7	Reference T7 MeSH:D030342
+T8	SpecificDisease 197 210	hypertelorism
+N8	Reference T8 MeSH:D006972
+T9	SpecificDisease 218 236	high-arched palate
+N9	Reference T9 MeSH:D007569
+T10	DiseaseClass 252 288	defect of the anterior midline scalp
+N10	Reference T10 MeSH:C538225
+T11	DiseaseClass 630 651	midline scalp defects
+N11	Reference T11 MeSH:C538225

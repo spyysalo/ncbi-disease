@@ -1,0 +1,20 @@
+T1	SpecificDisease 0 22	X-linked retinoschisis
+N1	Reference T1 MeSH:D041441
+T2	SpecificDisease 75 97	X-linked retinoschisis
+N2	Reference T2 MeSH:D041441
+T3	SpecificDisease 99 103	XLRS
+N3	Reference T3 MeSH:D041441
+T4	DiseaseClass 126 149	vitreoretinal dystrophy
+N4	Reference T4 MeSH:D058499
+T5	SpecificDisease 162 173	visual loss
+N5	Reference T5 MeSH:C531604
+T6	Modifier 394 398	XLRS
+N6	Reference T6 MeSH:D041441
+T7	SpecificDisease 467 471	XLRS
+N7	Reference T7 MeSH:D041441
+T8	DiseaseClass 1171 1192	genetic abnormalities
+N8	Reference T8 MeSH:D030342
+T9	SpecificDisease 1224 1228	XLRS
+N9	Reference T9 MeSH:D041441
+T10	SpecificDisease 1555 1559	XLRS
+N10	Reference T10 MeSH:D041441

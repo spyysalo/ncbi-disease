@@ -1,0 +1,34 @@
+T1	Modifier 23 39	copper toxicosis
+N1	Reference T1 OMIM:215600
+T2	SpecificDisease 158 185	hepatic copper accumulation
+N2	Reference T2 MeSH:D008107
+T3	DiseaseClass 206 224	inherited disorder
+N3	Reference T3 MeSH:D030342
+T4	SpecificDisease 272 299	hepatic copper accumulation
+N4	Reference T4 MeSH:D008107
+T5	SpecificDisease 346 360	Wilson disease
+N5	Reference T5 MeSH:D006527
+T6	SpecificDisease 362 364	WD
+N6	Reference T6 MeSH:D006527
+T7	SpecificDisease 499 514	copper overload
+N7	Reference T7 MeSH:D008107
+T8	SpecificDisease 523 553	non-Indian childhood cirrhosis
+N8	Reference T8 OMIM:215600
+T9	SpecificDisease 637 653	copper toxicosis
+N9	Reference T9 OMIM:215600
+T10	SpecificDisease 655 657	CT
+N10	Reference T10 OMIM:215600
+T11	DiseaseClass 738 751	liver disease
+N11	Reference T11 MeSH:D008107
+T12	Modifier 777 779	WD
+N12	Reference T12 MeSH:D006527
+T13	SpecificDisease 814 816	CT
+N13	Reference T13 OMIM:215600
+T14	SpecificDisease 999 1001	CT
+N14	Reference T14 OMIM:215600
+T15	SpecificDisease 1147 1149	WD
+N15	Reference T15 MeSH:D006527
+T16	SpecificDisease 1174 1176	CT
+N16	Reference T16 OMIM:215600
+T17	SpecificDisease 1261 1263	CT
+N17	Reference T17 OMIM:215600

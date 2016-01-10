@@ -1,0 +1,16 @@
+T1	SpecificDisease 12 42	cerebrotendinous xanthomatosis
+N1	Reference T1 MeSH:D019294
+T2	SpecificDisease 44 47	CTX
+N2	Reference T2 MeSH:D019294
+T3	SpecificDisease 193 223	cerebrotendinous xanthomatosis
+N3	Reference T3 MeSH:D019294
+T4	SpecificDisease 225 228	CTX
+N4	Reference T4 MeSH:D019294
+T5	Modifier 309 312	CTX
+N5	Reference T5 MeSH:D019294
+T6	SpecificDisease 618 626	cataract
+N6	Reference T6 MeSH:D002386
+T7	SpecificDisease 630 649	tendinous xanthomas
+N7	Reference T7 MeSH:D014973
+T8	SpecificDisease 702 705	CTX
+N8	Reference T8 MeSH:D019294

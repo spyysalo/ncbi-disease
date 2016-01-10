@@ -1,0 +1,24 @@
+T1	Modifier 72 96	Wiskott-Aldrich syndrome
+N1	Reference T1 MeSH:D014923
+T2	Modifier 98 101	WAS
+N2	Reference T2 MeSH:D014923
+T3	SpecificDisease 179 182	WAS
+N3	Reference T3 MeSH:D014923
+T4	Modifier 199 215	thrombocytopenic
+N4	Reference T4 MeSH:D013921
+T5	SpecificDisease 256 280	Wiskott-Aldrich syndrome
+N5	Reference T5 MeSH:D014923
+T6	SpecificDisease 282 285	WAS
+N6	Reference T6 MeSH:D014923
+T7	Modifier 388 391	WAS
+N7	Reference T7 MeSH:D014923
+T8	SpecificDisease 436 439	WAS
+N8	Reference T8 MeSH:D014923
+T9	Modifier 544 547	WAS
+N9	Reference T9 MeSH:D014923
+T10	SpecificDisease 909 925	thrombocytopenia
+N10	Reference T10 MeSH:D013921
+T11	SpecificDisease 949 952	WAS
+N11	Reference T11 MeSH:D014923
+T12	Modifier 1032 1035	WAS
+N12	Reference T12 MeSH:D014923

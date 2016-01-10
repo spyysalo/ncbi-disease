@@ -1,0 +1,52 @@
+T1	SpecificDisease 50 72	van der Woude syndrome
+N1	Reference T1 MeSH:C536528
+T2	SpecificDisease 126 138	cleft palate
+N2	Reference T2 MeSH:D002972
+T3	SpecificDisease 156 178	van der Woude syndrome
+N3	Reference T3 MeSH:C536528
+T4	SpecificDisease 180 183	VWS
+N4	Reference T4 MeSH:C536528
+T5	CompositeMention 240 276	pits and/or sinuses of the lower lip
+N5	Reference T5 MeSH:D008047
+T6	SpecificDisease 278 294	cleft lip/palate
+N6	Reference T6 MeSH:D002971
+N7	Reference T6 MeSH:D002972
+T7	SpecificDisease 296 300	CL/P
+N8	Reference T7 MeSH:D002971
+N9	Reference T7 MeSH:D002972
+T8	SpecificDisease 303 315	cleft palate
+N10	Reference T8 MeSH:D002972
+T9	SpecificDisease 317 319	CP
+N11	Reference T9 MeSH:D002972
+T10	SpecificDisease 322 333	bifid uvula
+N12	Reference T10 MeSH:C531732
+T11	SpecificDisease 339 349	hypodontia
+N13	Reference T11 MeSH:D000848
+T12	SpecificDisease 351 352	H
+N14	Reference T12 MeSH:D000848
+T13	SpecificDisease 373 376	VWS
+N15	Reference T13 MeSH:C536528
+T14	SpecificDisease 454 458	CL/P
+N16	Reference T14 MeSH:D002971
+N17	Reference T14 MeSH:D002972
+T15	SpecificDisease 463 465	CP
+N18	Reference T15 MeSH:D002972
+T16	SpecificDisease 524 526	CP
+N19	Reference T16 MeSH:D002972
+T17	SpecificDisease 550 553	VWS
+N20	Reference T17 MeSH:C536528
+T18	DiseaseClass 593 599	clefts
+N21	Reference T18 MeSH:D002971
+N22	Reference T18 MeSH:D002972
+T19	SpecificDisease 759 762	VWS
+N23	Reference T19 MeSH:C536528
+T20	SpecificDisease 809 811	CP
+N24	Reference T20 MeSH:D002972
+T21	SpecificDisease 881 884	VWS
+N25	Reference T21 MeSH:C536528
+T22	Modifier 960 963	VWS
+N26	Reference T22 MeSH:C536528
+T23	SpecificDisease 1009 1011	CP
+N27	Reference T23 MeSH:D002972
+T24	Modifier 1102 1105	VWS
+N28	Reference T24 MeSH:C536528

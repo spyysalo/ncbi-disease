@@ -1,0 +1,12 @@
+T1	SpecificDisease 11 33	aspartylglucosaminuria
+N1	Reference T1 MeSH:D054880
+T2	SpecificDisease 35 38	AGU
+N2	Reference T2 MeSH:D054880
+T3	SpecificDisease 88 110	Aspartylglucosaminuria
+N3	Reference T3 MeSH:D054880
+T4	SpecificDisease 112 115	AGU
+N4	Reference T4 MeSH:D054880
+T5	Modifier 604 607	AGU
+N5	Reference T5 MeSH:D054880
+T6	Modifier 806 809	AGU
+N6	Reference T6 MeSH:D054880

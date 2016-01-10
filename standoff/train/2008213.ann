@@ -1,0 +1,18 @@
+T1	SpecificDisease 0 31	Glucose/galactose malabsorption
+N1	Reference T1 OMIM:606824
+T2	SpecificDisease 85 116	Glucose/galactose malabsorption
+N2	Reference T2 OMIM:606824
+T3	SpecificDisease 118 121	GGM
+N3	Reference T3 OMIM:606824
+T4	DiseaseClass 129 156	autosomal recessive disease
+N4	Reference T4 MeSH:D030342
+T5	SpecificDisease 323 332	diarrhoea
+N5	Reference T5 MeSH:D003967
+T6	SpecificDisease 337 348	dehydration
+N6	Reference T6 MeSH:D003681
+T7	Modifier 440 443	GGM
+N7	Reference T7 OMIM:606824
+T8	SpecificDisease 1150 1153	GGM
+N8	Reference T8 OMIM:606824
+T9	Modifier 1309 1312	GGM
+N9	Reference T9 OMIM:606824

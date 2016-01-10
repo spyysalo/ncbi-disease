@@ -1,0 +1,20 @@
+T1	SpecificDisease 0 26	Adenomatous polyposis coli
+N1	Reference T1 MeSH:D011125
+T2	SpecificDisease 234 240	autism
+N2	Reference T2 MeSH:D001321
+T3	SpecificDisease 257 274	colorectal cancer
+N3	Reference T3 MeSH:D015179
+T4	Modifier 433 436	APC
+N4	Reference T4 MeSH:D011125
+T5	SpecificDisease 476 502	Adenomatous polyposis coli
+N5	Reference T5 MeSH:D011125
+T6	SpecificDisease 507 530	carcinoma of the rectum
+N6	Reference T6 MeSH:D012004
+T7	Modifier 594 611	mentally retarded
+N7	Reference T7 MeSH:D008607
+T8	Modifier 613 621	autistic
+N8	Reference T8 MeSH:D001321
+T9	SpecificDisease 637 656	dysmorphic features
+N9	Reference T9 MeSH:D000013
+T10	Modifier 977 980	APC
+N10	Reference T10 MeSH:D011125

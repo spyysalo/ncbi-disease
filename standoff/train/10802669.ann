@@ -1,0 +1,34 @@
+T1	DiseaseClass 125 141	genetic disorder
+N1	Reference T1 MeSH:D030342
+T2	SpecificDisease 142 163	ataxia-telangiectasia
+N2	Reference T2 MeSH:D001260
+T3	SpecificDisease 165 168	A-T
+N3	Reference T3 MeSH:D001260
+T4	DiseaseClass 197 219	cerebellar dysfunction
+N4	Reference T4 MeSH:D002526
+T5	Modifier 267 273	cancer
+N5	Reference T5 MeSH:D009369
+T6	Modifier 299 302	A-T
+N6	Reference T6 MeSH:D001260
+T7	Modifier 610 616	cancer
+N7	Reference T7 MeSH:D009369
+T8	SpecificDisease 635 638	A-T
+N8	Reference T8 MeSH:D001260
+T9	SpecificDisease 674 700	Nijmegen breakage syndrome
+N9	Reference T9 MeSH:D049932
+T10	SpecificDisease 702 705	NBS
+N10	Reference T10 MeSH:D049932
+T11	SpecificDisease 733 736	NBS
+N11	Reference T11 MeSH:D049932
+T12	SpecificDisease 1051 1054	A-T
+N12	Reference T12 MeSH:D001260
+T13	SpecificDisease 1059 1062	NBS
+N13	Reference T13 MeSH:D049932
+T14	Modifier 1265 1268	A-T
+N14	Reference T14 MeSH:D001260
+T15	Modifier 1621 1624	NBS
+N15	Reference T15 MeSH:D049932
+T16	SpecificDisease 1841 1844	A-T
+N16	Reference T16 MeSH:D001260
+T17	SpecificDisease 1849 1852	NBS
+N17	Reference T17 MeSH:D049932

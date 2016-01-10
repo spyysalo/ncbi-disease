@@ -1,0 +1,34 @@
+T1	SpecificDisease 25 49	Saethre-Chotzen syndrome
+N1	Reference T1 OMIM:101400
+T2	SpecificDisease 131 155	Saethre-Chotzen syndrome
+N2	Reference T2 OMIM:101400
+T3	DiseaseClass 166 194	autosomal dominant condition
+N3	Reference T3 MeSH:D030342
+T4	SpecificDisease 198 214	craniosynostosis
+N4	Reference T4 MeSH:D003398
+T5	DiseaseClass 219 233	limb anomalies
+N5	Reference T5 MeSH:D017880
+T6	Modifier 561 585	Saethre-Chotzen syndrome
+N6	Reference T6 OMIM:101400
+T7	SpecificDisease 845 863	coronal synostosis
+N7	Reference T7 MeSH:D003398
+T8	SpecificDisease 865 878	brachycephaly
+N8	Reference T8 MeSH:D003398
+T9	SpecificDisease 880 900	low frontal hairline
+N9	Reference T9 MeSH:D019465
+T10	SpecificDisease 902 918	facial asymmetry
+N10	Reference T10 MeSH:D005146
+T11	SpecificDisease 920 926	ptosis
+N11	Reference T11 MeSH:D001763
+T12	SpecificDisease 928 941	hypertelorism
+N12	Reference T12 MeSH:D006972
+T13	SpecificDisease 943 959	broad great toes
+N13	Reference T13 MeSH:D005532
+T14	SpecificDisease 965 977	clinodactyly
+N14	Reference T14 MeSH:C536852
+T15	DiseaseClass 1197 1223	craniosynostotic condition
+N15	Reference T15 MeSH:D003398
+T16	CompositeMention 1232 1280	Saethre-Chotzen, Crouzon, and Pfeiffer syndromes
+N16	Reference T16 OMIM:101400
+N17	Reference T16 OMIM:123500
+N18	Reference T16 OMIM:101600

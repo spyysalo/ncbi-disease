@@ -1,0 +1,16 @@
+T1	Modifier 23 38	hemochromatosis
+N1	Reference T1 MeSH:D006432
+T2	SpecificDisease 61 84	Genetic hemochromatosis
+N2	Reference T2 MeSH:D006432
+T3	SpecificDisease 86 88	GH
+N3	Reference T3 MeSH:D006432
+T4	Modifier 193 195	GH
+N4	Reference T4 MeSH:D006432
+T5	Modifier 351 353	GH
+N5	Reference T5 MeSH:D006432
+T6	DiseaseClass 1467 1486	infectious diseases
+N6	Reference T6 MeSH:D003141
+T7	DiseaseClass 1524 1541	genetic disorders
+N7	Reference T7 MeSH:D030342
+T8	DiseaseClass 1550 1556	anemia
+N8	Reference T8 MeSH:D000740

@@ -1,0 +1,50 @@
+T1	SpecificDisease 27 69	hyperparathyroidism and jaw tumor syndrome
+N1	Reference T1 OMIM:145001
+T2	SpecificDisease 86 102	renal hamartomas
+N2	Reference T2 MeSH:D007674+D006222
+T3	DiseaseClass 107 128	cystic kidney disease
+N3	Reference T3 MeSH:D052177
+T4	SpecificDisease 186 202	renal hamartomas
+N4	Reference T4 MeSH:D007674+D006222
+T5	SpecificDisease 204 253	Hereditary hyperparathyroidism-jaw tumor syndrome
+N5	Reference T5 OMIM:145001
+T6	SpecificDisease 255 261	HPT-JT
+N6	Reference T6 OMIM:145001
+T7	DiseaseClass 269 295	autosomal dominant disease
+N7	Reference T7 MeSH:D030342
+T8	SpecificDisease 413 428	HPT-JT syndrome
+N8	Reference T8 OMIM:145001
+T9	SpecificDisease 438 460	adult renal hamartomas
+N9	Reference T9 MeSH:C536399
+T10	DiseaseClass 464 485	cystic kidney disease
+N10	Reference T10 MeSH:D052177
+T11	SpecificDisease 576 591	HPT-JT syndrome
+N11	Reference T11 OMIM:145001
+T12	DiseaseClass 614 627	renal lesions
+N12	Reference T12 MeSH:D007680
+T13	SpecificDisease 690 693	HPT
+N13	Reference T13 MeSH:D006961
+T14	SpecificDisease 698 700	JT
+N14	Reference T14 MeSH:D007573
+T15	SpecificDisease 770 772	JT
+N15	Reference T15 MeSH:D007573
+T16	SpecificDisease 865 890	polycystic kidney disease
+N16	Reference T16 MeSH:D007690
+T17	SpecificDisease 1026 1037	primary HPT
+N17	Reference T17 MeSH:D049950
+T18	Modifier 1211 1259	multiple endocrine neoplasia (MEN) types 1 and 2
+N18	Reference T18 MeSH:D009377
+T19	Modifier 1438 1442	MEN1
+N19	Reference T19 OMIM:131100
+T20	Modifier 1447 1451	MEN2
+N20	Reference T20 MeSH:D018813
+T21	SpecificDisease 1688 1704	renal hamartomas
+N21	Reference T21 MeSH:D007674+D006222
+T22	SpecificDisease 1772 1781	jaw tumor
+N22	Reference T22 MeSH:D007573
+T23	SpecificDisease 1788 1805	parathyroid tumor
+N23	Reference T23 MeSH:D010282
+T24	SpecificDisease 1834 1850	renal hamartomas
+N24	Reference T24 MeSH:D007674+D006222
+T25	Modifier 2026 2031	tumor
+N25	Reference T25 MeSH:D009369

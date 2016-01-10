@@ -1,0 +1,21 @@
+T1	SpecificDisease 65 78	breast cancer
+N1	Reference T1 MeSH:D001943
+T2	CompositeMention 165 190	breast and ovarian cancer
+N2	Reference T2 MeSH:D001943
+N3	Reference T2 MeSH:D010051
+T3	SpecificDisease 279 292	breast cancer
+N4	Reference T3 MeSH:D001943
+T4	SpecificDisease 407 420	breast cancer
+N5	Reference T4 MeSH:D001943
+T5	SpecificDisease 507 520	breast cancer
+N6	Reference T5 MeSH:D001943
+T6	SpecificDisease 559 572	breast cancer
+N7	Reference T6 MeSH:D001943
+T7	CompositeMention 1143 1167	breast or ovarian cancer
+N8	Reference T7 MeSH:D001943
+N9	Reference T7 MeSH:D010051
+T8	SpecificDisease 1405 1418	breast cancer
+N10	Reference T8 MeSH:D001943
+T9	CompositeMention 1503 1527	breast or ovarian cancer
+N11	Reference T9 MeSH:D001943
+N12	Reference T9 MeSH:D010051

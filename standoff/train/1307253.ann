@@ -1,0 +1,9 @@
+T1	Modifier 293 331	Duchenne and Becker muscular dystrophy
+N1	Reference T1 MeSH:D020388
+N2	Reference T1 MeSH:C537666
+T2	Modifier 333 336	DMD
+N3	Reference T2 MeSH:D020388
+T3	Modifier 337 340	BMD
+N4	Reference T3 MeSH:C537666
+T4	Modifier 497 505	Duchenne
+N5	Reference T4 MeSH:D020388

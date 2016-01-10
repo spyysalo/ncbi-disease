@@ -1,0 +1,10 @@
+T1	SpecificDisease 0 13	Analbuminemia
+N1	Reference T1 OMIM:103600
+T2	SpecificDisease 78 91	analbuminemia
+N2	Reference T2 OMIM:103600
+T3	DiseaseClass 281 292	ankle edema
+N3	Reference T3 MeSH:D016512
+T4	DiseaseClass 297 312	ease of fatigue
+N4	Reference T4 MeSH:D005221
+T5	DiseaseClass 519 539	arterial hypotension
+N5	Reference T5 MeSH:D007022

@@ -1,0 +1,20 @@
+T1	SpecificDisease 10 23	C3 deficiency
+N1	Reference T1 OMIM:613779
+T2	SpecificDisease 54 72	glomerulonephritis
+N2	Reference T2 MeSH:D005921
+T3	SpecificDisease 115 162	deficiency of the third component of complement
+N3	Reference T3 OMIM:613779
+T4	DiseaseClass 177 197	bacterial infections
+N4	Reference T4 MeSH:D001424
+T5	SpecificDisease 583 592	pneumonia
+N5	Reference T5 MeSH:D011014
+T6	SpecificDisease 697 730	mesangiopathic glomerulonephritis
+N6	Reference T6 MeSH:D005921
+T7	SpecificDisease 865 878	C3 deficiency
+N7	Reference T7 OMIM:613779
+T8	DiseaseClass 884 906	immune-complex disease
+N8	Reference T8 MeSH:D007105
+T9	DiseaseClass 1008 1027	pyogenic infections
+N9	Reference T9 MeSH:D007239
+T10	SpecificDisease 1045 1058	C3 deficiency
+N10	Reference T10 OMIM:613779

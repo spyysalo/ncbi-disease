@@ -1,0 +1,6 @@
+T1	SpecificDisease 312 329	deficiency of AAT
+N1	Reference T1 MeSH:C531610
+T2	DiseaseClass 484 493	emphysema
+N2	Reference T2 MeSH:D004646
+T3	DiseaseClass 498 511	liver disease
+N3	Reference T3 MeSH:D008107

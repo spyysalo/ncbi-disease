@@ -1,0 +1,34 @@
+T1	SpecificDisease 10 20	meningitis
+N1	Reference T1 MeSH:D008581
+T2	SpecificDisease 39 94	congenital deficiency of the C9 component of complement
+N2	Reference T2 OMIM:613825
+T3	SpecificDisease 110 123	C9 deficiency
+N3	Reference T3 OMIM:613825
+T4	SpecificDisease 185 198	C9 deficiency
+N4	Reference T4 OMIM:613825
+T5	SpecificDisease 368 388	bacterial meningitis
+N5	Reference T5 MeSH:D016920
+T6	SpecificDisease 451 470	purulent meningitis
+N6	Reference T6 MeSH:D008586
+T7	SpecificDisease 513 543	acute meningococcal meningitis
+N7	Reference T7 MeSH:D008585
+T8	DiseaseClass 548 579	impairment of cellular immunity
+N8	Reference T8 MeSH:D007153
+T9	SpecificDisease 583 608	immunoglobulin deficiency
+N9	Reference T9 MeSH:D004406
+T10	SpecificDisease 652 691	complete deficiency of the C9 component
+N10	Reference T10 OMIM:613825
+T11	SpecificDisease 859 881	complete C9 deficiency
+N11	Reference T11 OMIM:613825
+T12	SpecificDisease 1011 1031	bacterial meningitis
+N12	Reference T12 MeSH:D016920
+T13	SpecificDisease 1078 1091	C9 deficiency
+N13	Reference T13 OMIM:613825
+T14	SpecificDisease 1112 1132	recurrent meningitis
+N14	Reference T14 MeSH:D008581+D012008
+T15	SpecificDisease 1157 1179	complete C9 deficiency
+N15	Reference T15 OMIM:613825
+T16	DiseaseClass 1199 1216	complement defect
+N16	Reference T16 MeSH:D007153
+T17	DiseaseClass 1247 1291	bacterial, especially neisserial, infections
+N17	Reference T17 MeSH:D016870

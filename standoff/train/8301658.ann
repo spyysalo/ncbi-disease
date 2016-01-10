@@ -1,0 +1,20 @@
+T1	SpecificDisease 0 35	X linked recessive thrombocytopenia
+N1	Reference T1 OMIM:313900
+T2	SpecificDisease 88 104	thrombocytopenia
+N2	Reference T2 MeSH:D013921
+T3	DiseaseClass 292 319	immunological abnormalities
+N3	Reference T3 MeSH:D007154
+T4	SpecificDisease 416 460	X linked recessive thrombocytopenic disorder
+N4	Reference T4 OMIM:313900
+T5	SpecificDisease 657 681	Wiskott-Aldrich syndrome
+N5	Reference T5 MeSH:D014923
+T6	SpecificDisease 683 686	WAS
+N6	Reference T6 MeSH:D014923
+T7	DiseaseClass 839 858	immune deficiencies
+N7	Reference T7 MeSH:D007154
+T8	SpecificDisease 882 917	X linked recessive thrombocytopenia
+N8	Reference T8 OMIM:313900
+T9	Modifier 989 992	WAS
+N9	Reference T9 MeSH:D014923
+T10	Modifier 1042 1045	WAS
+N10	Reference T10 MeSH:D014923

@@ -1,0 +1,35 @@
+T1	SpecificDisease 65 82	Friedreich ataxia
+N1	Reference T1 MeSH:D005621
+T2	SpecificDisease 84 101	Friedreich ataxia
+N2	Reference T2 MeSH:D005621
+T3	SpecificDisease 103 107	FRDA
+N3	Reference T3 MeSH:D005621
+T4	DiseaseClass 133 150	inherited ataxias
+N4	Reference T4 MeSH:D013132
+T5	DiseaseClass 158 199	autosomal recessive degenerative disorder
+N5	Reference T5 MeSH:D019636
+T6	CompositeMention 259 291	progressive gait and limb ataxia
+N6	Reference T6 MeSH:D020234
+N7	Reference T6 MeSH:D001259
+T7	DiseaseClass 293 324	absence of deep tendon reflexes
+N8	Reference T7 MeSH:D012021
+T8	DiseaseClass 326 352	extensor plantar responses
+N9	Reference T8 MeSH:D001405
+T9	CompositeMention 358 394	loss of position and vibration sense
+N10	Reference T9 MeSH:D053421
+T10	SpecificDisease 415 419	FRDA
+N11	Reference T10 MeSH:D005621
+T11	Modifier 484 488	FRDA
+N12	Reference T11 MeSH:D005621
+T12	Modifier 537 541	FRDA
+N13	Reference T12 MeSH:D005621
+T13	Modifier 660 664	FRDA
+N14	Reference T13 MeSH:D005621
+T14	Modifier 983 987	FRDA
+N15	Reference T14 MeSH:D005621
+T15	Modifier 1160 1164	FRDA
+N16	Reference T15 MeSH:D005621
+T16	SpecificDisease 1313 1317	FRDA
+N17	Reference T16 MeSH:D005621
+T17	DiseaseClass 1339 1361	mitochondrial disorder
+N18	Reference T17 MeSH:D028361

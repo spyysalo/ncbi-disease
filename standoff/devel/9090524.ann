@@ -1,0 +1,24 @@
+T1	SpecificDisease 132 145	kidney cancer
+N1	Reference T1 MeSH:D007680
+T2	SpecificDisease 147 159	Wilms tumour
+N2	Reference T2 MeSH:D009396
+T3	SpecificDisease 161 163	WT
+N3	Reference T3 MeSH:D009396
+T4	SpecificDisease 297 319	sporadic Wilms tumours
+N4	Reference T4 MeSH:D009396
+T5	SpecificDisease 378 398	Denys-Drash syndrome
+N5	Reference T5 MeSH:D030321
+T6	DiseaseClass 400 417	renal nephropathy
+N6	Reference T6 MeSH:D007674
+T7	DiseaseClass 419 434	gonadal anomaly
+N7	Reference T7 MeSH:D006059
+T8	DiseaseClass 436 456	predisposition to WT
+N8	Reference T8 MeSH:D020022
+T9	SpecificDisease 546 576	juvenile granulosa cell tumour
+N9	Reference T9 MeSH:D006106
+T10	SpecificDisease 578 611	non-asbestos related mesothelioma
+N10	Reference T10 MeSH:D008654
+T11	SpecificDisease 613 649	desmoplastic small round cell tumour
+N11	Reference T11 MeSH:D058405
+T12	SpecificDisease 670 692	acute myeloid leukemia
+N12	Reference T12 MeSH:D015470

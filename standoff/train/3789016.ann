@@ -1,0 +1,14 @@
+T1	SpecificDisease 33 80	deficiency of the third component of complement
+N1	Reference T1 OMIM:613779
+T2	SpecificDisease 130 143	C3 deficiency
+N2	Reference T2 OMIM:613779
+T3	SpecificDisease 278 291	C3 deficiency
+N3	Reference T3 OMIM:613779
+T4	SpecificDisease 506 519	C3 deficiency
+N4	Reference T4 OMIM:613779
+T5	SpecificDisease 670 683	C3 deficiency
+N5	Reference T5 OMIM:613779
+T6	SpecificDisease 791 804	C3 deficiency
+N6	Reference T6 OMIM:613779
+T7	SpecificDisease 885 898	C3 deficiency
+N7	Reference T7 OMIM:613779

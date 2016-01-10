@@ -1,0 +1,10 @@
+T1	Modifier 25 30	tumor
+N1	Reference T1 MeSH:D009369
+T2	Modifier 75 101	adenomatous polyposis coli
+N2	Reference T2 MeSH:D011125
+T3	SpecificDisease 127 157	familial adenomatous polyposis
+N3	Reference T3 MeSH:D011125
+T4	SpecificDisease 174 191	colorectal tumors
+N4	Reference T4 MeSH:D015179
+T5	Modifier 202 205	APC
+N5	Reference T5 MeSH:D011125

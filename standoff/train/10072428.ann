@@ -1,0 +1,35 @@
+T1	SpecificDisease 56 79	familial gastric cancer
+N1	Reference T1 MeSH:D013274
+T2	SpecificDisease 84 101	colorectal cancer
+N2	Reference T2 MeSH:D015179
+T3	SpecificDisease 206 229	familial gastric cancer
+N3	Reference T3 MeSH:D013274
+T4	SpecificDisease 231 254	Familial gastric cancer
+N4	Reference T4 MeSH:D013274
+T5	Modifier 323 337	gastric cancer
+N5	Reference T5 MeSH:D013274
+T6	Modifier 442 465	familial gastric cancer
+N6	Reference T6 MeSH:D013274
+T7	SpecificDisease 629 643	gastric cancer
+N7	Reference T7 MeSH:D013274
+T8	SpecificDisease 740 754	gastric cancer
+N8	Reference T8 MeSH:D013274
+T9	CompositeMention 1027 1056	gastric and colorectal cancer
+N9	Reference T9 MeSH:D015179
+N10	Reference T9 MeSH:D013274
+T10	SpecificDisease 1092 1106	gastric cancer
+N11	Reference T10 MeSH:D013274
+T11	SpecificDisease 1142 1159	colorectal cancer
+N12	Reference T11 MeSH:D015179
+T12	SpecificDisease 1242 1265	familial gastric cancer
+N13	Reference T12 MeSH:D013274
+T13	SpecificDisease 1329 1344	gastric cancers
+N14	Reference T13 MeSH:D013274
+T14	DiseaseClass 1465 1493	colorectal and other cancers
+N15	Reference T14 MeSH:D015179
+N16	Reference T14 MeSH:D009369
+T15	SpecificDisease 1584 1601	colorectal cancer
+N17	Reference T15 MeSH:D015179
+T16	CompositeMention 1684 1714	gastric and colorectal cancers
+N18	Reference T16 MeSH:D015179
+N19	Reference T16 MeSH:D013274

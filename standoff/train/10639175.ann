@@ -1,0 +1,18 @@
+T1	SpecificDisease 93 114	Ataxia-telangiectasia
+N1	Reference T1 MeSH:D001260
+T2	DiseaseClass 120 152	hereditary multisystemic disease
+N2	Reference T2 MeSH:D030342
+T3	SpecificDisease 181 202	ataxia telangiectasia
+N3	Reference T3 MeSH:D001260
+T4	DiseaseClass 242 259	neurodegeneration
+N4	Reference T4 MeSH:D019636
+T5	DiseaseClass 261 267	cancer
+N5	Reference T5 MeSH:D009369
+T6	DiseaseClass 269 283	immune defects
+N6	Reference T6 MeSH:D007154
+T7	DiseaseClass 289 327	hypersensitivity to ionizing radiation
+N7	Reference T7 MeSH:D004194
+T8	DiseaseClass 415 434	neurological lesion
+N8	Reference T8 MeSH:D019636
+T9	SpecificDisease 438 459	ataxia-telangiectasia
+N9	Reference T9 MeSH:D001260

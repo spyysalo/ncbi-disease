@@ -1,0 +1,12 @@
+T1	SpecificDisease 0 29	von Willebrand disease type B
+N1	Reference T1 MeSH:D014842
+T2	Modifier 92 106	von Willebrand
+N2	Reference T2 MeSH:D014842
+T3	Modifier 151 165	von Willebrand
+N3	Reference T3 MeSH:D014842
+T4	SpecificDisease 565 594	von Willebrand disease type B
+N4	Reference T4 MeSH:D014842
+T5	SpecificDisease 902 931	von Willebrand disease type B
+N5	Reference T5 MeSH:D014842
+T6	SpecificDisease 1271 1300	von Willebrand disease type B
+N6	Reference T6 MeSH:D014842

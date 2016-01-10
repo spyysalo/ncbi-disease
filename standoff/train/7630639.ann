@@ -1,0 +1,8 @@
+T1	Modifier 4 29	alveolar rhabdomyosarcoma
+N1	Reference T1 MeSH:D018232
+T2	DiseaseClass 265 277	solid tumors
+N2	Reference T2 MeSH:D009369
+T3	SpecificDisease 342 367	alveolar rhabdomyosarcoma
+N3	Reference T3 MeSH:D018232
+T4	Modifier 1030 1035	tumor
+N4	Reference T4 MeSH:D009369

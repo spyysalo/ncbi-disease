@@ -1,0 +1,14 @@
+T1	SpecificDisease 30 72	X-linked Emery-Dreifuss muscular dystrophy
+N1	Reference T1 MeSH:D020389
+T2	SpecificDisease 74 116	X-linked Emery-Dreifuss muscular dystrophy
+N2	Reference T2 MeSH:D020389
+T3	SpecificDisease 118 122	EDMD
+N3	Reference T3 MeSH:D020389
+T4	DiseaseClass 145 174	benign neuromuscular disorder
+N4	Reference T4 MeSH:D009468
+T5	DiseaseClass 378 396	loss of ambulation
+N5	Reference T5 MeSH:D051346
+T6	DiseaseClass 408 422	muscle wasting
+N6	Reference T6 MeSH:D009133
+T7	SpecificDisease 748 781	Emery-Dreifuss muscular dystrophy
+N7	Reference T7 MeSH:D020389

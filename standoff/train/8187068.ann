@@ -1,0 +1,10 @@
+T1	SpecificDisease 74 99	advanced prostate cancers
+N1	Reference T1 MeSH:D011471
+T2	SpecificDisease 183 209	metastatic prostate cancer
+N2	Reference T2 MeSH:D011471
+T3	Modifier 558 584	metastatic prostate cancer
+N3	Reference T3 MeSH:D011471
+T4	SpecificDisease 954 978	advanced prostate cancer
+N4	Reference T4 MeSH:D011471
+T5	SpecificDisease 1096 1120	advanced prostate cancer
+N5	Reference T5 MeSH:D011471

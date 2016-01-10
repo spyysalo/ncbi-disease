@@ -1,0 +1,22 @@
+T1	SpecificDisease 36 60	Chediak-Higashi syndrome
+N1	Reference T1 MeSH:D002609
+T2	SpecificDisease 393 417	Chediak-Higashi syndrome
+N2	Reference T2 MeSH:D002609
+T3	SpecificDisease 419 422	CHS
+N3	Reference T3 MeSH:D002609
+T4	DiseaseClass 430 448	inherited disorder
+N4	Reference T4 MeSH:D030342
+T5	SpecificDisease 672 700	lymphoproliferative syndrome
+N5	Reference T5 MeSH:D008232
+T6	DiseaseClass 706 722	hemophagocytosis
+N6	Reference T6 MeSH:D051359
+T7	SpecificDisease 749 752	CHS
+N7	Reference T7 MeSH:D002609
+T8	SpecificDisease 821 849	lymphoproliferative syndrome
+N8	Reference T8 MeSH:D008232
+T9	Modifier 923 926	CHS
+N9	Reference T9 MeSH:D002609
+T10	Modifier 1134 1137	CHS
+N10	Reference T10 MeSH:D002609
+T11	SpecificDisease 1179 1206	lymphoproliferative disease
+N11	Reference T11 MeSH:D008232

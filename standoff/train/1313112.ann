@@ -1,0 +1,20 @@
+T1	SpecificDisease 56 91	familial adenomatous polyposis coli
+N1	Reference T1 MeSH:D011125
+T2	SpecificDisease 122 157	familial adenomatous polyposis coli
+N2	Reference T2 MeSH:D011125
+T3	SpecificDisease 159 163	FAPC
+N3	Reference T3 MeSH:D011125
+T4	SpecificDisease 170 186	epidermoid cysts
+N4	Reference T4 MeSH:D004814
+T5	SpecificDisease 188 197	osteomata
+N5	Reference T5 MeSH:D010016
+T6	SpecificDisease 212 268	congenital hypertrophy of the retinal pigment epithelium
+N6	Reference T6 MeSH:D012164
+T7	SpecificDisease 270 276	CHRPEs
+N7	Reference T7 MeSH:D012164
+T8	DiseaseClass 370 385	mental handicap
+N8	Reference T8 MeSH:D008607
+T9	Modifier 860 863	APC
+N9	Reference T9 MeSH:D011125
+T10	Modifier 874 877	APC
+N10	Reference T10 MeSH:D011125

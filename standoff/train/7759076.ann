@@ -1,0 +1,23 @@
+T1	Modifier 32 64	breast and breast-ovarian cancer
+N1	Reference T1 MeSH:D001943
+N2	Reference T1 MeSH:D061325
+T2	CompositeMention 118 153	hereditary breast or ovarian cancer
+N3	Reference T2 MeSH:D061325
+T3	SpecificDisease 267 281	ovarian cancer
+N4	Reference T3 MeSH:D010051
+T4	SpecificDisease 412 425	breast cancer
+N5	Reference T4 MeSH:D001943
+T5	SpecificDisease 434 448	ovarian cancer
+N6	Reference T5 MeSH:D010051
+T6	Modifier 477 498	breast-ovarian cancer
+N7	Reference T6 MeSH:D061325
+T7	Modifier 611 617	cancer
+N8	Reference T7 MeSH:D009369
+T8	DiseaseClass 645 652	cancers
+N9	Reference T8 MeSH:D009369
+T9	SpecificDisease 717 742	primary peritoneal cancer
+N10	Reference T9 MeSH:D010534
+T10	SpecificDisease 744 772	cancer of the fallopian tube
+N11	Reference T10 MeSH:D005185
+T11	SpecificDisease 778 796	malignant melanoma
+N12	Reference T11 MeSH:D008545

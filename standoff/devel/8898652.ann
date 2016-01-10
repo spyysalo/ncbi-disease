@@ -1,0 +1,16 @@
+T1	SpecificDisease 46 64	colorectal cancers
+N1	Reference T1 MeSH:D015179
+T2	SpecificDisease 164 182	colorectal cancers
+N2	Reference T2 MeSH:D015179
+T3	SpecificDisease 382 400	pancreatic cancers
+N3	Reference T3 MeSH:D010190
+T4	SpecificDisease 479 497	colorectal cancers
+N4	Reference T4 MeSH:D015179
+T5	Modifier 603 620	colorectal cancer
+N5	Reference T5 MeSH:D015179
+T6	DiseaseClass 908 915	cancers
+N6	Reference T6 MeSH:D009369
+T7	SpecificDisease 1019 1037	colorectal cancers
+N7	Reference T7 MeSH:D015179
+T8	SpecificDisease 1098 1116	colorectal cancers
+N8	Reference T8 MeSH:D015179

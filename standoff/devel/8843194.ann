@@ -1,0 +1,24 @@
+T1	DiseaseClass 36 54	growth retardation
+N1	Reference T1 MeSH:D006130
+T2	SpecificDisease 56 96	chromosomal fragmentation during meiosis
+N2	Reference T2 MeSH:D048629
+T3	DiseaseClass 98 112	immune defects
+N3	Reference T3 MeSH:D007154
+T4	SpecificDisease 118 133	thymic lymphoma
+N4	Reference T4 MeSH:D013953
+T5	DiseaseClass 164 187	inherited human disease
+N5	Reference T5 MeSH:D030342
+T6	SpecificDisease 188 209	ataxia-telangiectasia
+N6	Reference T6 MeSH:D001260
+T7	SpecificDisease 568 589	ataxia-telangiectasia
+N7	Reference T7 MeSH:D001260
+T8	SpecificDisease 675 686	infertility
+N8	Reference T8 MeSH:D007246
+T9	DiseaseClass 884 898	Immune defects
+N9	Reference T9 MeSH:D007154
+T10	DiseaseClass 1207 1231	behavioral abnormalities
+N10	Reference T10 MeSH:D001523
+T11	SpecificDisease 1277 1293	thymic lymphomas
+N11	Reference T11 MeSH:D008223
+T12	Modifier 1523 1528	tumor
+N12	Reference T12 MeSH:D009369

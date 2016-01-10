@@ -1,0 +1,22 @@
+T1	DiseaseClass 66 79	rare diseases
+N1	Reference T1 MeSH:D035583
+T2	SpecificDisease 80 101	ataxia-telangiectasia
+N2	Reference T2 MeSH:D001260
+T3	SpecificDisease 103 105	AT
+N3	Reference T3 MeSH:D001260
+T4	SpecificDisease 149 175	Nijmegen breakage syndrome
+N4	Reference T4 MeSH:D049932
+T5	SpecificDisease 177 180	NBS
+N5	Reference T5 MeSH:D049932
+T6	DiseaseClass 239 263	phenotypic abnormalities
+N6	Reference T6 MeSH:D004194
+T7	DiseaseClass 272 295	chromosomal instability
+N7	Reference T7 MeSH:D043171
+T8	SpecificDisease 640 642	AT
+N8	Reference T8 MeSH:D001260
+T9	SpecificDisease 647 650	NBS
+N9	Reference T9 MeSH:D049932
+T10	Modifier 814 817	NBS
+N10	Reference T10 MeSH:D049932
+T11	Modifier 1239 1242	NBS
+N11	Reference T11 MeSH:D049932

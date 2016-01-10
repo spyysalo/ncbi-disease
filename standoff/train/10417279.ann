@@ -1,0 +1,12 @@
+T1	SpecificDisease 61 89	Pelizaeus-Merzbacher Disease
+N1	Reference T1 OMIM:312080
+T2	DiseaseClass 244 272	Brain Dysmyelinating Disease
+N2	Reference T2 MeSH:D020279
+T3	SpecificDisease 274 302	Pelizaeus-Merzbacher Disease
+N3	Reference T3 OMIM:312080
+T4	SpecificDisease 304 307	PMD
+N4	Reference T4 MeSH:D020371
+T5	DiseaseClass 315 359	X-linked developmental defect of myelination
+N5	Reference T5 MeSH:D020279
+T6	SpecificDisease 506 509	PMD
+N6	Reference T6 MeSH:D020371

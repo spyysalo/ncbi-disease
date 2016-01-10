@@ -1,0 +1,8 @@
+T1	SpecificDisease 23 45	ankylosing spondylitis
+N1	Reference T1 MeSH:D013167
+T2	SpecificDisease 91 113	Ankylosing spondylitis
+N2	Reference T2 MeSH:D013167
+T3	SpecificDisease 637 659	ankylosing spondylitis
+N3	Reference T3 MeSH:D013167
+T4	SpecificDisease 908 930	ankylosing spondylitis
+N4	Reference T4 MeSH:D013167

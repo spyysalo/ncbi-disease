@@ -1,0 +1,8 @@
+T1	SpecificDisease 25 38	Lowe syndrome
+N1	Reference T1 MeSH:D009800
+T2	SpecificDisease 97 110	Lowe syndrome
+N2	Reference T2 MeSH:D009800
+T3	SpecificDisease 126 152	oculocerebrorenal syndrome
+N3	Reference T3 MeSH:D009800
+T4	SpecificDisease 1715 1728	Lowe syndrome
+N4	Reference T4 MeSH:D009800

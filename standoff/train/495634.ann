@@ -1,0 +1,16 @@
+T1	SpecificDisease 0 47	Deficiency of the fifth component of complement
+N1	Reference T1 OMIM:609536
+T2	SpecificDisease 179 226	deficiency of the fifth component of complement
+N2	Reference T2 OMIM:609536
+T3	SpecificDisease 409 429	gonococcal infection
+N3	Reference T3 MeSH:D006069
+T4	Modifier 974 986	C5-deficient
+N4	Reference T4 OMIM:609536
+T5	SpecificDisease 1518 1531	C5 deficiency
+N5	Reference T5 OMIM:609536
+T6	SpecificDisease 1674 1687	C5 deficiency
+N6	Reference T6 OMIM:609536
+T7	SpecificDisease 1689 1705	Deficiency of C5
+N7	Reference T7 OMIM:609536
+T8	SpecificDisease 1790 1810	gonococcal infection
+N8	Reference T8 MeSH:D006069

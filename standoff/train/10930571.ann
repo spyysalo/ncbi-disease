@@ -1,0 +1,26 @@
+T1	SpecificDisease 93 115	faciogenital dysplasia
+N1	Reference T1 MeSH:C535331
+T2	SpecificDisease 117 139	Aarskog-Scott syndrome
+N2	Reference T2 MeSH:C535331
+T3	SpecificDisease 142 164	Aarskog-Scott Syndrome
+N3	Reference T3 MeSH:C535331
+T4	SpecificDisease 166 169	AAS
+N4	Reference T4 MeSH:C535331
+T5	DiseaseClass 177 194	X-linked disorder
+N5	Reference T5 MeSH:D040181
+T6	DiseaseClass 212 225	short stature
+N6	Reference T6 MeSH:D006130
+T7	CompositeMention 239 277	facial, limb and genital abnormalities
+N7	Reference T7 MeSH:D019465
+N8	Reference T7 MeSH:D017880
+N9	Reference T7 MeSH:D014564
+T8	Modifier 319 322	AAS
+N10	Reference T8 MeSH:C535331
+T9	Modifier 543 546	AAS
+N11	Reference T9 MeSH:C535331
+T10	SpecificDisease 681 684	AAS
+N12	Reference T10 MeSH:C535331
+T11	Modifier 884 887	AAS
+N13	Reference T11 MeSH:C535331
+T12	SpecificDisease 1291 1318	X-linked agammaglobulinemia
+N14	Reference T12 OMIM:300755

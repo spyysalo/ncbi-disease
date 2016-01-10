@@ -1,0 +1,18 @@
+T1	DiseaseClass 36 57	hyperphenylalaninemia
+N1	Reference T1 MeSH:D010661
+T2	DiseaseClass 96 111	genetic defects
+N2	Reference T2 MeSH:D030342
+T3	SpecificDisease 133 148	phenylketonuria
+N3	Reference T3 MeSH:D010661
+T4	SpecificDisease 150 153	PKU
+N4	Reference T4 MeSH:D010661
+T5	DiseaseClass 159 180	hyperphenylalaninemia
+N5	Reference T5 MeSH:D010661
+T6	DiseaseClass 182 185	HPA
+N6	Reference T6 MeSH:D010661
+T7	Modifier 583 586	PKU
+N7	Reference T7 MeSH:D010661
+T8	Modifier 587 590	HPA
+N8	Reference T8 MeSH:D010661
+T9	DiseaseClass 656 659	HPA
+N9	Reference T9 MeSH:D010661

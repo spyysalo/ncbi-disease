@@ -1,0 +1,16 @@
+T1	SpecificDisease 94 118	acute radiation toxicity
+N1	Reference T1 MeSH:D054508
+T2	DiseaseClass 161 187	cancer-associated diseases
+N2	Reference T2 MeSH:D009369
+T3	SpecificDisease 188 209	ataxia-telangiectasia
+N3	Reference T3 MeSH:D001260
+T4	SpecificDisease 214 234	Li-Fraumeni syndrome
+N4	Reference T4 MeSH:D016864
+T5	SpecificDisease 507 523	T-cell lymphomas
+N5	Reference T5 MeSH:D016399
+T6	Modifier 848 854	tumour
+N6	Reference T6 MeSH:D009369
+T7	SpecificDisease 1366 1390	acute radiation toxicity
+N7	Reference T7 MeSH:D054508
+T8	DiseaseClass 1529 1536	tumours
+N8	Reference T8 MeSH:D009369

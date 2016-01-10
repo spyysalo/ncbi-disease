@@ -1,0 +1,22 @@
+T1	SpecificDisease 0 10	Piebaldism
+N1	Reference T1 MeSH:D016116
+T2	SpecificDisease 16 24	deafness
+N2	Reference T2 MeSH:D003638
+T3	SpecificDisease 122 132	piebaldism
+N3	Reference T3 MeSH:D016116
+T4	SpecificDisease 157 179	sensorineural deafness
+N4	Reference T4 MeSH:D006319
+T5	DiseaseClass 330 348	auditory anomalies
+N5	Reference T5 MeSH:D001304
+T6	SpecificDisease 431 439	deafness
+N6	Reference T6 MeSH:D003638
+T7	SpecificDisease 464 474	piebaldism
+N7	Reference T7 MeSH:D016116
+T8	SpecificDisease 500 522	sensorineural deafness
+N8	Reference T8 MeSH:D006319
+T9	SpecificDisease 584 594	piebaldism
+N9	Reference T9 MeSH:D016116
+T10	SpecificDisease 675 685	piebaldism
+N10	Reference T10 MeSH:D016116
+T11	SpecificDisease 711 731	Waardenburg syndrome
+N11	Reference T11 MeSH:D014849

@@ -1,0 +1,24 @@
+T1	SpecificDisease 6 26	pyoderma gangrenosum
+N1	Reference T1 MeSH:D017511
+T2	SpecificDisease 47 60	C7 deficiency
+N2	Reference T2 OMIM:610102
+T3	SpecificDisease 71 91	pyoderma gangrenosum
+N3	Reference T3 MeSH:D017511
+T4	SpecificDisease 93 95	PG
+N4	Reference T4 MeSH:D017511
+T5	DiseaseClass 122 139	systemic diseases
+N5	Reference T5 MeSH:D034721
+T6	DiseaseClass 186 220	congenital complement deficiencies
+N6	Reference T6 MeSH:D007153
+T7	SpecificDisease 277 279	PG
+N7	Reference T7 MeSH:D017511
+T8	SpecificDisease 311 324	C7 deficiency
+N8	Reference T8 OMIM:610102
+T9	SpecificDisease 326 344	Deficiencies of C7
+N9	Reference T9 OMIM:610102
+T10	DiseaseClass 448 473	immunologic abnormalities
+N10	Reference T10 MeSH:D007153
+T11	SpecificDisease 501 503	PG
+N11	Reference T11 MeSH:D017511
+T12	SpecificDisease 592 594	PG
+N12	Reference T12 MeSH:D017511

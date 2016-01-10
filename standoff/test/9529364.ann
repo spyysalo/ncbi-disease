@@ -1,0 +1,42 @@
+T1	SpecificDisease 74 101	diffuse mesangial sclerosis
+N1	Reference T1 MeSH:C537346
+T2	SpecificDisease 356 376	Denys-Drash syndrome
+N2	Reference T2 MeSH:D030321
+T3	SpecificDisease 378 381	DDS
+N3	Reference T3 MeSH:D030321
+T4	SpecificDisease 387 414	diffuse mesangial sclerosis
+N4	Reference T4 MeSH:C537346
+T5	SpecificDisease 416 419	DMS
+N5	Reference T5 MeSH:C537346
+T6	SpecificDisease 437 458	pseudohermaphroditism
+N6	Reference T6 MeSH:D012734
+T7	SpecificDisease 466 477	Wilms tumor
+N7	Reference T7 MeSH:D009396
+T8	SpecificDisease 479 481	WT
+N8	Reference T8 MeSH:D009396
+T9	Modifier 502 505	DDS
+N9	Reference T9 MeSH:D030321
+T10	SpecificDisease 675 687	isolated DMS
+N10	Reference T10 MeSH:C537346
+T11	SpecificDisease 689 693	IDMS
+N11	Reference T11 MeSH:C537346
+T12	SpecificDisease 704 707	DDS
+N12	Reference T12 MeSH:D030321
+T13	DiseaseClass 720 744	urogenital abnormalities
+N13	Reference T13 MeSH:D014564
+T14	SpecificDisease 752 754	WT
+N14	Reference T14 MeSH:D009396
+T15	SpecificDisease 834 838	IDMS
+N15	Reference T15 MeSH:C537346
+T16	Modifier 864 868	IDMS
+N16	Reference T16 MeSH:C537346
+T17	SpecificDisease 953 957	IDMS
+N17	Reference T17 MeSH:C537346
+T18	Modifier 996 999	DDS
+N18	Reference T18 MeSH:D030321
+T19	Modifier 1058 1062	IDMS
+N19	Reference T19 MeSH:C537346
+T20	SpecificDisease 1420 1423	DMS
+N20	Reference T20 MeSH:C537346
+T21	SpecificDisease 1449 1452	DMS
+N21	Reference T21 MeSH:C537346

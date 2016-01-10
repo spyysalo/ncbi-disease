@@ -1,0 +1,34 @@
+T1	SpecificDisease 28 50	ankylosing spondylitis
+N1	Reference T1 MeSH:D013167
+T2	SpecificDisease 102 124	ankylosing spondylitis
+N2	Reference T2 MeSH:D013167
+T3	SpecificDisease 126 128	AS
+N3	Reference T3 MeSH:D013167
+T4	SpecificDisease 211 231	peripheral arthritis
+N4	Reference T4 MeSH:D001168
+T5	SpecificDisease 243 273	peripheral psoriatic arthritis
+N5	Reference T5 MeSH:D015535
+T6	SpecificDisease 360 382	ankylosing spondylitis
+N6	Reference T6 MeSH:D013167
+T7	SpecificDisease 387 405	ulcerative colitis
+N7	Reference T7 MeSH:D003093
+T8	SpecificDisease 424 442	ulcerative colitis
+N8	Reference T8 MeSH:D003093
+T9	SpecificDisease 632 654	ankylosing spondylitis
+N9	Reference T9 MeSH:D013167
+T10	SpecificDisease 670 679	psoriasis
+N10	Reference T10 MeSH:D011565
+T11	SpecificDisease 684 710	inflammatory bowel disease
+N11	Reference T11 MeSH:D015212
+T12	SpecificDisease 829 851	ankylosing spondylitis
+N12	Reference T12 MeSH:D013167
+T13	SpecificDisease 922 933	spondylitis
+N13	Reference T13 MeSH:D013166
+T14	SpecificDisease 972 990	ulcerative colitis
+N14	Reference T14 MeSH:D003093
+T15	SpecificDisease 1002 1013	spondylitis
+N15	Reference T15 MeSH:D013166
+T16	SpecificDisease 1082 1104	ankylosing spondylitis
+N16	Reference T16 MeSH:D013167
+T17	SpecificDisease 1197 1219	ankylosing spondylitis
+N17	Reference T17 MeSH:D013167

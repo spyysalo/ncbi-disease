@@ -1,0 +1,16 @@
+T1	Modifier 4 18	Norrie disease
+N1	Reference T1 MeSH:C537849
+T2	SpecificDisease 70 84	Norrie disease
+N2	Reference T2 MeSH:C537849
+T3	DiseaseClass 96 123	X-linked recessive disorder
+N3	Reference T3 MeSH:D040181
+T4	SpecificDisease 161 181	congenital blindness
+N4	Reference T4 MeSH:D057130
+T5	SpecificDisease 183 206	sensory neural deafness
+N5	Reference T5 MeSH:D006319
+T6	DiseaseClass 211 229	mental retardation
+N6	Reference T6 MeSH:D008607
+T7	Modifier 410 424	Norrie disease
+N7	Reference T7 MeSH:C537849
+T8	SpecificDisease 535 549	Norrie disease
+N8	Reference T8 MeSH:C537849

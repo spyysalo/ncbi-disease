@@ -1,0 +1,30 @@
+T1	SpecificDisease 0 36	Paroxysmal nocturnal haemoglobinuria
+N1	Reference T1 MeSH:D006457
+T2	SpecificDisease 53 100	deficiency of the ninth component of complement
+N2	Reference T2 OMIM:613825
+T3	SpecificDisease 118 135	haemolytic attack
+N3	Reference T3 MeSH:D006461
+T4	SpecificDisease 162 198	paroxysmal nocturnal haemoglobinuria
+N4	Reference T4 MeSH:D006457
+T5	SpecificDisease 200 203	PNH
+N5	Reference T5 MeSH:D006457
+T6	SpecificDisease 226 280	inherited deficiency in the ninth complement component
+N6	Reference T6 OMIM:613825
+T7	SpecificDisease 583 593	haemolysis
+N7	Reference T7 MeSH:D006461
+T8	SpecificDisease 640 650	haemolysis
+N8	Reference T8 MeSH:D006461
+T9	SpecificDisease 658 673	haemoglobinuria
+N9	Reference T9 MeSH:D006456
+T10	SpecificDisease 678 686	jaundice
+N10	Reference T10 MeSH:D007565
+T11	DiseaseClass 1194 1212	haemolytic attacks
+N11	Reference T11 MeSH:D006461
+T12	SpecificDisease 1230 1233	PNH
+N12	Reference T12 MeSH:D006457
+T13	SpecificDisease 1258 1268	haemolysis
+N13	Reference T13 MeSH:D006461
+T14	SpecificDisease 1272 1275	PNH
+N14	Reference T14 MeSH:D006457
+T15	SpecificDisease 1306 1319	C9 deficiency
+N15	Reference T15 OMIM:613825

@@ -1,0 +1,50 @@
+T1	DiseaseClass 0 19	Malignant neoplasms
+N1	Reference T1 MeSH:D009369
+T2	SpecificDisease 53 74	ataxia-telangiectasia
+N2	Reference T2 MeSH:D001260
+T3	SpecificDisease 76 97	Ataxia-telangiectasia
+N3	Reference T3 MeSH:D001260
+T4	SpecificDisease 99 102	A-T
+N4	Reference T4 MeSH:D001260
+T5	DiseaseClass 110 138	autosomal recessive syndrome
+N5	Reference T5 MeSH:D030342
+T6	DiseaseClass 188 207	malignant neoplasms
+N6	Reference T6 MeSH:D009369
+T7	SpecificDisease 275 278	A-T
+N7	Reference T7 MeSH:D001260
+T8	DiseaseClass 441 448	cancers
+N8	Reference T8 MeSH:D009369
+T9	SpecificDisease 539 542	A-T
+N9	Reference T9 MeSH:D001260
+T10	DiseaseClass 697 716	malignant neoplasms
+N10	Reference T10 MeSH:D009369
+T11	SpecificDisease 748 751	A-T
+N11	Reference T11 MeSH:D001260
+T12	DiseaseClass 841 860	malignant neoplasms
+N12	Reference T12 MeSH:D009369
+T13	Modifier 947 950	A-T
+N13	Reference T13 MeSH:D001260
+T14	DiseaseClass 1011 1029	malignant neoplasm
+N14	Reference T14 MeSH:D009369
+T15	Modifier 1108 1111	A-T
+N15	Reference T15 MeSH:D001260
+T16	DiseaseClass 1180 1186	cancer
+N16	Reference T16 MeSH:D009369
+T17	CompositeMention 1219 1266	ovarian, gastric, and biliary system carcinomas
+N17	Reference T17 MeSH:D010051
+N18	Reference T17 MeSH:D013274
+N19	Reference T17 MeSH:D001661
+T18	DiseaseClass 1274 1282	leukemia
+N20	Reference T18 MeSH:D007938
+T19	DiseaseClass 1287 1295	lymphoma
+N21	Reference T19 MeSH:D008223
+T20	Modifier 1319 1322	A-T
+N22	Reference T20 MeSH:D001260
+T21	DiseaseClass 1339 1348	neoplasms
+N23	Reference T21 MeSH:D009369
+T22	CompositeMention 1412 1476	pancreatic, basal cell, colonic, breast, and cervical carcinomas
+N24	Reference T22 MeSH:D010190
+N25	Reference T22 MeSH:D002280
+N26	Reference T22 MeSH:D015179
+N27	Reference T22 MeSH:D001943
+N28	Reference T22 MeSH:D002583

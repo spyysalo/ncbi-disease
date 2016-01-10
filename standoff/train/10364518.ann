@@ -1,0 +1,14 @@
+T1	SpecificDisease 58 71	Lowe syndrome
+N1	Reference T1 MeSH:D009800
+T2	SpecificDisease 140 174	oculocerebrorenal syndrome of Lowe
+N2	Reference T2 MeSH:D009800
+T3	SpecificDisease 176 180	OCRL
+N3	Reference T3 MeSH:D009800
+T4	DiseaseClass 188 205	X-linked disorder
+N4	Reference T4 MeSH:D040181
+T5	CompositeMention 229 279	abnormalities of eyes, nervous system, and kidneys
+N5	Reference T5 MeSH:D000015
+T6	SpecificDisease 501 505	OCRL
+N6	Reference T6 MeSH:D009800
+T7	Modifier 1251 1264	Lowe syndrome
+N7	Reference T7 MeSH:D009800

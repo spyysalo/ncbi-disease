@@ -1,0 +1,8 @@
+T1	Modifier 75 80	tumor
+N1	Reference T1 MeSH:D009369
+T2	SpecificDisease 267 280	Ewing sarcoma
+N2	Reference T2 MeSH:D012512
+T3	SpecificDisease 293 315	neuroectodermal tumors
+N3	Reference T3 MeSH:D017599
+T4	DiseaseClass 1054 1066	Ewing tumors
+N4	Reference T4 MeSH:D012512

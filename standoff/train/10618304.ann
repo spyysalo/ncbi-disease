@@ -1,0 +1,16 @@
+T1	SpecificDisease 37 53	Brugada syndrome
+N1	Reference T1 MeSH:D053840
+T2	SpecificDisease 224 251	congenital long-QT syndrome
+N2	Reference T2 MeSH:D008133
+T3	SpecificDisease 253 257	LQT3
+N3	Reference T3 MeSH:C537034
+T4	SpecificDisease 263 298	idiopathic ventricular fibrillation
+N4	Reference T4 MeSH:C537182
+T5	SpecificDisease 300 303	IVF
+N5	Reference T5 MeSH:C537182
+T6	SpecificDisease 806 809	IVF
+N6	Reference T6 MeSH:C537182
+T7	Modifier 933 937	LQT3
+N7	Reference T7 MeSH:C537034
+T8	SpecificDisease 1689 1692	IVF
+N8	Reference T8 MeSH:C537182

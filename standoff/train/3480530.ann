@@ -1,0 +1,18 @@
+T1	SpecificDisease 31 46	retinoblastomas
+N1	Reference T1 MeSH:D012175
+T2	DiseaseClass 51 69	mesenchymal tumors
+N2	Reference T2 MeSH:C535700
+T3	SpecificDisease 125 139	Retinoblastoma
+N3	Reference T3 MeSH:D012175
+T4	DiseaseClass 145 160	childhood tumor
+N4	Reference T4 MeSH:D009369
+T5	Modifier 576 590	retinoblastoma
+N5	Reference T5 MeSH:D012175
+T6	DiseaseClass 710 728	mesenchymal tumors
+N6	Reference T6 MeSH:C535700
+T7	SpecificDisease 781 795	retinoblastoma
+N7	Reference T7 MeSH:D012175
+T8	SpecificDisease 824 838	retinoblastoma
+N8	Reference T8 MeSH:D012175
+T9	DiseaseClass 846 852	tumors
+N9	Reference T9 MeSH:D009369

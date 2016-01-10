@@ -1,0 +1,26 @@
+T1	SpecificDisease 61 75	hepatoblastoma
+N1	Reference T1 MeSH:D018197
+T2	SpecificDisease 77 91	Hepatoblastoma
+N2	Reference T2 MeSH:D018197
+T3	DiseaseClass 102 130	malignant tumor of the liver
+N3	Reference T3 MeSH:D008113+D018198
+T4	Modifier 254 259	tumor
+N4	Reference T4 MeSH:D009369
+T5	SpecificDisease 289 315	adenomatous polyposis coli
+N5	Reference T5 MeSH:D011125
+T6	Modifier 415 424	APC tumor
+N6	Reference T6 MeSH:D011125
+T7	Modifier 455 469	hepatoblastoma
+N7	Reference T7 MeSH:D018197
+T8	Modifier 697 702	tumor
+N8	Reference T8 MeSH:D009369
+T9	SpecificDisease 734 760	adenomatous polyposis coli
+N9	Reference T9 MeSH:D011125
+T10	SpecificDisease 861 876	hepatoblastomas
+N10	Reference T10 MeSH:D018197
+T11	Modifier 979 984	tumor
+N11	Reference T11 MeSH:D009369
+T12	SpecificDisease 1100 1114	hepatoblastoma
+N12	Reference T12 MeSH:D018197
+T13	Modifier 1220 1225	tumor
+N13	Reference T13 MeSH:D009369

@@ -1,0 +1,22 @@
+T1	Modifier 29 43	ovarian cancer
+N1	Reference T1 MeSH:D010051
+T2	SpecificDisease 139 154	ovarian cancers
+N2	Reference T2 MeSH:D010051
+T3	Modifier 189 202	ovarian tumor
+N3	Reference T3 MeSH:D010051
+T4	SpecificDisease 354 379	serous cystadenocarcinoma
+N4	Reference T4 MeSH:D018284
+T5	SpecificDisease 558 572	ovarian tumors
+N5	Reference T5 MeSH:D010051
+T6	Modifier 701 706	tumor
+N6	Reference T6 MeSH:D009369
+T7	SpecificDisease 779 792	ovarian tumor
+N7	Reference T7 MeSH:D010051
+T8	SpecificDisease 937 978	hereditary nonpolyposis colorectal cancer
+N8	Reference T8 MeSH:D003123
+T9	SpecificDisease 1238 1251	ovarian tumor
+N9	Reference T9 MeSH:D010051
+T10	DiseaseClass 1374 1379	tumor
+N10	Reference T10 MeSH:D009369
+T11	SpecificDisease 1549 1563	ovarian cancer
+N11	Reference T11 MeSH:D010051

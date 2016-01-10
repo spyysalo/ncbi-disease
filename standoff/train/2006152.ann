@@ -1,0 +1,12 @@
+T1	Modifier 30 45	phenylketonuria
+N1	Reference T1 MeSH:D010661
+T2	SpecificDisease 334 349	phenylketonuria
+N2	Reference T2 MeSH:D010661
+T3	SpecificDisease 351 354	PKU
+N3	Reference T3 MeSH:D010661
+T4	Modifier 647 650	PKU
+N4	Reference T4 MeSH:D010661
+T5	Modifier 948 951	PKU
+N5	Reference T5 MeSH:D010661
+T6	Modifier 1456 1459	PKU
+N6	Reference T6 MeSH:D010661

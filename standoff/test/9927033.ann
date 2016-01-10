@@ -1,0 +1,20 @@
+T1	DiseaseClass 37 61	hematological malignancy
+N1	Reference T1 MeSH:D019337
+T2	SpecificDisease 66 90	neurofibromatosis type 1
+N2	Reference T2 MeSH:D009456
+T3	SpecificDisease 166 207	hereditary nonpolyposis colorectal cancer
+N3	Reference T3 MeSH:D003123
+T4	Modifier 352 393	hereditary nonpolyposis colorectal cancer
+N4	Reference T4 MeSH:D003123
+T5	DiseaseClass 415 439	hematological malignancy
+N5	Reference T5 MeSH:D019337
+T6	SpecificDisease 505 529	neurofibromatosis type 1
+N6	Reference T6 MeSH:D009456
+T7	SpecificDisease 531 534	NF1
+N7	Reference T7 MeSH:D009456
+T8	DiseaseClass 802 810	leukemia
+N8	Reference T8 MeSH:D007938
+T9	DiseaseClass 818 826	lymphoma
+N9	Reference T9 MeSH:D008223
+T10	SpecificDisease 843 867	neurofibromatosis type 1
+N10	Reference T10 MeSH:D009456

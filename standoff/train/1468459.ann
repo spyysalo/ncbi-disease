@@ -1,0 +1,26 @@
+T1	SpecificDisease 0 27	Craniofrontonasal dysplasia
+N1	Reference T1 MeSH:C536456
+T2	SpecificDisease 61 88	craniofrontonasal dysplasia
+N2	Reference T2 MeSH:C536456
+T3	SpecificDisease 90 94	CFND
+N3	Reference T3 MeSH:C536456
+T4	SpecificDisease 153 174	frontonasal dysplasia
+N4	Reference T4 MeSH:C538065
+T5	SpecificDisease 179 203	coronal craniosynostosis
+N5	Reference T5 MeSH:C537369
+T6	DiseaseClass 205 231	Extracranial abnormalities
+N6	Reference T6 MeSH:D009139
+T7	SpecificDisease 240 289	brittle nails with prominent longitudinal grooves
+N7	Reference T7 MeSH:D009260
+T8	CompositeMention 293 323	syndactyly of fingers and toes
+N8	Reference T8 MeSH:D013576
+T9	SpecificDisease 535 544	Hypotonia
+N9	Reference T9 MeSH:D009123
+T10	SpecificDisease 549 565	laxity of joints
+N10	Reference T10 MeSH:C535884
+T11	DiseaseClass 623 642	developmental delay
+N11	Reference T11 MeSH:D002658
+T12	DiseaseClass 732 750	X-linked disorders
+N12	Reference T12 MeSH:D040181
+T13	SpecificDisease 775 779	CFND
+N13	Reference T13 MeSH:C536456

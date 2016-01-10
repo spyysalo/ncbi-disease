@@ -1,0 +1,22 @@
+T1	SpecificDisease 57 71	retinoblastoma
+N1	Reference T1 MeSH:D012175
+T2	SpecificDisease 128 150	retinoblastoma tumours
+N2	Reference T2 MeSH:D012175
+T3	Modifier 218 232	retinoblastoma
+N3	Reference T3 MeSH:D012175
+T4	DiseaseClass 308 314	tumour
+N4	Reference T4 MeSH:D009369
+T5	SpecificDisease 587 601	retinoblastoma
+N5	Reference T5 MeSH:D012175
+T6	SpecificDisease 767 789	retinoblastoma tumours
+N6	Reference T6 MeSH:D012175
+T7	DiseaseClass 871 878	tumours
+N7	Reference T7 MeSH:D009369
+T8	DiseaseClass 961 979	unilateral tumours
+N8	Reference T8 MeSH:D009369
+T9	SpecificDisease 1110 1124	retinoblastoma
+N9	Reference T9 MeSH:D012175
+T10	SpecificDisease 1166 1178	osteosarcoma
+N10	Reference T10 MeSH:D012516
+T11	DiseaseClass 1193 1200	tumours
+N11	Reference T11 MeSH:D009369

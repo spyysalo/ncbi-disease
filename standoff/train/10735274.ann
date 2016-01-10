@@ -1,0 +1,22 @@
+T1	SpecificDisease 23 40	Friedreich ataxia
+N1	Reference T1 MeSH:D005621
+T2	SpecificDisease 42 59	Friedreich ataxia
+N2	Reference T2 MeSH:D005621
+T3	SpecificDisease 61 65	FRDA
+N3	Reference T3 MeSH:D005621
+T4	DiseaseClass 94 120	autosomal recessive ataxia
+N4	Reference T4 OMIM:610743
+T5	SpecificDisease 267 271	FRDA
+N5	Reference T5 MeSH:D005621
+T6	Modifier 316 320	FRDA
+N6	Reference T6 MeSH:D005621
+T7	SpecificDisease 355 359	FRDA
+N7	Reference T7 MeSH:D005621
+T8	SpecificDisease 600 604	FRDA
+N8	Reference T8 MeSH:D005621
+T9	SpecificDisease 751 755	FRDA
+N9	Reference T9 MeSH:D005621
+T10	Modifier 815 819	FRDA
+N10	Reference T10 MeSH:D005621
+T11	SpecificDisease 998 1002	FRDA
+N11	Reference T11 MeSH:D005621

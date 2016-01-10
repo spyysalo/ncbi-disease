@@ -1,0 +1,4 @@
+T1	SpecificDisease 52 77	hereditary retinoblastoma
+N1	Reference T1 MeSH:D012175
+T2	CompositeMention 152 197	familial or sporadic bilateral retinoblastoma
+N2	Reference T2 MeSH:D012175

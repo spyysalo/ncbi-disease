@@ -1,0 +1,20 @@
+T1	Modifier 0 5	Tumor
+N1	Reference T1 MeSH:D009369
+T2	SpecificDisease 41 59	prostate carcinoma
+N2	Reference T2 MeSH:D011471
+T3	SpecificDisease 124 139	Prostate cancer
+N3	Reference T3 MeSH:D011471
+T4	Modifier 176 182	cancer
+N4	Reference T4 MeSH:D009369
+T5	SpecificDisease 401 420	prostate carcinomas
+N5	Reference T5 MeSH:D011471
+T6	SpecificDisease 498 517	prostate carcinomas
+N6	Reference T6 MeSH:D011471
+T7	Modifier 1034 1058	prostatic adenocarcinoma
+N7	Reference T7 MeSH:D011471
+T8	Modifier 1152 1175	prostate adenocarcinoma
+N8	Reference T8 MeSH:D011471
+T9	SpecificDisease 1620 1638	prostate carcinoma
+N9	Reference T9 MeSH:D011471
+T10	SpecificDisease 1732 1756	prostatic adenocarcinoma
+N10	Reference T10 MeSH:D011471

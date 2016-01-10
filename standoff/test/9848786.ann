@@ -1,0 +1,20 @@
+T1	SpecificDisease 0 36	Human complement factor H deficiency
+N1	Reference T1 OMIM:609814
+T2	SpecificDisease 53 78	hemolytic uremic syndrome
+N2	Reference T2 MeSH:D006463
+T3	SpecificDisease 115 177	deficiency in the human complement regulatory protein Factor H
+N3	Reference T3 OMIM:609814
+T4	SpecificDisease 204 223	acute renal disease
+N4	Reference T4 MeSH:D007674
+T5	SpecificDisease 296 321	hemolytic uremic syndrome
+N5	Reference T5 MeSH:D006463
+T6	SpecificDisease 323 326	HUS
+N6	Reference T6 MeSH:D006463
+T7	SpecificDisease 891 910	Factor H deficiency
+N7	Reference T7 OMIM:609814
+T8	DiseaseClass 923 944	complement deficiency
+N8	Reference T8 MeSH:D007153
+T9	SpecificDisease 961 964	HUS
+N9	Reference T9 MeSH:D006463
+T10	SpecificDisease 1061 1064	HUS
+N10	Reference T10 MeSH:D006463

@@ -1,0 +1,16 @@
+T1	SpecificDisease 18 40	ankylosing spondylitis
+N1	Reference T1 MeSH:D013167
+T2	SpecificDisease 199 221	ankylosing spondylitis
+N2	Reference T2 MeSH:D013167
+T3	SpecificDisease 223 225	AS
+N3	Reference T3 MeSH:D013167
+T4	SpecificDisease 248 250	AS
+N4	Reference T4 MeSH:D013167
+T5	DiseaseClass 304 322	Rheumatic Diseases
+N5	Reference T5 MeSH:D012216
+T6	SpecificDisease 808 810	AS
+N6	Reference T6 MeSH:D013167
+T7	SpecificDisease 1512 1514	AS
+N7	Reference T7 MeSH:D013167
+T8	SpecificDisease 1693 1695	AS
+N8	Reference T8 MeSH:D013167

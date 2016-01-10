@@ -1,0 +1,34 @@
+T1	SpecificDisease 52 69	venous thrombosis
+N1	Reference T1 MeSH:D020246
+T2	SpecificDisease 97 122	deficiencies of protein S
+N2	Reference T2 MeSH:D018455
+T3	SpecificDisease 124 144	Protein S deficiency
+N3	Reference T3 MeSH:D018455
+T4	SpecificDisease 177 194	venous thrombosis
+N4	Reference T4 MeSH:D020246
+T5	DiseaseClass 217 241	thrombophilic conditions
+N5	Reference T5 MeSH:D019851
+T6	SpecificDisease 533 553	protein S deficiency
+N6	Reference T6 MeSH:D018455
+T7	SpecificDisease 560 577	PROS1 gene defect
+N7	Reference T7 OMIM:612336
+T8	SpecificDisease 854 871	PROS1 gene defect
+N8	Reference T8 OMIM:612336
+T9	SpecificDisease 942 959	PROS1 gene defect
+N9	Reference T9 OMIM:612336
+T10	SpecificDisease 991 1001	thrombosis
+N10	Reference T10 MeSH:D013927
+T11	SpecificDisease 1100 1120	thrombophilic defect
+N11	Reference T11 MeSH:D019851
+T12	SpecificDisease 1167 1173	trauma
+N12	Reference T12 MeSH:D014947
+T13	SpecificDisease 1215 1225	thrombosis
+N13	Reference T13 MeSH:D013927
+T14	SpecificDisease 1318 1343	defects in the PROS1 gene
+N14	Reference T14 OMIM:612336
+T15	SpecificDisease 1530 1548	PROS1 gene defects
+N15	Reference T15 OMIM:612336
+T16	SpecificDisease 1553 1573	protein S deficiency
+N16	Reference T16 MeSH:D018455
+T17	SpecificDisease 1599 1609	thrombosis
+N17	Reference T17 MeSH:D013927

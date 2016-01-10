@@ -1,0 +1,18 @@
+T1	SpecificDisease 136 159	inherited breast cancer
+N1	Reference T1 MeSH:D001943
+T2	SpecificDisease 232 245	breast cancer
+N2	Reference T2 MeSH:D001943
+T3	SpecificDisease 318 340	familial breast cancer
+N3	Reference T3 MeSH:D001943
+T4	CompositeMention 352 383	inherited breast/ovarian cancer
+N4	Reference T4 MeSH:D061325
+T5	Modifier 451 474	inherited breast cancer
+N5	Reference T5 MeSH:D001943
+T6	SpecificDisease 971 984	breast cancer
+N6	Reference T6 MeSH:D001943
+T7	Modifier 1035 1053	male breast cancer
+N7	Reference T7 MeSH:D018567
+T8	SpecificDisease 1237 1250	breast cancer
+N8	Reference T8 MeSH:D001943
+T9	SpecificDisease 1734 1758	hereditary breast cancer
+N9	Reference T9 MeSH:D001943

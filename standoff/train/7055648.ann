@@ -1,0 +1,16 @@
+T1	SpecificDisease 0 58	Severe-glucose-6-phosphate dehydrogenase (G6PD) deficiency
+N1	Reference T1 MeSH:D005955
+T2	SpecificDisease 83 99	hemolytic anemia
+N2	Reference T2 MeSH:D000743
+T3	DiseaseClass 101 124	granulocyte dysfunction
+N3	Reference T3 MeSH:D007960
+T4	SpecificDisease 341 356	G6PD deficiency
+N4	Reference T4 MeSH:D005955
+T5	SpecificDisease 358 400	congenital nonspherocytic hemolytic anemia
+N5	Reference T5 MeSH:D000746
+T6	SpecificDisease 402 407	CNSHA
+N6	Reference T6 MeSH:D000746
+T7	SpecificDisease 1317 1322	CNSHA
+N7	Reference T7 MeSH:D000746
+T8	SpecificDisease 1487 1505	deficiency of G6PD
+N8	Reference T8 MeSH:D005955

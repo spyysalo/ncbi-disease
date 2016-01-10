@@ -1,0 +1,4 @@
+T1	SpecificDisease 177 192	atherosclerosis
+N1	Reference T1 MeSH:D050197
+T2	SpecificDisease 338 353	CETP deficiency
+N2	Reference T2 OMIM:143470

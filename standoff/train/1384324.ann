@@ -1,0 +1,6 @@
+T1	SpecificDisease 0 28	Pelizaeus-Merzbacher disease
+N1	Reference T1 OMIM:312080
+T2	SpecificDisease 188 216	Pelizaeus-Merzbacher disease
+N2	Reference T2 OMIM:312080
+T3	SpecificDisease 1328 1356	Pelizaeus-Merzbacher disease
+N3	Reference T3 OMIM:312080

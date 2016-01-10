@@ -1,0 +1,16 @@
+T1	Modifier 50 63	breast cancer
+N1	Reference T1 MeSH:D001943
+T2	DiseaseClass 259 287	autosomal recessive disorder
+N2	Reference T2 MeSH:D030342
+T3	SpecificDisease 288 309	ataxia-telangiectasia
+N3	Reference T3 MeSH:D001260
+T4	SpecificDisease 311 314	A-T
+N4	Reference T4 MeSH:D001260
+T5	SpecificDisease 401 414	breast cancer
+N5	Reference T5 MeSH:D001943
+T6	SpecificDisease 598 611	breast cancer
+N6	Reference T6 MeSH:D001943
+T7	SpecificDisease 836 858	sporadic breast cancer
+N7	Reference T7 MeSH:D001943
+T8	SpecificDisease 913 926	breast cancer
+N8	Reference T8 MeSH:D001943

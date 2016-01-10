@@ -1,0 +1,30 @@
+T1	SpecificDisease 105 131	bipolar affective disorder
+N1	Reference T1 MeSH:D001714
+T2	SpecificDisease 159 185	Bipolar affective disorder
+N2	Reference T2 MeSH:D001714
+T3	SpecificDisease 187 191	BPAD
+N3	Reference T3 MeSH:D001714
+T4	SpecificDisease 193 217	manic-depressive illness
+N4	Reference T4 MeSH:D001714
+T5	SpecificDisease 251 256	mania
+N5	Reference T5 MeSH:D001714
+T6	SpecificDisease 264 273	hypomania
+N6	Reference T6 MeSH:D019964
+T7	SpecificDisease 303 313	depression
+N7	Reference T7 MeSH:D003866
+T8	SpecificDisease 409 413	BPAD
+N8	Reference T8 MeSH:D001714
+T9	SpecificDisease 544 548	BPAD
+N9	Reference T9 MeSH:D001714
+T10	SpecificDisease 651 655	BPAD
+N10	Reference T10 MeSH:D001714
+T11	DiseaseClass 694 711	genetic disorders
+N11	Reference T11 MeSH:D030342
+T12	DiseaseClass 760 780	psychiatric disorder
+N12	Reference T12 MeSH:D001523
+T13	SpecificDisease 932 936	BPAD
+N13	Reference T13 MeSH:D001714
+T14	SpecificDisease 1484 1488	BPAD
+N14	Reference T14 MeSH:D001714
+T15	DiseaseClass 1515 1534	affective disorders
+N15	Reference T15 MeSH:D019964

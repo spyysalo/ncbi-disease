@@ -1,0 +1,44 @@
+T1	SpecificDisease 4 28	Wiskott-Aldrich syndrome
+N1	Reference T1 MeSH:D014923
+T2	SpecificDisease 33 69	X-linked congenital thrombocytopenia
+N2	Reference T2 OMIM:313900
+T3	SpecificDisease 116 140	Wiskott-Aldrich syndrome
+N3	Reference T3 MeSH:D014923
+T4	SpecificDisease 142 145	WAS
+N4	Reference T4 MeSH:D014923
+T5	DiseaseClass 153 180	X-linked recessive disorder
+N5	Reference T5 MeSH:D040181
+T6	SpecificDisease 198 214	thrombocytopenia
+N6	Reference T6 MeSH:D013921
+T7	SpecificDisease 233 239	eczema
+N7	Reference T7 MeSH:D004485
+T8	DiseaseClass 267 283	immunodeficiency
+N8	Reference T8 MeSH:D007153
+T9	Modifier 305 308	WAS
+N9	Reference T9 MeSH:D014923
+T10	SpecificDisease 354 390	congenital X-linked thrombocytopenia
+N10	Reference T10 OMIM:313900
+T11	SpecificDisease 392 395	XLT
+N11	Reference T11 OMIM:313900
+T12	SpecificDisease 441 447	eczema
+N12	Reference T12 MeSH:D004485
+T13	DiseaseClass 469 486	immune deficiency
+N13	Reference T13 MeSH:D007153
+T14	SpecificDisease 521 524	WAS
+N14	Reference T14 MeSH:D014923
+T15	Modifier 578 581	WAS
+N15	Reference T15 MeSH:D014923
+T16	Modifier 598 601	WAS
+N16	Reference T16 MeSH:D014923
+T17	Modifier 733 736	WAS
+N17	Reference T17 MeSH:D014923
+T18	Modifier 929 932	WAS
+N18	Reference T18 MeSH:D014923
+T19	Modifier 1113 1116	XLT
+N19	Reference T19 OMIM:313900
+T20	SpecificDisease 1243 1246	WAS
+N20	Reference T20 MeSH:D014923
+T21	SpecificDisease 1387 1390	XLT
+N21	Reference T21 OMIM:313900
+T22	SpecificDisease 1395 1398	WAS
+N22	Reference T22 MeSH:D014923

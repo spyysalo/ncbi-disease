@@ -1,0 +1,16 @@
+T1	SpecificDisease 23 47	Wiskott-Aldrich syndrome
+N1	Reference T1 MeSH:D014923
+T2	SpecificDisease 52 77	X-linked thrombocytopenia
+N2	Reference T2 OMIM:313900
+T3	SpecificDisease 183 207	Wiskott-Aldrich syndrome
+N3	Reference T3 MeSH:D014923
+T4	SpecificDisease 209 212	WAS
+N4	Reference T4 MeSH:D014923
+T5	SpecificDisease 706 733	congenital thrombocytopenia
+N5	Reference T5 OMIM:313900
+T6	SpecificDisease 833 858	X-linked thrombocytopenia
+N6	Reference T6 OMIM:313900
+T7	SpecificDisease 873 876	WAS
+N7	Reference T7 MeSH:D014923
+T8	Modifier 899 902	WAS
+N8	Reference T8 MeSH:D014923

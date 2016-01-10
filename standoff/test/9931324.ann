@@ -1,0 +1,26 @@
+T1	DiseaseClass 103 131	congenital eye malformations
+N1	Reference T1 MeSH:D005124
+T2	SpecificDisease 175 183	aniridia
+N2	Reference T2 MeSH:D015783
+T3	SpecificDisease 185 215	congenital absence of the iris
+N3	Reference T3 MeSH:D015783
+T4	DiseaseClass 234 257	malformation of the eye
+N4	Reference T4 MeSH:D005124
+T5	Modifier 293 301	aniridia
+N5	Reference T5 MeSH:D015783
+T6	Modifier 742 750	aniridia
+N6	Reference T6 MeSH:D015783
+T7	SpecificDisease 976 984	aniridia
+N7	Reference T7 MeSH:D015783
+T8	SpecificDisease 1083 1099	ectopia pupillae
+N8	Reference T8 MeSH:C536185
+T9	SpecificDisease 1101 1117	displaced pupils
+N9	Reference T9 MeSH:C536185
+T10	SpecificDisease 1123 1143	congenital nystagmus
+N10	Reference T10 MeSH:D020417
+T11	SpecificDisease 1145 1159	searching gaze
+N11	Reference T11 MeSH:D020417
+T12	Modifier 1208 1216	aniridia
+N12	Reference T12 MeSH:D015783
+T13	DiseaseClass 1549 1570	PAX6 -related disease
+N13	Reference T13 OMIM:106210

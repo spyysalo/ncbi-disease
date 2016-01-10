@@ -1,0 +1,14 @@
+T1	SpecificDisease 0 15	Canavan disease
+N1	Reference T1 MeSH:D017825
+T2	SpecificDisease 65 80	Canavan disease
+N2	Reference T2 MeSH:D017825
+T3	DiseaseClass 87 121	autosomal recessive leukodystrophy
+N3	Reference T3 MeSH:D007966
+T4	SpecificDisease 136 164	deficiency of aspartoacylase
+N4	Reference T4 MeSH:D017825
+T5	Modifier 954 961	Canavan
+N5	Reference T5 MeSH:D017825
+T6	Modifier 1235 1242	Canavan
+N6	Reference T6 MeSH:D017825
+T7	SpecificDisease 1522 1537	Canavan disease
+N7	Reference T7 MeSH:D017825

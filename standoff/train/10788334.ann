@@ -1,0 +1,29 @@
+T1	CompositeMention 60 81	breast-ovarian cancer
+N1	Reference T1 MeSH:D061325
+T2	DiseaseClass 260 266	cancer
+N2	Reference T2 MeSH:D009369
+T3	CompositeMention 321 345	breast or ovarian cancer
+N3	Reference T3 MeSH:D001943
+N4	Reference T3 MeSH:D010051
+T4	DiseaseClass 358 364	cancer
+N5	Reference T4 MeSH:D009369
+T5	CompositeMention 474 500	breast and ovarian cancers
+N6	Reference T5 MeSH:D001943
+N7	Reference T5 MeSH:D010051
+T6	SpecificDisease 517 532	ovarian cancers
+N8	Reference T6 MeSH:D010051
+T7	SpecificDisease 559 573	breast cancers
+N9	Reference T7 MeSH:D001943
+T8	DiseaseClass 982 1001	BRCA1 abnormalities
+N10	Reference T8 OMIM:604370
+T9	SpecificDisease 1044 1058	ovarian cancer
+N11	Reference T9 MeSH:D010051
+T10	CompositeMention 1097 1122	breast and ovarian cancer
+N12	Reference T10 MeSH:D001943
+N13	Reference T10 MeSH:D010051
+T11	SpecificDisease 1155 1168	breast cancer
+N14	Reference T11 MeSH:D001943
+T12	SpecificDisease 1223 1253	breast-ovarian cancer syndrome
+N15	Reference T12 MeSH:D061325
+T13	DiseaseClass 1448 1467	BRCA1 abnormalities
+N16	Reference T13 OMIM:604370

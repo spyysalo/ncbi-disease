@@ -1,0 +1,12 @@
+T1	DiseaseClass 51 58	lipomas
+N1	Reference T1 MeSH:D008067
+T2	DiseaseClass 142 149	lipomas
+N2	Reference T2 MeSH:D008067
+T3	Modifier 708 714	lipoma
+N3	Reference T3 MeSH:D008067
+T4	Modifier 793 799	lipoma
+N4	Reference T4 MeSH:D008067
+T5	Modifier 1835 1841	lipoma
+N5	Reference T5 MeSH:D008067
+T6	DiseaseClass 1857 1872	primary lipomas
+N6	Reference T6 MeSH:D008067

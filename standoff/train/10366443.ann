@@ -1,0 +1,12 @@
+T1	SpecificDisease 26 55	beta-glucuronidase deficiency
+N1	Reference T1 MeSH:D016538
+T2	SpecificDisease 76 101	mucopolysaccharidosis VII
+N2	Reference T2 MeSH:D016538
+T3	SpecificDisease 209 234	mucopolysaccharidosis VII
+N3	Reference T3 MeSH:D016538
+T4	DiseaseClass 239 285	autosomal recessive lysosomal storage disorder
+N4	Reference T4 MeSH:D016464
+T5	SpecificDisease 296 325	beta-glucuronidase deficiency
+N5	Reference T5 MeSH:D016538
+T6	Modifier 1432 1439	MPS VII
+N6	Reference T6 MeSH:D016538

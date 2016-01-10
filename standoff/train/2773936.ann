@@ -1,0 +1,26 @@
+T1	SpecificDisease 0 28	Pelizaeus-Merzbacher disease
+N1	Reference T1 OMIM:312080
+T2	DiseaseClass 33 82	X-linked neurologic disorder of myelin metabolism
+N2	Reference T2 MeSH:D020279
+T3	DiseaseClass 167 201	inborn errors of myelin metabolism
+N3	Reference T3 MeSH:D020279
+T4	SpecificDisease 276 304	Pelizaeus-Merzbacher disease
+N4	Reference T4 OMIM:312080
+T5	DiseaseClass 331 351	neurologic disorders
+N5	Reference T5 MeSH:D009422
+T6	DiseaseClass 372 389	deficit of myelin
+N6	Reference T6 MeSH:D003711
+T7	Modifier 496 516	Pelizaeus-Merzbacher
+N7	Reference T7 OMIM:312080
+T8	SpecificDisease 721 749	Pelizaeus-Merzbacher disease
+N8	Reference T8 OMIM:312080
+T9	SpecificDisease 1297 1325	Pelizaeus-Merzbacher disease
+N9	Reference T9 OMIM:312080
+T10	DiseaseClass 1375 1398	dysmyelinating disorder
+N10	Reference T10 MeSH:D003711
+T11	DiseaseClass 1444 1478	inborn errors of myelin metabolism
+N11	Reference T11 MeSH:D020279
+T12	SpecificDisease 1574 1612	Pelizaeus-Merzbacher disease (type II)
+N12	Reference T12 OMIM:312080
+T13	SpecificDisease 1746 1774	Pelizaeus-Merzbacher disease
+N13	Reference T13 OMIM:312080

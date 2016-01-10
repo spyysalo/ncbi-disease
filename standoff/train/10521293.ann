@@ -1,0 +1,20 @@
+T1	Modifier 46 62	Wolfram syndrome
+N1	Reference T1 OMIM:222300
+T2	SpecificDisease 124 140	Wolfram syndrome
+N2	Reference T2 OMIM:222300
+T3	DiseaseClass 147 193	autosomal recessive neurodegenerative disorder
+N3	Reference T3 MeSH:D020271
+T4	SpecificDisease 211 243	juvenile-onset diabetes mellitus
+N4	Reference T4 MeSH:D003922
+T5	SpecificDisease 260 273	optic atrophy
+N5	Reference T5 MeSH:D009896
+T6	SpecificDisease 567 583	Wolfram syndrome
+N6	Reference T6 OMIM:222300
+T7	SpecificDisease 1452 1468	Wolfram syndrome
+N7	Reference T7 OMIM:222300
+T8	Modifier 1498 1514	Wolfram syndrome
+N8	Reference T8 OMIM:222300
+T9	DiseaseClass 1547 1568	psychiatric disorders
+N9	Reference T9 MeSH:D001523
+T10	SpecificDisease 1572 1589	diabetes mellitus
+N10	Reference T10 MeSH:D003920

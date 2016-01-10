@@ -1,0 +1,6 @@
+T1	Modifier 31 42	Lesch-Nyhan
+N1	Reference T1 MeSH:D007926
+T2	SpecificDisease 129 149	Lesch-Nyhan syndrome
+N2	Reference T2 MeSH:D007926
+T3	SpecificDisease 151 207	hypoxanthine phosphoribosyltransferase [HPRT] deficiency
+N3	Reference T3 MeSH:D007926

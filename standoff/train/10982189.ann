@@ -1,0 +1,22 @@
+T1	Modifier 30 39	APC tumor
+N1	Reference T1 MeSH:D011125
+T2	SpecificDisease 59 89	familial adenomatous polyposis
+N2	Reference T2 MeSH:D011125
+T3	Modifier 117 155	adenomatous polyposis coli (APC) tumor
+N3	Reference T3 MeSH:D011125
+T4	SpecificDisease 186 223	hereditary colorectal cancer syndrome
+N4	Reference T4 MeSH:D015179
+T5	SpecificDisease 224 254	familial adenomatous polyposis
+N5	Reference T5 MeSH:D011125
+T6	SpecificDisease 256 259	FAP
+N6	Reference T6 MeSH:D011125
+T7	Modifier 273 276	APC
+N7	Reference T7 MeSH:D011125
+T8	Modifier 559 562	FAP
+N8	Reference T8 MeSH:D011125
+T9	Modifier 611 614	FAP
+N9	Reference T9 MeSH:D011125
+T10	Modifier 661 664	APC
+N10	Reference T10 MeSH:D011125
+T11	Modifier 1763 1766	APC
+N11	Reference T11 MeSH:D011125

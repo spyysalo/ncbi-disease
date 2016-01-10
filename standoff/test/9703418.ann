@@ -1,0 +1,16 @@
+T1	SpecificDisease 87 111	complement C9 deficiency
+N1	Reference T1 OMIM:613825
+T2	SpecificDisease 113 166	Deficiency of the ninth component of human complement
+N2	Reference T2 OMIM:613825
+T3	DiseaseClass 191 212	complement deficiency
+N3	Reference T3 MeSH:D007153
+T4	SpecificDisease 288 301	C9 deficiency
+N4	Reference T4 OMIM:613825
+T5	Modifier 319 331	C9-deficient
+N5	Reference T5 OMIM:613825
+T6	SpecificDisease 363 387	meningococcal meningitis
+N6	Reference T6 MeSH:D008585
+T7	Modifier 517 529	C9-deficient
+N7	Reference T7 OMIM:613825
+T8	SpecificDisease 882 895	C9 deficiency
+N8	Reference T8 OMIM:613825

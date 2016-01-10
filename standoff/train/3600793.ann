@@ -1,0 +1,20 @@
+T1	Modifier 37 73	X-linked Duchenne muscular dystrophy
+N1	Reference T1 MeSH:D020388
+T2	Modifier 159 186	Duchenne muscular dystrophy
+N2	Reference T2 MeSH:D020388
+T3	Modifier 188 191	DMD
+N3	Reference T3 MeSH:D020388
+T4	DiseaseClass 396 411	genetic disease
+N4	Reference T4 MeSH:D030342
+T5	SpecificDisease 513 531	muscular dystrophy
+N5	Reference T5 MeSH:D009136
+T6	Modifier 594 597	DMD
+N6	Reference T6 MeSH:D020388
+T7	Modifier 711 736	Becker muscular dystrophy
+N7	Reference T7 MeSH:C537666
+T8	SpecificDisease 967 1000	Emery Dreifuss muscular dystrophy
+N8	Reference T8 MeSH:D020389
+T9	Modifier 1299 1302	DMD
+N9	Reference T9 MeSH:D020388
+T10	SpecificDisease 1505 1508	DMD
+N10	Reference T10 MeSH:D020388

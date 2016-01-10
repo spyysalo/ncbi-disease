@@ -1,0 +1,14 @@
+T1	SpecificDisease 0 39	Autoimmune lymphoproliferative syndrome
+N1	Reference T1 MeSH:D056735
+T2	SpecificDisease 41 45	ALPS
+N2	Reference T2 MeSH:D056735
+T3	SpecificDisease 120 159	Autoimmune lymphoproliferative syndrome
+N3	Reference T3 MeSH:D056735
+T4	SpecificDisease 161 165	ALPS
+N4	Reference T4 MeSH:D056735
+T5	SpecificDisease 349 353	ALPS
+N5	Reference T5 MeSH:D056735
+T6	Modifier 959 963	ALPS
+N6	Reference T6 MeSH:D056735
+T7	Modifier 1024 1028	ALPS
+N7	Reference T7 MeSH:D056735

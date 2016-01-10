@@ -1,0 +1,19 @@
+T1	SpecificDisease 63 78	prostate cancer
+N1	Reference T1 MeSH:D011471
+T2	SpecificDisease 140 164	hereditary breast cancer
+N2	Reference T2 MeSH:D001943
+T3	SpecificDisease 275 290	prostate cancer
+N3	Reference T3 MeSH:D011471
+T4	SpecificDisease 435 450	prostate cancer
+N4	Reference T4 MeSH:D011471
+T5	Modifier 558 573	prostate cancer
+N5	Reference T5 MeSH:D011471
+T6	SpecificDisease 808 823	prostate cancer
+N6	Reference T6 MeSH:D011471
+T7	Modifier 1149 1164	prostate cancer
+N7	Reference T7 MeSH:D011471
+T8	CompositeMention 1296 1322	breast and ovarian cancers
+N8	Reference T8 MeSH:D001943
+N9	Reference T8 MeSH:D010051
+T9	SpecificDisease 1391 1406	prostate cancer
+N10	Reference T9 MeSH:D011471

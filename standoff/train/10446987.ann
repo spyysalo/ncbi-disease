@@ -1,0 +1,18 @@
+T1	Modifier 4 35	dermatofibrosarcoma protuberans
+N1	Reference T1 MeSH:C538219
+T2	SpecificDisease 201 232	Dermatofibrosarcoma protuberans
+N2	Reference T2 MeSH:C538219
+T3	SpecificDisease 234 238	DFSP
+N3	Reference T3 MeSH:C538219
+T4	DiseaseClass 1365 1371	tumors
+N4	Reference T4 MeSH:D009369
+T5	Modifier 1416 1421	tumor
+N5	Reference T5 MeSH:D009369
+T6	SpecificDisease 1527 1531	DFSP
+N6	Reference T6 MeSH:C538219
+T7	Modifier 1547 1552	tumor
+N7	Reference T7 MeSH:D009369
+T8	SpecificDisease 1742 1746	DFSP
+N8	Reference T8 MeSH:C538219
+T9	SpecificDisease 1751 1775	giant cell fibroblastoma
+N9	Reference T9 MeSH:C538219

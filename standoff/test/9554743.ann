@@ -1,0 +1,6 @@
+T1	SpecificDisease 111 125	Wilson disease
+N1	Reference T1 MeSH:D006527
+T2	SpecificDisease 277 291	Wilson disease
+N2	Reference T2 MeSH:D006527
+T3	SpecificDisease 748 762	Wilson disease
+N3	Reference T3 MeSH:D006527

@@ -1,0 +1,22 @@
+T1	Modifier 45 72	Duchenne muscular dystrophy
+N1	Reference T1 MeSH:D020388
+T2	CompositeMention 166 217	Duchenne and the milder Becker muscular dystrophies
+N2	Reference T2 MeSH:D020388
+N3	Reference T2 MeSH:C537666
+T3	SpecificDisease 528 547	dystrophic syndrome
+N4	Reference T3 MeSH:D009136
+T4	CompositeMention 608 642	Duchenne/Becker muscular dystrophy
+N5	Reference T4 MeSH:D020388
+N6	Reference T4 MeSH:C537666
+T5	Modifier 708 735	Duchenne muscular dystrophy
+N7	Reference T5 MeSH:D020388
+T6	Modifier 737 740	DMD
+N8	Reference T6 MeSH:D020388
+T7	SpecificDisease 831 834	DMD
+N9	Reference T7 MeSH:D020388
+T8	DiseaseClass 1171 1181	myopathies
+N10	Reference T8 MeSH:D009135
+T9	SpecificDisease 1183 1216	Emery Dreifuss muscular dystrophy
+N11	Reference T9 MeSH:D020389
+T10	Modifier 1278 1281	DMD
+N12	Reference T10 MeSH:D020388

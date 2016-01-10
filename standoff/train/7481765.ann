@@ -1,0 +1,13 @@
+T1	SpecificDisease 46 59	breast cancer
+N1	Reference T1 MeSH:D001943
+T2	Modifier 217 222	tumor
+N2	Reference T2 MeSH:D009369
+T3	Modifier 296 321	breast and ovarian cancer
+N3	Reference T3 MeSH:D001943
+N4	Reference T3 MeSH:D010051
+T4	Modifier 561 574	breast cancer
+N5	Reference T4 MeSH:D001943
+T5	DiseaseClass 613 632	BRCA1 abnormalities
+N6	Reference T5 OMIM:604370
+T6	SpecificDisease 677 691	breast cancers
+N7	Reference T6 MeSH:D001943

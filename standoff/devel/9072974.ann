@@ -1,0 +1,22 @@
+T1	CompositeMention 68 102	brain, breast, and prostate cancer
+N1	Reference T1 MeSH:D001932
+N2	Reference T1 MeSH:D001943
+N3	Reference T1 MeSH:D011471
+T2	Modifier 202 207	tumor
+N4	Reference T2 MeSH:D009369
+T3	DiseaseClass 293 300	cancers
+N5	Reference T3 MeSH:D009369
+T4	Modifier 376 388	glioblastoma
+N6	Reference T4 MeSH:D005909
+T5	Modifier 430 445	prostate cancer
+N7	Reference T5 MeSH:D011471
+T6	Modifier 471 484	breast cancer
+N8	Reference T6 MeSH:D001943
+T7	SpecificDisease 530 551	primary glioblastomas
+N9	Reference T7 MeSH:D005909
+T8	Modifier 770 775	tumor
+N10	Reference T8 MeSH:D009369
+T9	Modifier 846 851	tumor
+N11	Reference T9 MeSH:D009369
+T10	DiseaseClass 870 880	metastasis
+N12	Reference T10 MeSH:D009362

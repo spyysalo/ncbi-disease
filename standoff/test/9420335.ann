@@ -1,0 +1,12 @@
+T1	Modifier 4 9	tumor
+N1	Reference T1 MeSH:D009369
+T2	Modifier 150 155	tumor
+N2	Reference T2 MeSH:D009369
+T3	SpecificDisease 254 272	pancreatic cancers
+N3	Reference T3 MeSH:D010190
+T4	DiseaseClass 475 493	Growth retardation
+N4	Reference T4 MeSH:D005317
+T5	SpecificDisease 681 700	gastrulation defect
+N5	Reference T5 MeSH:D004194
+T6	SpecificDisease 820 839	gastrulation defect
+N6	Reference T6 MeSH:D004194

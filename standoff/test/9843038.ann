@@ -1,0 +1,12 @@
+T1	Modifier 65 90	hereditary coproporphyria
+N1	Reference T1 MeSH:D046349
+T2	SpecificDisease 99 124	Hereditary coproporphyria
+N2	Reference T2 MeSH:D046349
+T3	SpecificDisease 126 129	HCP
+N3	Reference T3 MeSH:D046349
+T4	DiseaseClass 137 163	autosomal dominant disease
+N4	Reference T4 MeSH:D030342
+T5	SpecificDisease 183 223	deficiency of coproporphyrinogen oxidase
+N5	Reference T5 MeSH:D046349
+T6	Modifier 320 323	HCP
+N6	Reference T6 MeSH:D046349

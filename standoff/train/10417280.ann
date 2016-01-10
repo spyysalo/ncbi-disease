@@ -1,0 +1,17 @@
+T1	CompositeMention 27 62	Prader-Willi and Angelman syndromes
+N1	Reference T1 MeSH:D011218
+N2	Reference T1 MeSH:D017204
+T2	SpecificDisease 157 178	Prader-Willi syndrome
+N3	Reference T2 MeSH:D011218
+T3	SpecificDisease 180 183	PWS
+N4	Reference T3 MeSH:D011218
+T4	SpecificDisease 189 206	Angelman syndrome
+N5	Reference T4 MeSH:D017204
+T5	SpecificDisease 208 210	AS
+N6	Reference T5 MeSH:D017204
+T6	DiseaseClass 225 250	neurobehavioral disorders
+N7	Reference T6 MeSH:D019954
+T7	Modifier 1159 1162	PWS
+N8	Reference T7 MeSH:D011218
+T8	Modifier 1163 1165	AS
+N9	Reference T8 MeSH:D017204

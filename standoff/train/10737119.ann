@@ -1,0 +1,40 @@
+T1	DiseaseClass 35 52	primary dystonias
+N1	Reference T1 MeSH:D020821
+T2	DiseaseClass 54 71	Primary dystonias
+N2	Reference T2 MeSH:D020821
+T3	DiseaseClass 76 94	movement disorders
+N3	Reference T3 MeSH:D009069
+T4	DiseaseClass 100 108	dystonia
+N4	Reference T4 MeSH:D004421
+T5	SpecificDisease 535 562	idiopathic torsion dystonia
+N5	Reference T5 MeSH:D004422
+T6	SpecificDisease 571 585	focal dystonia
+N6	Reference T6 MeSH:D020821
+T7	SpecificDisease 605 632	idiopathic torsion dystonia
+N7	Reference T7 MeSH:D004422
+T8	SpecificDisease 659 683	dopa-responsive dystonia
+N8	Reference T8 MeSH:C538007
+T9	SpecificDisease 707 742	paroxysmal dystonic choreoathetosis
+N9	Reference T9 MeSH:C537181
+T10	SpecificDisease 848 887	X-linked dystonia parkinsonism syndrome
+N10	Reference T10 OMIM:314250
+T11	DiseaseClass 903 934	X-linked sensorineural deafness
+N11	Reference T11 OMIM:304500
+T12	DiseaseClass 936 944	dystonia
+N12	Reference T12 MeSH:D004421
+T13	DiseaseClass 950 968	mental retardation
+N13	Reference T13 MeSH:D008607
+T14	SpecificDisease 1148 1175	idiopathic torsion dystonia
+N14	Reference T14 MeSH:D004422
+T15	SpecificDisease 1232 1256	dopa-responsive dystonia
+N15	Reference T15 MeSH:C538007
+T16	DiseaseClass 1268 1290	sensorineural deafness
+N16	Reference T16 MeSH:D006319
+T17	DiseaseClass 1292 1300	dystonia
+N17	Reference T17 MeSH:D004421
+T18	DiseaseClass 1306 1324	mental retardation
+N18	Reference T18 MeSH:D008607
+T19	DiseaseClass 1470 1487	primary dystonias
+N19	Reference T19 MeSH:D020821
+T20	CompositeMention 1630 1644	dystonias 1-12
+N20	Reference T20 MeSH:D020821

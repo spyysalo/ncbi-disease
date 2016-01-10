@@ -1,0 +1,22 @@
+T1	SpecificDisease 19 46	hypertrophic cardiomyopathy
+N1	Reference T1 MeSH:D002312
+T2	SpecificDisease 89 145	very-long-chain acyl-coenzyme A dehydrogenase deficiency
+N2	Reference T2 MeSH:C536353
+T3	SpecificDisease 147 211	Very-long-chain acyl-coenzyme A dehydrogenase (VLCAD) deficiency
+N3	Reference T3 MeSH:C536353
+T4	SpecificDisease 364 380	VLCAD deficiency
+N4	Reference T4 MeSH:C536353
+T5	SpecificDisease 431 458	hypertrophic cardiomyopathy
+N5	Reference T5 MeSH:D002312
+T6	SpecificDisease 460 472	hepatomegaly
+N6	Reference T6 MeSH:D006529
+T7	DiseaseClass 474 488	encephalopathy
+N7	Reference T7 MeSH:D001927
+T8	SpecificDisease 494 503	hypotonia
+N8	Reference T8 MeSH:D009123
+T9	SpecificDisease 535 551	VLCAD deficiency
+N9	Reference T9 MeSH:C536353
+T10	SpecificDisease 1061 1077	VLCAD deficiency
+N10	Reference T10 MeSH:C536353
+T11	DiseaseClass 1149 1163	cardiomyopathy
+N11	Reference T11 MeSH:D009202

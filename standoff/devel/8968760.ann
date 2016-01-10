@@ -1,0 +1,24 @@
+T1	SpecificDisease 0 21	Ataxia-telangiectasia
+N1	Reference T1 MeSH:D001260
+T2	DiseaseClass 100 128	autosomal recessive disorder
+N2	Reference T2 MeSH:D030342
+T3	SpecificDisease 129 150	ataxia-telangiectasia
+N3	Reference T3 MeSH:D001260
+T4	SpecificDisease 152 155	A-T
+N4	Reference T4 MeSH:D001260
+T5	DiseaseClass 175 198	cerebellar degeneration
+N5	Reference T5 MeSH:D013132
+T6	DiseaseClass 200 216	immunodeficiency
+N6	Reference T6 MeSH:D007153
+T7	DiseaseClass 221 242	cancer predisposition
+N7	Reference T7 MeSH:D009369
+T8	Modifier 244 247	A-T
+N8	Reference T8 MeSH:D001260
+T9	DiseaseClass 288 300	cancer-prone
+N9	Reference T9 MeSH:D009369
+T10	Modifier 320 323	A-T
+N10	Reference T10 MeSH:D001260
+T11	Modifier 563 566	A-T
+N11	Reference T11 MeSH:D001260
+T12	Modifier 1095 1098	A-T
+N12	Reference T12 MeSH:D001260

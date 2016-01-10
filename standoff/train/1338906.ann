@@ -1,0 +1,14 @@
+T1	SpecificDisease 58 78	Denys-Drash syndrome
+N1	Reference T1 MeSH:D030321
+T2	SpecificDisease 84 104	Denys-Drash syndrome
+N2	Reference T2 MeSH:D030321
+T3	DiseaseClass 135 146	nephropathy
+N3	Reference T3 MeSH:D007674
+T4	DiseaseClass 148 169	genital abnormalities
+N4	Reference T4 MeSH:D014564
+T5	SpecificDisease 213 224	Wilms tumor
+N5	Reference T5 MeSH:D009396
+T6	SpecificDisease 270 283	renal failure
+N6	Reference T6 MeSH:D051437
+T7	Modifier 297 308	Wilms tumor
+N7	Reference T7 MeSH:D009396

@@ -1,0 +1,8 @@
+T1	CompositeMention 77 121	hereditary and non hereditary retinoblastoma
+N1	Reference T1 MeSH:D012175
+T2	SpecificDisease 194 208	retinoblastoma
+N2	Reference T2 MeSH:D012175
+T3	CompositeMention 283 326	hereditary or non hereditary retinoblastoma
+N3	Reference T3 MeSH:D012175
+T4	SpecificDisease 845 859	retinoblastoma
+N4	Reference T4 MeSH:D012175

@@ -1,0 +1,30 @@
+T1	SpecificDisease 75 110	non-papillary renal cell carcinomas
+N1	Reference T1 MeSH:D002292
+T2	Modifier 147 150	VHL
+N2	Reference T2 MeSH:D006623
+T3	SpecificDisease 178 208	sporadic renal cell carcinomas
+N3	Reference T3 MeSH:D002292
+T4	DiseaseClass 223 256	parenchymal tumours of the kidney
+N4	Reference T4 MeSH:D007674
+T5	Modifier 300 303	VHL
+N5	Reference T5 MeSH:D006623
+T6	SpecificDisease 450 485	non-papillary renal cell carcinomas
+N6	Reference T6 MeSH:D002292
+T7	SpecificDisease 520 541	renal cell carcinomas
+N7	Reference T7 MeSH:D002292
+T8	SpecificDisease 559 594	non-papillary renal cell carcinomas
+N8	Reference T8 MeSH:D002292
+T9	SpecificDisease 725 746	renal cell carcinomas
+N9	Reference T9 MeSH:D002292
+T10	SpecificDisease 764 792	papillary renal cell tumours
+N10	Reference T10 MeSH:D002292
+T11	SpecificDisease 801 818	renal oncocytomas
+N11	Reference T11 MeSH:C537750
+T12	Modifier 941 944	VHL
+N12	Reference T12 MeSH:D006623
+T13	DiseaseClass 965 972	tumours
+N13	Reference T13 MeSH:D009369
+T14	Modifier 1051 1054	VHL
+N14	Reference T14 MeSH:D006623
+T15	SpecificDisease 1110 1144	non-papillary renal cell carcinoma
+N15	Reference T15 MeSH:D002292

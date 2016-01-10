@@ -1,0 +1,24 @@
+T1	SpecificDisease 0 46	Absence of the seventh component of complement
+N1	Reference T1 OMIM:610102
+T2	SpecificDisease 65 88	chronic meningococcemia
+N2	Reference T2 MeSH:D008589
+T3	SpecificDisease 103 113	vasculitis
+N3	Reference T3 MeSH:D014657
+T4	SpecificDisease 168 173	fever
+N4	Reference T4 MeSH:D005334
+T5	SpecificDisease 175 184	arthritis
+N5	Reference T5 MeSH:D001168
+T6	SpecificDisease 190 210	cutaneous vasculitis
+N6	Reference T6 MeSH:D018366
+T7	SpecificDisease 229 252	chronic meningococcemia
+N7	Reference T7 MeSH:D008589
+T8	SpecificDisease 367 416	deficiency of the seventh component of complement
+N8	Reference T8 OMIM:610102
+T9	SpecificDisease 493 509	deficiency of C7
+N9	Reference T9 OMIM:610102
+T10	SpecificDisease 527 555	Chronic neisserial infection
+N10	Reference T10 MeSH:D016870
+T11	SpecificDisease 579 592	C7 deficiency
+N11	Reference T11 OMIM:610102
+T12	SpecificDisease 640 660	cutaneous vasculitis
+N12	Reference T12 MeSH:D018366

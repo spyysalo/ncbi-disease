@@ -1,0 +1,12 @@
+T1	SpecificDisease 140 184	familial neurohypophyseal diabetes insipidus
+N1	Reference T1 OMIM:125700
+T2	SpecificDisease 186 230	Familial neurohypophyseal diabetes insipidus
+N2	Reference T2 OMIM:125700
+T3	SpecificDisease 232 236	FNDI
+N3	Reference T3 OMIM:125700
+T4	DiseaseClass 244 270	autosomal dominant disease
+N4	Reference T4 MeSH:D030342
+T5	SpecificDisease 463 467	FNDI
+N5	Reference T5 OMIM:125700
+T6	Modifier 1173 1177	FNDI
+N6	Reference T6 OMIM:125700

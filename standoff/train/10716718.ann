@@ -1,0 +1,26 @@
+T1	DiseaseClass 75 95	Motor incoordination
+N1	Reference T1 MeSH:D002524
+T2	DiseaseClass 97 116	immune deficiencies
+N2	Reference T2 MeSH:D007154
+T3	DiseaseClass 143 149	cancer
+N3	Reference T3 MeSH:D009369
+T4	DiseaseClass 189 207	hereditary disease
+N4	Reference T4 MeSH:D030342
+T5	SpecificDisease 208 229	ataxia-telangiectasia
+N5	Reference T5 MeSH:D001260
+T6	SpecificDisease 231 234	A-T
+N6	Reference T6 MeSH:D001260
+T7	SpecificDisease 447 462	thymic lymphoma
+N7	Reference T7 MeSH:D013953
+T8	DiseaseClass 567 589	cerebellar dysfunction
+N8	Reference T8 MeSH:D002526
+T9	DiseaseClass 621 644	cerebellar degeneration
+N9	Reference T9 MeSH:D013132
+T10	DiseaseClass 803 834	neuropathological abnormalities
+N10	Reference T10 MeSH:D009422
+T11	Modifier 843 846	A-T
+N11	Reference T11 MeSH:D001260
+T12	SpecificDisease 952 966	Atm deficiency
+N12	Reference T12 OMIM:208900
+T13	SpecificDisease 1180 1183	A-T
+N13	Reference T13 MeSH:D001260

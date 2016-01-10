@@ -1,0 +1,24 @@
+T1	SpecificDisease 31 51	retinitis pigmentosa
+N1	Reference T1 MeSH:D012174
+T2	SpecificDisease 53 70	pattern dystrophy
+N2	Reference T2 MeSH:D008268
+T3	SpecificDisease 76 97	fundus flavimaculatus
+N3	Reference T3 MeSH:C535804
+T4	SpecificDisease 267 306	autosomal dominant retinitis pigmentosa
+N4	Reference T4 MeSH:D012174
+T5	SpecificDisease 316 333	macular dystrophy
+N5	Reference T5 MeSH:D008268
+T6	SpecificDisease 339 367	retinitis punctata albescens
+N6	Reference T6 OMIM:136880
+T7	SpecificDisease 1039 1059	retinitis pigmentosa
+N7	Reference T7 MeSH:D012174
+T8	SpecificDisease 1172 1197	pattern macular dystrophy
+N8	Reference T8 MeSH:D008268
+T9	SpecificDisease 1364 1384	macular degeneration
+N9	Reference T9 MeSH:D008268
+T10	SpecificDisease 1437 1458	fundus flavimaculatus
+N10	Reference T10 MeSH:C535804
+T11	SpecificDisease 1560 1580	macular degeneration
+N11	Reference T11 MeSH:D008268
+T12	SpecificDisease 1598 1618	Pericentral scotomas
+N12	Reference T12 MeSH:D012607

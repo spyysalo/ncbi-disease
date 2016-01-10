@@ -1,0 +1,26 @@
+T1	Modifier 42 63	ataxia-telangiectasia
+N1	Reference T1 MeSH:D001260
+T2	Modifier 152 173	ataxia-telangiectasia
+N2	Reference T2 MeSH:D001260
+T3	Modifier 175 178	A-T
+N3	Reference T3 MeSH:D001260
+T4	DiseaseClass 236 264	autosomal recessive syndrome
+N4	Reference T4 MeSH:D030342
+T5	DiseaseClass 381 391	malignancy
+N5	Reference T5 MeSH:D009369
+T6	SpecificDisease 455 458	A-T
+N6	Reference T6 MeSH:D001260
+T7	Modifier 470 476	cancer
+N7	Reference T7 MeSH:D009369
+T8	Modifier 621 624	A-T
+N8	Reference T8 MeSH:D001260
+T9	Modifier 647 650	A-T
+N9	Reference T9 MeSH:D001260
+T10	Modifier 840 843	A-T
+N10	Reference T10 MeSH:D001260
+T11	Modifier 1092 1095	A-T
+N11	Reference T11 MeSH:D001260
+T12	CompositeMention 1199 1228	familial and sporadic cancers
+N12	Reference T12 MeSH:D009369
+T13	Modifier 1301 1306	tumor
+N13	Reference T13 MeSH:D009369

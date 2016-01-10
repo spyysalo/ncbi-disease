@@ -1,0 +1,24 @@
+T1	CompositeMention 0 34	Duchenne/Becker muscular dystrophy
+N1	Reference T1 MeSH:D020388
+N2	Reference T1 MeSH:C537666
+T2	CompositeMention 178 216	Duchenne and Becker muscular dystrophy
+N3	Reference T2 MeSH:D020388
+N4	Reference T2 MeSH:C537666
+T3	SpecificDisease 218 221	DMD
+N5	Reference T3 MeSH:D020388
+T4	SpecificDisease 222 225	BMD
+N6	Reference T4 MeSH:C537666
+T5	SpecificDisease 320 323	DMD
+N7	Reference T5 MeSH:D020388
+T6	Modifier 671 674	DMD
+N8	Reference T6 MeSH:D020388
+T7	Modifier 675 678	BMD
+N9	Reference T7 MeSH:C537666
+T8	Modifier 855 858	DMD
+N10	Reference T8 MeSH:D020388
+T9	Modifier 859 862	BMD
+N11	Reference T9 MeSH:C537666
+T10	DiseaseClass 1091 1102	DMD defects
+N12	Reference T10 MeSH:D020388
+T11	Modifier 1388 1402	muscle disease
+N13	Reference T11 MeSH:D009135

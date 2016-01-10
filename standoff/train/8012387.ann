@@ -1,0 +1,20 @@
+T1	SpecificDisease 0 27	X-linked spastic paraplegia
+N1	Reference T1 OMIM:312920
+T2	SpecificDisease 32 60	Pelizaeus-Merzbacher disease
+N2	Reference T2 OMIM:312080
+T3	DiseaseClass 65 82	allelic disorders
+N3	Reference T3 MeSH:D030342
+T4	SpecificDisease 132 159	X-linked spastic paraplegia
+N4	Reference T4 OMIM:312920
+T5	SpecificDisease 161 164	SPG
+N5	Reference T5 OMIM:312920
+T6	DiseaseClass 279 311	X-linked dysmyelinating disorder
+N6	Reference T6 MeSH:D020279
+T7	SpecificDisease 343 371	Pelizaeus-Merzbacher disease
+N7	Reference T7 OMIM:312080
+T8	SpecificDisease 373 376	PMD
+N8	Reference T8 OMIM:312080
+T9	SpecificDisease 930 933	PMD
+N9	Reference T9 OMIM:312080
+T10	DiseaseClass 938 955	allelic disorders
+N10	Reference T10 MeSH:D030342

@@ -1,0 +1,14 @@
+T1	SpecificDisease 92 120	metachromatic leukodystrophy
+N1	Reference T1 MeSH:D007966
+T2	SpecificDisease 239 267	metachromatic leukodystrophy
+N2	Reference T2 MeSH:D007966
+T3	SpecificDisease 269 272	MLD
+N3	Reference T3 MeSH:D007966
+T4	Modifier 572 575	MLD
+N4	Reference T4 MeSH:D007966
+T5	Modifier 1289 1292	MLD
+N5	Reference T5 MeSH:D007966
+T6	SpecificDisease 1440 1443	MLD
+N6	Reference T6 MeSH:D007966
+T7	Modifier 1557 1560	MLD
+N7	Reference T7 MeSH:D007966

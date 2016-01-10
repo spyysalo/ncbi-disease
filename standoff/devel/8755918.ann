@@ -1,0 +1,16 @@
+T1	SpecificDisease 48 69	ataxia-telangiectasia
+N1	Reference T1 MeSH:D001260
+T2	SpecificDisease 107 128	ataxia-telangiectasia
+N2	Reference T2 MeSH:D001260
+T3	SpecificDisease 130 133	A-T
+N3	Reference T3 MeSH:D001260
+T4	Modifier 261 264	A-T
+N4	Reference T4 MeSH:D001260
+T5	Modifier 476 479	A-T
+N5	Reference T5 MeSH:D001260
+T6	SpecificDisease 824 841	cerebellar ataxia
+N6	Reference T6 MeSH:D002524
+T7	Modifier 1004 1007	A-T
+N7	Reference T7 MeSH:D001260
+T8	SpecificDisease 1095 1098	A-T
+N8	Reference T8 MeSH:D001260

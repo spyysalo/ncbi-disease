@@ -1,0 +1,28 @@
+T1	SpecificDisease 0 15	Myotonia levior
+N1	Reference T1 MeSH:D009224
+T2	DiseaseClass 21 46	chloride channel disorder
+N2	Reference T2 OMIM:160800
+T3	DiseaseClass 61 94	dominant non-dystrophic myotonias
+N3	Reference T3 MeSH:C536245
+T4	SpecificDisease 219 246	Dominant myotonia congenita
+N4	Reference T4 MeSH:D009224
+T5	SpecificDisease 248 264	Thomsens disease
+N5	Reference T5 MeSH:D009224
+T6	DiseaseClass 382 400	dominant myotonias
+N6	Reference T6 MeSH:D009224
+T7	SpecificDisease 619 634	myotonia levior
+N7	Reference T7 MeSH:D009224
+T8	DiseaseClass 687 695	myotonia
+N8	Reference T8 MeSH:D009222
+T9	SpecificDisease 704 720	Thomsens disease
+N9	Reference T9 MeSH:D009224
+T10	SpecificDisease 737 755	muscle hypertrophy
+N10	Reference T10 MeSH:C536106
+T11	SpecificDisease 868 883	myotonia levior
+N11	Reference T11 MeSH:D009224
+T12	SpecificDisease 929 945	Thomsens disease
+N12	Reference T12 MeSH:D009224
+T13	SpecificDisease 1140 1156	Thomsens disease
+N13	Reference T13 MeSH:D009224
+T14	DiseaseClass 1218 1236	recessive myotonia
+N14	Reference T14 MeSH:D009224

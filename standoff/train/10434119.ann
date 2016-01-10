@@ -1,0 +1,26 @@
+T1	Modifier 28 50	van der Woude syndrome
+N1	Reference T1 MeSH:C536528
+T2	SpecificDisease 137 159	van der Woude syndrome
+N2	Reference T2 MeSH:C536528
+T3	SpecificDisease 161 164	vWS
+N3	Reference T3 MeSH:C536528
+T4	DiseaseClass 188 225	autosomal dominant clefting condition
+N4	Reference T4 MeSH:C536528
+T5	SpecificDisease 252 264	mucous cysts
+N5	Reference T5 MeSH:D009078
+T6	SpecificDisease 266 280	lower-lip pits
+N6	Reference T6 MeSH:C536528
+T7	CompositeMention 286 317	clefts to the lip and/or palate
+N7	Reference T7 MeSH:D002971
+N8	Reference T7 MeSH:D002972
+T8	Modifier 323 326	vWS
+N9	Reference T8 MeSH:C536528
+T9	Modifier 444 447	vWS
+N10	Reference T9 MeSH:C536528
+T10	Modifier 487 510	cleft lip and/or palate
+N11	Reference T10 MeSH:D002971
+N12	Reference T10 MeSH:D002972
+T11	Modifier 644 647	vWS
+N13	Reference T11 MeSH:C536528
+T12	SpecificDisease 1044 1047	vWS
+N14	Reference T12 MeSH:C536528

@@ -1,0 +1,12 @@
+T1	Modifier 35 50	McLeod syndrome
+N1	Reference T1 OMIM:300842
+T2	SpecificDisease 152 167	McLeod syndrome
+N2	Reference T2 OMIM:300842
+T3	DiseaseClass 206 222	muscular atrophy
+N3	Reference T3 MeSH:D009133
+T4	DiseaseClass 224 240	choreic movement
+N4	Reference T4 MeSH:D002819
+T5	SpecificDisease 289 303	acanthocytosis
+N5	Reference T5 MeSH:D000012
+T6	Modifier 690 696	McLeod
+N6	Reference T6 OMIM:300842

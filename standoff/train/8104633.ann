@@ -1,0 +1,14 @@
+T1	SpecificDisease 60 103	late-infantile metachromatic leukodystrophy
+N1	Reference T1 MeSH:D007966
+T2	SpecificDisease 105 133	Metachromatic leukodystrophy
+N2	Reference T2 MeSH:D007966
+T3	SpecificDisease 135 138	MLD
+N3	Reference T3 MeSH:D007966
+T4	DiseaseClass 146 192	autosomal recessive lysosomal storage disorder
+N4	Reference T4 MeSH:D016464
+T5	SpecificDisease 205 234	deficiency of arylsulfatase A
+N5	Reference T5 MeSH:D007966
+T6	SpecificDisease 326 369	late-infantile metachromatic leukodystrophy
+N6	Reference T6 MeSH:D007966
+T7	Modifier 840 843	MLD
+N7	Reference T7 MeSH:D007966

@@ -1,0 +1,14 @@
+T1	SpecificDisease 19 62	combined subtotal deficiencies of C6 and C7
+N1	Reference T1 OMIM:612446
+N2	Reference T1 OMIM:610102
+T2	CompositeMention 104 126	C6 and C7 deficiencies
+N3	Reference T2 OMIM:612446
+N4	Reference T2 OMIM:610102
+T3	SpecificDisease 128 169	Combined subtotal deficiency of C6 and C7
+N5	Reference T3 OMIM:612446
+N6	Reference T3 OMIM:610102
+T4	CompositeMention 965 984	C6 or C7 deficiency
+N7	Reference T4 OMIM:612446
+N8	Reference T4 OMIM:610102
+T5	Modifier 1047 1059	C6-deficient
+N9	Reference T5 OMIM:612446

@@ -1,0 +1,18 @@
+T1	SpecificDisease 69 108	adrenoleukodystrophy protein deficiency
+N1	Reference T1 MeSH:D000326
+T2	SpecificDisease 110 115	X-ALD
+N2	Reference T2 MeSH:D000326
+T3	DiseaseClass 144 161	Inherited defects
+N3	Reference T3 MeSH:D030342
+T4	Modifier 220 240	adrenoleukodystrophy
+N4	Reference T4 MeSH:D000326
+T5	DiseaseClass 275 295	peroxisomal disorder
+N5	Reference T5 MeSH:D018901
+T6	SpecificDisease 296 325	X-linked adrenoleukodystrophy
+N6	Reference T6 MeSH:D000326
+T7	SpecificDisease 327 332	X-ALD
+N7	Reference T7 MeSH:D000326
+T8	Modifier 758 763	X-ALD
+N8	Reference T8 MeSH:D000326
+T9	SpecificDisease 1364 1369	X-ALD
+N9	Reference T9 MeSH:D000326

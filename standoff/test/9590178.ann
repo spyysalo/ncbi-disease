@@ -1,0 +1,8 @@
+T1	Modifier 0 12	Wilms' tumor
+N1	Reference T1 MeSH:D009396
+T2	Modifier 146 157	Wilms tumor
+N2	Reference T2 MeSH:D009396
+T3	SpecificDisease 538 564	male pseudohermaphroditism
+N3	Reference T3 MeSH:D058490
+T4	SpecificDisease 568 588	Denys-Drash syndrome
+N4	Reference T4 MeSH:D030321

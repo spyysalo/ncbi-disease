@@ -1,0 +1,16 @@
+T1	SpecificDisease 27 53	impaired glucose tolerance
+N1	Reference T1 MeSH:D018149
+T2	SpecificDisease 224 250	Impaired glucose tolerance
+N2	Reference T2 MeSH:D018149
+T3	SpecificDisease 252 255	IGT
+N3	Reference T3 MeSH:D018149
+T4	SpecificDisease 261 281	hypertriglyceridemia
+N4	Reference T4 MeSH:D015228
+T5	SpecificDisease 323 340	diabetes mellitus
+N5	Reference T5 MeSH:D003920
+T6	SpecificDisease 345 367	cardiovascular disease
+N6	Reference T6 MeSH:D002318
+T7	SpecificDisease 419 422	IGT
+N7	Reference T7 MeSH:D018149
+T8	SpecificDisease 684 701	hyperglycerolemia
+N8	Reference T8 MeSH:C538138

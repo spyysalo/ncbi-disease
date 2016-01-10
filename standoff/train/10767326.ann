@@ -1,0 +1,25 @@
+T1	CompositeMention 0 63	Haploinsufficiency of the transcription factors FOXC1 and FOXC2
+N1	Reference T1 OMIM:602482
+N2	Reference T1 OMIM:153400
+T2	DiseaseClass 104 144	Anterior segment developmental disorders
+N3	Reference T2 MeSH:C537775
+T3	SpecificDisease 156 179	Axenfeld-Rieger anomaly
+N4	Reference T3 MeSH:C535679
+T4	SpecificDisease 181 184	ARA
+N5	Reference T4 MeSH:C535679
+T5	SpecificDisease 271 279	glaucoma
+N6	Reference T5 MeSH:D005901
+T6	Modifier 370 378	glaucoma
+N7	Reference T6 MeSH:D005901
+T7	DiseaseClass 642 666	anterior segment defects
+N8	Reference T7 MeSH:C537775
+T8	SpecificDisease 671 679	glaucoma
+N9	Reference T8 MeSH:D005901
+T9	DiseaseClass 736 766	anterior segment abnormalities
+N10	Reference T9 MeSH:C537775
+T10	SpecificDisease 914 929	iris hypoplasia
+N11	Reference T10 MeSH:D007499
+T11	Modifier 1617 1620	ARA
+N12	Reference T11 MeSH:C535679
+T12	SpecificDisease 1883 1891	glaucoma
+N13	Reference T12 MeSH:D005901
