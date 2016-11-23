@@ -3,8 +3,10 @@
 import sys
 
 from os import path
+from logging import warn
 
 from ncbidisease import load_ncbi_disease
+
 
 def main(argv):
     if len(argv) != 3:
@@ -18,11 +20,15 @@ def main(argv):
 
     documents = load_ncbi_disease(infn)
 
+    seen = set()
     for d in documents:
+        if d.PMID in seen:
+            warn('{} repeated in {}, overwriting earlier'.format(d.PMID, infn))
         with open(path.join(outdir, d.PMID+'.txt'), 'wt') as out:
             print >> out, d.tiab
         with open(path.join(outdir, d.PMID+'.ann'), 'wt') as out:
             print >> out, '\n'.join(d.to_standoff())
+        seen.add(d.PMID)
             
     return 0
         
