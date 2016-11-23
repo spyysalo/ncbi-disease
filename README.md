@@ -16,6 +16,7 @@ Original data available from
 Note: there is a duplicate document (PMID 8528200) in the original
 data, and the duplicate is recreated in the converted data by default.
 Run with `-dedup` to eliminate the duplicate.
+(See <https://github.com/spyysalo/ncbi-disease/issues/1>)
 
 ### Standoff to CoNLL
 
