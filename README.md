@@ -13,6 +13,10 @@ Original data available from
     python tools/ncbidisease2ann.py original-data/devel/NCBIdevelopset_corpus.txt standoff/devel
     python tools/ncbidisease2ann.py original-data/test/NCBItestset_corpus.txt standoff/test
 
+Note: there is a duplicate document (PMID 8528200) in the original
+data, and the duplicate is recreated in the converted data by default.
+Run with `-dedup` to eliminate the duplicate.
+
 ### Standoff to CoNLL
 
     git clone git@github.com:spyysalo/standoff2conll.git
