@@ -24,3 +24,9 @@ Run with `-dedup` to eliminate the duplicate.
     for i in train devel test; do
         python standoff2conll/standoff2conll.py -1 Disease standoff/$i > conll/$i.tsv
     done
+
+### CoNLL to CRFsuite
+
+    for i in train devel test; do
+        python tools/conll2crfsuite.py < conll/$i.tsv > crfsuite/$i.crfsuite
+    done
