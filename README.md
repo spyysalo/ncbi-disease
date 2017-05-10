@@ -1,6 +1,6 @@
 # NCBI disease
 
-NCBI disease corpus - related stuff
+NCBI disease corpus - related resources
 
 Original data available from
 <http://www.ncbi.nlm.nih.gov/CBBresearch/Dogan/DISEASE/>
